@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2024-10-28">October 28, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="1-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e58">
+        <head xml:id="cy8th8-d1e58-Hd1e97">Praeambulum</head>
+        <p xml:id="cy8th8-d1e58-d1e99">
+          <pb ed="#B" n="1-r"/>
+          <lb ed="#B" n="1"/><!-- erroneous line break -->
+          <lb ed="#B" n="2"/>Est libro conpuso el Reveren<lb ed="#B" n="3" break="no"/>dissimo 
+          Don frai bartholome 
+          <lb ed="#B" n="4"/>de las casa obispo de Chiapa
+          <lb ed="#B" n="5"/><unclear/> ano de 1563
+        </p>
+        <p xml:id="cy8th8-d1e58-d1e117">
+          <lb ed="#B" n="6"/>IN REGNIS QVE COMMVNI VOCA<lb ed="#B" n="7" break="no"/>bulo 
+          dicuntur del Peru in nuestro indiarum orbe reperti 
+          <lb ed="#B" n="8"/>fuerunt reperiunturque quotidie in sepulchris antiquissimis 
+          <lb ed="#B" n="9"/>mortuorum que Guatas illorum lingua nominantur magni 
+          <lb ed="#B" n="10"/>et mirabils thesauri diversarum rerum preciosarum: scilicet 
+          <lb ed="#B" n="11"/>vasa seu philae variarum figurarum ex auro purissimo et 
+          <lb ed="#B" n="12"/>argendo sapides preciosi emblamata sive suppellectilia ex preciosa
+          <lb ed="#B" n="13"/>materia miris modis fabricata: congeries quoque auri et argenti 
+          <lb ed="#B" n="14"/>et divitiarum tantae quantitatis et qualitatis: quod videntur non in 
+          <lb ed="#B" n="15"/>rerum natura existere: sed per somnium a dormientibus imagi<lb ed="#B" n="16" break="no"/>natione 
+          formata Nunc autem quaeritur an illa pertinebunt indiffe<lb ed="#B" n="17" break="no"/>renter 
+          ad quemlibet: qui vel propria autoritate vel delicentia regum 
+          <lb ed="#B" n="18"/>nostrorum hispaniarum sive gubernaturum nomine regio partes illas 
+          <lb ed="#B" n="19"/>gubernantium quaesierit foderit reperit et tulerit animo sibi 
+          <lb ed="#B" n="20"/>retinendi. Ita quod acquirat dominium earum rerum preciosarum 
+          <lb ed="#B" n="21"/>sive thesaurorum et possit salva conscientia retinere
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
