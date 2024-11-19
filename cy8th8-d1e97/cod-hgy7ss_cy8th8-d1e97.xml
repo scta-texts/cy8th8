@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 3</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#bartolomedelascasas">Victor Zorrilla</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 3</title>
+          <date when="2024-11-19">November 19, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="3-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e97">
+      <head>Sectio 3</head>
+      <p>
+      <lb ed="#B"/> S. 3o.
+      </p>
+      <p>
+      <lb ed="#B"/>Propositio 2a. non solum mortuis prouenit hoc bonum
+      <lb ed="#B"/>honoris et bone opinionis apud posteros quod est quodam<lb ed="#B"/>modo
+      perpetuo et semper uiuere prout dictum est: uerum
+      <lb ed="#B"/>etiam multum interest uiuentium qui defunctis uel san<lb ed="#B"/>guine 
+      uel affinitate aut etiam amicitia coniuncti fue<lb ed="#B"/>runt /
+</p>
+<p>
+<lb ed="#B"/>Probatur propositio:
+Quoniam sicut nobilitas parentum, quam uirtutibus, diuitiis,
+scientia, industria, eloquentia, re militari, reipublice administratione,
+sua uel maiorum dignitate aut alia quauis exellentia non uulgari acquisierunt,
+descendit ueluti ex traduce ad posteros ut qui maiorum
+suorum conditionem sequuntur; ut optime probatur in L. 1. ubi Bartholus
+et Ioannes de Platea, et in L. sí senator, et in L. mulieres,
+Codex, De dignitatibus, Lib. 121, et in L. senatoris filium, Digest., De
+senatoribus. Et de illa nobilitate et uirtutibus quibus ad illam predecessores
+pervenerunt, posteri et descendentes gloriantur et se impigriter
+sepe iactitant. Ita, si maiores sui, aliquo dedecore aut infamia,
+morum presertim, sunt notati, uel eis aliqua iniuria irrogatur, procul
+dubio descendentes omnes eiusdem opprobrii confusione percelluntur
+et eorum omnium honori detrahitur. Nam si parentibus || iam
+mortuis aliquis honor exhibeatur, ueluti cum laudantur et celebratur
+eorum memoria, manifestum est in filios et nepotes et pronepotes
+atque in omnes descendentes honorem eiusmodi redundare. E contrario
+autem, si fierent eis alique inhonorationes, puta, si extumularentur
+aut ossa eorum cremarentur, magna iniuria uiuis et filiis et aliis des-
+</p>
+      </div>
+    </body>
+  </text>
+</TEI
