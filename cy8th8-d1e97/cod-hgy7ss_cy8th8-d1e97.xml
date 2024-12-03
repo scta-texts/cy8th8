@@ -56,41 +56,43 @@
     </front>
     <body>
       <div xml:id="cy8th8-d1e97">
-      <head>Sectio 3</head>
-      <p>
-      <lb ed="#B"/> S. 3o.
-      </p>
-      <p>
-      <lb ed="#B"/>Propositio 2a. non solum mortuis prouenit hoc bonum
-      <lb ed="#B"/>honoris et bone opinionis apud posteros quod est quodam<lb ed="#B"/>modo
-      perpetuo et semper uiuere prout dictum est: uerum
-      <lb ed="#B"/>etiam multum interest uiuentium qui defunctis uel san<lb ed="#B"/>guine 
-      uel affinitate aut etiam amicitia coniuncti fue<lb ed="#B"/>runt /
-</p>
-<p>
-<lb ed="#B"/>Probatur propositio:
-Qm sicut nobilitas parentum quam<lb ed="#B"/>uirtutibus diuitiis
-scientia industria eloquentia rei militari<lb ed="#B"/>rei pu ce ad ministratione
-sua uel majorem dignitate aut<lb ed="#B"/>alia quauis excelentia non uulgari acquisierunt
-descendit<lb ed="#B"/>ueluti ex traduce ad posteros ut qui maiorum
-suorum condi<lb ed="#B"/>tionem sequuntur. Ut optime probatur in l. 1. ubi Bartho.<lb ed="#B"/>
-et Joa. de plate. et in. L. si senator. et in L. mulieres.
-C. de<lb ed="#B"/>digni. lib. 12. et in L. senatoris filium. ff. de senato et de<lb ed="#B"/>
-illa nobilitate et uirtutibus quibus ad illam predecesso<lb ed="#B"/>res
-peruenerunt posteri et descendentes gloriantur et<lb ed="#B"/>se impigriter
-sepe jactitant: ita si maiores sui aliquo<lb ed="#B"/>dedecore aut infamia
-morum presertim sunt notati:<lb ed="#B"/>uel eis aliqua injuria irrogatur: proculdubio
-descenden<lb ed="#B"/>tes omnes eiusdem opprobrii confusione percelluntur:<lb ed="#B"/>
-et eorum omnium honori detrahitur. Nam si parentibus jam</p>
-
-<p>jam mortuis aliquis honor exhibeatur ueluti cum laudat.<lb ed="#B"/>et celebratur
-eorum memoria manifestum est in filios et ne<lb ed="#B"/>potes et pronepotes
-atque in omnes descendentes honorem<lb ed="#B"/>eiusmodi redundare. E contrario
-aut si fierent eis aliq<lb ed="#B"/>inhonorationes puta si extumularentur
-aut ossa eorum cre<lb ed="#B"/>marentur magna injuria uiuis et filiis et aliis
-descendentib.<lb ed="#B"/>et attinentibus irrogaretur.
-</p>
+        <head>Sectio 3</head>
+        <p>
+          <lb ed="#B"/> S. 3o.
+        </p>
+        <p>
+          <lb ed="#B"/>Propositio 2a. non solum mortuis prouenit hoc bonum
+          <lb ed="#B"/>honoris et bone opinionis apud posteros quod est quodam<lb ed="#B"/>modo
+          perpetuo et semper uiuere prout dictum est: uerum
+          <lb ed="#B"/>etiam multum interest uiuentium qui defunctis uel san<lb ed="#B"/>guine 
+          uel affinitate aut etiam amicitia coniuncti fue<lb ed="#B"/>runt /
+        </p>
+        <p>
+          <lb ed="#B"/>Probatur propositio: Quoniam sicut nobilitas parentum quam 
+          <lb ed="#B"/>uirtutibus diuitiis scientia industria eloquentia rei militari 
+          <lb ed="#B"/>rei publice ad ministratione sua uel majorem dignitate aut
+          <lb ed="#B"/>alia quauis <sic>excelentia</sic> non uulgari acquisierunt descendit 
+          <lb ed="#B"/>ueluti ex traduce ad posteros ut qui maiorum suorum condi<lb ed="#B"/>tionem 
+          sequuntur. Ut optime probatur in <ref>l. 1. ubi <name>Bartho.</name></ref> 
+          <lb ed="#B"/>et <ref><name>Joa. de plate.</name></ref> et in. <ref>L. si senator.</ref> et in <ref>L. mulieres. C. de 
+          <lb ed="#B"/>dignitatibus lib. 12.</ref> et in <ref>L. senatoris filium. ff. de senato</ref> et de 
+          <lb ed="#B"/>illa nobilitate et uirtutibus quibus ad illam predecesso<lb ed="#B"/>res
+          peruenerunt posteri et descendentes gloriantur et 
+          <lb ed="#B"/>se impigriter sepe jactitant: ita si maiores sui aliquo 
+          <lb ed="#B"/>dedecore aut infamia morum presertim sunt notati: 
+          <lb ed="#B"/>uel eis aliqua injuria irrogatur: proculdubio descenden<lb ed="#B"/>tes 
+          omnes eiusdem opprobrii confusione percelluntur: 
+          <lb ed="#B"/>et eorum omnium honori detrahitur. Nam si parentibus 
+          <pb ed="#B" n="6-r"/>
+          <lb ed="#B"/>jam mortuis aliquis honor exhibeatur ueluti cum laudat. 
+          <lb ed="#B"/>et celebratur eorum memoria manifestum est in filios et ne<lb ed="#B"/>potes 
+          et pronepotes atque in omnes descendentes honorem 
+          <lb ed="#B"/>eiusmodi redundare. E contrario aut si fierent eis alique 
+          <lb ed="#B"/>inhonorationes puta si extumularentur aut ossa eorum cre<lb ed="#B"/>marentur
+          magna injuria uiuis et filiis et aliis descendentib. 
+          <lb ed="#B"/>et attinentibus irrogaretur.
+        </p>
       </div>
     </body>
   </text>
-</TEI
+</TEI>
