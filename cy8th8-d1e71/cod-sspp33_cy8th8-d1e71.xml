@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2025-04-21">April 21, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-sspp33">National Library of Spain, Spain, Res/37</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="1-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e71">
+        <head xml:id="cy8th8-d1e71-Hd1e97">Sectio 1</head>
+        <p xml:id="cy8th8-d1e71-d1e99">
+          <lb ed="#S" n="18"/>S. 1
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e106">
+          <lb ed="#S" n="19"/><pc type="pilcrow"/> Ad huius quaestionis responsionem in primis 
+          <lb ed="#S" n="20"/>est supponendum: quod mos fuit antiquis non so<lb ed="#S" break="no" n="21"/>lum 
+          apud gentes quae veri Dei cognitionis ex partes 
+          <lb ed="#S" n="22"/>erant: verum etiam apud fideles ipsius veri dei 
+          <lb ed="#S" n="23"/>cultores: reges atque optimates quaeque preciosa in 
+          <lb ed="#S" n="24"/>vita habebant, secum post mortem in sepulchris 
+          <lb ed="#S" n="25"/>reponere. Et tanto maiora et ditiora in sepulchris 
+          <lb ed="#S" n="26"/>eorum ponebantur: quo potentia caeteros excellebant 
+          <lb ed="#S" n="27"/>et diuitiis erant locupletiores. Ex hoc enim gloria, 
+          <lb ed="#S" n="28"/>et magnificentia eorum seculis futuris in homi<lb ed="#S" break="no" n="29"/>num 
+          memoria illustiora reddebantur.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e130">
+          Hoc pa<lb ed="#S" break="no" n="30"/>tet 
+          per illud Iob 3 Quasi effodientes thesau<lb ed="#S" break="no" n="31"/>rum 
+          gaudentque vehementer cum invenerint 
+          <lb ed="#S" n="32"/>sepulchrum. Et Baruch 6 capite. <quote xml:id="cy8th8-d1e71-Qd1e138" source="http://scta.info/resource/bar6_17@10-26">Aut sicut 
+          <pb ed="#S" n="1-v"/>
+          <lb ed="#S" n="1"/>ad sepulchrum ad ductum mortuum: ita tutant 
+          <lb ed="#S" n="2"/>sacerdotes ostia clausuris et seris: ne a latronibus 
+          <lb ed="#S" n="3"/>spolientur</quote> (scilicet thesauris) ibi cum mortuis re<lb ed="#S" break="no" n="4"/>conditis 
+          Ita inquit glosa <quote xml:id="cy8th8-d1e71-Qd1e149">antiquitus (ait) in se<lb ed="#S" break="no" n="5"/>pulchris 
+          potentium ponebantur preciosa propter quod 
+          <lb ed="#S" n="6"/>claudebantur fortiter et cum diligentia ne a latro<lb ed="#S" break="no" n="7"/>nibus 
+          ex traherentur</quote> haec illa. <pc type="pilcrow"/> Eadem dicit Sanctus 
+          <lb ed="#S" n="8"/>Thomas super iob loco citato.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e161">
+          <lb ed="#S" n="9"/> <pc type="pilcrow"/>Idem apparet 
+          <lb ed="#S" n="10"/>exemplo regis magifici salamonis, qui sepeli<lb ed="#S" break="no" n="11"/>vit 
+          Dauid patrem in hierosolimis decenter nimis 
+          <lb ed="#S" n="12"/>cum aliis rebus et ceremoniis quae solent circa 
+          <lb ed="#S" n="13"/>exequias ministrari. Et multas diuitias cum eo 
+          <lb ed="#S" n="14"/>recondidit. Nam fecerat ei sepulchrum hono<lb ed="#S" break="no" n="15"/>rabile 
+          circa quod constituit septem loculos the<lb ed="#S" break="no" n="16"/>sarorum, 
+          quos auro et lapidibus preciosis re<lb ed="#S" break="no" n="17"/>plevit. 
+          Quarum diuitiarum magnitudo per 
+          <lb ed="#S" n="18"/>ea quae post modum ex seplchro Dauid extracta 
+          <lb ed="#S" n="19"/>sunt manifeste ostenditur. Nam post tempus 
+          <lb ed="#S" n="20"/>annorum mille et trecentorum: Hyrcanus pon<lb ed="#S" break="no" n="21"/>tifex 
+          dum ciuitas Hierusalem obsideretur ab 
+          <lb ed="#S" n="22"/>Anthiocho rege: volens ei dare pecunias, vt ab obsessione 
+          <lb ed="#S" n="23"/>recederet: et exercitum suum auferret non 
+          <lb ed="#S" n="24"/>habens unde hoc adimpleret: aperuit unum lo<lb ed="#S" break="no" n="25"/>culum 
+          sepulchri Dauid, et sublatis exinde tri<lb ed="#S" break="no" n="26"/>bus 
+          millibus talentorum partem dedit Antiocho, 
+          et ita anxietatem obsessionis ammouit.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e199">
+          <pc type="pilcrow"/> Ta<lb ed="#S" break="no" n="27"/>lentorum autem, vt dicit magister in hystoriis, erant 
+          <lb ed="#S" n="28"/>species minimum (scilicet) maius et maximum. 
+          Minimum enim erat pondo quinquaginta: maius 
+          <lb ed="#S" n="29"/>pondo septuaginta: maximum vero centum 
+          <lb ed="#S" n="30"/>viginti librarum. Valebat autem librarum quae<lb ed="#S" break="no" n="31"/>libet 
+          quinquaginta aureos. Unde patet quod etiam 
+          <lb ed="#S" n="32"/>si quodlibet talentorum esset de minimis: adhuc 
+          <pb ed="#S" n="2-r"/>
+          <lb ed="#S" n="1"/>ascendebat in magnum aureorum tria 
+          <lb ed="#S" n="2"/>millia talentorum. Quin potius si erat de maximis 
+          <lb ed="#S" n="3"/>vt videtur rationabile. 
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e219">
+          <pc type="pilcrow"/> Post haec autem multo an<lb ed="#S" break="no" n="4"/>norum 
+          tempore iam transacto Rursus Herodes Rex: 
+          <lb ed="#S" n="5"/>audiens Hyrcanum ante se regem aperuisse tu<lb ed="#S" break="no" n="6"/>mulum 
+          Dauid et tria millia talentorum inue<lb ed="#S" break="no" n="7"/>nisse. 
+          multo plura credens deposita, <sic>quae</sic> ad om<lb ed="#S" break="no" n="8"/>nes 
+          sumptus suos sufficerent: tumulum ape<lb ed="#S" break="no" n="9"/>riens 
+          ingreditur noctu dum nequaquam vellet hoc 
+          <lb ed="#S" n="10"/>ciuitatem sentire. Unde fidelissimos amicos 
+          <lb ed="#S" n="11"/>tantum ducens: pecunias depositas sicut Hyrca<lb ed="#S" break="no" n="12"/>nus 
+          non inuenit ornatum vero et vasa aurea plura 
+          <lb ed="#S" n="13"/>tulit. Dum vero omne studium poneret 
+          <lb ed="#S" n="14"/>et diligentiorem inquisitionem faceret, ac vellet 
+          <lb ed="#S" n="15"/>interius ingredi ad <sic>vinas</sic> in quibus Dauid et 
+          <lb ed="#S" n="16"/>Salomonis corpora posita erant: duo eius satel<lb ed="#S" break="no" n="17"/>ites 
+          flamis exusti sunt ab interiori parte occur<lb ed="#S" break="no" n="18"/>rentibus. 
+          Tunc ille timore perterritus egredi<lb ed="#S" break="no" n="19"/>tur. 
+          Nullus unquam deinceps fuit qui ceteros 
+          <lb ed="#S" n="20"/>loculos inuenire posset: quamuis magni thesauri 
+          <lb ed="#S" n="21"/>in sepulchro Dauid et Salomonis usque hodie 
+          <lb ed="#S" n="22"/>esse credantur. Magice enim actum est: ita ut 
+          <lb ed="#S" n="23"/>non liceret cuiquam vel inuenire vel si inuenisset, pos<lb ed="#S" break="no" n="24"/>se 
+          inde quinque eripere. Haec omnia refert Iose<lb ed="#S" break="no" n="25"/>phus 
+          libro 7 capitulo 16 et libro 13 capitulo 18 et libro 
+          <lb ed="#S" n="26"/>16 capitulo 7 antiquitatum Iudaicarum
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e269">
+          <pc type="pilcrow"/> Fa<lb ed="#S" break="no" n="27"/>ma 
+          vero horum motus Turchra solimanus 
+          <lb ed="#S" n="28"/>nomine nostris temporibus circa annum videlicet 
+          <lb ed="#S" n="29"/>domini M. D. X. cum cepit Hieroslimam: mi<lb ed="#S" break="no" n="30"/>ra 
+          diligentia quaesivit thesauros in sepulchro 
+          <lb ed="#S" n="31"/>Dauid: nunquam <seg type="correction">ta<del rend="strikethrough">mquam</del>men</seg> inuenire potui. Ut 
+          <lb ed="#S" n="32"/>legitur in hystoria Turcharum. Causa autem
+          <pb ed="#S" n="2-v"/>
+          <lb ed="#S" n="1"/>huius frustrationis est: quia eiusmodi loculi erant 
+          <lb ed="#S" n="2"/>sub terra mechanico modo id est magico recondi<lb ed="#S" break="no" n="3"/>ti, 
+          ut ingredientibus in monumentum nullatenus 
+          <lb ed="#S" n="4"/>possent esse manifesti ut inquit Iosephus.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e291">
+          <pc type="pilcrow"/>
+          <lb ed="#S" n="5"/>Patet igitur quod recondere thesauros et alias res 
+          <lb ed="#S" n="6"/>preciosas Reges et potentes viros secum <del rend="strikethrough">secum</del> in 
+          <lb ed="#S" n="7"/>sepulchris suis res fuit licita et solita apud 
+          <lb ed="#S" n="8"/>antiquos fideles vel infideles communis et genera<lb ed="#S" break="no" n="9"/>lis.
+          Et huius ratio potest talis assignari: Incli<lb ed="#S" break="no" n="10"/>natio 
+          videlicet naturalis <sic>quae</sic> inest omnibus 
+          <lb ed="#S" n="11"/>hominibus inquantum sunt rationales ut honor de<lb ed="#S" break="no" n="12"/>bitus 
+          servetur naturae humanae prae ceteris ani<lb ed="#S" break="no" n="13"/>malibus 
+          (scilicet) quod corpus humanum sepeliatur 
+          <lb ed="#S" n="14"/>idest quod hunc honorem habeat homo: quoniam sicut in<lb ed="#S" break="no" n="15"/>ter 
+          omnia animalia solus homo est animal sacrum 
+          <lb ed="#S" n="16"/>atque diuinum: ita soli deferatur hic honor quod eius 
+          <lb ed="#S" n="17"/>cadauer sepeliatur, ne laceretur ab auibus et aliis 
+          <lb ed="#S" n="18"/>animalibus: ceterorum autem cadavera in sepulta ma<lb ed="#S" break="no" n="19"/>neant 
+          Unde philosophus in 1o rhetori Inter alias 
+          <lb ed="#S" n="20"/>partes honoris sepulchrum ponit 
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e322">
+          <pc type="pilcrow"/> Est in<lb ed="#S" break="no" n="21"/>super 
+          quoddam bonum honorificum mortuis in<lb ed="#S" break="no" n="22"/>quantum 
+          vivunt in memoriis hominum, quod sepelian<lb ed="#S" break="no" n="23"/>tur 
+          corpora eorum. Omnes enim putant nihil esse 
+          <lb ed="#S" n="24"/>in quo maiorem iniuriam mortuo faciamus: quam 
+          <lb ed="#S" n="25"/>si corpus eius per terram trahamus, et demus 
+          <lb ed="#S" n="26"/>canibus et bestiis deuorandum. Sic colligitur 
+          <lb ed="#S" n="27"/>ex <name xml:id="cy8th8-d1e71-Nd1e338">Aristotele</name> 5 Ethico cum loquitur de illo 
+          <lb ed="#S" n="28"/>qui seipsum occidit: an sibi iniustum faciat? 
+          <lb ed="#S" n="29"/>Et respondet quod non sed ciuitati. Et ideo ciuitas 
+          <lb ed="#S" n="30"/>vel <sic>comunitas</sic> infert ei poenam scilicet in honora<lb ed="#S" break="no" n="31"/>tionem 
+          circa corpus scilicet quod faciat cadauer 
+          <lb ed="#S" n="32"/>trahi per terram vel quod maneat in sepultum. Est 
+          <pb ed="#S" n="3-r"/>
+          <lb ed="#S" n="1"/>ergo dicendum quod malum quoddam prouenit de fun<lb ed="#S" break="no" n="2"/>ctis 
+          ex hoc quod non sepeliuntur. Reputantur enim 
+          <lb ed="#S" n="3"/>infelices qui carent sepultura. Econtrario autem 
+          <lb ed="#S" n="4"/>prouenit bonum defunctis ex eo quod honorabiliter 
+          <lb ed="#S" n="5"/>sepeliuntur. Ita patet Isaye 11o vbi de mosia 
+          <lb ed="#S" n="6"/>ponuntur multa honorifica et postea additur de 
+          <lb ed="#S" n="7"/>honore sepulchri eius ibi: erit sepulchrum eius 
+          <lb ed="#S" n="8"/>gloriosum. Et tamen si ad christum non pertine<lb ed="#S" break="no" n="9"/>ret 
+          gloria et honor sepulchri: nihil de hoc <unclear>prophe<lb ed="#S" break="no" n="10"/>tice</unclear> 
+          diceretur. Ergo gloria sepulchri ad Christum 
+          <lb ed="#S" n="11"/>attinebat. Ergo bonum aliquod accidit mortuis si 
+          <lb ed="#S" n="12"/>corpora eorum sepultore mandentur. Inquantum 
+          <lb ed="#S" n="13"/>scilicet habent esse et modum viuendi in opinioni<lb ed="#S" break="no" n="14"/>bus 
+          hominum. Exinde autem fuit apud omnes 
+          <lb ed="#S" n="15"/>nationes naturalis ista conceptio: quod corpora defun<lb ed="#S" break="no" n="16"/>ctorum 
+          sepelienda vel cremanda essent. Qui autem 
+          <lb ed="#S" n="17"/>cremanda decernebant: cineres seruabant ethos 
+          <lb ed="#S" n="18"/>in sepulchris, vel in aliquo insigni et honorobili 
+          <lb ed="#S" n="19"/>eminentique loco recondebant. Sicut cineres Iu<lb ed="#S" break="no" n="20"/>lii 
+          Caesaris usque hodie Romae super quoddam in gen<lb ed="#S" break="no" n="21"/>ti 
+          lapide pyramidalis figurae qui Acu nominatur 
+          <lb ed="#S" n="22"/>post ecclesiam sancti petri dicuntur permanere 
+          <lb ed="#S" n="23"/>Iudicabunt enim antiqui et etiam moderni turpe 
+          <lb ed="#S" n="24"/>ac iniuriosum esse quod in sepulta humana corpora 
+          <lb ed="#S" n="25"/>remanerent. Et propter hoc videmus homines sollicitos 
+          <lb ed="#S" n="26"/>in vita esse de sepulchris construendis et obsequiis 
+          <lb ed="#S" n="27"/>et aliis ad ea pertinentibus. Et quanto potentiores 
+          <lb ed="#S" n="28"/>et diuitiis magis sunt opulenti <pc type="virgula">/</pc> honorabiliora <pc type="virgula">/</pc> pul<lb ed="#S" break="no" n="29"/>chriora, 
+          et sumptusiora preparant sepulchra sibi. 
+          <lb ed="#S" n="30"/>Unde unum idemque praecipuum quod magis cedit 
+          <lb ed="#S" n="31"/>defunctis ad honorem, et ut nomina eorum immor<pb ed="#S" n="3-v"/><lb ed="#S" n="1"/>talitate 
+          possibili apud posteros potiantur: eo vi<lb ed="#S" break="no" n="2"/>delicet 
+          modo quo esse habent et viuunt in memoriis 
+          <lb ed="#S" n="3"/>hominum: sepulchrum esse videtur: presertim si ex 
+          <lb ed="#S" n="4"/>preciosa materia et multum sumptuose ac subtili 
+          <lb ed="#S" n="5"/>optimoque artificio aedificatum fuerit: ornatum in su<lb ed="#S" break="no" n="6"/>per 
+          pulcherrimis ac preciosis aliis coherentibus: et lon<lb ed="#S" break="no" n="7"/>ge 
+          potius, si cum cadaueribus humanis magnae opes 
+          <lb ed="#S" n="8"/>atque thesauri preciosi reponantur in sepulchris. 
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e426">
+          <pc type="pilcrow"/> 
+          <lb ed="#S" n="9"/>Verum quia apud reges et potentes in seculo facile 
+          <lb ed="#S" n="10"/>inuenitur eiusmodi magnitudo et opulentia diui<lb ed="#S" break="no" n="11"/>tiarum: 
+          eo magis orescebat et augebatur nec non 
+          <lb ed="#S" n="12"/>diffundebatur eorum gloria <pc type="virgula">/</pc> potentia et excellentia 
+          <lb ed="#S" n="13"/>regia futuris seculis innotescebat: quo in sepulchris 
+          <lb ed="#S" n="14"/>suis maiores thesauros et diuitias ex auro et argen<lb ed="#S" break="no" n="15"/>to 
+          et lapidibus preciosis: ceterisque diuersis magni 
+          <lb ed="#S" n="16"/>precii suppellectilibus <del rend="strikethrough">secum</del> mandabant recon<lb ed="#S" break="no" n="17"/>dere 
+          aut sepelire secum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
