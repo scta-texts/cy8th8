@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2024-10-28">October 28, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-sspp33">National Library of Spain, Spain, Res/37</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="1-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e58">
+        <head xml:id="cy8th8-d1e58-Hd1e97">Praeambulum</head>
+        <p xml:id="cy8th8-d1e58-d1e99">
+          <pb ed="#S" n="1-r"/>
+          <lb ed="#S" n="1"/>Argumentum huius tractatus quod est de Thesauris
+          <lb ed="#S" n="2"/>qui reperiuntur in sepulchris 
+          <lb ed="#S" n="3"/>Indorum
+        </p>
+        <p xml:id="cy8th8-d1e58-d1e117">
+          <lb ed="#S" n="4"/>IN REGNIS QVAE COMMVni 
+          <lb ed="#S" n="5"/>vocabulo dicuntur del Peru in nostro indiarum orbe reperti fuerunt reperiun<lb ed="#S" n="6"/>turque 
+          quotidie in sepulchris antiquissimis mortuorum que Guacas illorum 
+          <lb ed="#S" n="7"/>lingua nominantur: magni, et mirabiles thesauri diversarum rerum 
+          <lb ed="#S" n="8"/>preciosarum: scilicet, vasa, seu phialae variarum figurarum, ex auro pu<lb ed="#S" n="9"/>rissimo, 
+          et argento: lapides preciosi: emblemata, sive suppellectilia, ex 
+          <lb ed="#S" n="10"/>preciosa: materia miris modis fabricata: congeries quoque auri, et argenti 
+          et divitiarum tantae quantitatis et qualitatis, quod videntur non in rerum 
+          natura existere: sed per somnium a dormientibus imaginatione formata. 
+          <lb ed="#S" n="11"/>Nunc autem quaeritur an illa pertinebunt indifferenter: qui ad quemlibet: qui 
+          <lb ed="#S" n="12"/>vel propria autoritate vel delicentia regum nostrorum hyspaniarum <pc type="virgula">/</pc> sive guberna<lb ed="#S" n="13"/>turum 
+          nomine regio partes illas gubernantium quaesierit <pc type="virgula">/</pc> foderit <pc type="virgula">/</pc> reperit 
+          <lb ed="#S" n="14"/>et tulerit animo sibi retinendi. ita quod acquirat dominium earum rerum 
+          <lb ed="#S" n="15"/>preciosarum sive thesaurorum et possit salva conscientia retinere
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
