@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2025-05-20">May 20, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Sa" n="cod-sstt88">National Library of Spain, Spain, ms 3226</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Sa" n="96-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e58">
+        <head xml:id="cy8th8-d1e58-Hd1e97">Praeambulum</head>
+        <p xml:id="cy8th8-d1e58-d1e99">
+          <pb ed="#Sa" n="96-r"/>
+          <lb ed="#Sa" n="1"/>Singularis tractatulus Reue<lb ed="#Sa"/>rendissimi 
+          domini D. F. Bartolomei a Casaus
+          <lb ed="#Sa"/>Episcopi quondam Chipem super quodam quae<lb ed="#Sa"/>sito 
+          ad nouum Indiarum orbem attinenti
+        </p>
+        <p xml:id="cy8th8-d1e58-d1e117">
+          <lb ed="#Sa"/>In regnis quae communi vocabulo dicun<lb ed="#Sa"/>tur 
+          del Peru in nostro indiarum orbe reperti  fuerunt re<lb ed="#Sa"/>periunturque 
+          quotidie in antiquissimis defunctorum sepul<lb ed="#Sa"/>chris 
+          quae illorum idiomatae Guacas nominantur: ingentes,
+          <lb ed="#Sa"/>et mirabiles diuersarum rerum pretiosarum thesauri: vi<lb ed="#Sa"/>delicet 
+          vasa, seu Phiale variarum ex auro purissimo, et 
+          <lb ed="#Sa"/>agento figurarum, lapides pretiosi, emblemata sive supel<lb ed="#Sa"/>lectilia 
+          ex pretiosa materia miris modis fabricata: con<lb ed="#Sa"/>genes 
+          quoque auri et agenti et diuitiarum tantae quanti<lb ed="#Sa"/>tatis 
+          et qualitatis quod videtur videntur in rerum natura non 
+          <lb ed="#Sa"/>existere, sed per somnium a dormientibus imaginatione 
+          formata. In presentiarum autem quaeritur an illa indiffe<lb ed="#Sa"/>renter 
+          ad quenlibet pertinebunt, qui vel propria authori<lb ed="#Sa"/>tate, 
+          vel de regum nostrarum Hispaniarum licentia sive 
+          <lb ed="#Sa"/>gubernatorum partes illas reegio nomine Gubernantium quae<lb ed="#Sa"/>sierit, 
+          foderit repererit et tulerit animo sibi retinendi 
+          <lb ed="#Sa"/>ita quod acquirat dominium earum rerum pretiosarum sive 
+          <lb ed="#Sa"/>Thesaurorum et salua conscientia retinere possit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
