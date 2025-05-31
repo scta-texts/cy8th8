@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 3</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 3</title>
+          <date when="2025-05-30">May 30, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-sspp33">National Library of Spain, Spain, Res/37</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="7-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e97">
+        <head xml:id="cy8th8-d1e97-Hd1e107">Sectio 3</head>
+        <p xml:id="cy8th8-d1e97-d1e109">
+           <lb ed="#S" n="18"/>§. 3o.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e116">
+          <lb ed="#S" n="19"/><pc type="pilcrow">¶</pc> Propositio 2a. non solum mortuis prouenit 
+          <lb ed="#S" n="20"/>hoc bonum honoris et bone opinionis apud poste<lb ed="#S" break="no" n="21"/>ras 
+          quod est quodammodo perpetuo et semper uiuere 
+          <lb ed="#S" n="22"/>prout dictum est: uerum etiam multum interest 
+          <pb ed="#S" n="7-v"/>
+          <lb ed="#S" n="1"/>viuentium qui defunctis uel sanguine uel affi<lb ed="#S" break="no" n="2"/>nitate 
+          aut etiam amicitia coniuncti fuerunt / .
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e132">
+          <lb ed="#S" n="3"/><pc type="pilcrow">¶</pc> Probatur propositio, quoniam sicut nobilitas paren<lb ed="#S" break="no" n="4"/>tum 
+          quam uirtutibus diuitiis / scientia / indus<lb ed="#S" break="no" n="5"/>tria 
+          / eloquentia re militari rei publice ad ministra<lb ed="#S" break="no" n="6"/>tione 
+          sua vel maiorem dignitate aut alia qua<lb ed="#S" break="no" n="7"/>uis 
+          <sic>excelentia</sic> non uulgari acquisierunt: descendit 
+          <lb ed="#S" n="8"/>veluti ex traduce ad posteros, ut qui maiorum suorum 
+          <lb ed="#S" n="9"/>conditionem  sequuntur, ut optime probatur in 
+          <lb ed="#S" n="10"/><ref xml:id="cy8th8-d1e97-Rd1e149">l. 1. vbi <name xml:id="cy8th8-d1e97-Nd1e151">Bartho.</name></ref> et <ref xml:id="cy8th8-d1e97-Rd1e155"><name xml:id="cy8th8-d1e97-Nd1e156">Ioa. de plate.</name></ref> et in <ref xml:id="cy8th8-d1e97-Rd1e158">l. si 
+          <lb ed="#S" n="11"/>senator.</ref> et in <ref xml:id="cy8th8-d1e97-Rd1e161">l. mulieres. c. de dignitatibus lib. 12.</ref> 
+          <lb ed="#S" n="12"/>et in <ref xml:id="cy8th8-d1e97-Rd1e166">l. senatoris filium. ff. de senato</ref> et de 
+          <lb ed="#S" n="13"/>illa nobilitate et uirtutibus quibus ad illam prede<lb ed="#S" break="no" n="14"/>cessores 
+          peruenerunt posteri et descendentes glorian<lb ed="#S" break="no" n="15"/>tur, 
+          et se <sic>inpigriter</sic> sepe iactitant: ita si maiores 
+          <lb ed="#S" n="16"/>sui aliquo dedecore aut infamia morum presertim 
+          <lb ed="#S" n="17"/>sunt notati: uel eis aliqua iniuria irrogatur: pro<lb ed="#S" break="no" n="18"/>culdubio 
+          descendentes omnes eiusdem opprobrii 
+          <lb ed="#S" n="19"/>confusione percelluntur: et eorum omnium honori 
+          <lb ed="#S" n="20"/>detrahitur. Nam si parentibus iam mortuis a<lb ed="#S" break="no" n="21"/>liquis 
+          honor exhibeatur veluti cum laudat et 
+          <lb ed="#S" n="22"/>celebratur eorum memoria: manifestum est in 
+          <lb ed="#S" n="23"/>filios et nepotes et pronepotes atque in omnes descen<lb ed="#S" break="no" n="24"/>dentes 
+          honorem eiusmodi redundare. Econtrario autem 
+          <lb ed="#S" n="25"/>si fuerent eis aliquae inhonorationes puta si extu<lb ed="#S" break="no" n="26"/>mularentur 
+          aut ossa eorum cremarentur magna 
+          <lb ed="#S" n="27"/>iniuria viuis et filiis et aliis descendentibus et 
+          <lb ed="#S" n="28"/>attinentibus irrogaretur similiter vero redun<lb ed="#S" break="no" n="29"/>dant 
+          in parentes defunctos bonum vel malum 
+          <lb ed="#S" n="30"/>quae proveniunt filiis / nepotibus / pronepotibus 
+          <lb ed="#S" n="31"/>atque aliis posteris eorum scilicet et prosperita<lb ed="#S" break="no" n="32"/>tes 
+          et inhonorationes / infamiae vel <sic>infortunia</sic>:
+          <pb ed="#S" n="8-r"/>
+          <lb ed="#S" n="1"/>id est bone et male operationes: ex quibus proce<lb ed="#S" break="no" n="2"/>dunt 
+          honores vel inhonorationes. Clarior enim est 
+          <lb ed="#S" n="3"/>qui optimos reliquit successores: quam qui nullos vel 
+          <lb ed="#S" n="4"/>malos. Ita disputat <ref xml:id="cy8th8-d1e97-Rd1e216"><name xml:id="cy8th8-d1e97-Nd1e217">Philosophus</name></ref> et concludit <ref xml:id="cy8th8-d1e97-Rd1e221">1o Ethicorum</ref>
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e224">
+          <lb ed="#S" n="5"/>Patent haec omnia per illud <ref xml:id="cy8th8-d1e97-Rd1e226">Ecclesiastici. c. 3.</ref> <quote xml:id="cy8th8-d1e97-Qd1e231">Ne glo<lb ed="#S" break="no" n="6"/>rieris 
+          in contumelia patris tui: non enim est tibi 
+          <lb ed="#S" n="7"/>gloria, sed confusio. Gloria enim hominis ex honore 
+          <lb ed="#S" n="8"/>patris sui: et dedecus filii pater sine honore</quote>. Et 
+          <lb ed="#S" n="9"/><ref xml:id="cy8th8-d1e97-Rd1e238">c. 41</ref>. <quote xml:id="cy8th8-d1e97-Qd1e240">Erubescite a patre et matre de fornicatione.</quote> 
+          Et parum infra: <quote xml:id="cy8th8-d1e97-Qd1e245">de patre impio queruntur filii: 
+          <lb ed="#S" n="10"/>quia per illum in opprobrio</quote>. Unde filiis ex fornica<lb ed="#S" break="no" n="11"/>rio 
+          matris partu irrogatur iniuria. Ut in <ref xml:id="cy8th8-d1e97-Rd1e253">authent. 
+          <lb ed="#S" n="12"/>de restitutionibus et ea que  parit, § ultimo collationis</ref> Item de<lb ed="#S" break="no" n="13"/>decus 
+          est patri si filius ducat ignominiosam uxo<lb ed="#S" break="no" n="14"/>rem 
+          <ref xml:id="cy8th8-d1e97-Rd1e260">ff. de contrahenda emptione l. 3</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e264">
+          <pc type="pilcrow">¶</pc> facit ad 
+          <lb ed="#S" n="15"/>propositum quod de Eneo scipione maioris 
+          <lb ed="#S" n="16"/>Africani filio Ualerius libro 3. c. 5 uel secundum 
+          <lb ed="#S" n="17"/>aliud volumen c. 305 refert. qui quasi mons<lb ed="#S" break="no" n="18"/>trum 
+          fuit attenta gloria et uirtutibus patris: 
+          <lb ed="#S" n="19"/>a quibus ipse plurimum degenerauerat: et ob ma<lb ed="#S" break="no" n="20"/>culas 
+          suae turpitudinis vitiorum inter caeteras si<lb ed="#S" break="no" n="21"/>bi 
+          ignominias illatas: cum a populo romano eidem 
+          <lb ed="#S" n="22"/>collatus fuisset honor preturae: vel a quodam scriba 
+          <lb ed="#S" n="23"/>patris sui cui Romanus populus concesserat: pro<lb ed="#S" break="no" n="24"/>pinqui 
+          et consanguinei eius reputantes quod dignita<lb ed="#S" break="no" n="25"/>tem 
+          illam propter vitia et turpitudines suas erat pol<lb ed="#S" break="no" n="26"/>luturus 
+          quodque opprobrium et dedecus illius in omnes 
+          <lb ed="#S" n="27"/>eos redundaret: ita terruerunt eum ut non auderet 
+          <lb ed="#S" n="28"/>ponere sellam pretoriam: aut ius dicere inter liti<lb ed="#S" break="no" n="29"/>gantes. 
+          Et super haec detraxerunt de manu eius 
+          <lb ed="#S" n="30"/>annulum, in quo erat sculptum caput Affricani 
+          <lb ed="#S" n="31"/>maioris. Et subdit Ualerius Dii boni quas 
+          <lb ed="#S" n="32"/>tenebras <unclear>e quo</unclear> fulmine passi estis nasci: id est: 
+          <lb ed="#S" n="33"/>offuscationes claritatis nominis et fame passi es<lb ed="#S" break="no" n="34"/>tis 
+          nasci.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e302">
+          Patet igitur omnes propinquos et qui 
+          <lb ed="#S" n="35"/>de eadem genealogia seu cognatione sunt: oppro<lb ed="#S" break="no" n="36"/>brio 
+          aut ignominia eorum alicuius labefactari. 
+          <lb ed="#S" n="37"/><pc type="pilcrow">¶</pc>  Inde est quod offendens in persona vel in bonis ali<lb ed="#S" break="no" n="38"/>quem 
+          vel aliquos: offendere nedum illos dicitur: 
+          <lb ed="#S" n="39"/>sed et quoscunque de offensorum cognatione. Pro<lb ed="#S" break="no" n="40"/>batur 
+          hoc per capitulum olim de iniuriis et damno dato ubi 
+          <lb ed="#S" n="41"/>iniuria irrogata Episcopo omnibus ecclesiis subiectis vide<lb ed="#S" break="no" n="42"/>tur 
+          irrogata. quia sponsus est illarum ecclesiarum. Unde 
+          <lb ed="#S" n="43"/>ecclesie inferiores pro iniuria sibi illata <!-- edition has "utique" without footnote or marking indicator --> vt ibi possunt 
+          <lb ed="#S" n="44"/>agere. Et propterea eisdem consanguineis datur ali<lb ed="#S" break="no" n="45"/>quando 
+          facultas vindicandi ut l. raptores. C. de 
+          <lb ed="#S" n="46"/>sacrosanctis ecclesiis ubi dicitur quod consanguineis virginum 
+          <lb ed="#S" n="47"/>et mulierum deo dedicatarum: raptorum datur pro<lb ed="#S" break="no" n="48"/>pria 
+          autoritate interficiendi facultas. Et ex his glo<lb ed="#S" break="no" n="49"/>sa 
+          in l. lex cornelia ff. de iniuris. quia iniuria 
+          <lb ed="#S" n="50"/>vni de cognatione illata videtur facta toti cogna<lb ed="#S" break="no" n="51"/>tioni. 
+          hoc et patet Genesis 14 facto Abrahe qui 
+          <lb ed="#S" n="52"/>vindicauit rapinam in loth nepotem suum commis<lb ed="#S" break="no" n="53"/>sam. 
+          <sic>quando</sic> <!-- edition has quoniam --> iuit contra quattuor reges. Et Syme<lb ed="#S" break="no" n="54"/>on 
+          et leui raptum dinae sororis raptoribus inter<lb ed="#S" break="no" n="55"/>fectis.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e350">
+          <pc type="pilcrow">¶</pc>  Ratio autem predictorum est quoniam tota cog<lb ed="#S" break="no" n="56"/>natio 
+          facit unum corpus cuius partes vel membra 
+          <lb ed="#S" n="57"/>faciunt singuli de cognatione illa. ut in l. cum 
+          <lb ed="#S" n="58"/>scimus, C. de agricolis et censitis libro 11o. vnum 
+          <lb ed="#S" n="59"/>quippe cum parentibus sumus de penitentia dist. 
+          <lb ed="#S" n="60"/>4, capitulo quid est quod dicitur. Nam pater et fi<lb ed="#S" break="no" n="61"/>lius 
+          pro uno capite et pro una persona reputan<lb ed="#S" break="no" n="62"/>tur 
+          ut in l. fine ff. <!--edition says Codex without footnote or app entry--> de impuberum et substitutionibus ubi 
+          <lb ed="#S" n="63"/>dicitur: <quote xml:id="cy8th8-d1e97-Qd1e368">cum ex natura pater et filius haec eadem 
+          <pb ed="#S" n="9-r"/>
+          <lb ed="#S" n="1"/>esse persona pene intelligantur. sunt una caro</quote> 
+          <lb ed="#S" n="2"/>35, q. 3, § hac autoritate. Item filius pars 
+          <lb ed="#S" n="3"/>est patris ut dicit <ref xml:id="cy8th8-d1e97-Rd1e377">Philosophus 5 Ethicorum</ref> <quote xml:id="cy8th8-d1e97-Qd1e379">sanguis <unclear>nempe<!-- enim? --></unclear> 
+          <lb ed="#S" n="4"/>eius est</quote>: ff. de inofficioso testamento l. non enim <!--edition has "est"--> et 
+          <lb ed="#S" n="5"/>vox patris est tanquam vox filii instit de inutilibus 
+          <lb ed="#S" n="6"/>stipulationibus, § ei qui Et heres una persona cum def<lb ed="#S" break="no" n="7"/>uncto 
+          censetur in authent. de iure iurando a moriente prosa <!--edition has "prestito"--> 
+          <lb ed="#S" n="8"/>in principio scilicet pro ea parte qua est heres nota. ff. 
+          <lb ed="#S" n="9"/>de pretoriis stipulationibus l. 2. in glossa ultima. Immo natu<lb ed="#S" break="no" n="10"/>ra 
+          patris ambulat in persona filii: et memoria pa<lb ed="#S" break="no" n="11"/>rentum 
+          in liberis: et per liberos conservatur in eum 
+          <lb ed="#S" n="12"/>ff. de verborum significatione l. mulier §. cum proportiona<lb ed="#S" break="no" n="13"/>retur. 
+          Et appellatione parentis non tantum pater: 
+          <lb ed="#S" n="14"/><unclear>sed et</unclear> auus et proauus et deinceps omnes superio<lb ed="#S" break="no" n="15"/>res 
+          in infinitum continentur: sed et mater et auia et pro Auia. 
+          <lb ed="#S" n="16"/>et proavia ff. de verborum significatione l. appellatione. 
+          <lb ed="#S" n="17"/>et ff. de in ius vocando l. 4. § pretor et § pa<lb ed="#S" break="no" n="18"/>rentes. 
+          <pc type="pilcrow">¶</pc>  Similiter liberorum appellatione ne<lb ed="#S" break="no" n="19"/>potes 
+          et pronepotes et omnes qui ex eodem genere 
+          <lb ed="#S" n="20"/>descendunt et orti sunt comprehenduntur et fac<lb ed="#S" break="no" n="21"/>iunt 
+          cognationem vt in l. liberorum ff. de uer<lb ed="#S" break="no" n="22"/>borum 
+          significatione faciunt quoque familiam domum et 
+          <lb ed="#S" n="23"/>gentem: id est consanguinitatem ut probatur in 
+          <lb ed="#S" n="24"/>l. pronuntiato, § familiae el. 2o et § commu<lb ed="#S" break="no" n="25"/>ni 
+          iure ff. eo titulo et secundum hoc christus dicitur filius 
+          <lb ed="#S" n="26"/>David et de domo et familia David <!-- is this last sentence missing in edition? or did i skip it in previous transcription? -->
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e426">
+          <pc type="pilcrow">¶</pc>  Cum igitur 
+          <lb ed="#S" n="27"/>tota una cognatio <pc type="virgula">/</pc> familia <pc type="virgula">/</pc> domus et gens (id est) 
+          <lb ed="#S" n="28"/>consanguinitas faciat unum corpus misticum vel 
+          <lb ed="#S" n="29"/>imaginatum <quote xml:id="cy8th8-d1e97-Qd1e435">singuli autem alter alterius membra</quote> 
+          <lb ed="#S" n="30"/>sicut ait apostolus ad Romanos 12 et naturali incli<lb ed="#S" break="no" n="31"/>natione 
+          in <quote xml:id="cy8th8-d1e97-Qd1e440">idipsum pro inuicem sollicita sunt mem<lb ed="#S" break="no" n="32"/>bra. 
+          Et si quid patitur unum membrum compa<pb ed="#S" n="9-v"/><lb ed="#S" break="no" n="1"/>tiuntur 
+          omnia membra: si uero gloriatur vnum 
+          <lb ed="#S" n="2"/>membrum: congaudent omnia membra</quote>, ut etiam in<lb ed="#S" break="no" n="3"/>quit 
+          Apostolus, 1 ad Corinthios 12 ergo si pater vel 
+          <lb ed="#S" n="4"/>superior, aut aliquis ascendentium alicuius fami<lb ed="#S" break="no" n="5"/>liae 
+          domus aut gentis seu cognationis et consanguine<lb ed="#S" break="no" n="6"/>orum: 
+          aut filius uel nepos aut pronepos seu ali<lb ed="#S" break="no" n="7"/>quis 
+          descendentium vel: etiam transuersalium agit 
+          <lb ed="#S" n="8"/>vel patitur aliquam iniuriam uel opprobrium seu 
+          <lb ed="#S" n="9"/>dedecus / siue turpe / iniuriosum aut inhonestum: 
+          <lb ed="#S" n="10"/>similiter propter alicuius eorum illustria facta: uel glo<lb ed="#S" break="no" n="11"/>riam 
+          et honorem adeptum propter merita: redundat 
+          <lb ed="#S" n="12"/>in totam familiam uel cognationem etc.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e467">
+          ergo 
+          <lb ed="#S" n="13"/>non solum mortuis bonum quodlibet honoris vel 
+          <lb ed="#S" n="14"/>felicis opinionis apud posteros (quod est quodam modo 
+          <lb ed="#S" n="15"/>perpetuo viuere) verum et interest viuentium 
+          <lb ed="#S" n="16"/>qui defunctis vel sanguine / familia / cognatione / 
+          <lb ed="#S" n="17"/>affinitate aut etiam amicitia fuerunt coniuncti. Quia 
+          <lb ed="#S" n="18"/>de eiusmodi honore uel inhonoratione <pc type="virgula">/</pc> gloria uel de<lb ed="#S" break="no" n="19"/>decore 
+          mortuorum recipiunt et ipsi comodum vel 
+          <lb ed="#S" n="20"/>incomodum. Et sic patet propositio 2a <pc type="virgula">/</pc>
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e483">
+          <lb ed="#S" n="21"/><pc type="pilcrow">¶</pc> 3a propositio quae sequitur ex precedentibus. Re<lb ed="#S" break="no" n="22"/>condere 
+          cum corporibus defunctorum magnos the<lb ed="#S" break="no" n="23"/>sauros 
+          seu diuitias: est manifestum argumen<lb ed="#S" break="no" n="24"/>tum 
+          quod neque mortui, qui eas sepeliri secum man<lb ed="#S" break="no" n="25"/>darunt: 
+          neque uiuentes successores qui in sepul<lb ed="#S" break="no" n="26"/>chris 
+          maiorum suorum illas permanere permittunt 
+          <lb ed="#S" n="27"/>eo animo eas ibi posuerunt et sinunt esse vt eas 
+          <lb ed="#S" n="28"/>haberent uel habeant pro derelictis: aut renuntia<lb ed="#S" break="no" n="29"/>uerint 
+          tacite aut expresse iuri et dominio quod 
+          <lb ed="#S" n="30"/>in eas habebant. Et per consequens quod predicti thesauri 
+          <lb ed="#S" n="31"/>et diuitiae habent dominum et sunt res aliene. <pc type="virgula">/</pc>
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e511">
+          <lb ed="#S" n="32"/><pc type="pilcrow">¶</pc> Probatur propositio 1o per primam, quia inten<pb ed="#S" n="10-r"/><lb ed="#S" break="no" n="1"/>tio 
+          vel animus mortuorum et viuorum qui eas 
+          <lb ed="#S" n="2"/>sepeliri secum iusserunt, et qui permanere in sepul<lb ed="#S" break="no" n="3"/>chris 
+          permittunt: est ut inde honorem <pc type="virgula">/</pc> gloriam <pc type="virgula">/</pc> et lau<lb ed="#S" break="no" n="4"/>dem 
+          apud posteros consequantur: et ut status glorio<lb ed="#S" break="no" n="5"/>sus 
+          opes et magnificentiam eorum futuris seculis 
+          <lb ed="#S" n="6"/>innotescat: et sic perpetuo in opinionibus hominum 
+          <lb ed="#S" n="7"/>uiuant, et hoc est eis interesse magnum ergo neque 
+          <lb ed="#S" n="8"/>uiui neque mortui habuerunt animum relinquere 
+          <lb ed="#S" n="9"/>diuitias et thesauros predictos pro derelictis. 
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e537">
+          <pc type="pilcrow">¶</pc> 
+          <lb ed="#S" n="10"/>2o probatur a signo sic. Quando res quae inue<lb ed="#S" break="no" n="11"/>niuntur 
+          nec scitur earum dominus sunt precio<lb ed="#S" break="no" n="12"/>se 
+          magnique valoris signum est non esse habitas 
+          <lb ed="#S" n="13"/>vel fuisse pro derelictis ubicunque inueniantur: secundum 
+          <lb ed="#S" n="14"/>intuitionem recondentium vel successorum, unde 
+          <lb ed="#S" n="15"/>non debent putari domino vel dominis carere mortuis 
+          <lb ed="#S" n="16"/>aut viuis: quoniam talia nemo ab se abiicit: sed uel pos<lb ed="#S" break="no" n="17"/>sidet 
+          et seruat vel donat, secus autem est de thesau<lb ed="#S" break="no" n="18"/>ris 
+          proprie dictis ut patebit in <unclear>supra</unclear> ratione infra 
+          <lb ed="#S" n="19"/>Sed thesauri et diuitie et illa que in prefatis sepul<lb ed="#S" break="no" n="20"/>chris 
+          cum regibus et proceribus condebantur: erant 
+          <lb ed="#S" n="21"/>res preciosissime ergo signum est quod non fuerant 
+          <lb ed="#S" n="22"/>habite pro derelictis. Non enim est uerissimile quod tam 
+          <lb ed="#S" n="23"/>preciosas res tantum uilipenderentur.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e561">
+          <pc type="pilcrow">¶</pc> 3o probatur 
+          <lb ed="#S" n="24"/>per loca in quibus inueniuntur. Inueniuntur nanque 
+          <lb ed="#S" n="25"/>in sepulchris uel in templis deorum suorum: et tu<lb ed="#S" break="no" n="26"/>tabant 
+          ostia seris et clausuris ne a latronibus 
+          <lb ed="#S" n="27"/>tollerentur ut dictum est in principio. ergo signum 
+          <lb ed="#S" n="28"/>est quod non habebant eos pro derelictis.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e575">
+          <pc type="pilcrow">¶</pc>  4o pro<lb ed="#S" break="no" n="29"/>batur 
+          a simili. Nam si quis in mari uel in ma<lb ed="#S" break="no" n="30"/>ris 
+          littore inueniat rem aliquam quae eiecta est de 
+          <lb ed="#S" n="31"/>naui causa nauem alleuiandi propter locum in quo in<lb ed="#S" break="no" n="32"/>uenitur: 
+          nemo debet presumere aut putare quod ha<pb ed="#S" n="10-v"/><lb ed="#S" break="no" n="1"/>beatur 
+          pro derelicta: sed potius non contrarium. Quoniam 
+          <lb ed="#S" n="2"/>ea quae alleuiandae causa nauis iactantur in mare: 
+          <lb ed="#S" n="3"/>non habentur pro derelictis. quia non iactantur 
+          <lb ed="#S" n="4"/>ea mente ut ulterius non possideantur aut dominium 
+          <lb ed="#S" n="5"/>eorum domini amittant vel abiiciant: sed quia pos<lb ed="#S" break="no" n="6"/>sidens 
+          dominus vult saluare vitam, quae sibi preciosior 
+          <lb ed="#S" n="7"/>est quam diuitie. Unde patet: quod inuenire res in mari 
+          <lb ed="#S" n="8"/>vel in littore maris: est signum quod dominus earum 
+          <lb ed="#S" n="9"/>non habuit eas pro derelictis. Res (inquam) quae non 
+          <lb ed="#S" n="10"/>solent esse in maris littore nisi rarissime et a casu: 
+          <lb ed="#S" n="11"/>propter eas dico scilicet lapillos uel gemmas quae ibi 
+          <lb ed="#S" n="12"/>nascuntur quae in nullius bonis sunt et proinde 
+          <lb ed="#S" n="13"/>inuentoris fiunt. Haec probantur instit. de rerum diuisione 
+          <lb ed="#S" n="14"/>§ ultimus et ff. de furtis l. falsus § si iactum 
+          <lb ed="#S" n="15"/>et ff. damno infecto, l. si finita § si quis me<lb ed="#S" break="no" n="16"/>tu.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e619">
+          <pc type="pilcrow">¶</pc> Hoc modo dicendum est quod si quis portabat 
+          <lb ed="#S" n="17"/>magna onera in uia et non poterat ultra ferre 
+          <lb ed="#S" n="18"/>reliquit: uel si fugiens hostes non potuit res suas 
+          <lb ed="#S" n="19"/>portare ac propterea in uia dimittit: licet patet 
+          <lb ed="#S" n="20"/>quod non inueniet illas quando redierit: vel quod forte nunquam 
+          <lb ed="#S" n="21"/>eas habebit non dicetur habere eas pro derelictis.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e640">
+          <lb ed="#S" n="22"/><pc type="pilcrow">¶</pc>  Haec ergo sunt signa manifesta quae faciunt 
+          <lb ed="#S" n="23"/>presumptionem uehementem ratione loci quod res 
+          <lb ed="#S" n="24"/>que inueniuntur non sunt habite pro derelictis 
+          <lb ed="#S" n="25"/>nec domino careant, et sic sunt res alienae.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e653">
+          <pc type="pilcrow">¶</pc>  
+          <lb ed="#S" n="26"/>Sic igitur est de thesauris et rebus aliis preciosis 
+          <lb ed="#S" n="27"/>quae in sepulchris uel in templis deorum suorum 
+          <lb ed="#S" n="28"/>inueniuntur: quia certe ibi non ponebantur ut ha<lb ed="#S" break="no" n="29"/>berentur 
+          pro derelictis, sed ut ibi optime seruaren<lb ed="#S" break="no" n="30"/>tur 
+          perpetuo et inde honorem / laudem et bonam 
+          <lb ed="#S" n="31"/>opinionem dominis iam defunctis et eorum des<lb ed="#S" break="no" n="32"/>cendentibus 
+          viuentibus afferrent. De hoc uide 
+          <lb ed="#S" n="33"/><ref>Hostiensem in summa titulo de causa proprietatis § 
+          <lb ed="#S" n="34"/>quod sit proprietas verbo.</ref> Item per traditionem
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e674">
+          <pc type="pilcrow">¶</pc>  
+          <lb ed="#S" n="35"/>Et confirmantur predicta per exemplum quod apud 
+          <lb ed="#S" n="36"/>nos et intelligimus et uidemus manifeste. Quera<lb ed="#S" break="no" n="37"/>mus 
+          inquam utrum reges et magnates ac nobiles 
+          <lb ed="#S" n="38"/>uiri et catholici: ea preciosa videlicet vex illa in 
+          <lb ed="#S" n="39"/>signa siue arma scuta aurea et argentea: tumu<lb ed="#S" break="no" n="40"/>los 
+          coopertos pannis bombicinis et auro in textis 
+          <lb ed="#S" n="41"/>quae posuerunt defuncti patres maiores sui in 
+          <lb ed="#S" n="42"/>capellis ecclesiarum, ubi fuerunt sepulti habue<lb ed="#S" break="no" n="43"/>rint 
+          pro derelictis? Et an offenderentur mortui 
+          <lb ed="#S" n="44"/>et superstites descendentes eorum viui: si quis illa 
+          <lb ed="#S" n="45"/>vel furto vel uiolenter tollere conaretur? Mani<lb ed="#S" break="no" n="46"/>festum 
+          enim est quod non solum mortui: et viuentes: 
+          <lb ed="#S" n="47"/>verum etiam tota cognatio <pc type="virgula">/</pc> domus et familia offen<lb ed="#S" break="no" n="48"/>derentur 
+          et loco iniuriarum acciperent.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e704">
+          <pc type="pilcrow">¶</pc> 5o 
+          <lb ed="#S" n="49"/>probatur propositio, quia ista preciosa que con<lb ed="#S" break="no" n="50"/>debantur 
+          cum corporibus defunctorum in sepul<lb ed="#S" break="no" n="51"/>chris 
+          non sunt proprie thesauri qui est in bonis 
+          <lb ed="#S" n="52"/>nullius qui in totum inuentori acquiruntur si in 
+          <lb ed="#S" n="53"/>solo suo inuenit. Est enim proprie thesaurus cui 
+          <lb ed="#S" n="54"/>conuenit thesauri diffinitio quae ponitur in l. 
+          <lb ed="#S" n="55"/>vnica, C. de thesau libro 10 thesaurus est pecu<lb ed="#S" break="no" n="56"/>nia 
+          ab ignotis dominis vetustiori tempore abscon<lb ed="#S" break="no" n="57"/>dita 
+          cuius dispositionis non extat memoria, vt 
+          <lb ed="#S" n="58"/>ibi et instit de rerum divisione, § thesauros. Ab 
+          <lb ed="#S" n="59"/>ignotis dominis (id est) ab aliquibus hominibus 
+          <lb ed="#S" n="60"/>fuit pecunia abscondita qui nunquam eam repere<lb ed="#S" break="no" n="61"/>runt 
+          et ibidem longissimo tempore permansit 
+          <lb ed="#S" n="62"/>in tantum quod iam per obliuionem exiuit a posses<lb ed="#S" break="no" n="63"/>sione 
+          et dominio humanorum secundum ioannem de platea 
+          <lb ed="#S" n="64"/>in d. l. vnica.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e736">
+          <pc type="pilcrow">¶</pc>  Improprie autem dicitur the<pb ed="#S" n="11-v"/><lb ed="#S" break="no" n="1"/>saurus 
+          secundum eundem quando extat memoria ut quia ali<lb ed="#S" break="no" n="2"/>quis 
+          abscondisset causa lucri vel metus vel cus<lb ed="#S" break="no" n="3"/>todie 
+          adde vel honoris vel alicuius alterius boni 
+          <lb ed="#S" n="4"/>respectus. Et de hoc nihil queritur inuentori 
+          <lb ed="#S" n="5"/>quinimo comittit furtum: sed eius qui abscon<lb ed="#S" break="no" n="6"/>dit 
+          vel eius heredum vt est textus in l. nunquam 
+          <lb ed="#S" n="7"/>§ thesaurus, ff. de acquirendo rerum dominio in fine et l. the<lb ed="#S" break="no" n="8"/>saurus 
+          ff. ad exhibendum et l. item habeo 
+          <lb ed="#S" n="9"/>ff. familie <unclear>erciscum.</unclear> et l. a tutore ff, de rescindenda 
+          <lb ed="#S" n="10"/>uenditione
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e764">
+          <pc type="pilcrow">¶</pc>  Cum igitur res ille preciosae poneren<lb ed="#S" break="no" n="11"/>tur 
+          in sepulchris causa custodiae ac honoris 
+          <lb ed="#S" n="12"/>laudis et gloriae viuorum et defunctorum et totius 
+          <lb ed="#S" n="13"/>cognationis Regum et aliorum magnorum homi<lb ed="#S" break="no" n="14"/>num 
+          ascendentium et descendentium: de quibus 
+          <lb ed="#S" n="15"/>extat memoria per successionem scilicet regis <unclear>yn<lb ed="#S" break="no" n="16"/>ga</unclear> 
+          <lb ed="#S" n="17"/>vel successorum regum illorum regnorum: et 
+          <lb ed="#S" n="18"/>sic in aliis regnis illius orbis ergo non sunt thesau<lb ed="#S" break="no" n="19"/>ri 
+          proprie sed improprie: et per consequens non queruntur 
+          <lb ed="#S" n="20"/>inuentoribus. patet sequela quia non exierunt 
+          <lb ed="#S" n="21"/>a possessione et dominio illorum et sic habent do<lb ed="#S" break="no" n="22"/>minos: 
+          Et sic de 3a propositione.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
