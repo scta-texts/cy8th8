@@ -159,35 +159,35 @@
           <lb ed="#B" n="20"/>Nam pater et filius pro uno capite et pro una persona reputantur
           <lb ed="#B" n="21"/>ut in <ref xml:id="cy8th8-d1e97-Rja1ccc" corresp="#cy8th8-d1e97-Qd1e368">l. fine ff. <!--edition says Codex without footnote or app entry--> de impuberum et substitutionibus</ref> ubi dicitur <quote xml:id="cy8th8-d1e97-Qd1e368" source="http://scta.info/resource/azsw2e-d1e3717-d1e234@18-27">cum ex natura pater 
           <lb ed="#B" n="22"/>et filius haec eadem esse persona pene intelligantur sunt una 
-          <lb ed="#B" n="23"/>caro</quote> 35, q. 3, § hac autoritate. Item filius pars est patris ut 
+          <lb ed="#B" n="23"/>caro</quote> <ref xml:id="cy8th8-d1e97-Rd1e400">35, q. 3, § hac autoritate</ref>. Item filius pars est patris ut 
           <lb ed="#B" n="24"/>dicit <ref xml:id="cy8th8-d1e97-Rd1e377">Philosophus 5 Ethicorum</ref> <quote xml:id="cy8th8-d1e97-Qd1e379">sanguis
-          nempe eius est</quote>: ff. de inofficioso testamento 
-          <lb ed="#B" n="25"/>l. non enim <!--edition has "est"--> et vox patris est tanquam vox filii instit de inutilibus 
-          <lb ed="#B" n="26"/>stipulationibus, § ei qui et heres una persona cum defuncto censetur 
+            nempe eius est</quote>: <ref xml:id="cy8th8-d1e97-Rd1e411" target="http://scta.info/resource/bgy6gt-d1e673-d1e139">ff. de inofficioso testamento 
+          <lb ed="#B" n="25"/>l. non enim <!--edition has "est"--></ref> et <ref xml:id="cy8th8-d1e97-Rd1e417">vox patris est tanquam vox filii instit de inutilibus 
+          <lb ed="#B" n="26"/>stipulationibus, § ei qui</ref> et heres una persona cum defuncto censetur 
           <lb ed="#B" n="27"/>in authent. de iure iurando a moriente prosa <!--edition has "prestito"--> in principio. Scilicet pro ea parte 
-          <lb ed="#B" n="28"/>qua est heres nota. ff. de pretoriis stipulationibus, l. 2, in glossa ultima. Imo natura 
+          <lb ed="#B" n="28"/>qua est heres nota. <ref xml:id="cy8th8-d1e97-Rd1e429">ff. de pretoriis stipulationibus, l. 2, in glossa ultima</ref>. Imo natura 
           <lb ed="#B" n="29"/>patris ambulat in persona filii: et memoria parentum in li<lb ed="#B" break="no" n="30"/>beris 
-          <lb ed="#B" n="31"/>et per liberos conservatur in eum ff. de uerborum significatione l. mulier, 
-          <lb ed="#B" n="32"/>§ cum proportionaretur. Et appellatione parentis non tantum 
+          <lb ed="#B" n="31"/>et per liberos conservatur in eum <ref xml:id="cy8th8-d1e97-Rd1e437" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2303">ff. de uerborum significatione l. mulier, 
+          <lb ed="#B" n="32"/>§ cum proportionaretur<!-- target uncertain; not clear what cum proportionaretur refers too --></ref>. Et appellatione parentis non tantum 
           pater sed et auus et proauus et deinceps omnes superiores in 
-          <lb ed="#B" n="33"/>infinitum continentur sed et mater et auia et pro auia. ff. 
-          <lb ed="#B" n="34"/>de uerborum significatione, l. appellatione et ff. de in ius uocando l. 4. § pre<pb ed="#B" n="7-r"/><lb ed="#B" break="no" n="1"/>tor 
-          et § parentes. <pc type="pilcrow">¶</pc>  Similiter liberorum appellatione nepotes 
+          <lb ed="#B" n="33"/>infinitum continentur sed et mater et auia et pro auia. <ref xml:id="cy8th8-d1e97-Rd1e446" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2573">ff. 
+          <lb ed="#B" n="34"/>de uerborum significatione, l. appellatione</ref> et <ref xml:id="cy8th8-d1e97-Rd1e451" target="http://scta.info/resource/bgy6gt-d1e343-d1e144">ff. de in ius uocando l. 4. § pre<pb ed="#B" n="7-r"/><lb ed="#B" break="no" n="1"/>tor</ref> 
+          et <ref xml:id="cy8th8-d1e97-Rd1e457" target="http://scta.info/resource/bgy6gt-d1e343-d1e150">§ parentes</ref>. <pc type="pilcrow">¶</pc>  Similiter liberorum appellatione nepotes 
           <lb ed="#B" n="2"/>et pronepotes et omnes qui ex eodem genere descendunt et orti sunt 
-          <lb ed="#B" n="3"/>comprehenduntur et faciunt cognationem ut in l. liberorum ff. de 
-          <lb ed="#B" n="4"/>uerborum significatione faciunt quoque familiam domum et gentem id est con<lb ed="#B" break="no" n="5"/>sanguinitatem
-          ut probatur in l. pronuntiato, § familie el. 2 
-          <lb ed="#B" n="6"/>et § communi iure ff. eo titulo.
+          <lb ed="#B" n="3"/>comprehenduntur et faciunt cognationem ut in <ref xml:id="cy8th8-d1e97-Rd1e468" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2573">l. liberorum ff. de 
+          <lb ed="#B" n="4"/>uerborum significatione</ref> faciunt quoque familiam domum et gentem id est con<lb ed="#B" break="no" n="5"/>sanguinitatem
+          ut probatur in <ref xml:id="cy8th8-d1e97-Rd1e475" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2290"><!-- target a bit imprecise; 2 paras begin with "familie" -->l. pronuntiato, § familie el. 2</ref> 
+          <lb ed="#B" n="6"/>et <ref xml:id="cy8th8-d1e97-Rd1e481" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2293@126-159">§ communi iure ff. eo titulo</ref>.
         </p>
         <p xml:id="cy8th8-d1e97-d1e426">
           <pc type="pilcrow">¶</pc>  Cum igitur tota una cognatio 
           <lb ed="#B" n="7"/>familia domus et gens id est consanguinitas faciat unum corpus 
           <lb ed="#B" n="8"/>misticum vel imaginatum <quote xml:id="cy8th8-d1e97-Qd1e435">singuli autem alter alterius membra</quote> 
-          <lb ed="#B" n="9"/>sicut ait apostolus ad Romanos 12 et naturali inclinatione in <quote xml:id="cy8th8-d1e97-Qd1e440">idipsum 
+          <lb ed="#B" n="9"/>sicut ait <ref xml:id="cy8th8-d1e97-Rd1e500" target="http://scta.info/resource/rom12_5">apostolus ad Romanos 12</ref> et naturali inclinatione in <quote xml:id="cy8th8-d1e97-Qd1e440">idipsum 
           <lb ed="#B" n="10"/>pro inuicem sollicita sunt membra. Et si quid patitur unum mem<lb ed="#B" break="no" n="11"/>brum 
           compatiuntur omnia membra: si uero gloriatur unum membrum 
-          <lb ed="#B" n="12"/>congaudent omnia membra</quote>, ut etiam inquit Apostolus, 1 ad 
-          <lb ed="#B" n="13"/>Corinthios 12 ergo si pater uel superior aut aliquis ascendentium 
+            <lb ed="#B" n="12"/>congaudent omnia membra</quote>, ut etiam inquit <ref xml:id="cy8th8-d1e97-Rd1e512" target="http://scta.info/resource/Icor12_25 http://scta.info/resource/Icor12_26">Apostolus, 1 ad 
+          <lb ed="#B" n="13"/>Corinthios 12</ref> ergo si pater uel superior aut aliquis ascendentium 
           <lb ed="#B" n="14"/>alicuius familie domus aut gentis seu cognationis et consanguine<lb ed="#B" break="no" n="15"/>orum: 
           aut filius uel nepos aut pronepos seu aliquis descenden<lb ed="#B" break="no" n="16"/>tium 
           uel etiam transuersalium agit uel patitur aliquam iniuriam 
