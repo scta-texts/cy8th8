@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 5</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 5</title>
+          <date when="2025-06-28">June 28, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-06-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="13-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e124">
+        <head xml:id="cy8th8-d1e124-Hd1e97">Sectio 5</head>
+        <p xml:id="cy8th8-d1e124-d1e99">
+          <lb ed="#B" n="30"/>§ 5
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e104">
+          <lb ed="#B" n="31"/>Quoniam in principio conclusionis responsiue ad mo<lb ed="#B" break="no" n="32"/>tam 
+          questionem exclusimus etiam inclitum et christia<lb ed="#B" break="no" n="33"/>nissimum 
+          regem nostrum quod scilicet nec ipsa celsitudo sua 
+          <lb ed="#B" n="34"/>sine licentia et consensu libero regis ynga et quidem magni re<lb ed="#B" break="no" n="35"/>gis 
+          regnorum del peru: vel aliorum regum aut regulo<lb ed="#B" break="no" n="36"/>rum 
+          ad quos spectat<del rend="strikethrough">et</del> vel heredum suorum potest mittere 
+          <pb ed="#B" n="13-v"/>
+          <lb ed="#B" n="1"/>aut mandare inquire aut <del rend="strikethrough">scritari</del> scrutari et tolle<lb ed="#B" break="no" n="2"/>re
+          thesauros et alias res preciosas que sunt in sepulchris etc. 
+          <lb ed="#B" n="3"/>idcirco dignum esse ducimus reddere rationem de huiusmodi.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e135">
+          <lb ed="#B" n="4"/>Et probatur sic. Rex ille ynga et successores illius sunt prin<lb ed="#B" break="no" n="5"/>cipes 
+          et domini suppremi et universales omnium regn<lb ed="#B" break="no" n="6"/>orum 
+          del peru non recognoscentes superiorem: habentque iustum 
+          <lb ed="#B" n="7"/>merum mixtum imperium et omnimodam postestatem et 
+          <lb ed="#B" n="8"/>iuridictionem quemadmodum alii reges liberi de mundo
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e148">
+          <lb ed="#B" n="9"/>ergo nullus rex aut princeps de mundo potest sine illius 
+          <lb ed="#B" n="10"/>vel eorum licentia et beneplacito intrare regna illa et querere 
+          <lb ed="#B" n="11"/>aut scrutari que in eis sunt et illa tollere
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e158">
+          Antecedens patet: quia 
+          <lb ed="#B" n="12"/>totus ille orbis cuius pars sunt regna illa del peru est in al<lb ed="#B" break="no" n="13"/>tissimo 
+          mari occeano ab omni regione alia earum omnium 
+          <lb ed="#B" n="14"/>quas unquam homines cognoverunt remotissimus quem 
+          <lb ed="#B" n="15"/>agentibus illis indianis occupatum et possessum et super eas 
+          <lb ed="#B" n="16"/>regnare proprios reges invenimus. Et sic ab omni su<lb ed="#B" break="no" n="17"/>periori
+          exemptos seu liberos. Et hec probantur satis per l. 
+          <lb ed="#B" n="18"/>ex hoc iure. cum ibi nota: per doctores ibi ex hoc iure dis<lb ed="#B" break="no" n="19"/>crete 
+          sunt gentes: regna condita a singulis gentibus que 
+          <lb ed="#B" n="20"/>sibi reges elegerunt secundum glosam dominia distincta 
+          <lb ed="#B" n="21"/>et gratia ff de iustitia et iure ubi apparet quod naturali et gentium
+          <lb ed="#B" n="22"/>iure ille gentes et reges earum sunt domini et liberi nemi<lb ed="#B" break="no" n="23"/>nem 
+          superiorem recognoscentes: nec de iure nec de facto 
+          <lb ed="#B" n="24"/>antequam nos eas agnovissemus. 
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e189">
+          <pc type="pilcrow">¶</pc> Appellatur autem superior 
+          <lb ed="#B" n="25"/>ille ad quem pertinet locus ex natura loci id est exitu: dixit baldus 
+          <lb ed="#B" n="26"/>allegatio l. insule ff. de iudiciis Sed melius in consilio 328 
+          primae par. ultima questio ubi ait <quote xml:id="cy8th8-d1e124-Qd1e198">nihil referre utrum quis uocetur 
+          <lb ed="#B" n="27"/>Rex vel dux: quia non est facienda vis in nomine sed in qualitate 
+          <lb ed="#B" n="28"/>regiminis et magnitudine potestatis argumentum ff. de conditionibus et de<lb ed="#B" break="no" n="29"/>monstrationibus 
+          <lb ed="#B" n="30"/>l. pater severinam § conditionum</quote> hec baldus et longe 
+          <lb ed="#B" n="31"/>melius ad huc Idem 2e par. ad propositum nostrum sic ait: quod 
+          <lb ed="#B" n="32"/><quote xml:id="cy8th8-d1e124-Qd1e213">de iure gentium reges tenent supremum cardinem etiam apud 
+          <lb ed="#B" n="33"/>infideles et ideo non appellantur ab eis apparet etiam penes reges esse 
+          <lb ed="#B" n="34"/>illam speciem dominii que vocatur universalis sed particularis spectat 
+          <lb ed="#B" n="35"/>ad singulares per se: ad regem autem per accidens id est per acci<pb ed="#B" n="14-r"/><lb ed="#B" n="1"/>dentalem 
+          causam puta propter delictum et ideo</quote> etc Secundum 
+          <lb ed="#B" n="2"/>sanctum Thomam autem et <unclear>cm</unclear> 
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e230">
+          Sed secundum sanctum Thomam autem   
+          <lb ed="#B" n="3"/>lib. 1. c. 14, de regimine principum. Illum regem dici supponi<lb ed="#B" break="no" n="4"/>mus 
+          <quote xml:id="cy8th8-d1e124-Qd1e236">cui <seg type="correction">summa<del rend="strikethrough">m</del></seg> regiminis in rebus humanis committitur</quote>. 
+          <lb ed="#B" n="5"/>Quippe qui electus est in superiorem a populo uel qui successit tali<lb ed="#B" break="no" n="6"/>ter 
+          electo quando electus fuit eum suis successoribus <unclear>cl.</unclear> l. ex hoc iure 
+          <lb ed="#B" n="7"/>Cum ibi nota. iurisdictio autem est plantata in loco vel terri<lb ed="#B" break="no" n="8"/>torio 
+          a quo non potest euelli: facit l. in modicis ff. de contrahenda 
+          <lb ed="#B" n="9"/>emptio et l. 1, § cum urbem ff. de officio <del rend="strikethrough">presi et l. 2 ff</del> prefecti 
+          urbis et l. <sic>fina</sic> eo titulo et l. 3. de officio presidis et l. 2 ff. de 
+          <lb ed="#B" n="10"/>iurisdictione omnium iudicum in quibus dicitur quod <quote xml:id="cy8th8-d1e124-Qd1e265">iurisdictio coheret ter<lb ed="#B" break="no" n="11"/>ritorio</quote>. 
+          Ad id c. fi. de constitutionibus libro 6 et in l. fi. ubi et 
+          <lb ed="#B" n="12"/>apud quos Et in l. pupillus § territorium ff. de verborum 
+          <lb ed="#B" n="13"/>significatione et l. quicumque Codex de fundis limitrophis lib. 11. 
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e275">
+          Unde 
+          <lb ed="#B" n="14"/>quia rex habet regnum suum et totum illius regni solum in
+          <lb ed="#B" n="15"/>eius potestate consistit d § cum urbem ergo habet etiam iu<lb ed="#B" break="no" n="16"/>risdictionem
+          coherentem toti illi solo seu territorio.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e284">
+          <pc type="pilcrow">¶</pc> consequentia 
+          <lb ed="#B" n="17"/>uero probatur quia intrando regnum alterius sine licentia et 
+          <lb ed="#B" n="18"/>maxime cum exercitu contra voluntatem vel prohibitionem 
+          <lb ed="#B" n="19"/>tacitam vel expressam proprii regis: dicitur turbare ipsum 
+          <lb ed="#B" n="20"/>per simplicem introitum unde facit ei iniuriam: et tollendo 
+          <lb ed="#B" n="21"/>inde aliquid potissimum preciosum usurpat alienum. ar<lb ed="#B" break="no" n="22"/>gumentum 
+          ff de iniuriis l. iniuriarum § si quis me prohibeat et
+          <lb ed="#B" n="23"/>§ fi. et l. sane, et l. is qui in domum alienam et 1 dist. 
+          <lb ed="#B" n="24"/>c. 1. Cyrus in l. 1, Codex uti possidetis. Bartholus in l. 1 <del rend="strikethrough">post <add place="above-line"><del rend="strikethrough">posse</del></add>sententiam</del> <add place="margin-right">§ interdictum 3 columna eo Baldus in l. sen</add><lb ed="#B" break="no" n="25"/>tentiam
+          vel columna in principio verb. porro si ego possideo
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e319">
+          <lb ed="#B" n="26"/><pc type="pilcrow">¶</pc> Unde quilibet rex aut regni cuiuslibet universalis mo<lb ed="#B" break="no" n="27"/>derator 
+          non recognoscens superiorem: si uiderit expedire 
+          <lb ed="#B" n="28"/>ad pacem et quietem: ad malos mores uitandos ad defen<lb ed="#B" break="no" n="29"/>sionem 
+          securitatem et conseruationem regni siue <del rend="strikethrough">Rei</del> reipublice 
+          <lb ed="#B" n="30"/>sue in libertate potest statuere vel lege regia prohibere ne 
+          <lb ed="#B" n="31"/>quis forensium seu alienigenarum seu cuiuscunque alterius
+          <lb ed="#B" n="32"/>regni persona: regnum uel prouinciam aut ciuitatem 
+          <lb ed="#B" n="33"/>sue <sic>ditionis</sic> ingrediatur: vel causa mercimonii commuta<lb ed="#B" break="no" n="34"/>tionis 
+          emptionis uenditionis aut gratia inhibi habitandi 
+          <lb ed="#B" n="35"/>vel quacunque alia de causa Idque rationalibiliter ac pruden<lb ed="#B" break="no" n="36"/>ter 
+          faciet: quoniam ad regiam circunspectionem et curam per<lb ed="#B" break="no" n="37"/>tinet 
+          ut futuris periculis regni uel reipublice prouideat: qua<lb ed="#B" break="no" n="38"/>tenus 
+          contra externos hostes tuta reddatur. Quoniam non solum 
+          <pb ed="#B" n="14-v"/>
+          <lb ed="#B" n="1"/>attenditur quod presens est: sed etiam quod esse potest eo quo euentus 
+          <lb ed="#B" n="2"/>sunt in consideratione hominum l. pater filio ff. de heredibus instituendis l. 
+          <lb ed="#B" n="3"/>ait facto § euentus ff. de penis et § posteriore inst. quibus 
+          <lb ed="#B" n="4"/>modis testa. infra. et l. generaliter § si libero homini ff. de fi<lb ed="#B" break="no" n="5"/>de 
+          commisariis libertatibus. Quod autem rex posset ingressum alieni genarum 
+          <lb ed="#B" n="6"/>prohibere patebit dilucide inferius § 12.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e373">
+          <pc type="pilcrow">¶</pc> Siquidem his que 
+          <lb ed="#B" n="7"/>modo tetigimus et brevi quadam mora explanauimus: et in opere 
+          <lb ed="#B" n="8"/>nostro de unico vocationis modo omnium gentium ad ueram 
+          <lb ed="#B" n="9"/>religionem lib. 1, c. 3 latissimo discursu fuerunt elucidata: ne<lb ed="#B" break="no" n="10"/>minem 
+          existere qui non libenter assentiat nisi uel mentis de<lb ed="#B" break="no" n="11"/>fectum 
+          aliquem uel catholice doctrine inexperientiam pa<lb ed="#B" break="no" n="12"/>tiatur 
+          arbitramur. 
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e392">
+          Quibus tamen solus uidetur obstare ins<lb ed="#B" break="no" n="13"/>titutio 
+          papalis de regibus nostris hispaniarum facta in su<lb ed="#B" break="no" n="14"/>periores 
+          reges et moderatores totius illius orbis indiani: cuius vir<lb ed="#B" break="no" n="15"/>tute 
+          atque autoritate cum omnes gentes et habitatores illarum 
+          <lb ed="#B" n="16"/>terrarum subditi regum nostrorum remaneant ratione 
+          <lb ed="#B" n="17"/>fidei predicande idcirco cetera omnia que sequuntur personas
+          <lb ed="#B" n="18"/>videntur eisdem esse subiecta: et per consequens posse de omnibus
+          <lb ed="#B" n="19"/>que in regnis sunt et sic de supradictis thesauris et quicquid
+          <lb ed="#B" n="20"/>preciosum fuerit ad placitum vel pro arbitrio tanquam suppre<lb ed="#B" break="no" n="21"/>mi 
+          principes decernere siue determinare.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e414">
+          <pc type="pilcrow">¶</pc> Unde licet omnia 
+          <lb ed="#B" n="22"/>determinata in precedentibus uera sint quantum ad quoscunque mun<lb ed="#B" break="no" n="23"/>di 
+          reges alios: non tamen quantum ad reges hispaniarum qui 
+          <lb ed="#B" n="24"/>peculiari priuilegio et donatione per apostolicam sedem ad 
+          <lb ed="#B" n="25"/>imperiale fastigium super orbem illum fuerunt sublimati.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e428">
+          <lb ed="#B" n="26"/><pc type="pilcrow">¶</pc> Ad quod dicimus verum vtique esse catholicos castelle et legio<lb ed="#B" break="no" n="27"/>nis 
+          Reges sedis apostolice prouidentia et gratiosa donatione 
+          <lb ed="#B" n="28"/>constitutos fuisse super orbem illum suppremos principes ra<lb ed="#B" break="no" n="29"/>tione 
+          cure quam eis de predicanda fide ac conuertendis ha<lb ed="#B" break="no" n="30"/>bitatoribus
+          illius ipsa sancta sedes iniungebat ut apparet 
+          <lb ed="#B" n="31"/>in literis apostolicis prefate institutionis siue donationis. 
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e446">
+          Sed 
+          <lb ed="#B" n="32"/>reuera non ipso iure uel ipso facto quod nominati uel instituti
+          <lb ed="#B" n="33"/>sunt tales reges nostri per summum pontificem translatum est 
+          <lb ed="#B" n="34"/>in eos universi orbis illius dominium nec possessionem iuxta
+          <lb ed="#B" n="35"/>notata per legistas in l. traditionibus C. de pactis et 
+          <lb ed="#B" n="36"/>in aut. ingressi. C. de sacrosanctis ecclesiis et in l. nunquam ff. 
+          de acquirendo rerum dominio et per canonistas in <ref xml:id="cy8th8-d1e124-Rd1e459" target="http://scta.info/resource/cice-l1t4-d1e134">c. ex literis 
+          <lb ed="#B" n="37"/>de consuetudine</ref>: et in aliis utriusque iuris locis <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
