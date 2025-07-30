@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 6</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 6</title>
+          <date when="2025-07-25">July 25, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-25" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="15-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e137">
+        <head xml:id="cy8th8-d1e137-Hd1e97">Sectio 6</head>
+        <p xml:id="cy8th8-d1e137-d1e99">
+          <pb ed="#B" n="15-r"/>
+          <lb ed="#B" n="1"/>§ 6
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e106">
+          <lb ed="#B" n="2"/><pc type="pilcrow">¶</pc> Ad cuius tamen obiecti pleniorem declarationem et
+          <lb ed="#B" n="3"/>solutionem supponendae sunt aliquae considerationes
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e115">
+          <pc type="pilcrow">¶</pc> Prima 
+          <lb ed="#B" n="4"/>consideratio est: quod cum dominia et iuridictiones status et di<lb ed="#B" break="no" n="5"/>gnitates 
+          regales sint apud infideles de iure gentium et naturali 
+          <lb ed="#B" n="6"/>et confirmata per utrumque ius diuinum precipue per euange<lb ed="#B" break="no" n="7"/>licum: 
+          manifestum est quod fides catholica uel religioso christia<lb ed="#B" break="no" n="8"/>na 
+          non priuat infideles Reges aut dominos suis statibus
+          <lb ed="#B" n="9"/>dignitatibus dignitatibus et bonis aut Iuribus aliis et domi<lb ed="#B" break="no" n="10"/>nio
+          quod super sibi subiectos habent iure naturali et gentium: 
+          <lb ed="#B" n="11"/>sed potius rectificat illa.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e138">
+          <pc type="pilcrow">¶</pc>  Quod autem per ius diuinum sint 
+          <lb ed="#B" n="12"/>approbata patet in veteri lege: in qua millies mentio fit de 
+          <lb ed="#B" n="13"/>regibus infidelibus et Idolatris: De primo rege Nembroth. g<lb ed="#B" break="no" n="14"/>ene 
+          10: fuit principium regni eius Babilon. etc. Et quatuor 
+          <lb ed="#B" n="15"/>reges etiam sodomorum et Gomorreorum. genesis 14. Et triginta 
+          <lb ed="#B" n="16"/>reges chananeorum. in libro numerorum et fere per omnes 
+          <lb ed="#B" n="17"/>libros diuine scripture frequentissima est memoria regum 
+          <lb ed="#B" n="18"/>Idolatrarum Et ut de aliis quam plurimis taceamus: per ipsum 
+          <lb ed="#B" n="19"/>os diuinum Nabuchodonosor Rex est appellatus. Ecce 
+          <lb ed="#B" n="20"/>ego (inquit) adducam ad Tirum Nabuchodonosor regem
+          <lb ed="#B" n="21"/>babilonis ab aquilone regem regum cum equis etc 
+          <lb ed="#B" n="22"/>Eccechiel 26. Et huic Daniel dixit non gratia adulatio<lb ed="#B" break="no" n="23"/>nis 
+          prestande: sed veritatis titulo aperiende: tu rex re<lb ed="#B" break="no" n="24"/>gum 
+          es: et Deus celi regnum et fortitudinem et imperium et 
+          <lb ed="#B" n="25"/>gloriam dedit tibi etc. Danielis 2. Ex quo ergo Deus per 
+          <lb ed="#B" n="26"/>scripturam suam reges: infidelium etiam idolatras reges appe<lb ed="#B" break="no" n="27"/>llat:
+          reges sunt: quia ipse dixit et facta sunt. psalmus 148.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e179">
+          <lb ed="#B" n="28"/><pc type="pilcrow">¶</pc> Unde patriarche atque prophete reuerentiam et obedi<lb ed="#B" break="no" n="29"/>entiam 
+          regibus infidelibus idolatris et pessimis sub quorum
+          <lb ed="#B" n="30"/>regimine degebant exhibuerunt ut sanctus Ioseph pharaoni 
+          <lb ed="#B" n="31"/>Daniel Nabuchodonosor: Mardocheus et Hester Assuero 
+          <lb ed="#B" n="32"/>et Baruch 1o dicitur. orate pro uita Nabuchodonosor re<lb ed="#B" break="no" n="33"/>gis 
+          babilonis; et pro uita balthasar filii eius ut sint dies 
+          <lb ed="#B" n="34"/>eorum sicut dies celi super terram: vt uiuamus sub umbra 
+          <lb ed="#B" n="35"/>Nabuchodonosor et umbra Balthasar filii eius et seruiamus 
+          <lb ed="#B" n="36"/>eis multis diebus etc.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e203">
+          <pc type="pilcrow">¶</pc>  Propheta regius etiam Dauid honorau<lb ed="#B" break="no" n="37"/>it 
+          Saulem postquam ab eo Deus recesserat: quia scilicet adhuc 
+          <lb ed="#B" n="38"/>rex erat et fuit dum uixit. Unde Augustinus in questiani<lb ed="#B" break="no" n="39"/>bus 
+          veteris et naui testamenti. quaestio 35 sic ait. Qua ratio<pb ed="#B" n="15-v"/><lb ed="#B" n="1"/>ne 
+          Dauid Saul postquam Deus ab eo recessit christum Domini 
+          <lb ed="#B" n="2"/>vocat et honorem defert ei. Non nescius Dauid diuinam esse 
+          <lb ed="#B" n="3"/>traditionem in officio ordinis regalis. Idcirco Saul in eadem 
+          <lb ed="#B" n="4"/>adhuc traditione positum honorificat ne Deo iniuriam face<lb ed="#B" break="no" n="5"/>re 
+          videretur: qui his ordinibus honorem decreuit. Dei enim ima<lb ed="#B" break="no" n="6"/>ginem 
+          habet: sicut et episcopus christi quandiu ergo in tra<lb ed="#B" break="no" n="7"/>ditione 
+          est honorandus si non propter se vel propter ordinem.
+          <lb ed="#B" n="8"/>Unde apostolus ad Romanos <del rend="strikethrough">18</del> 13. potestatibus sublimioribus sub<lb ed="#B" break="no" n="9"/>diti
+          estote: non est potestas nisi a deo. Que enim sunt a deo or<lb ed="#B" break="no" n="10"/>dinata
+          sunt. huic est unde gentile in potestate tamen po<lb ed="#B" break="no" n="11"/>situm
+          honorificamus: licet ipse indignus sit qui Dei ordi<lb ed="#B" break="no" n="12"/>nem 
+          tenens gratias agit diabolo. Potestas enim exigit quia me<lb ed="#B" break="no" n="13"/>retur
+          honorem. Nam ideo pharaoni future famis somnium 
+          <lb ed="#B" n="14"/>reuelatum est: et Nabuchodonosor aliis secum <sic>asistentibus</sic> 
+          <lb ed="#B" n="15"/>solus filium dei vidit in camino ignis: non utique merito suo: 
+          <lb ed="#B" n="16"/>qui in idolo se adorari uoluit: sed merito ordinis regalis. haec 
+          <lb ed="#B" n="17"/>Augustinus in forma.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e258">
+          <pc type="pilcrow">¶</pc> Ecce qualiter reges infideles idolatre ac 
+          <lb ed="#B" n="18"/>pessimi habent regnum imperium: et fortitudinem et gloriam 
+          <lb ed="#B" n="19"/>id est dignitatis <sic>excelentiam</sic> et ordinem regalem a deo celi 
+          <lb ed="#B" n="20"/>et sunt in traditione <pc type="virgula">/</pc> id est in officio regali a deo constituti quamuis 
+          <lb ed="#B" n="21"/>infideles propterque honorem et reuerentiam meremur ima<lb ed="#B" break="no" n="22"/>ginem
+          dei gerentes Unde apparet prefatas dignitates et sta<lb ed="#B" break="no" n="23"/>tus 
+          regales dominia et iurisdictiones introductas lege naturali 
+          <lb ed="#B" n="24"/>et gentium confirmatas per ius dinuinum veteris testamenti.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e284">
+          <lb ed="#B" n="25"/><pc type="pilcrow">¶</pc> Quod autem sint approbata et confirmata per legem euange<lb ed="#B" break="no" n="26"/>licam
+          sunt innumere autoritates et prima sic hec ipsius 
+          <lb ed="#B" n="27"/>autoris iustitie christi. <ref xml:id="cy8th8-d1e137-Rd1e294">Matthei 22</ref> <quote xml:id="cy8th8-d1e137-Qd1e296" source="http://scta.info/resource/mt22_21@7-11">reddite que sunt cesaris</quote> 
+          <lb ed="#B" n="28"/>etc. Quibus uerbis docuit tributum et Iura regalia cesari 
+          <lb ed="#B" n="29"/>Ethnico infideli et in eo vniuersis aliis ethnicis idolatris
+          et infidelibus reddi. Reddite (inquit) non date quia redde<lb ed="#B" break="no" n="30"/>re 
+          signat solutionem: solutio autem supponit debitum: debe<lb ed="#B" break="no" n="31"/>tur 
+          nanque regibus etiam infidelibus tributum naturalis iustitie 
+          <lb ed="#B" n="32"/>obligatione ut patet ad Romanos ubi supra: <quote xml:id="cy8th8-d1e137-Qd1e310" source="http://scta.info/resource/rom13_7@1-15">reddite omnibus 
+          <lb ed="#B" n="33"/>debita cui tributum: cui vectigal vectigal: cui 
+          <lb ed="#B" n="34"/>honorem honorem</quote> etc Loquebatur nanque apostolus de prin<lb ed="#B" break="no" n="35"/>cipibus 
+          infidelibus quibus tunc temporis plenus erat mundus
+          <pb ed="#B" n="16-r"/>
+          <lb ed="#B" n="1"/>quos tamen appellat ministros Dei in hoc ipsum seruientes
+          <lb ed="#B" n="2"/><quote xml:id="cy8th8-d1e137-Qd1e325" source="http://scta.info/resource/rom13_5@1-4">Ideoque necessitate subditi estote</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e329">
+          hoc idem solliciti apostoli 
+          <lb ed="#B" n="3"/>promulgare procurabant omnibus fidelibus et primis christi<lb ed="#B" break="no" n="4"/>anis 
+          precipientes ut obedientiam et honorem et iura principi<lb ed="#B" break="no" n="5"/>bus 
+          infidelibus obseruarem tanquam unum de preceptis diuinis 
+          <lb ed="#B" n="6"/>euangelice legis 1 ad Thimotheum 6: «<quote xml:id="cy8th8-d1e137-Qd1e339" source="http://scta.info/resource/Itim6_1@1-17 http://scta.info/resource/Itim6_2@1-16">Quicunque sunt sub iugo (glo<lb ed="#B" break="no" n="7"/>sa 
+          interlinearis: <quote xml:id="cy8th8-d1e137-Qd1e343" source="http://scta.info/resource/go-Itim6-d1e99@1-1">infidelium</quote> serui<sic>)</sic> dominos suos omni honore
+          <lb ed="#B" n="8"/>dignos arbitremur ne nomen domini blasphemetur. Qui autem
+          <lb ed="#B" n="9"/>fideles habent dominos non contennant: sed magis seruiant 
+          <lb ed="#B" n="10"/>quia fideles sunt</quote>. Et Ad Titum 3: <quote xml:id="cy8th8-d1e137-Qd1e357" source="http://scta.info/resource/tit3_1@1-13">Admone illos principibus 
+          <lb ed="#B" n="11"/>et potestatibus subditos esse dicto obedire ad omne opus bonum</quote> 
+          <lb ed="#B" n="12"/>etc. 
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e365">
+          <pc type="pilcrow">¶</pc> Conuersationem Vestram id est actus exteriores et opera 
+          <lb ed="#B" n="13"/>habentes bonam inter gentes (Id est gentiles et infideles viuentes: 
+          <lb ed="#B" n="14"/>vt prouocetis eos ad fidem secundum S. Thomam) ut in eo 
+          <lb ed="#B" n="15"/>quod detractant de vobis tanquam de malefactoribus quia propter 
+          <lb ed="#B" n="16"/>indiscretionem et superbiam aliquorum de iam conuersis ad 
+          <lb ed="#B" n="17"/>fidem post fidem susceptam dicebant non teneri Fideles obe<lb ed="#B" break="no" n="18"/>dire 
+          principibus infidelibus: ideo infideles domini conquerebantur 
+          <lb ed="#B" n="19"/>et blasphamabant fidem tanquam iniustam quia iura naturae to<lb ed="#B" break="no" n="20"/>llebat 
+          et conditionem uel ordinem humane conditionis tanquam in<lb ed="#B" break="no" n="21"/>iiustis 
+          et malefactoribus, et sequitur ex bonis operibus id est ex de<lb ed="#B" break="no" n="22"/>bita 
+          obedientia et subiectionis prestatione (qua ante uestram con<lb ed="#B" break="no" n="23"/>versionem
+          tenebamini dominis uestris) vos considerantes glo<lb ed="#B" break="no" n="24"/>rificent
+          deum in die uisitationis id est vocationis vel conuersionis 
+          <lb ed="#B" n="25"/>vestre aut eorum. Et infert statim beatus Petrus quam intende<lb ed="#B" break="no" n="26"/>bant 
+          conclusionem. <quote xml:id="cy8th8-d1e137-Qd1e400">Subiecti igitur estote omni humane creature</quote> 
+          <lb ed="#B" n="27"/>(glossa et S. Thomas ibidem) <quote xml:id="cy8th8-d1e137-Qd1e405">fidelibus et incredulis</quote>) hec illa et 
+          <lb ed="#B" n="28"/>ille. Et est accommoda distributio pro his sub quorum erant potes<lb ed="#B" break="no" n="29"/>tate 
+          propter deum id est sic deo ordinante: <quote xml:id="cy8th8-d1e137-Qd1e411">siue regi quasi precellenti <pc type="virgula">/</pc> siue 
+          <lb ed="#B" n="30"/>ducibus</quote> quia hec est voluntas Dei ut bene id est taliter obediendo fa<lb ed="#B" break="no" n="31"/>ciatis 
+          obmutescere faciatis substrahendo eis materiam conque<lb ed="#B" break="no" n="32"/>rendi 
+          et blasphemandi imprudentium hominum id est infide<lb ed="#B" break="no" n="33"/>lium 
+          ignorantiam. Et post parum <quote xml:id="cy8th8-d1e137-Qd1e426">Deum timete: Regem hono<lb ed="#B" break="no" n="34"/>rificate. 
+          serui subditi <sic>stote</sic> in omni honore non tantum bonis 
+          <lb ed="#B" n="35"/>et modestis: sed discolis. id est infidelibus</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e437">
+          <pc type="pilcrow">¶</pc> Item <ref xml:id="cy8th8-d1e137-Rd1e442">Paulus 1 ad 
+          <lb ed="#B" n="36"/>Timotheum 6</ref> precipiebat <quote xml:id="cy8th8-d1e137-Qd1e447" source="http://scta.info/resource/Itim2_1@6-13 http://scta.info/resource/Itim2_2@1-14">obsecrationes <pc type="virgula">/</pc> orationes gratiarum actio<lb ed="#B" break="no" n="37"/>nes 
+          fieri pro regibus et omnibus qui in sublimitate constituti 
+          <lb ed="#B" n="38"/>erant: et sunt: ut quietam et <sic>tranquilam</sic> vitam agamus</quote>
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e460">
+          <sic>Ma<lb ed="#B" break="no" n="39"/>gnifestum</sic> enim est quod eo tempore quando Apostoli precepta hec promul<lb ed="#B" break="no" n="40"/>gabant 
+          fidelibus et primis christianis: mundus totus (ut dixi<pb ed="#B" n="16-v"/><lb ed="#B" break="no" n="1"/>mus 
+          plenus erat principibus siue regibus infidelibus: et nullus 
+          <lb ed="#B" n="2"/>Rex aut princeps erat fidelis ergo dignitates et status regales do<lb ed="#B" break="no" n="3"/>minia 
+          et iurisdictiones et iura regalia que sunt apud infide<lb ed="#B" break="no" n="4"/>les: 
+          approbata et confirmata fuerunt et sunt per ius diuinum
+          <lb ed="#B" n="5"/>noui testamenti: siue per legem euangelicam.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e482">
+          <pc type="pilcrow">¶</pc> Quod vero fides
+          <lb ed="#B" n="6"/>christi et religio christiana non priuet Reges uel principes 
+          <lb ed="#B" n="7"/>infideles suis dominiis statibus et dignitatibus iurisdictionibus 
+          <lb ed="#B" n="8"/>et Iuribus etc. Que ad reges et regum auctoritatem et excellen<lb ed="#B" break="no" n="9"/>tiam 
+          pertinent: iam clarum ex adductis existit. Quia si Deus 
+          <lb ed="#B" n="10"/>per ius diuinum veteris testamenti: et iterum per nouum euan<lb ed="#B" break="no" n="11"/>gelicum 
+          confirmauit et stabiliuit omnia predicta ergo blasphem<lb ed="#B" break="no" n="12"/>um 
+          esset sentire quod reuocasset illa per fidem et multo minus 
+          <lb ed="#B" n="13"/>suscipiendo fidem infideles ipsi.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e505">
+          <pc type="pilcrow">¶</pc> Sed addamus alias particula<lb ed="#B" break="no" n="14"/>res 
+          rationes et autoritates et prima sit. Ordo prelationis quo 
+          <lb ed="#B" n="15"/>homines subiiciuntur principibus suis: est ordo iustitie naturalis 
+          <lb ed="#B" n="16"/>a deo institutus secundum illud ad Romanos 13 <quote xml:id="cy8th8-d1e137-Qd1e516" source="http://scta.info/resource/rom13_1@7-20 http://scta.info/resource/rom13_2@1-7">non est potestas 
+          <lb ed="#B" n="17"/>nisi a Deo que autem a deo sunt ordinationi resistit</quote>. Et lo<lb ed="#B" break="no" n="18"/>quitur 
+          de ordine quo inferiores suis superioribus subduntur. 
+          <lb ed="#B" n="19"/>sed fides christi est iustitie principium et causa secundum illud 
+          <lb ed="#B" n="20"/>ad Romanos 3 <quote xml:id="cy8th8-d1e137-Qd1e528" source="http://scta.info/resource/rom3_22@1-11">Iustitia Dei per fidem iesu christi: in omnes 
+          <lb ed="#B" n="21"/>et super omnes qui credunt in eum</quote> ergo per fidem christi 
+          <lb ed="#B" n="22"/>non tollitur ordo iustitie <pc type="virgula">/</pc> sed magis firmatur. Ordo 
+          <lb ed="#B" n="23"/>autem iustitie requirit ut inferiores suis superioribus
+          <lb ed="#B" n="24"/>obediant fideles sint vel infideles quia iustitia non solum
+          <lb ed="#B" n="25"/>extendit se ad fideles: sed etiam ad homines uniuersos 
+          <lb ed="#B" n="26"/>ergo principes infideles vel etiam eorum subditi maxime 
+          <lb ed="#B" n="27"/>suscipiendo fidem non amittunt sua dominia iurisdi<lb ed="#B" break="no" n="28"/>ctiones 
+          <pc type="virgula">/</pc> dignitates et iura est debita. Hoc enim esset 
+          <lb ed="#B" n="29"/>melioris conditionis in sua infidelitate quam in christianissmo
+          et in ecclesia sancta existere contra illud quod habetur 
+          <lb ed="#B" n="30"/>in <ref xml:id="cy8th8-d1e137-Rd1e559">c. iudei. el. 2o, extra, de iudeis et sarracenis</ref>. Ubi precipitur 
+          <lb ed="#B" n="31"/>sub pena excommunicationis iudeis ad fidem uenientibus <quote xml:id="cy8th8-d1e137-Qd1e563" source="http://scta.info/resource/cice-l5t6-d1e180@55-71">possessiones 
+          <lb ed="#B" n="32"/>non auferantur cum melioris conditionis ad fidem conuer<pb ed="#B" n="17-r"/><lb ed="#B" n="1"/>sos 
+          esse oporteat quam antequam fidem susciperent habebantur</quote>. Hec 
+          <lb ed="#B" n="2"/>ibi
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e575">
+          <pc type="pilcrow">¶</pc> Idem et amplius habetur in quadam extrauaganti <unclear>io</unclear> 
+          <lb ed="#B" n="3"/>annis 22 subtitulo de iudeis in communitatibus Dignum (inquit) ar<lb ed="#B" break="no" n="4"/>bitrantes 
+          et iuri consonum fonte renatos baptismatis iudaica 
+          <lb ed="#B" n="5"/>cecitate dimissa amplioribus fauoribus aut gratiis quam antea 
+          <lb ed="#B" n="6"/>abundare indecens et absurdum ut qui in perfidia abundarent 
+          <lb ed="#B" n="7"/>cogantur mendicare fideles. et infra districte precipimus et 
+          <lb ed="#B" n="8"/>mandamus quatenus conuersis huiusmodi et qui in posterum 
+          <lb ed="#B" n="9"/>conuertentur: in possessionibus et bonis aliis quocunque nomine 
+          <lb ed="#B" n="10"/>censeantur que conuersionis tempore obtinebant seu etiam obti<lb ed="#B" break="no" n="11"/>nebunt 
+          occasione predicta nullam molestiam inferant: nec 
+          <lb ed="#B" n="12"/>ab aliis inferri permittant sed ipsis in his et in aliis se fauorabiles
+          <lb ed="#B" n="13"/>exhibentes ipsos ab iniuriis et molestiis protegant et defendant:
+          <lb ed="#B" n="14"/>vt sic de servitute ad libertatem transiisse percipiant nec redire
+          <lb ed="#B" n="15"/>pretextu mendicitatis odibilis ad missam perfidiam compe<lb ed="#B" break="no" n="16"/>llantur.
+          hec ibi. Re etenim vera magnum dedecus fidei catholice 
+          <lb ed="#B" n="17"/>fieret quoniam religio christiana tamquam iniusta et tyrannica esti<lb ed="#B" break="no" n="18"/>maretur 
+          et odio haberetur: et per consequens blasphemandi christum do<lb ed="#B" break="no" n="19"/>minum
+          latorem legis euangelice materiam preberemus si con<lb ed="#B" break="no" n="20"/>trarium
+          <lb ed="#B" n="21"/>predictorum attentaremus ut est manifestum.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e624">
+          <pc type="pilcrow">¶</pc> Ratio 2a si ista per fidem datur gratia spiritus sancti que prin<lb ed="#B" break="no" n="22"/>cipaliter
+          <del>sit ista per fidem datur</del> Dicitur ipsa lex euangelica: gratia 
+          <lb ed="#B" n="23"/>uero non tollit naturam sed perficit et supplet defectum nature 
+          <lb ed="#B" n="24"/>secundum <ref xml:id="cy8th8-d1e137-Rd1e638">s. Thomam 1a par. q. 2. articulo 6 ad 1m</ref> et <ref xml:id="cy8th8-d1e137-Rd1e640">2 2e q. 188 articulo 8.</ref> 
+          <lb ed="#B" n="25"/>sed principatus et potestates dominia et iurisdictiones que sunt apud 
+          <lb ed="#B" n="26"/>infideles cuiuscunque nationis secte aut religionis existunt (preter 
+          <lb ed="#B" n="27"/>tamen iudeos post mortem christi) pertinent a deos lege naturali et 
+          <lb ed="#B" n="28"/>gentium que iura lex euangelica diuina et gratia spiritus sancti instaurauit / 
+          <lb ed="#B" n="29"/>augificauit <pc type="virgula">/</pc> firmauit secundum augustinum: perfecit et supplevit 
+          <lb ed="#B" n="30"/>secundum S. Thomam ergo infideles maxime suscipiendo fidem non 
+          <lb ed="#B" n="31"/>perdunt principatus <pc type="virgula">/</pc> dignitates <pc type="virgula">/</pc> potestates etc <pc type="virgula">/</pc> sed potius 
+          <lb ed="#B" n="32"/>firmantur et particionantur in illis
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e674">
+          <pc type="pilcrow">¶</pc> 
+          3o probatur autoritatibus
+          <pb ed="#B" n="17-v"/>
+          <lb ed="#B" n="1"/>Et primo Augustinus super Ioannem 18, exponens illud <quote xml:id="cy8th8-d1e137-Qd1e683" source="http://scta.info/resource/io18_36@3-9">Regnum 
+            <lb ed="#B" n="2"/>meum non est de hoc mundo</quote>: <quote xml:id="cy8th8-d1e137-Qd1e688" source="http://scta.info/resource/iuy75t-d1e982-d1e257@2-73">Audite (inquit) ergo Iudei et gentes 
+          <lb ed="#B" n="3"/>audi circuncisio: audi preputium audite omnia regna terrena:
+          non impedio dominationem uestram in hoc mundo: regnum meum
+          <lb ed="#B" n="4"/>non est de hoc mundo. Nolite metuere metu uanissimo quo herodes
+          ille maior cum christus natus nuntiaretur / expauit et tot infantes  
+          <lb ed="#B" n="5"/>vt ad eum mors perueniret occidit: timendo magisque irascendo 
+          <lb ed="#B" n="6"/>crudelior. <quote xml:id="cy8th8-d1e137-Qd1e698" source="http://scta.info/resource/io18_36@3-9">Regnum, inquit, meum non est de hoc mundo</quote>. Quid 
+          <lb ed="#B" n="7"/>vultis amplius: Uenite ad regnum quod non est de hoc mundo; uenite
+          credendo et nolite sevire metuendo</quote> etc. <pc type="virgula">/</pc> 
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e710">
+          <pc type="pilcrow">¶</pc> Et super illud 
+          <lb ed="#B" n="8"/>psalmum 118 <quote xml:id="cy8th8-d1e137-Qd1e717" source="http://scta.info/resource/ps118_161@2-6">principes persecuti sunt me gratis</quote> <unclear>contione 31</unclear>. Idem au<lb ed="#B" break="no" n="9"/>gustinus 
+          <quote xml:id="cy8th8-d1e137-Qd1e725">Quid enim christiani leserant regna terrena <add place="margin-left">quamuis eis regna celorum promiserit Rex eorum. Quid (inquam) leserant regna terrena</add> nunquam eorum 
+          <lb ed="#B" n="10"/>rex milites suos prohibuit impendere. et exhibere que debentur 
+          <lb ed="#B" n="11"/>regibus terre. Nonne de hoc sibi calumniam molientibus iudeis ait. 
+          <lb ed="#B" n="12"/><quote xml:id="cy8th8-d1e137-Qd1e735" source="http://scta.info/resource/mt22_21@7-17">Reddite cesari que cesaris sunt et deo que dei sunt</quote>. Nonne tributum 
+          <lb ed="#B" n="13"/>de ore piscis etiam ipse persoluit. Nonne precursor eius mili<lb ed="#B" break="no" n="14"/>tibus 
+          regni huius quid facere deberent pro eterna salute: non 
+          <lb ed="#B" n="15"/>ait: <quote xml:id="cy8th8-d1e137-Qd1e745">cingulum soluite: arma proiicite: regem vestrum deserite 
+          <lb ed="#B" n="16"/>vt positis deo militare</quote>: sed ait: <quote xml:id="cy8th8-d1e137-Qd1e750">neminem concutiatis: nulli calum<lb ed="#B" break="no" n="17"/>niam 
+          feceritis sufficiat vobis stipendium uestrum</quote>. Nonne unus mi<lb ed="#B" break="no" n="18"/>litum 
+          eius et dilectissimus comes eius commilitonibus suis et quoad modum 
+          <lb ed="#B" n="19"/>christi prouincialibus dixit: <quote xml:id="cy8th8-d1e137-Qd1e760">omnis anima potestatibus sublimioribus 
+          <lb ed="#B" n="20"/>subdita sit</quote>. Et paulo post ait: <quote xml:id="cy8th8-d1e137-Qd1e765">reddite omnibus debita: cui tributum 
+          <lb ed="#B" n="21"/>tributum. cui vectigal vectigal: cui timorem timorem: cui hono<lb ed="#B" break="no" n="22"/>rem 
+          honorem. Nemini quicquam debeatis nisi ut inuicem diligatis</quote> 
+          <lb ed="#B" n="23"/>Non ne precepit ut pro ipsis etiam regibus oraret ecclesia? Quid ergo 
+          <lb ed="#B" n="24"/>eos christiani offenderunt. Quod debitum non reddiderunt: In quo 
+          <lb ed="#B" n="25"/>christiani non sunt terrenis regibus obsequti. Ergo terreni 
+          <lb ed="#B" n="26"/>reges christianos gratis persequti sunt</quote> etc <pc type="virgula">/</pc> hec augustinus
+          <lb ed="#B" n="27"/>Ecce qualiter sententiam fert augustinus contra ea que nostris tem<lb ed="#B" break="no" n="28"/>poribus 
+          per christianos circa infideles potissimum indianas na<lb ed="#B" break="no" n="29"/>tiones 
+          patrata sunt: de quibus nostri minime gloriabuntur 
+          <pb ed="#B" n="18-r"/>
+          <lb ed="#B" n="1"/>quia non gratis sed meritissime si uires illis suppeterent eos per<lb ed="#B" break="no" n="2"/>sequerentur.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e798">
+          <pc type="pilcrow">¶</pc> Chrisostomus quoque super predictum uerbum: 
+          <lb ed="#B" n="3"/><quote xml:id="cy8th8-d1e137-Qd1e804">omnis anima</quote> etc. Homilia 23 huius rei (ait) plurimum 
+          <lb ed="#B" n="4"/>et in aliis epistolis meminit <quote xml:id="cy8th8-d1e137-Qd1e808">quemadmodum famulos heris 
+          <lb ed="#B" n="5"/>suis ita et subditos principibus subiiciens facit autem hoc ideo 
+          <lb ed="#B" n="6"/>ut ostendat Christum leges suas non ad hoc induxisse ut po<lb ed="#B" break="no" n="7"/>litias 
+          euertat: sed ut ad melius instituat et ut pariter doceat 
+          <lb ed="#B" n="8"/>superflua et inutilia bella non esse suscipienda</quote> et infra: <quote xml:id="cy8th8-d1e137-Qd1e819">et 
+          <lb ed="#B" n="9"/>non simpliciter dicit: <mentioned>obediat</mentioned> <pc type="virgula">/</pc> sed <mentioned>subdita sit</mentioned>. Est autem prima consti<lb ed="#B" break="no" n="10"/>tutionis 
+          huius iustitia que et fidelibus cogitationibus ac membris 
+          <lb ed="#B" n="11"/>satis et decora est et honesta: nimirum quod a deo ordinata 
+          <lb ed="#B" n="12"/>sint ista</quote>. Et longe inferius ait idem chrisostomus. <quote xml:id="cy8th8-d1e137-Qd1e839">Si enim ista 
+          <lb ed="#B" n="13"/>Paulus tum cum gentiles adhuc essent principes precepit: 
+          <lb ed="#B" n="14"/>multo magis oportet ea fidelibus exhibere</quote> etc <pc type="virgula">/</pc> hec chrisostomus.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e850">
+          <lb ed="#B" n="15"/><pc type="pilcrow">¶</pc> Confirmat premonstrata autoritas uniuersalis ecclesieque 
+          <lb ed="#B" n="16"/>in festo epiphaniae canit ex probando herodem regem inquiens: 
+          <lb ed="#B" n="17"/><quote xml:id="cy8th8-d1e137-Qd1e859">hostis herodis impie christum uenire quid timet; non eripit 
+          <lb ed="#B" n="18"/>mortalia qui regna dat celestia</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e865">
+          <pc type="pilcrow">¶</pc> Ecce quam manifeste ostenditur 
+          <lb ed="#B" n="19"/>autoritatibus et rationibus ultra plurima alique alibi plenius adduximus 
+          <lb ed="#B" n="20"/>legem christi non solum non tollere principibus infidelibus 
+          <lb ed="#B" n="21"/>dignitates et regna vel iura sua regalia sed confirmare potius et 
+          <lb ed="#B" n="22"/>stabilire. Quoniam contrarium esset respublicas et ordinem quem ipse 
+          <lb ed="#B" n="23"/>cum patre et spiritu sancto stabiliuit euertere. Quod S. Thomas. super 1a 
+          <lb ed="#B" n="24"/>ad Corinthios. c. 6, non siliuit dicens: esse <quote xml:id="cy8th8-d1e137-Qd1e883">contra ius diuinum impe<lb ed="#B" break="no" n="25"/>dire 
+          subditos etiam christianos ne compareant quotiens uocati fuerint 
+          <lb ed="#B" n="26"/>coram principibus uel iudicibus infidelibus</quote>. hec ille
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e891">
+          <pc type="pilcrow">¶</pc> Uerum si 
+          <lb ed="#B" n="27"/>preallegata non sufficiunt: sufficiat postremo decretum et de<lb ed="#B" break="no" n="28"/>claratio 
+          ipsius apostolice sedis per <ref xml:id="cy8th8-d1e137-Rd1e900">papam Paulum 3m qui in bulla 
+          <lb ed="#B" n="29"/>sua incipiente <quote xml:id="cy8th8-d1e137-Qd1e904">sublimis deus sic dilexit humanum genus</quote></ref>. Ubi 
+          <lb ed="#B" n="30"/>concludit decernendo et declarando: <quote xml:id="cy8th8-d1e137-Qd1e909">indos nostros et omnes alias
+          <lb ed="#B" n="31"/>gentes ad notitiam christianorum in posterum deuenturas licet 
+          <lb ed="#B" n="32"/>extra fidem christi existant sua tamen libertate ac rerum 
+          <lb ed="#B" n="33"/>suarum dominio priuatos seu priuandos non esse: imo libertate et 
+          <pb ed="#B" n="18-v"/>
+          <lb ed="#B" n="1"/>dominio huiusmodi uti potiri et gaudere libere et licite posse: 
+          <lb ed="#B" n="2"/>nec in seruitutem redigi debere: ac quicquid secus fieri contigerit 
+          <lb ed="#B" n="3"/>irritum et inane nullius roboris vel momenti ipsosque indos 
+          <lb ed="#B" n="4"/>et alias gentes verbi predicatione et exemplo bone uite 
+          <lb ed="#B" n="5"/>ad dictam fidem christi inuitandos fore auctoritate apostolica per 
+          <lb ed="#B" n="6"/>presentes decernimus et declaramus</quote> etc. <pc type="virgula">/</pc> Hec ibi
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e938">
+          patet ergo 
+          <lb ed="#B" n="7"/>infideles iuste possidere regna et principatus et dominia et iu<lb ed="#B" break="no" n="8"/>risdictiones 
+          non solum super subditos infideles sed etiam 
+          <lb ed="#B" n="9"/>super fideles si contingat iure aliquo uel aliqua ratione sub<lb ed="#B" break="no" n="10"/>ditos 
+          esse illis. et per consequens reges uel principes infideles maxime 
+          <lb ed="#B" n="11"/>fidem catholicam suscipientes: non amittunt regna principa<lb ed="#B" break="no" n="12"/>tus 
+          et Iura regalia cetera <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
