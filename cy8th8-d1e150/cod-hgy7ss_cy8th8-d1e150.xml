@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 7</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 7</title>
+          <date when="2025-07-31">July 31, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="18-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e150">
+        <head xml:id="cy8th8-d1e150-Hd1e97">Sectio 7</head>
+        <p xml:id="cy8th8-d1e150-d1e99">
+          <lb ed="#B" n="13"/>§ 7
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e104">
+          <lb ed="#B" n="14"/><pc type="pilcrow">¶</pc> consideratio 2a quod quilibet princeps de mundo papa impera<lb ed="#B" break="no" n="15"/>tor 
+          et Rex cum sit homo et sic animal rationale: nulla potestas uel 
+          <lb ed="#B" n="16"/>autoritas spiritualis uel temporalis potest principem eximere aut 
+          <lb ed="#B" n="17"/>absoluere a lege naturali vel dictamine recte rationis uel legis eterne 
+          <lb ed="#B" n="18"/>ut per docte inquit baldus in l. si aquam 6. et 7 columna C. de 
+          <lb ed="#B" n="19"/>servitutibus et aqua pluria et allegatur l. 2, ff. de usufructu earum rerum et 
+          <lb ed="#B" n="20"/>innocentius in c. bone el. 2o de postulatione prelatorum.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e124">
+          <pc type="pilcrow">¶</pc> Quinimo non solum 
+          <lb ed="#B" n="21"/>legi nature et eterne princeps omnis subiectus est: verum etiam 
+          <lb ed="#B" n="22"/>legibus iustis suis quas ipse condidit quantum ad vim directiuam se<lb ed="#B" break="no" n="23"/>cundum
+          iudicium dei et in foro conscientie. Cuius ratio est: 
+          <lb ed="#B" n="24"/>quia cum leges iuste quas principes condunt in tantum iuste 
+          <lb ed="#B" n="25"/>sint et per consequens vim habent obligandi in quantum a lege eter<lb ed="#B" break="no" n="26"/>na 
+          et naturali seu diuinaque a rationabili dei voluntate proficiscuntur 
+          <lb ed="#B" n="27"/>tanquam regulis omnium actuum humanorum regulantur et de<lb ed="#B" break="no" n="28"/>riuari 
+          noscuntur quarum cuilibet necessario princeps omnis 
+          <pb ed="#B" n="19-r"/>
+          <lb ed="#B" n="1"/>subditur et a neutra est solutus relinquitur quod quilibet princeps etiam 
+          <lb ed="#B" n="2"/>papa legibus iustis humanitus positis etiam quas ipse tulerit secun<lb ed="#B" break="no" n="3"/>dum 
+          iudicium Dei (ui cuius legibus scilicet naturali et eterna 
+          <lb ed="#B" n="4"/>nullus homo est exclusus) sit subiectus: et ubicunque legis ratio 
+          <lb ed="#B" n="5"/>seu mens iustum et rectum suaserit: eam seruare et non contra 
+          <lb ed="#B" n="6"/>eum facere teneatur. De quo S. Thomas 1 2 q. 96 articulo 4 et q. 95
+          <lb ed="#B" n="7"/>articulo 2 et 3 in corpore questionis.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e164">
+          <pc type="pilcrow">¶</pc> Est autem lex naturalis in nobis 
+          <lb ed="#B" n="8"/>quedam participatio legis eterne que talem conceptionem hominibus 
+          <lb ed="#B" n="9"/>indidit qua dirigi possent ad conuenienter agendum in actionibus 
+          <lb ed="#B" n="10"/>propriis. Lex vero eterna secundum Augustinum libro 1o de libero 
+          <lb ed="#B" n="11"/>arbitrio. summa ratio cui semper obtemperandum cuius notio no<lb ed="#B" break="no" n="12"/>bis 
+          impressa est in quantum scilicet omnis cognitio veritatis est 
+          <lb ed="#B" n="13"/>quedam irradiatio et participatio legis eterne que est ueritas in<lb ed="#B" break="no" n="14"/>commutabilis
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e186">
+          <pc type="pilcrow">¶</pc> Et in libro. 22. contra faustum idem sanctus ait lex 
+          <lb ed="#B" n="15"/>eterna est diuina mens seu voluntas ordinem naturalem seruari 
+          <lb ed="#B" n="16"/>iubens turbari vetans: Unde non minus proprie dicitur lex 
+          <lb ed="#B" n="17"/>preceptum vel prohibitio ipsa cognitio agendorum uel non agen<lb ed="#B" break="no" n="18"/>dorum: 
+          quam ipsa ueritas enuncians quid agendum uel non agendum. 
+          <lb ed="#B" n="19"/>Unde hugo de sancto victore libro 1o de sacramentis parte 6 
+          <lb ed="#B" n="20"/>c. <quote xml:id="cy8th8-d1e150-Qd1e204">Quid cognitio faciendorum fuit nisi quedam ad cor hominis 
+          <lb ed="#B" n="21"/>facta preceptio? Et quid rursus cognitio vitandorum: nisi 
+          <lb ed="#B" n="22"/>prohibitio</quote>
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e212">
+          <pc type="pilcrow">¶</pc> Ex quo patet quod non pro libitu cuiuscunque legislatoris 
+          <lb ed="#B" n="23"/>lex aut constitutio consistit: sed in recta et regulata ratione. 
+          <lb ed="#B" n="24"/>Et propterea Gratianus dixit: <quote xml:id="cy8th8-d1e150-Qd1e221">lex humana est quicquid <del rend="strikethrough">ratio</del> 
+          <lb ed="#B" n="25"/>ratione consistit</quote> <ref xml:id="cy8th8-d1e150-Rd1e229">1 dist., c. consuetudo</ref>. Et <ref xml:id="cy8th8-d1e150-Rd1e232">Baldus in c. 1, de 
+          <lb ed="#B" n="26"/>constitutionibus</ref> ait quod <quote xml:id="cy8th8-d1e150-Qd1e237">lex consistit in substantia rationis est communis 
+          <lb ed="#B" n="27"/>omnibus mundi hominibus ergo lex fundata in substantia 
+          <lb ed="#B" n="28"/>rationis naturalis communis esse oportet cunctis hominibus ubicunque 
+          <lb ed="#B" n="29"/>et quotiescunque casus contingat in quo ratio talis legis occu<lb ed="#B" break="no" n="30"/>rrerit</quote> 
+          inde est quod ratio legis semper magis debet attendi quam 
+          <lb ed="#B" n="31"/>ipsa lex id est legis uerba. <ref xml:id="cy8th8-d1e150-Rd1e250">l. 1, c. quesit longa consuetudo</ref> et <ref xml:id="cy8th8-d1e150-Rd1e252">l. cum 
+          <lb ed="#B" n="32"/>muliere ff</ref> saluto matrimonio. Et ratio finalis est anima legis secundum 
+          <lb ed="#B" n="33"/>Baldum in l. siquis seruo, C. de furtis. unde ubicunque habet locum 
+          <pb ed="#B" n="19-v"/>
+          <lb ed="#B" n="1"/>ratio legis, habet locum ipsa lex: C. de interdictis. l. 1 etiam si verba 
+          <lb ed="#B" n="2"/>contradicant secundum archidiaconum et Geminianum in c. ubi periculum de 
+          <lb ed="#B" n="3"/>constitutionibus lib. 6 l. scire oportet § aliud ff. de excusationibus tuto et verba 
+          <lb ed="#B" n="4"/>a sua significatione cadunt cum res aliter salua esse non potest 
+          <lb ed="#B" n="5"/>de qua agitur ff. de inutilibus stipulationibus § quotiens et 2. q. 2. c. omnes 
+          <lb ed="#B" n="6"/>et vide glossam in c. propterea de regulis iuris. hec satis aperte fatetur 
+          <lb ed="#B" n="7"/>imperator: <quote xml:id="cy8th8-d1e150-Qd1e277">digna inquit vox est maiestate regnantis se legibus alli<lb ed="#B" break="no" n="8"/>gatum 
+          principem profiteri quia de iuris autoritate principis pendet 
+          <lb ed="#B" n="9"/>auctoritas: et re uera maius imperio est submittere legibus principatum 
+          <lb ed="#B" n="10"/>ut nihil sibi princeps licere opinetur: quod a iustitie equitate <sic>discondet</sic></quote> 
+          <lb ed="#B" n="11"/>hec ex illo iuncta glossa C. de legibus, l. digna uox.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e290">
+          <pc type="pilcrow">¶</pc> Patet igitur qualiter 
+          <lb ed="#B" n="12"/>principes mundi etiam vicarius christi subiecti sunt rationibus 
+          <lb ed="#B" n="13"/>legum suarum et eas tenentur obseruare: non quia leges sic dicunt: 
+          <lb ed="#B" n="14"/>sed quia ratio sic uult. <quote xml:id="cy8th8-d1e150-Qd1e301">dicuntur tamen principes legis nexibus ab<lb ed="#B" break="no" n="15"/>soluti 
+          non quia eis iniqua liceant: sed quia ii esse debent qui non 
+          <lb ed="#B" n="16"/>timore pene sed amore iustitie <sic>ulant</sic> equitatem reipublice pro<lb ed="#B" break="no" n="17"/>curent 
+          vtilitatem et in omnibus aliorum commoda priuate pre<lb ed="#B" break="no" n="18"/>ferant 
+          voluntati</quote> secundum polycratum lib. 4, c. 2. dicuntur preterea 
+          <lb ed="#B" n="19"/>principes supra leges etc <pc type="virgula">/</pc>. supra leges esse maxime papa et im<lb ed="#B" break="no" n="20"/>perator 
+          in quantum eas ex rationabili et iusta causa non autem pro libito 
+          <lb ed="#B" n="21"/>sue voluntatis possunt mutare et in eis pro loco et tempore quandocumque 
+          <lb ed="#B" n="22"/>casus rationabilis occurrerit cum aliis secunque rationabiliter
+          <lb ed="#B" n="23"/>dispensare vt in c. licet de constitutionibus lib. 6 et 1. q. 1 c. si ergo sine 
+          <lb ed="#B" n="24"/>causa autem legitima veniendo contra ius positiuum non seruando 
+          <lb ed="#B" n="25"/>legem quam princeps tulit peccat eo genere peccati et interdum gra<lb ed="#B" break="no" n="26"/>uius 
+          ratione scandali quo alii eas transgredientes ut legitur et notatur 
+          <lb ed="#B" n="27"/>in c. Que in ecclesiarum de constitutionibus. Unde ex hoc suo contra conuen<lb ed="#B" break="no" n="28"/>tiones 
+          et pacta sua quibus <del rend="strikethrough">cunque</del> cum subdito contrahit vt in c. 
+          <lb ed="#B" n="29"/>1 de probationibus et ibi late per doctores.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e346">
+          <pc type="pilcrow">¶</pc> debet nempe facere ut 
+          <lb ed="#B" n="30"/>bonus paterfamilias: cum data fuerit ei potestas pascendi oues: 
+          <lb ed="#B" n="31"/>non turbandi aut molestandi. Et debet procedere ex rectitu<lb ed="#B" break="no" n="32"/>dine 
+          iustitie et equitatis non ex affectione speciali ut nota in d. 
+          <lb ed="#B" n="33"/>c. que in ecclesiarum et in c. de multa. de prebendis.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e360">
+          <pc type="pilcrow">¶</pc> Hoc autem 
+          <pb ed="#B" n="24"/>
+          <lb ed="#B" n="1"/>semper de principe presumendum est: nisi expresse appareat 
+          <lb ed="#B" n="2"/>contrarium potissimum de christi sanctissimo vicario. Princeps 
+          <lb ed="#B" n="3"/>enim cum sit custos iustitie non presumitur velle alicui ius detra<lb ed="#B" break="no" n="4"/>here 
+          ff. de vulgari substitutione, l. ex facto. Et adducit Baldus in l. 2. 
+          <lb ed="#B" n="5"/>C. de seruis. et quod semper habeat pro oculis rationem sequi naturalem 
+          <lb ed="#B" n="6"/>et a preceptis naturalis et eternis legis nullatenus declinare: atque 
+          <lb ed="#B" n="7"/>actus omnes suos non tam a iustitia poliquam etiam fori regulare: 
+          <lb ed="#B" n="8"/>patet per illud quod imperator protestatur in de usi feudorum titulo de 
+          <lb ed="#B" n="9"/>pace tenenda in principio per fredericum. <quote xml:id="cy8th8-d1e150-Qd1e387">Nos tam diuinas quam humanas leges 
+          <lb ed="#B" n="10"/>in suo uigore manere cupientes: et omnibus personis ius suum 
+          <lb ed="#B" n="11"/>conseruare volentes</quote> etc. <pc type="virgula">/</pc> et in l. digna vox C. de legibus et ipse 
+          <lb ed="#B" n="12"/><sic>sumus</sic> presul fatetur nullam transgrediendi iura diuina et na<lb ed="#B" break="no" n="13"/>turalia 
+          et etiam ordinationes apostolorum et dicta prophetarum 
+          <lb ed="#B" n="14"/>habere potestatem: sed defendere illa usque ad animam et sanguinem 
+          <lb ed="#B" n="15"/><del rend="strikethrough">ut in</del> ut 25 q. 1 c. sunt quidam ubi sic dicitur: <quote xml:id="cy8th8-d1e150-Qd1e409">sciendum vero 
+          <lb ed="#B" n="16"/>summopere est: quia inde nouas leges condere potest scilicet Roma<lb ed="#B" break="no" n="17"/>nus 
+          Pontifex: unde euangeliste aliquid et prophete nequaquam 
+          <lb ed="#B" n="18"/>dixerunt. Ubi uero aperte dominus uel eius apostoli et eos sequentes 
+          <lb ed="#B" n="19"/>sancti patres sententialiter aliter diffinierunt: ibi non nouam 
+          <lb ed="#B" n="20"/>legem Romanus Pontifex: sed potius quod predicatum est usque 
+          <lb ed="#B" n="21"/>ad animam et sanguinem confirmare debet. Si enim quod docuerunt 
+          <lb ed="#B" n="22"/>apostoli et prophete destruere (quod absit) niteretur: non senten<lb ed="#B" break="no" n="23"/>tiam 
+          dare sed magis errare conuinceretur sed hoc procul sit ab eis qui semper domini ecclesiam 
+          <lb ed="#B" n="24"/>contra luporum insidias optime 
+          <lb ed="#B" n="25"/>custodierunt</quote>. hec ibi. Et q. 2, c. amputato. Ubi Julius papa ita 
+          <lb ed="#B" n="26"/>inquit: <quote xml:id="cy8th8-d1e150-Qd1e435">Amputato totius usurpationis excessu: nullus presumat 
+          <lb ed="#B" n="27"/>que sibi non uidentur esse concessa: ea que sunt ab apostolis eorumque 
+          <lb ed="#B" n="28"/>successoribus instituta nulla desidia negligantur: nulla dissen<lb ed="#B" break="no" n="29"/>ssione 
+          uiolentur. nulla concertatione turbentur</quote>. hec ibi 
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e445">
+          <pc type="pilcrow">¶</pc> Protesta<lb ed="#B" break="no" n="30"/>tur 
+          insuper summus pontifex sue intentionis nunquam esse aliquid 
+          providere aut mandare per suas literas per quod alicui pre<lb ed="#B" break="no" n="31"/>iudicium 
+          irrogetur ut in c. licet de officio ordinarii. ubi sic dicitur 
+          <lb ed="#B" n="32"/><quote xml:id="cy8th8-d1e150-Qd1e455">quia tamen intentionis nostre nec fuit nec esse debuit iurisdictioni 
+          <lb ed="#B" n="33"/>tue per mandatum huiusmodi derogare</quote> et in c. super eo de officio de<lb ed="#B" break="no" n="34"/>legati
+          <quote xml:id="cy8th8-d1e150-Qd1e463">non tamen est nostre intentionis diocesis archiepiscopo preiudicium
+          <pb ed="#B" n="20-v"/>
+          <lb ed="#B" n="1"/>generare</quote> et in c. ex multiplici de decimis: <quote xml:id="cy8th8-d1e150-Qd1e470">unde quia non fuit
+          <lb ed="#B" n="2"/>nostre intentionis per priuilegium nostrum conuentioni deroga<lb ed="#B" break="no" n="3"/>re
+          predicte</quote> et de rescriptis c. ad aures quod <quote xml:id="cy8th8-d1e150-Qd1e477">cum <!-- edition has "non"--> sit intentionis nostre 
+          <lb ed="#B" n="4"/>(scilicet) uni concedere beneficium quod aliud non ledat 
+          <lb ed="#B" n="5"/>uel grauet</quote> et in c. olim de consue ibi sine preiudicio a<lb ed="#B" break="no" n="6"/>lieno 
+          etc 25 q. 2. c. de ecclesiasticis et in c. 1, de causa
+          <lb ed="#B" n="7"/>et proprie. <quote xml:id="cy8th8-d1e150-Qd1e490">Nec nos contra inauditam partem aliquid
+          possumus diffinire</quote> Sunt etiam alia innumera iura que ad 
+          <lb ed="#B" n="8"/>probationem huiusmodi possunt adduci. Et ratio predictorum 
+          <lb ed="#B" n="9"/>est ne scilicet inde nascantur iniurie unde iura nascuntur 
+          <lb ed="#B" n="10"/>C. Unde ui, l. meminerint. Et de accusationibus c. qualiter et quando
+          <lb ed="#B" n="11"/>el. 1o et c. peruenit 21 q. 1 et de rescriptis, c. nonnulli.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e503">
+          <pc type="pilcrow">¶</pc> Ap<lb ed="#B" break="no" n="12"/>paret 
+          igitur rectitudo intentionis et amor rectitudinis ser<lb ed="#B" break="no" n="13"/>vandi 
+          et non ledendi iustitiam diuinam maxime et in naturalem 
+          <lb ed="#B" n="14"/>in preiudicium alicuius apostolici principis. Scit enim melius ipse 
+          <lb ed="#B" n="15"/>quod diuina iustitia patrocinante: aliena iura et que unicuique de iure 
+          <lb ed="#B" n="16"/>naturali et diuino competunt fixa et immutabilia esse oportet. Quia 
+          <lb ed="#B" n="17"/>iustitia diuina necessaria est: ideo non potest infringi nec distin<lb ed="#B" break="no" n="18"/>gui 
+          preiudicialiter per ius positiuum uel legem humanam Ut in 
+          <lb ed="#B" n="19"/>c. fi. de prescriptionibus. Quia ciuilis quidem ratio ciuilia iura perimere 
+          <lb ed="#B" n="20"/>potest naturalia uero non utique iusti. de legitimis agna. tutoribus § fi. et ff. de
+          <lb ed="#B" n="21"/>regulis iuris l. iure sanguinis. Nec contraria consuetudo hoc po<lb ed="#B" break="no" n="22"/>terit 
+          c. frustra 8 dist. et c. Ray nutius de testamentis Imo nul<lb ed="#B" break="no" n="23"/>la 
+          lex potest tollere ea que continent equitatem naturalem ff de ca<lb ed="#B" break="no" n="24"/>pite 
+          minutis l. eas obligationes Ratio enim naturalis continens 
+          <lb ed="#B" n="25"/>ius necessarium in omnibus casibus id est non solum in generibus sin<lb ed="#B" break="no" n="26"/>gulorum: 
+          sed in singulis generum non potest mutari ut notabiliter 
+          <lb ed="#B" n="27"/>dixit Baldus in simili in c. fi. de prescriptionibus 3. columna allegat glossa 
+          <lb ed="#B" n="28"/>in l. 2. ff. de usufructu earum rerum que usu consumuntur <pc type="virgula">/</pc>
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e549">
+          <lb ed="#B" n="29"/><pc type="pilcrow">¶</pc> 3a consideratio quod causa finalis prefate institutionis concessionis 
+          <lb ed="#B" n="30"/>aut donationis papalis regum nostrorum ad imperium illius 
+          <lb ed="#B" n="31"/>orbis fuit non quod pretenderet summus pontifex reges nostros hys<lb ed="#B" break="no" n="32"/>paniarum
+          principaliter ad maiorem statum sublimare aut dona<lb ed="#B" break="no" n="33"/>re 
+          amplioribus diuitiis seu locupletiores facere: sed causa omni<pb ed="#B" n="21-r"/><lb ed="#B" break="no" n="1"/>no 
+          finalis fuit euangelii predicatio et fidei aut cultus diuini 
+          <lb ed="#B" n="2"/>et religionis christiane dilatatio et habitatorum illius prefati 
+          <lb ed="#B" n="3"/>orbis conuersio et salus et sic ob eorum profectum et fauorem. Hec 
+          <lb ed="#B" n="4"/>siquidem intendit summus pontifex principaliter et finaliter: 
+          <lb ed="#B" n="5"/>non aliquod commodum regum nostrorum uel aliquam eorum 
+          <lb ed="#B" n="6"/>temporalem utilitatem: nisi longe se per accidens.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e579">
+          Probatur tum 1 
+          <lb ed="#B" n="7"/>quia nulla causa subfuit nec subesse potuit de iure intromittendi se 
+          <lb ed="#B" n="8"/>summus pontifex de temporalibus infidelium disponendis internis et 
+          <lb ed="#B" n="9"/>regnis propriis tam remotae ac sine alicuius preiudicio de ecclesia
+          <lb ed="#B" n="10"/>universali uiuentium: quorum notitia nobis aut nostra illis nunquam
+          <lb ed="#B" n="11"/>ante hac fuit audita nisi causa predicande fidei et salutis uie 
+          <lb ed="#B" n="12"/>aperiende uniuersis gentibus illis.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e595">
+          Hoc de se patet. cum notum sit 
+          <lb ed="#B" n="13"/>apud theologos et etiam apud canonistas et doctos uiros super cap. 
+          <lb ed="#B" n="14"/>Nouit de iudiciis et c. per uenerabilem: extra qui filii sint legitimi non se 
+          <lb ed="#B" n="15"/>intromittere vicarium christi de temporalibus extra ecclesiam 
+          <lb ed="#B" n="16"/>id est inter fideles nisi ex magna et ardua causa pro quo facit du<lb ed="#B" break="no" n="17"/>rius 
+          <ref xml:id="cy8th8-d1e150-Rd1e608">dictum <name xml:id="cy8th8-d1e150-Nd1e610">Pauli de castro</name> in consilio 281, incipiens In
+          Christi nomine, in penultima columne parte</ref>, ubi ait quod <quote xml:id="cy8th8-d1e150-Qd1e613">papa non potest alicui 
+          <lb ed="#B" n="18"/>laico sibi non subiecto temporaliter aliquomodo et cum causa per suum 
+          <lb ed="#B" n="19"/>rescriptum auferre dominium rei sue quia cum iste sit actus 
+          <lb ed="#B" n="20"/>iurisdictionalis ut notatur in l. C. si contra ius et utilitatem publicam 
+          <lb ed="#B" n="21"/>iurisdictio non potest exerceri in non subditos argumentum c. per uene<lb ed="#B" break="no" n="22"/>rabilem 
+          qui filii sint legitimi</quote>. haec ex illo: vide felinum in c. Que in ecclesiarum 
+          10 columna in 3 declaratione de constitutionibus ubi late tractat hanc mate<lb ed="#B" break="no" n="23"/>riam: 
+          sed uerissimum est quod cum causa potest ergo longe minus 
+          <lb ed="#B" n="24"/>extra ecclesiam id est de bonis temporalibus infidelium quia 
+          nihil ad eum <quote xml:id="cy8th8-d1e150-Qd1e630" source="http://scta.info/resource/Icor5_12@4-9">de his qui foris sunt iudicare</quote> <ref xml:id="cy8th8-d1e150-Rd1e633">1 ad corinthios 5</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e636">
+          <pc type="pilcrow">¶</pc> Tum 
+          <lb ed="#B" n="25"/>2o probatur ex uerbis ipsius Romani pontificis expressis in literis
+          <lb ed="#B" n="26"/>concessionis seu institutionis prefate ubi sic ait: <quote xml:id="cy8th8-d1e150-Qd1e645">Cupientes ut ipsum 
+          <lb ed="#B" n="27"/>nomen saluatoris nostri in partibus illis inducatur hortamur 
+          <lb ed="#B" n="28"/>uos quam plurimum in domino pro sacri lauacri susceptione in qua 
+          <lb ed="#B" n="29"/>mandatis apostolicis obligati estis et uiscera misericordie Domini nostri 
+          <lb ed="#B" n="30"/>iesu christi attente requirimus: ut cum expeditionem huiusmodi omnino 
+          <lb ed="#B" n="31"/>prosequi et sumere prona mente orthodoxe fidei zelo intendatis: po<pb ed="#B" n="21-v"/><lb ed="#B" break="no" n="1"/>pulos 
+          in huiusmodi insulis et terris de gentes ad christia<lb ed="#B" break="no" n="2"/>nam 
+          religionem suscipiendum inducere uelitis et debeatis</quote> 
+          <lb ed="#B" n="3"/>etc. Et sepe ostendit hoc summus pontifex in eisdem aposto<lb ed="#B" break="no" n="4"/>licis 
+          literis uidelicet concedere superioritatem orbis illius propter 
+          <lb ed="#B" n="5"/>fidem predicandam et conuersionem incolarum eius tanquam propter 
+          <lb ed="#B" n="6"/>causam finalem aliud certe non concessurus vt plenissime pro<lb ed="#B" break="no" n="7"/>bauimus 
+          in nostro tractatu comprobatio de iure regio in fine 
+          <lb ed="#B" n="8"/>probationis prime conclusionis
+        </p>
+        <p xml:id="cy8th8-d1e150-d1e678">
+          ergo non ut Reges nostros subli<lb ed="#B" break="no" n="9"/>maret 
+          ad altiorem statum aut reddere locupletiores principali<lb ed="#B" break="no" n="10"/>ter:
+          sed principaliter et finaliter propter fidei et cultus di<lb ed="#B" break="no" n="11"/>uini 
+          ampliationem illarumque gentium conuersionem et sic ob earum 
+          <lb ed="#B" n="12"/>profectum et fauorem. hoc etiam probauimus late in prima 
+          <lb ed="#B" n="13"/>propositione tractatus nostri cui titulus est de bello Xalisqui<lb ed="#B" break="no" n="14"/>no
+          etc. <pc type="virgula">/</pc>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
