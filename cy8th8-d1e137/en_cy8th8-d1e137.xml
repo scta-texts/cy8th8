@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 6</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 6</title>
+          <date when="2025-08-04">August 04, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="15-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e137">
+        <head xml:id="cy8th8-d1e137-Hd1e97">Section 6</head>
+        <p xml:id="cy8th8-d1e137-d1e99">
+          § 6
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e106">
+          Nevertheless for a greater declaration and solution of this object 
+          some considerations should be put forward.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e115">
+          The first consideration is that 
+          since the dominons and jurisdictions, 
+          status and royal dignities are 
+          belong to infidels by the 
+          law of nations (ius gentium) and natural law, 
+          and have been confirmed by both 
+          divine law and especially evangelical law,
+          it is manifest that the catholic faith or the Christian religion 
+          do not deprive infidel kings or lords from their status, 
+          dignities, and goods or other rights and dominion 
+          which they have over their subjects by natural law and the law of the people,
+          but on the contrary the faith justifies these rights.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e138">
+          And that they have been approved by divine law is clear 
+          from the old law in which it is mentioned a thousand times 
+          about infidel and idolatrous kings. 
+          Of the first king Nimrod, in Genesis 10: 
+          <quote xml:id="cy8th8-d1e137-Qd1e155">the beginning of his kingdom was Babylon</quote>. 
+          And also the four kings of Sodom and Gomorrah in Genesis 14.
+          And the thirty kings of Canaan, in the book of Numbers. 
+          And throughout nearly all books of divine scripture 
+          there is frequent memory of idolatrous kings. 
+          And, while not mentioning many other things, 
+          Nebuchadnezzar is called king by the divine mouth itself: 
+          <quote xml:id="cy8th8-d1e137-Qd1e169">Behold, he says, I will bring against Tyre
+          Nebuchadnezzar, king of Babylon from the north, king of kings, with horses</quote> etc.
+          And to this Daniel said, not for the sake of flattery
+          but in order to reveal the truth,
+          <quote xml:id="cy8th8-d1e137-Qd1e183">
+            you are the king of kings
+            and the God of heaven gave to the kingdom and fortitude and empyreum and glory
+          </quote>
+          etc
+          <ref>Daniel 2</ref>.
+          From this therefore God 
+          his own scriptures calls kings those who are infidels and even idolatrous kings. 
+          They are kings 
+          <quote xml:id="cy8th8-d1e137-Qd1e195">
+            because he himself said it and it was done
+          </quote>. 
+          <ref>Psalm 148</ref>
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e179">
+          And the patriarchs and prophets also showed reverence and obedience 
+          to the infidel, idolatrous, and wicked kings 
+          under whose rule they lived, as saint Joseoph did to Pharaoh, 
+          Daniel to Nebuchadnezzar, Mordecai and Esther to Ahasuerus,
+          and in Baruch chapter 1, it is said, 
+          <quote xml:id="cy8th8-d1e137-Qd1e220">
+            Pray for the life of Nebuchadnezzar, 
+            king of Babylon, 
+            and for the life of Belshazzar, 
+            his son, that their days may be like the days of heaven on earth, 
+            so that we may live under the shadow of Nebuchadnezzar 
+            and the shadow of Belshazzar, his son,
+            and serve them for many days
+          </quote> etc.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e203">
+          The Prophetic King David also honored Saul 
+          after God had withdrawn from him because he was still the king 
+          and was so as long as he lived.
+          Thus Augustine says in his questions on the old and new testament, question 35,
+          <quote xml:id="cy8th8-d1e137-Qd1e247">
+            For what reason did David call Saul the anointed of the Lord 
+            and give honor to him after God had left him. 
+            David was not unaware that the divine tradition 
+            is in the office of the royal order. 
+            Therefore he honored Saul in this same tradition, 
+            lest he would seem to do injury to God, 
+            who had decreed that there should be honor for these orders.
+            For the king has the image of God, just as the bishop bears the image of Christ, 
+            therefore as long as he is in this tradition 
+            the king should be honored, 
+            even if not for his own sake or on account of the order.
+            Thus the apostle says in Romans 13. 
+            <quote xml:id="cy8th8-d1e137-Qd1e270">
+              Be subject to the higher authorities, 
+              for there is no power unless it is from God. 
+              For those powers that exist are from God
+            </quote>.
+            this is the reason why when a gentile is in power 
+            we still honor them, even though they are unworthy
+            and, while holding God's office, are actually serving the devil. 
+            For power demands honor because it deserves honor. 
+            For thus a future famine was revealed in a dream to the pharoah, 
+            and Nabechadnezzar along among those assisting him 
+            saw the son of God in the furnace, 
+            not because he had his own merit, 
+            for he wanted to be worshipped in his own idol, 
+            but through the merit of the royal order</quote>.
+            This is what Augustine says in the text.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e258">
+          <pc type="pilcrow">¶</pc> Ecce qualiter reges infideles idolatre ac 
+          pessimi habent regnum imperium: et fortitudinem et gloriam 
+          id est dignitatis <sic>excelentiam</sic> et ordinem regalem a deo celi 
+          et sunt in traditione <pc type="virgula">/</pc> id est in officio regali a deo constituti quamuis 
+          infideles propterque honorem et reuerentiam meremur imaginem
+          dei gerentes Unde apparet prefatas dignitates et status 
+          regales dominia et iurisdictiones introductas lege naturali 
+          et gentium confirmatas per ius dinuinum veteris testamenti.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e284">
+          <pc type="pilcrow">¶</pc> Quod autem sint approbata et confirmata per legem euangelicam
+          sunt innumere autoritates et prima sic hec ipsius 
+          autoris iustitie christi. <ref xml:id="cy8th8-d1e137-Rd1e294">Matthei 22</ref> <quote xml:id="cy8th8-d1e137-Qd1e296" source="http://scta.info/resource/mt22_21@7-11">reddite que sunt cesaris</quote> 
+          etc. Quibus uerbis docuit tributum et Iura regalia cesari 
+          Ethnico infideli et in eo vniuersis aliis ethnicis idolatris
+          et infidelibus reddi. Reddite (inquit) non date quia reddere 
+          signat solutionem: solutio autem supponit debitum: debetur 
+          nanque regibus etiam infidelibus tributum naturalis iustitie 
+          obligatione ut patet ad Romanos ubi supra: <quote xml:id="cy8th8-d1e137-Qd1e310" source="http://scta.info/resource/rom13_7@1-15">reddite omnibus 
+          debita cui tributum: cui vectigal vectigal: cui 
+          honorem honorem</quote> etc Loquebatur nanque apostolus de principibus 
+          infidelibus quibus tunc temporis plenus erat mundus
+          <pb ed="#B" n="16-r"/>
+          quos tamen appellat ministros Dei in hoc ipsum seruientes
+          <quote xml:id="cy8th8-d1e137-Qd1e325" source="http://scta.info/resource/rom13_5@1-4">Ideoque necessitate subditi estote</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e329">
+          hoc idem solliciti apostoli 
+          promulgare procurabant omnibus fidelibus et primis christianis 
+          precipientes ut obedientiam et honorem et iura principibus 
+          infidelibus obseruarem tanquam unum de preceptis diuinis 
+          euangelice legis 1 ad Thimotheum 6: «<quote xml:id="cy8th8-d1e137-Qd1e339" source="http://scta.info/resource/Itim6_1@1-17 http://scta.info/resource/Itim6_2@1-16">Quicunque sunt sub iugo (glosa 
+          interlinearis: <quote xml:id="cy8th8-d1e137-Qd1e343" source="http://scta.info/resource/go-Itim6-d1e99@1-1">infidelium</quote> serui<sic>)</sic> dominos suos omni honore
+          dignos arbitremur ne nomen domini blasphemetur. Qui autem
+          fideles habent dominos non contennant: sed magis seruiant 
+          quia fideles sunt</quote>. Et Ad Titum 3: <quote xml:id="cy8th8-d1e137-Qd1e357" source="http://scta.info/resource/tit3_1@1-13">Admone illos principibus 
+          et potestatibus subditos esse dicto obedire ad omne opus bonum</quote> 
+          etc. 
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e365">
+          <pc type="pilcrow">¶</pc> Conuersationem Vestram id est actus exteriores et opera 
+          habentes bonam inter gentes (Id est gentiles et infideles viuentes: 
+          vt prouocetis eos ad fidem secundum S. Thomam) ut in eo 
+          quod detractant de vobis tanquam de malefactoribus quia propter 
+          indiscretionem et superbiam aliquorum de iam conuersis ad 
+          fidem post fidem susceptam dicebant non teneri Fideles obedire 
+          principibus infidelibus: ideo infideles domini conquerebantur 
+          et blasphamabant fidem tanquam iniustam quia iura naturae tollebat 
+          et conditionem uel ordinem humane conditionis tanquam iniiustis 
+          et malefactoribus, et sequitur ex bonis operibus id est ex debita 
+          obedientia et subiectionis prestatione (qua ante uestram conversionem
+          tenebamini dominis uestris) vos considerantes glorificent
+          deum in die uisitationis id est vocationis vel conuersionis 
+          vestre aut eorum. Et infert statim beatus Petrus quam intendebant 
+          conclusionem. <quote xml:id="cy8th8-d1e137-Qd1e400">Subiecti igitur estote omni humane creature</quote> 
+          (glossa et S. Thomas ibidem) <quote xml:id="cy8th8-d1e137-Qd1e405">fidelibus et incredulis</quote>) hec illa et 
+          ille. Et est accommoda distributio pro his sub quorum erant potestate 
+          propter deum id est sic deo ordinante: <quote xml:id="cy8th8-d1e137-Qd1e411">siue regi quasi precellenti <pc type="virgula">/</pc> siue 
+          ducibus</quote> quia hec est voluntas Dei ut bene id est taliter obediendo faciatis 
+          obmutescere faciatis substrahendo eis materiam conquerendi 
+          et blasphemandi imprudentium hominum id est infidelium 
+          ignorantiam. Et post parum <quote xml:id="cy8th8-d1e137-Qd1e426">Deum timete: Regem honorificate. 
+          serui subditi <sic>stote</sic> in omni honore non tantum bonis 
+          et modestis: sed discolis. id est infidelibus</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e437">
+          <pc type="pilcrow">¶</pc> Item <ref xml:id="cy8th8-d1e137-Rd1e442">Paulus 1 ad 
+          Timotheum 6</ref> precipiebat <quote xml:id="cy8th8-d1e137-Qd1e447" source="http://scta.info/resource/Itim2_1@6-13 http://scta.info/resource/Itim2_2@1-14">obsecrationes <pc type="virgula">/</pc> orationes gratiarum actiones 
+          fieri pro regibus et omnibus qui in sublimitate constituti 
+          erant: et sunt: ut quietam et <sic>tranquilam</sic> vitam agamus</quote>
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e460">
+          <sic>Magnifestum</sic> enim est quod eo tempore quando Apostoli precepta hec promulgabant 
+          fidelibus et primis christianis: mundus totus (ut dixi<pb ed="#B" n="16-v"/>mus 
+          plenus erat principibus siue regibus infidelibus: et nullus 
+          Rex aut princeps erat fidelis ergo dignitates et status regales dominia 
+          et iurisdictiones et iura regalia que sunt apud infideles: 
+          approbata et confirmata fuerunt et sunt per ius diuinum
+          noui testamenti: siue per legem euangelicam.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e482">
+          <pc type="pilcrow">¶</pc> Quod vero fides
+          christi et religio christiana non priuet Reges uel principes 
+          infideles suis dominiis statibus et dignitatibus iurisdictionibus 
+          et Iuribus etc. Que ad reges et regum auctoritatem et excellentiam 
+          pertinent: iam clarum ex adductis existit. Quia si Deus 
+          per ius diuinum veteris testamenti: et iterum per nouum euangelicum 
+          confirmauit et stabiliuit omnia predicta ergo blasphemum 
+          esset sentire quod reuocasset illa per fidem et multo minus 
+          suscipiendo fidem infideles ipsi.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e505">
+          <pc type="pilcrow">¶</pc> Sed addamus alias particulares 
+          rationes et autoritates et prima sit. Ordo prelationis quo 
+          homines subiiciuntur principibus suis: est ordo iustitie naturalis 
+          a deo institutus secundum illud ad Romanos 13 <quote xml:id="cy8th8-d1e137-Qd1e516" source="http://scta.info/resource/rom13_1@7-20 http://scta.info/resource/rom13_2@1-7">non est potestas 
+          nisi a Deo que autem a deo sunt ordinationi resistit</quote>. Et loquitur 
+          de ordine quo inferiores suis superioribus subduntur. 
+          sed fides christi est iustitie principium et causa secundum illud 
+          ad Romanos 3 <quote xml:id="cy8th8-d1e137-Qd1e528" source="http://scta.info/resource/rom3_22@1-11">Iustitia Dei per fidem iesu christi: in omnes 
+          et super omnes qui credunt in eum</quote> ergo per fidem christi 
+          non tollitur ordo iustitie <pc type="virgula">/</pc> sed magis firmatur. Ordo 
+          autem iustitie requirit ut inferiores suis superioribus
+          obediant fideles sint vel infideles quia iustitia non solum
+          extendit se ad fideles: sed etiam ad homines uniuersos 
+          ergo principes infideles vel etiam eorum subditi maxime 
+          suscipiendo fidem non amittunt sua dominia iurisdictiones 
+          <pc type="virgula">/</pc> dignitates et iura est debita. Hoc enim esset 
+          melioris conditionis in sua infidelitate quam in christianissmo
+          et in ecclesia sancta existere contra illud quod habetur 
+          in <ref xml:id="cy8th8-d1e137-Rd1e559">c. iudei. el. 2o, extra, de iudeis et sarracenis</ref>. Ubi precipitur 
+          sub pena excommunicationis iudeis ad fidem uenientibus <quote xml:id="cy8th8-d1e137-Qd1e563" source="http://scta.info/resource/cice-l5t6-d1e180@55-71">possessiones 
+          non auferantur cum melioris conditionis ad fidem conuer<pb ed="#B" n="17-r"/>sos 
+          esse oporteat quam antequam fidem susciperent habebantur</quote>. Hec 
+          ibi
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e575">
+          <pc type="pilcrow">¶</pc> Idem et amplius habetur in quadam extrauaganti <unclear>io</unclear> 
+          annis 22 subtitulo de iudeis in communitatibus Dignum (inquit) arbitrantes 
+          et iuri consonum fonte renatos baptismatis iudaica 
+          cecitate dimissa amplioribus fauoribus aut gratiis quam antea 
+          abundare indecens et absurdum ut qui in perfidia abundarent 
+          cogantur mendicare fideles. et infra districte precipimus et 
+          mandamus quatenus conuersis huiusmodi et qui in posterum 
+          conuertentur: in possessionibus et bonis aliis quocunque nomine 
+          censeantur que conuersionis tempore obtinebant seu etiam obtinebunt 
+          occasione predicta nullam molestiam inferant: nec 
+          ab aliis inferri permittant sed ipsis in his et in aliis se fauorabiles
+          exhibentes ipsos ab iniuriis et molestiis protegant et defendant:
+          vt sic de servitute ad libertatem transiisse percipiant nec redire
+          pretextu mendicitatis odibilis ad missam perfidiam compellantur.
+          hec ibi. Re etenim vera magnum dedecus fidei catholice 
+          fieret quoniam religio christiana tamquam iniusta et tyrannica estimaretur 
+          et odio haberetur: et per consequens blasphemandi christum dominum
+          latorem legis euangelice materiam preberemus si contrarium
+          predictorum attentaremus ut est manifestum.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e624">
+          <pc type="pilcrow">¶</pc> Ratio 2a si ista per fidem datur gratia spiritus sancti que principaliter
+          <del>sit ista per fidem datur</del> Dicitur ipsa lex euangelica: gratia 
+          uero non tollit naturam sed perficit et supplet defectum nature 
+          secundum <ref xml:id="cy8th8-d1e137-Rd1e638">s. Thomam 1a par. q. 2. articulo 6 ad 1m</ref> et <ref xml:id="cy8th8-d1e137-Rd1e640">2 2e q. 188 articulo 8.</ref> 
+          sed principatus et potestates dominia et iurisdictiones que sunt apud 
+          infideles cuiuscunque nationis secte aut religionis existunt (preter 
+          tamen iudeos post mortem christi) pertinent a deos lege naturali et 
+          gentium que iura lex euangelica diuina et gratia spiritus sancti instaurauit / 
+          augificauit <pc type="virgula">/</pc> firmauit secundum augustinum: perfecit et supplevit 
+          secundum S. Thomam ergo infideles maxime suscipiendo fidem non 
+          perdunt principatus <pc type="virgula">/</pc> dignitates <pc type="virgula">/</pc> potestates etc <pc type="virgula">/</pc> sed potius 
+          firmantur et particionantur in illis
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e674">
+          <pc type="pilcrow">¶</pc> 
+          3o probatur autoritatibus
+          <pb ed="#B" n="17-v"/>
+          Et primo Augustinus super Ioannem 18, exponens illud <quote xml:id="cy8th8-d1e137-Qd1e683" source="http://scta.info/resource/io18_36@3-9">Regnum 
+            meum non est de hoc mundo</quote>: <quote xml:id="cy8th8-d1e137-Qd1e688" source="http://scta.info/resource/iuy75t-d1e982-d1e257@2-73">Audite (inquit) ergo Iudei et gentes 
+          audi circuncisio: audi preputium audite omnia regna terrena:
+          non impedio dominationem uestram in hoc mundo: regnum meum
+          non est de hoc mundo. Nolite metuere metu uanissimo quo herodes
+          ille maior cum christus natus nuntiaretur / expauit et tot infantes  
+          vt ad eum mors perueniret occidit: timendo magisque irascendo 
+          crudelior. <quote xml:id="cy8th8-d1e137-Qd1e698" source="http://scta.info/resource/io18_36@3-9">Regnum, inquit, meum non est de hoc mundo</quote>. Quid 
+          vultis amplius: Uenite ad regnum quod non est de hoc mundo; uenite
+          credendo et nolite sevire metuendo</quote> etc. <pc type="virgula">/</pc> 
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e710">
+          <pc type="pilcrow">¶</pc> Et super illud 
+          psalmum 118 <quote xml:id="cy8th8-d1e137-Qd1e717" source="http://scta.info/resource/ps118_161@2-6">principes persecuti sunt me gratis</quote> <unclear>contione 31</unclear>. Idem augustinus 
+          <quote xml:id="cy8th8-d1e137-Qd1e725">Quid enim christiani leserant regna terrena <add place="margin-left">quamuis eis regna celorum promiserit Rex eorum. Quid (inquam) leserant regna terrena</add> nunquam eorum 
+          rex milites suos prohibuit impendere. et exhibere que debentur 
+          regibus terre. Nonne de hoc sibi calumniam molientibus iudeis ait. 
+          <quote xml:id="cy8th8-d1e137-Qd1e735" source="http://scta.info/resource/mt22_21@7-17">Reddite cesari que cesaris sunt et deo que dei sunt</quote>. Nonne tributum 
+          de ore piscis etiam ipse persoluit. Nonne precursor eius militibus 
+          regni huius quid facere deberent pro eterna salute: non 
+          ait: <quote xml:id="cy8th8-d1e137-Qd1e745">cingulum soluite: arma proiicite: regem vestrum deserite 
+          vt positis deo militare</quote>: sed ait: <quote xml:id="cy8th8-d1e137-Qd1e750">neminem concutiatis: nulli calumniam 
+          feceritis sufficiat vobis stipendium uestrum</quote>. Nonne unus militum 
+          eius et dilectissimus comes eius commilitonibus suis et quoad modum 
+          christi prouincialibus dixit: <quote xml:id="cy8th8-d1e137-Qd1e760">omnis anima potestatibus sublimioribus 
+          subdita sit</quote>. Et paulo post ait: <quote xml:id="cy8th8-d1e137-Qd1e765">reddite omnibus debita: cui tributum 
+          tributum. cui vectigal vectigal: cui timorem timorem: cui honorem 
+          honorem. Nemini quicquam debeatis nisi ut inuicem diligatis</quote> 
+          Non ne precepit ut pro ipsis etiam regibus oraret ecclesia? Quid ergo 
+          eos christiani offenderunt. Quod debitum non reddiderunt: In quo 
+          christiani non sunt terrenis regibus obsequti. Ergo terreni 
+          reges christianos gratis persequti sunt</quote> etc <pc type="virgula">/</pc> hec augustinus
+          Ecce qualiter sententiam fert augustinus contra ea que nostris temporibus 
+          per christianos circa infideles potissimum indianas nationes 
+          patrata sunt: de quibus nostri minime gloriabuntur 
+          <pb ed="#B" n="18-r"/>
+          quia non gratis sed meritissime si uires illis suppeterent eos persequerentur.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e798">
+          <pc type="pilcrow">¶</pc> Chrisostomus quoque super predictum uerbum: 
+          <quote xml:id="cy8th8-d1e137-Qd1e804">omnis anima</quote> etc. Homilia 23 huius rei (ait) plurimum 
+          et in aliis epistolis meminit <quote xml:id="cy8th8-d1e137-Qd1e808">quemadmodum famulos heris 
+          suis ita et subditos principibus subiiciens facit autem hoc ideo 
+          ut ostendat Christum leges suas non ad hoc induxisse ut politias 
+          euertat: sed ut ad melius instituat et ut pariter doceat 
+          superflua et inutilia bella non esse suscipienda</quote> et infra: <quote xml:id="cy8th8-d1e137-Qd1e819">et 
+          non simpliciter dicit: <mentioned>obediat</mentioned> <pc type="virgula">/</pc> sed <mentioned>subdita sit</mentioned>. Est autem prima constitutionis 
+          huius iustitia que et fidelibus cogitationibus ac membris 
+          satis et decora est et honesta: nimirum quod a deo ordinata 
+          sint ista</quote>. Et longe inferius ait idem chrisostomus. <quote xml:id="cy8th8-d1e137-Qd1e839">Si enim ista 
+          Paulus tum cum gentiles adhuc essent principes precepit: 
+          multo magis oportet ea fidelibus exhibere</quote> etc <pc type="virgula">/</pc> hec chrisostomus.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e850">
+          <pc type="pilcrow">¶</pc> Confirmat premonstrata autoritas uniuersalis ecclesieque 
+          in festo epiphaniae canit ex probando herodem regem inquiens: 
+          <quote xml:id="cy8th8-d1e137-Qd1e859">hostis herodis impie christum uenire quid timet; non eripit 
+          mortalia qui regna dat celestia</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e865">
+          <pc type="pilcrow">¶</pc> Ecce quam manifeste ostenditur 
+          autoritatibus et rationibus ultra plurima alique alibi plenius adduximus 
+          legem christi non solum non tollere principibus infidelibus 
+          dignitates et regna vel iura sua regalia sed confirmare potius et 
+          stabilire. Quoniam contrarium esset respublicas et ordinem quem ipse 
+          cum patre et spiritu sancto stabiliuit euertere. Quod S. Thomas. super 1a 
+          ad Corinthios. c. 6, non siliuit dicens: esse <quote xml:id="cy8th8-d1e137-Qd1e883">contra ius diuinum impedire 
+          subditos etiam christianos ne compareant quotiens uocati fuerint 
+          coram principibus uel iudicibus infidelibus</quote>. hec ille
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e891">
+          <pc type="pilcrow">¶</pc> Uerum si 
+          preallegata non sufficiunt: sufficiat postremo decretum et declaratio 
+          ipsius apostolice sedis per <ref xml:id="cy8th8-d1e137-Rd1e900">papam Paulum 3m qui in bulla 
+          sua incipiente <quote xml:id="cy8th8-d1e137-Qd1e904">sublimis deus sic dilexit humanum genus</quote></ref>. Ubi 
+          concludit decernendo et declarando: <quote xml:id="cy8th8-d1e137-Qd1e909">indos nostros et omnes alias
+          gentes ad notitiam christianorum in posterum deuenturas licet 
+          extra fidem christi existant sua tamen libertate ac rerum 
+          suarum dominio priuatos seu priuandos non esse: imo libertate et 
+          <pb ed="#B" n="18-v"/>
+          dominio huiusmodi uti potiri et gaudere libere et licite posse: 
+          nec in seruitutem redigi debere: ac quicquid secus fieri contigerit 
+          irritum et inane nullius roboris vel momenti ipsosque indos 
+          et alias gentes verbi predicatione et exemplo bone uite 
+          ad dictam fidem christi inuitandos fore auctoritate apostolica per 
+          presentes decernimus et declaramus</quote> etc. <pc type="virgula">/</pc> Hec ibi
+        </p>
+        <p xml:id="cy8th8-d1e137-d1e938">
+          patet ergo 
+          infideles iuste possidere regna et principatus et dominia et iurisdictiones 
+          non solum super subditos infideles sed etiam 
+          super fideles si contingat iure aliquo uel aliqua ratione subditos 
+          esse illis. et per consequens reges uel principes infideles maxime 
+          fidem catholicam suscipientes: non amittunt regna principatus 
+          et Iura regalia cetera <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
