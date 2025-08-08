@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 9</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 9</title>
+          <date when="2025-08-07">August 07, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="23-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e176">
+        <head xml:id="cy8th8-d1e176-Hd1e97">Sectio 9</head>
+        <p xml:id="cy8th8-d1e176-d1e99">
+          <lb ed="#B" n="7"/>§ 9
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e104">
+          <lb ed="#B" n="8"/><pc type="pilcrow">¶</pc> Per hunc igitur modum compatibilia sunt iurisdictiones et 
+          <lb ed="#B" n="9"/>dominia regum nostrorum hispaniarum et regum naturalium illius 
+          <lb ed="#B" n="10"/>orbis rerum etiam singulorum. Quia Reges nostri habent suppremum 
+          <lb ed="#B" n="11"/>dominium et similem imperatorie iurisdictionem uniuersalem 
+          <lb ed="#B" n="12"/>ceteri autem reges et domini naturales singuli in regno uel regnis 
+          <lb ed="#B" n="13"/>et dominiis suis: habitatorum singuli in rebus propriis per respectum 
+          <lb ed="#B" n="14"/>ad uniuersalem tenent inferiorem iurisdictionem et dominium imme<lb ed="#B" break="no" n="15"/>diatum
+          absque eo quod ad inuicem tot dominia repugnent.
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e126">
+          <pc type="pilcrow">¶</pc> Exem<lb ed="#B" break="no" n="16"/>plum 
+          huius in promptu est: quod rex quilibet in suo regno habet dominium 
+          <lb ed="#B" n="17"/>et iurisdictionem in qualibet re scilicet ad regulandum et protegen<lb ed="#B" break="no" n="18"/>dum 
+          eam. Dux uel comes dominium et iurisdictionem obtinent infe<lb ed="#B" break="no" n="19"/>riorem. 
+          Agricola uero,si possidet ciuiliter et naturaliter dominium habet 
+          <lb ed="#B" n="20"/>directum: et utile. Si autem ciuiliter tantum et alius naturaliter 
+          <lb ed="#B" n="21"/>ille habet directum. Emphiteota uel usu fructuarius siue feudata<lb ed="#B" break="no" n="22"/>rius 
+          habet duntaxat utile. Unde sunt plura dominia circa eandem 
+          <lb ed="#B" n="23"/>rem, nec tamen sibi inuicem repugnantia quoniam diuersarum 
+          <lb ed="#B" n="24"/>specierum sunt. Ut ex dictis apparet et si uis occurre ad ea que iuriste 
+          <lb ed="#B" n="25"/>notant, d. l. possideri § ex contrario.
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e153">
+          De huiusmodi ergo suprema 
+          <lb ed="#B" n="26"/>et uniuersali iuris dictione et dominio intellexit summus pontifex in pre<lb ed="#B" break="no" n="27"/>factis 
+          uerbis cum dixit <quote xml:id="cy8th8-d1e176-Qd1e159">cum omnibus illarum dominiis et iuris<lb ed="#B" break="no" n="28"/>dictionibus</quote> 
+          etc. hanc siquidem concessit regibus nostris naturalibus 
+          <pb ed="#B" n="24-r"/>
+          <lb ed="#B" n="1"/>autem regibus et dominis et singularibus etiam personis reliquit et con<lb ed="#B" break="no" n="2"/>firmauit 
+          eaque ad eos pertinebant iure gentium et naturali; licet ali<lb ed="#B" break="no" n="3"/>qualiter 
+          diminutam et restrictam iurisdictionem in quantum recognoscere 
+          <lb ed="#B" n="4"/>habebant reges nostros in dominos superiores et uniuersales. Et sic 
+          <lb ed="#B" n="5"/>non tam liberi remanent sicut ante et hoc potuit fieri in fidei 
+          <lb ed="#B" n="6"/>fauorem non alia de causa prout supra est probatum. 
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e181">
+          Unde res<lb ed="#B" break="no" n="7"/>tringenda 
+          est illa clausula et moderanda scilicet <quote xml:id="cy8th8-d1e176-Qd1e185">cum omnibus illa<lb ed="#B" break="no" n="8"/>rum 
+          dominiis et iurisdictionibus</quote> etc <pc type="virgula">/</pc>. Intelligenda inquam et de<lb ed="#B" break="no" n="9"/>claranda 
+          ad finem et limites rationis naturalis et ne fiant iniu<lb ed="#B" break="no" n="10"/>rie 
+          vel iurium illarum gentium et naturali: ut secum ad illas 
+          <lb ed="#B" n="11"/>pertineant iure gentium et naturali ut sepe dictum est: ne inde nas<lb ed="#B" break="no" n="12"/>cantur 
+          iniurie unde iura nascantur ut l. meminerint, C. unde 
+          <lb ed="#B" n="13"/>vi et in l. omnium, c. de testamentis, et non debemus id facere: 
+          <lb ed="#B" n="14"/>a quo tenemur alium prohibere: et qui nos tenetur defendere:
+          <lb ed="#B" n="15"/>non debet contra nos pugnare ut in c. unico extra de natis ex libero uentre 
+          <lb ed="#B" n="16"/>et ff. si ser ven. l. altius huic est quod rescripta et quicquid a 
+          <lb ed="#B" n="17"/>sede apostolica emanat: semper est interpretandum ne aliquis 
+          <lb ed="#B" n="18"/>exinde saltem grauiter vel enormiter ledatur ut in c. super eo 
+          <lb ed="#B" n="19"/>de officio delegati vt supra § 7 late ostensum est facit capitulum ecce 99 
+          <lb ed="#B" n="20"/>dist et capitulum cum olim de consuetudine et c. emancipatione l. nec auus. 
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e220">
+          Et 
+          <lb ed="#B" n="21"/>ratio secundum baldum in d. c. cum olim. <quote xml:id="cy8th8-d1e176-Qd1e224">Quia concessio ex qua sequitur 
+          <lb ed="#B" n="22"/>aliquid absurdum, dicitur concessio captiosa</quote> ff. De transactionibus. l. cum aquiliana 
+          <lb ed="#B" n="23"/>et ff. de heredibus instituendis l. illa institutio et l. ille autem. Et ideo papa 
+          <lb ed="#B" n="24"/>non concedit literas cum preiudicio alieno preterea nihil fieri de<lb ed="#B" break="no" n="25"/>bet 
+          ad emulationem, ff. de operibus publicis l. opus et priuilegium unius 
+          <lb ed="#B" n="26"/>non debet usurpare ius alterius. ff. de uulgari sustitutione l. ex facto Nec 
+          <lb ed="#B" n="27"/>naturalem facultatem impedire ff. de operibus libertorum l. libertas nego<lb ed="#B" break="no" n="28"/>tiatori. 
+          hec baldus.
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e243">
+          <pc type="pilcrow">¶</pc> Item priuilegia et concessiones intelliguntur 
+          <lb ed="#B" n="29"/>fieri sine alterius injuria l. 2. § si quis a principe et § meri<lb ed="#B" break="no" n="30"/>to 
+          ff, ne quid in loco publico et l. si decem. C. <!-- edition had Digest here --> de statu et imagi. l. cum 
+          <lb ed="#B" n="31"/>filius. ff. de mili tasta.
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e257">
+          <pc type="pilcrow">¶</pc> Rursus aliorum honores non debent 
+          <lb ed="#B" n="32"/>aliis nocere C. de statua et imaginibus l. finalis Iniquum enim est aliquid 
+          <lb ed="#B" n="33"/>ab uno iniuste auferre ut detur alteri c. non est 1. q. 1. et bal<lb ed="#B" break="no" n="34"/>dus 
+          ait quod <quote xml:id="cy8th8-d1e176-Qd1e268">Papa non vult alicui suum detrahi</quote> ut l. 2. ff. qui 
+          <lb ed="#B" n="35"/>sunt sui vel alie iuris. Et ideo verba rescripti recipiunt limitationem 
+          <pb ed="#B" n="24-v"/>
+          <lb ed="#B" n="1"/>a iure communi: et omnes clausule apposite in rescriptis restrin<lb ed="#B" break="no" n="2"/>guntur
+          ad inter litigantes. Et licet in literis sit remota appella<lb ed="#B" break="no" n="3"/>tione 
+          tamen potest appellare omnes quorum interest preterea possent 
+          <lb ed="#B" n="4"/>se opponere omnes quos negocium tangit: licet non fiat mentio de 
+          <lb ed="#B" n="5"/>illis secundum bernardum argumentum in l. 1, ff. quibus rebus ad eundem 
+          <lb ed="#B" n="6"/>iudicem ea unde quamvis papa non excetauerit aut expreserit quod non
+          <lb ed="#B" n="7"/>erat intentionis sue iuribus regum naturalium et singularum
+          <lb ed="#B" n="8"/>personarum derogare aut preiudicium per talia uerba generare:
+          <lb ed="#B" n="9"/>intelligitur tamen ac si expressis verbis declarasset quoniam que insunt
+          <lb ed="#B" n="10"/>et si non dicantur expressa et dicta non inmutant uel addunt
+          <lb ed="#B" n="11"/>C. de fidei iussoribus et mandatoribus l. 3 in fine et ff. de condi. et demonstra l. 
+          <lb ed="#B" n="12"/>conditiones extrinsecus et ff. de legatis 1 l. 3 uideatur <name xml:id="cy8th8-d1e176-Nd1e301">Andreas de Isernia</name> 
+          <lb ed="#B" n="13"/>de prohibita feudi alienatione § preterea inter duos fratres per fredericum 7 columna
+          <lb ed="#B" n="14"/>in principio
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e308">
+          <pc type="pilcrow">¶</pc> Adhuc generale est quod forma rescripti non est semper ser<lb ed="#B" break="no" n="15"/>uanda 
+          secundum Bernardum uidelicet quando lederetur ius tertii qui 
+          <lb ed="#B" n="16"/>non est nominatus in rescripto quod est mente tenendum hec 
+          <lb ed="#B" n="17"/>omnia baldus in d. c. super eo. 
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e320">
+          <pc type="pilcrow">¶</pc> Ad hoc habemus unam legem 
+          <lb ed="#B" n="18"/>per magnum Gregorium canonizatam que habetur C. de precibus 
+          <lb ed="#B" n="19"/>imperatori offerendis inter sacros canones registratam 25 q. 2 c. im<lb ed="#B" break="no" n="20"/>periali 
+          <lb ed="#B" n="21"/>ubi habetur quod <quote xml:id="cy8th8-d1e176-Qd1e334">rescripta contra ius elicita omnibus iudicibus 
+          <lb ed="#B" n="22"/>precipimus refutari: nisi forte sit aliquid quod non ledat alium 
+          <lb ed="#B" n="23"/>et prosit petenti vel crimen supplicantibus indulgeat</quote> hec ibi: ubi 
+          <lb ed="#B" n="24"/>etiam est bona glossa 
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e345">
+          <pc type="pilcrow">¶</pc> Ex quibus apparet non esse principis intentio<lb ed="#B" break="no" n="25"/>nis 
+          potissimum summi principis vniversalis ecclesiae pape per sua rescripta nec 
+          <lb ed="#B" n="26"/>per suas gratias et donationes preiudicare aut tollere ius alterius et 
+          <lb ed="#B" n="27"/>longe minus <seg type="correction">honore<add place="above-line">s</add><del rend="strikethrough">m</del></seg> dignitates statusque regales pertinentes ad 
+          <lb ed="#B" n="28"/>proprios et ueros reges et dominos: sine magna et ardua discussa 
+          <lb ed="#B" n="29"/>et legitima et necessaria causa et propterea semper prouisiones <pc type="virgula">/</pc> conce<lb ed="#B" break="no" n="30"/>ssiones
+          <pc type="virgula">/</pc> gratie et cetera huiusmodi restringenda sunt limitanda <pc type="virgula">/</pc>
+          <lb ed="#B" n="31"/>et interpretanda taliter quod non ledatur enormiter uel auferatur 
+          <lb ed="#B" n="32"/>ius alterius: aut preiudicium magnum eisdem generetur ut satis 
+          <lb ed="#B" n="33"/><seg type="correction">euiden<subst><del rend="strikethrough">dae</del><add>ter</add></subst></seg> ostensum est.
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e393">
+          <pc type="pilcrow">¶</pc> Cum igitur ad promulgatio<lb ed="#B" break="no" n="34"/>nem 
+          euangelii christi per totum illum orbem et ecclesie dilatationem 
+          <pb ed="#B" n="25-r"/>
+          <lb ed="#B" n="1"/>atque gentium illarum conuersionem et salutem: sufficiat inclitos 
+          <lb ed="#B" n="2"/>reges nostros catholicos hispaniarum fore in toto illo indiarum 
+          <lb ed="#B" n="3"/>orbe summos principes fastigium habentes suppreme iurisdictio<lb ed="#B" break="no" n="4"/>nis 
+          <pc type="virgula">/</pc> potestatis et dominii / et quasi imperatoriam dignitatem 
+          <lb ed="#B" n="5"/>et auctoritatem super omnes reges principes et dominos <pc type="virgula">/</pc> nec 
+          <lb ed="#B" n="6"/>non et super omnes reges principes et dominos nec non et super 
+          <lb ed="#B" n="7"/>uniuersas nationes habitatrices orbis prefati remanentibus ipsis 
+          <lb ed="#B" n="8"/>cum suis dominiis iurisdictionibus honoribus et statibus regalibus 
+          <lb ed="#B" n="9"/>nisi quantum opus fuerit iurisdictio eorum restringi ad profectum
+          <lb ed="#B" n="10"/>fidei et communem utilitatem et non amplius quia tunc cessaret 
+          <lb ed="#B" n="11"/>restringendi causa quod si contrarium diceretur et forte accideret 
+          <lb ed="#B" n="12"/>(scilicet) quod per prefatam institutionem de regibus nostris et suppremum 
+          <lb ed="#B" n="13"/>eorum principatum iurisdictionem uniuersalem et dominium altum: 
+          <lb ed="#B" n="14"/>principes et domini naturales intelligerentur remansisse ipso 
+          <lb ed="#B" n="15"/>facto suis dominiis <pc type="virgula">/</pc> dignitatibus et iurisdictionibus prorsus spo<lb ed="#B" break="no" n="16"/>liati: 
+          manifestum est grauissimo et enormissimo ac proinde
+          <lb ed="#B" n="17"/>intolerabili preiudicio et damno grauari: et per consequens quod maximum 
+          <lb ed="#B" n="18"/>scandalum apud uniuersas gentes et populos illos oriturum infa<lb ed="#B" break="no" n="19"/>mia 
+          <pc type="virgula">/</pc> et horror atque detestatio aduersus fidem et religionem christia<lb ed="#B" break="no" n="20"/>nam 
+          (vt praedictum est) in mentibus eorum generabitur ergo ne<lb ed="#B" break="no" n="21"/>cessario 
+          dicta institutio concessio vel donatio et litere apostolice 
+          <lb ed="#B" n="22"/>siue decretum papale super his emanata debent intelligi <pc type="virgula">/</pc>
+          <lb ed="#B" n="23"/>interpretari et declarari: quod reges et principes totius illius or<lb ed="#B" break="no" n="24"/>bis 
+          suis dignitatibus <pc type="virgula">/</pc> dominiis et iurisdictionibus regalibusque sta<lb ed="#B" break="no" n="25"/>tibus 
+          et pristinis honoribus etiam post dictam institutionem uti et
+          <lb ed="#B" n="26"/>potiri semper libere iuxta predicta gaudere habeant sicut ante 
+          <lb ed="#B" n="27"/>etiam si papa in literis suis de hoc nullam mentionem faciat.
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e481">
+          <lb ed="#B" n="28"/><pc type="pilcrow">¶</pc> Alias sequeretur multas et magnas et horribiles absurditates in<lb ed="#B" break="no" n="29"/>conuenientia 
+          et inhumanitates. Et prima erit quod ad bonum 
+          <lb ed="#B" n="30"/>et utilitatem illarum gentium prouisum et constitutum est tamquam 
+          <lb ed="#B" n="31"/>propter fidem verteretur eis in ruinam et indestructionem: contra illud: 
+          <lb ed="#B" n="32"/><del rend="strikethrough">Quod in favorem alicuius est introductum non</del> <quote xml:id="cy8th8-d1e176-Qd1e498">Quod fauore ali<lb ed="#B" break="no" n="33"/>quorum 
+          est introductum: non debet in eorum odium retorqueri</quote> l.
+          <lb ed="#B" n="34"/>quod fauore. C. de legibus et ff. eodem titulo. <quote xml:id="cy8th8-d1e176-Qd1e505">nulla iuris ratio aut equi<lb ed="#B" break="no" n="35"/>tatis 
+          patitur: vt que salubriter pro utilitate hominum introducuntur: 
+          <pb ed="#B" n="25-v"/>
+          <lb ed="#B" n="1"/>ea nos duriore interpretatione contra commodum ipsorum pro<lb ed="#B" break="no" n="2"/>ducamus 
+          ad seueritatem</quote>. hec ibi 
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e517">
+          <pc type="pilcrow">¶</pc> Argumentum nanque ab absur<lb ed="#B" break="no" n="3"/>do 
+          uitando uel a uitatione absurditatis et inconuenientis <pc type="virgula">/</pc> scan<lb ed="#B" break="no" n="4"/>dali 
+          magni et iniustitie aut inhumanitatis: cum sumatur a 
+          <lb ed="#B" n="5"/>discretione naturali secundum Baldum in Consilio 29 3ii vo<lb ed="#B" break="no" n="6"/>luminis 
+          in penultima columna et in l. pompinius 2 et 3 columna ff. de negotiis 
+          <lb ed="#B" n="7"/>gestis et in authent de nouo iure in fine C. de episcopis et clericis ubi dicit: 
+          <lb ed="#B" n="8"/><quote xml:id="cy8th8-d1e176-Qd1e537">hic modus arguendi a uitatione seu sequela absurditatis est
+          multum utilis</quote> etc hec ille
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e540">
+          <pc type="pilcrow">¶</pc> Magna immo maxima esset absurditas 
+          <lb ed="#B" n="9"/>profecto quod religio christiana odio et <seg type="correction">ho<sic><add place="above-line">rro</add><del>ro</del></sic>ri</seg> sit infidelibus et a<lb ed="#B" break="no" n="10"/>pud 
+          illos de iniustitia et iniquitate infametur: qui blande dul<lb ed="#B" break="no" n="11"/>citer 
+          atque mansuete nec non donando potius eis nostra <pc type="virgula">/</pc> quam sua 
+          <lb ed="#B" n="12"/>eis auferendo inuitandi et trahendi sunt ad fidem. A sua tamen 
+          <lb ed="#B" n="13"/>suscipienda se retracturos tanquam a dogmate aut lege irrationabili c
+          <lb ed="#B" n="14"/>rudeli inhumana hominum deceptiua rationi naturali 
+          <lb ed="#B" n="15"/>contraria et ideo prorsus iniqua. Quod quidem redundare 
+          <lb ed="#B" n="16"/>in blasphemiam ignominiosam nominis christi nemo sane 
+          <lb ed="#B" n="17"/>mentis inficias ibit. Committeretur etiam magna iniuria 
+          <lb ed="#B" n="18"/>spoliando innocentes sine culpa et sine causa necessaria et 
+          <lb ed="#B" n="19"/>legitima bonis et dignitatibus suis, que iuste possident autori<lb ed="#B" break="no" n="20"/>ltate 
+          et iuris gentium et confirmata per diuinum. et tunc non 
+          <lb ed="#B" n="21"/>procederet Romanus pontifex tanquam Deus, qui est ueritas: sed 
+          <lb ed="#B" n="22"/>esset nullum de iure quicquid contra fierit. Quod magnum in<lb ed="#B" break="no" n="23"/>conueniens 
+          esse quis non uidet. Cum non deceat vicarium christi 
+          <lb ed="#B" n="24"/>eaque semel decreuit: irrita esse nec de iure posse subsistere.
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e592">
+          <lb ed="#B" n="25"/><pc type="pilcrow">¶</pc> Dicit enim baldus in libra feudorum de pace constantie § 
+          <lb ed="#B" n="26"/>in nomine christi quod ad esse exer<add place="above-line">ci</add>tii huius iuris dictionis suppre<lb ed="#B" break="no" n="27"/>me 
+          in papa circa statum temporalium papa debet procedere 
+          <lb ed="#B" n="28"/>tanquam Deus qui est veritas unde requiritur causa. Ergo non 
+          <lb ed="#B" n="29"/>existente causa cessat iurisdictio. Quia quando causa requiritur 
+          <lb ed="#B" n="30"/>tanquam fundamentum iurisdictionis oportet causa inesse et 
+          <lb ed="#B" n="31"/>ueram et discussam esse alias iudicium est nullum ipso iure. Et 
+          <lb ed="#B" n="32"/>est doctrina innocentii extra de foro competenti c. cum sit 
+          <lb ed="#B" n="33"/>generale et c. 1. de foro competenti libro 6. in nouellis et de res<pb ed="#B" n="26-r"/><lb ed="#B" n="1"/>criptis 
+          c. super literis et per innocentium de officio delegati c. cum super 
+          <lb ed="#B" n="2"/>abbatia. hec Baldus in forma. sed hoc esset absurdissimum in 
+          <lb ed="#B" n="3"/>summo sanctissimo christi vicario ergo vitandum est omnino.
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e628">
+          <lb ed="#B" n="4"/><pc type="pilcrow">¶</pc> Preterea sequeretur alia non dissimulanda absurditas scilicet 
+          quia preberetur infidelibus adversus nos causa iustissimi belli tam<lb ed="#B" break="no" n="5"/>quam 
+          contra hostes publicos et omnium malorum et calamitatum 
+          <lb ed="#B" n="6"/>que ex bellis sequuntur: et teneremur ad omnimodam restitutionem 
+          <lb ed="#B" n="7"/>preter grauissima peccata que committeremus 
+        </p>
+        <p xml:id="cy8th8-d1e176-d1e641">
+          ergo ad euitan<lb ed="#B" break="no" n="8"/>da 
+          tot absurda et inconuenientia iniusta et contraria rationi 
+          <lb ed="#B" n="9"/>naturali et iuri diuino: fatendum est omnino summum christi 
+          <lb ed="#B" n="10"/>vicarium in predictis apostolicis literis et decreto prefate institu<lb ed="#B" break="no" n="11"/>tionis
+          concessionis siue donationis ad reges nostros catholicos per 
+          <lb ed="#B" n="12"/>eandem institutionem concessionem Priuare Reges et domi<lb ed="#B" break="no" n="13"/>nos
+          naturales illius orbis suis regalibus dignitatibus dominiis et iuris<lb ed="#B" break="no" n="14"/>dictionibus
+          ceterosque singulos habitatores dominio rerum suarum
+          <lb ed="#B" n="15"/>nullatenus intellexisse et de hoc que dicta sunt sufficiant <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
