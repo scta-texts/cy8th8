@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 10</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 10</title>
+          <date when="2025-08-09">August 09, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="26-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e190">
+        <head xml:id="cy8th8-d1e190-Hd1e97">Sectio 10</head>
+        <p xml:id="cy8th8-d1e190-d1e99">
+          <lb ed="#B" n="17"/>§ 10
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e104">
+          <lb ed="#B" n="18"/>Quinta consideratio Reges nostri hispaniarum necessitate 
+          <lb ed="#B" n="19"/>precepti atque proinde necessitate salutis tenentur <sic>tan</sic> ingressum 
+          <lb ed="#B" n="20"/>suum primum seu nunciorum suorum in illas indianas partes 
+          <lb ed="#B" n="21"/>et orbem: quam cetera omnia que sibi agenda forent circa gentes 
+          <lb ed="#B" n="22"/>prefatas ita demum ordinare moderare atque disponere: quatenus 
+          <lb ed="#B" n="23"/>fini prefato quem deus et eius vicarius intendunt scilicet pre<lb ed="#B" break="no" n="24"/>dicationi 
+          euangelii et fidei <seg type="correction">dilatationi<del>s</del></seg> et cultus diuini planta<lb ed="#B" break="no" n="25"/>tioni 
+          et animarum conuersioni et saluti conducant siue conue<lb ed="#B" break="no" n="26"/>niant.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e132">
+          Et per consequens omnia illa obligantur naturali et 
+          <lb ed="#B" n="27"/>diuina lege vitare ac precauere: que finem prenotatum pote<lb ed="#B" break="no" n="28"/>runt 
+          totaliter impedire aut quoquo modo retardare: aut conse<lb ed="#B" break="no" n="29"/>quutionem 
+          illius facere difficilem.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e141">
+          <pc type="pilcrow">¶</pc> Prima pars probatur sic: Cuicunque 
+          <lb ed="#B" n="30"/>necessario incumbit aliquid perficere quod ad aliud ordinatur 
+          <lb ed="#B" n="31"/>sicut medium in finem hoc tenetur in primis attendere ut opus 
+          <lb ed="#B" n="32"/>suum id est medium <sic>sic</sic> congruum fini. Sicut faber sic facit gla<lb ed="#B" break="no" n="33"/>dium 
+          ut pugne conueniat: et edificator sic domum disponit 
+          <lb ed="#B" n="34"/>ut ad habitandum sit apta. Sed aduentus applicatio <pc type="virgula">/</pc> et ingressus 
+          <pb ed="#B" n="26-v"/>
+          <lb ed="#B" n="1"/>in illas partes Regum nostrorum vel nunciorum suorum: re<lb ed="#B" break="no" n="2"/>gimen 
+          quoque seu gubernatio quam posituri sunt et totale offi<lb ed="#B" break="no" n="3"/>cium 
+          siue iurisdictio vel potestas nouiter sibi collata assumuntur 
+          <lb ed="#B" n="4"/>ut media conducentia et iuuantia ad consequutionem prefati finis 
+          <lb ed="#B" n="5"/>ut ex dictis haberi potest. ergo habent congruere seu conuenire et pa<lb ed="#B" break="no" n="6"/>trocinari 
+          prefato fini et taliter conducere atque iuuare ut obtine<lb ed="#B" break="no" n="7"/>atur 
+          finis. Patet consequentia: quia secundum <ref xml:id="cy8th8-d1e190-Rd1e179">Philosophum 2 Phisicorum</ref> omnium 
+          <lb ed="#B" n="8"/>ordinandorum ad finem gubernationis et ordinis legis rationes <pc type="virgula">/</pc> 
+          <lb ed="#B" n="9"/>et regulas ex fine sumi necesse est: sicut ratio dispositionis 
+          <lb ed="#B" n="10"/>serre sumitur ex sectione que est finis eius. Et in legibus hu<lb ed="#B" break="no" n="11"/>manis 
+          habetur quod actus ordinatus et determinatus ad aliquem 
+          <lb ed="#B" n="12"/>finem debet illum finem adipisci ff. simul herciscus l. si filia 
+          <lb ed="#B" n="13"/>§ Item scribit C. ad <unclear>sclli</unclear> l. penultima in fine. de hoc baldus. Quibus 
+          <lb ed="#B" n="14"/>causis feudum amittatur c. 1. nu. 5. 
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e204">
+          <pc type="pilcrow">¶</pc> Tunc enim vnaque res optime 
+          <lb ed="#B" n="15"/>disponitur: cum ad suum finem conuenienter ordinatur et deduci<lb ed="#B" break="no" n="16"/>tur. 
+          Unde unumquodque quod est propter finem: oportet quod sit fini pro<lb ed="#B" break="no" n="17"/>portionatum:
+          quatenus iuuet ad consequutionem finis sic igitur Re<lb ed="#B" break="no" n="18"/>ges 
+          nostri hyspaniarum tunc aduentum applicationem <pc type="virgula">/</pc> seu in<lb ed="#B" break="no" n="19"/>gressum 
+          suum vel nunciorum suorum in et ad partes illas india<lb ed="#B" break="no" n="20"/>rum 
+          occidentalium et meridionalium: regimen quoque seu gu<lb ed="#B" break="no" n="21"/>bernationem 
+          iurisdictionem totumque officium regale bene ac 
+          <lb ed="#B" n="22"/>conuenienter disponent: quando in his omnibus exercendis iu<lb ed="#B" break="no" n="23"/>ris 
+          naturalis ordinem ad unguem inuiolabiliterque seruabunt. Est enim 
+          <lb ed="#B" n="24"/>ordo quem seruare quilibet tenetur modus cuiuscunque rei agende 
+          <lb ed="#B" n="25"/>vel secundum Baldum in prohemio <sic>fforum</sic> in principio. <quote xml:id="cy8th8-d1e190-Qd1e238">Est 
+          <lb ed="#B" n="26"/>principia mediis et media suis finibus iungens: quo pretermisso 
+          <lb ed="#B" n="27"/>nihil geritur rite</quote> ff. de regulis iuris l. sicut nulla et C. de sententiis 
+          <lb ed="#B" n="28"/>et interlocutionibus l. probatam et de rescriptis c. cum dilecta et de restitutione 
+          <lb ed="#B" n="29"/>spoliatorum c. pisanis.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e250">
+          <pc type="pilcrow">¶</pc> Est autem duplex ordo: quidam inductus iure 
+          <lb ed="#B" n="30"/>ciuili seu positivo. et illius defectus non habet uitiare actum uel 
+          <lb ed="#B" n="31"/>processum coram principe <pc type="virgula">/</pc> quia legibus non ligatur cum sit supra 
+          <lb ed="#B" n="32"/>legem l. digna vox C. de legibus et l. princeps ff. eo c. pro<lb ed="#B" break="no" n="33"/>posuit 
+          de concessione prebende.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e268">
+          <pc type="pilcrow">¶</pc> Quidam uero est ordo iuris fundatus super 
+          <lb ed="#B" n="34"/>iure naturali, ut quod sententia feratur parte vocata: et si ille orde pre<lb ed="#B" break="no" n="35"/>ter 
+          mittitur: sententia <del rend="strikethrough">fertur</del> non valet vt in clementin. <sic>pasto<pb ed="#B" n="27-r"/><lb ed="#B" break="no" n="1"/>lis</sic> 
+          de re iudicata de quo uide panormitanum in c. in causis de re iudicata et Angelum 
+          <lb ed="#B" n="2"/>in d. l. princeps et omnes in d. clemen. pastoralis.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e290">
+          <pc type="pilcrow">¶</pc> Quando 
+          <lb ed="#B" n="3"/>iste ordo pretermittitur datur facultas a iure cuilibet se defenden<lb ed="#B" break="no" n="4"/>di 
+          etiam contra fiscum tam defensione ciuili et nunciis prin<lb ed="#B" break="no" n="5"/>cipis 
+          absque prius facta fide per literas quibus innotescat omnibus 
+          <lb ed="#B" n="6"/>quorum interest de iustitia. volentibus aliorum bona capere e<lb ed="#B" break="no" n="7"/>tiam 
+          que deferuntur ad fiscum quilibet cuius interest potest de facto 
+          <lb ed="#B" n="8"/>resistere: et in poenam non seruati ordinis iuris amissio cause 
+          <lb ed="#B" n="9"/>ipsi fisco etiam infertur ut in l. prohibitum et l. iustas et l. de<lb ed="#B" break="no" n="10"/>fensionis 
+          facultas C. de iure fisci lib. 10 Et hoc merito quia nihil 
+          <lb ed="#B" n="11"/>inordinatum placet iuri ut notat Baldus in c. dilecti El. 3. de 
+          <lb ed="#B" n="12"/>appel. et re assumitur per alios in c. Romana eo titulo lib. 6 
+          <lb ed="#B" n="13"/>Et ob hoc plus dicitur quod commissio facta a papa contra iuris ordi<lb ed="#B" break="no" n="14"/>nem 
+          inter non subditos vel inter laicos vel forte contra laicos in 
+          <lb ed="#B" n="15"/>patrimonialibus non ualet. Notat hoc Ioannes de imola in d. cap. cle<lb ed="#B" break="no" n="16"/>mentina 
+          pastoralis. Nec potest tollere ordinem iudiciarium quoad forum 
+          <lb ed="#B" n="17"/>laicorum notat glossa in clementina dispendiosam de iudiciis. et optimum 
+          <lb ed="#B" n="18"/>argumentum quod qui malo ordine intrat pretermisso aliquo quod facere 
+          <lb ed="#B" n="19"/>debuit: puta si consul intret consulatum pretermisso iuramento 
+          <lb ed="#B" n="20"/>de quo in c. consules de pace constantie in libro feudarum inde est extra 
+          <lb ed="#B" n="21"/>mittendus et puniendus etiam vt in l. 1 § necessario ff. si mu<lb ed="#B" break="no" n="22"/>lier 
+          ventris nomine et in libro feudarum de milite vasalla qui contumax est c. 1
+          <lb ed="#B" n="23"/>§ si vero ubi dicitur quod <quote xml:id="cy8th8-d1e190-Qd1e340">malo ordine factum debet reformari</quote> etc. .
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e343">
+          <lb ed="#B" n="24"/><pc type="pilcrow">¶</pc> Est autem ordo fundatus in lege naturali et diuina qui necessario ser<lb ed="#B" break="no" n="25"/>uari 
+          debet in negotio isto vt primus ingressus noster sit pacifi<lb ed="#B" break="no" n="26"/>cus 
+          et iustus progressus. vt infra patebit
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e354">
+          <pc type="pilcrow">¶</pc> Seruando itaque reges 
+          <lb ed="#B" n="27"/>nostri ordinem predictum fundatum super iure naturali ad quod 
+          <lb ed="#B" n="28"/>seruandum precepto diuine legis obligantur et naturalis necessario inde 
+          <lb ed="#B" n="29"/>proueniet intelligi media congrua proportionata et debita tali 
+          <lb ed="#B" n="30"/>fini adhibuisse ac per consequens populi et gentes <sic>habita</sic> orbis 
+          <lb ed="#B" n="31"/><sic>eiuscemodi</sic> ad audiendum euangelii promulgationem et sus<lb ed="#B" break="no" n="32"/>cipiendam 
+          fidem et christianos et religiosos mores imitandum 
+          <lb ed="#B" n="33"/><del rend="strikethrough">evangelii</del> efficaciter prouocabuntur: et ita merito tunc conue<lb ed="#B" break="no" n="34"/>nienter 
+          deduci ad finem suum dicentur.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e383">
+          <pc type="pilcrow">¶</pc> 2a pars huius 5e 
+          <lb ed="#B" n="35"/>consideratianis que est sequela ex prima videlicet quod reges nostri 
+          <lb ed="#B" n="36"/>uitare teneantur lege naturali et diuina uniuersa que possunt 
+          <pb ed="#B" n="27-v"/>
+          <lb ed="#B" n="1"/>quoquo modo retardare aut difficilem facere consequutionem 
+          <lb ed="#B" n="2"/>prefati finis probatur 1o quoniam omne illud quod actionem 
+          <lb ed="#B" n="3"/>inconuenientem reddit fini quem deus vel natura ex opere aliquo 
+          <lb ed="#B" n="4"/>intendunt contra legem <sic>natura</sic> uel diuinam esse dicitur. Ue<lb ed="#B" break="no" n="5"/>rum 
+          si in aduentu et applicatione siue in ingressu primo regum 
+          <lb ed="#B" n="6"/>nostrorum uel nunciorum suorum in illas indianas regiones 
+          <lb ed="#B" n="7"/>et orbem siue in progressu id est in regimine siue guberna<lb ed="#B" break="no" n="8"/>tione 
+          aut in aliquo alio eorum que necessario agenda incumbunt 
+          <lb ed="#B" n="9"/>inclitis regibus nostris circa illas indorum nationes: contingat 
+          <lb ed="#B" n="10"/>esse aliquam inordinationem iniustitiam scandalum uel aliquod 
+          <lb ed="#B" n="11"/>aliud opus indebitum et non secundum rationem aut contra
+          <lb ed="#B" n="12"/>ordinem iuris factum: quod de se natum sit de fide aut christia<lb ed="#B" break="no" n="13"/>na
+          religione infidelibus eiusmodi sinistram uel prauam opi<lb ed="#B" break="no" n="14"/>nionem 
+          generare: atque causam fore ut in gentem christianam 
+          <lb ed="#B" n="15"/>christi nomen profitentem capitali odio rationabiliter mo<lb ed="#B" break="no" n="16"/>ueantur 
+          redderent actiones regum nostrorum et eaque circa 
+          <lb ed="#B" n="17"/>gentes illas necessario eis agenda incumbunt inconvenientia 
+          <lb ed="#B" n="18"/>fini et inproportionata quem deus intendit et etiam ipsa ratio 
+          <lb ed="#B" n="19"/>naturalis dictat scilicet predicationem euangelii et conuersio<lb ed="#B" break="no" n="20"/>nem 
+          gentium ipsarum nec non quietem et pacem temporalem 
+          <lb ed="#B" n="21"/>atque omnimodam utilitatem immo salutem earum ergo Reges 
+          <lb ed="#B" n="22"/>nostri naturali et diuina lege tenentur vitare ac precauere in<lb ed="#B" break="no" n="23"/>iustitiam 
+          omnem scandalum inordinationem grauamina 
+          <lb ed="#B" n="24"/>et cetera omnia que nata de se erunt turbare gentes illas eisque 
+          <lb ed="#B" n="25"/>scandalum generare in super prauam opinionem de fide et re<lb ed="#B" break="no" n="26"/>ligione
+          christiana uel etiam de christianorum moribus male sen<lb ed="#B" break="no" n="27"/>tire 
+          quod totum in offendiculum euangelii cedet atque in igno<lb ed="#B" break="no" n="28"/>miniam 
+          nominis christi proculdubio redundabit: et per consequens 
+          <lb ed="#B" n="29"/>consequutionem finis prefati non solum retardare uel difficilem 
+          <lb ed="#B" n="30"/>facere sed impedire totaliter quis precor unquam dubitabit. Minor 
+          <lb ed="#B" n="31"/>de se patet. <pc type="pilcrow">¶</pc> Maior uero est S. Thome in 4o sententiarum distinctione 33  
+          <lb ed="#B" n="32"/>quaestione 1 articulo 1 in corpore et articulo 3 in corpore ubi dicit quod: <quote xml:id="cy8th8-d1e190-Qd1e469" source="http://scta.info/resource/ta-l4d33q1-d1e369@11-23">illa actio dicitur 
+          <lb ed="#B" n="33"/>esse contra legem nature que non est conueniens fini debito</quote> 
+          <lb ed="#B" n="34"/><quote xml:id="cy8th8-d1e190-Qd1e475" source="http://scta.info/resource/ta-l4d33q1-d1e174@241-284" type="paraphrase"><lb ed="#B" n="35"/>siue quia de se est improportionata fini illi: uel quia omnino 
+          <pb ed="#B" n="28-r"/>
+          <lb ed="#B" n="1"/>impedit finem uel facit difficilem aut minus decentem peruen<lb ed="#B" break="no" n="2"/>tionem 
+          ad finem.</quote> <quote xml:id="cy8th8-d1e190-Qd1e486" source="http://scta.info/resource/ta-l4d33q1-d1e174@295-377">Et si actio sit incoueniens fini quasi omnino 
+          <lb ed="#B" n="3"/>prohibens finem principalem directe per legem nature prohibetur 
+          <lb ed="#B" n="4"/><del rend="strikethrough">secundis</del> primis preceptis legis nature: que sunt in operabilibus sicut 
+          <lb ed="#B" n="5"/>sunt communes conceptiones in speculatiuis. Si autem faciens difficilem 
+          <lb ed="#B" n="6"/>vel minus congruam peruentionem ad finem ipsum prohibetur 
+          <lb ed="#B" n="7"/>secundis preceptis legis nature que ex primis deriuantur <pc type="virgula">/</pc> sicut con<lb ed="#B" break="no" n="8"/>clusiones 
+          in speculatiuis ex principiis per se notis fidem habent 
+          <lb ed="#B" n="9"/>Et sic dicta actio contra legem nature esse dicitur</quote> Hec. S. Thomas
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e510">
+          <pc type="pilcrow">¶</pc> Consequentia 
+          <lb ed="#B" n="10"/>probatur: quia reges nostri adstricti sunt seruare precepta prima 
+          <lb ed="#B" n="11"/>et secunda potissimum negatiua legis nature atque diuine alias 
+          <lb ed="#B" n="12"/>peccarent mortaliter. Prohibentur nanque preceptis negatiuis (ut 
+          <lb ed="#B" n="13"/>probatum est) impedire directe finem aut reddere difficilem
+          <lb ed="#B" n="14"/>finis adeptionem quem deus uel natura ex opere regum nostrorum
+          <lb ed="#B" n="15"/>elicere intendunt. Predicationem scilicet fidei modo quo 
+          <lb ed="#B" n="16"/>secundum formam a christo statutam fieri debet: conuersionem 
+          <lb ed="#B" n="17"/>in terris et maribus illis degentium et omnimodam earum uti<lb ed="#B" break="no" n="18"/>litatem 
+          non solum spiritualem sed temporalem cum ob earum gra<lb ed="#B" break="no" n="19"/>tiam 
+          commodum et fauorem talis concessio siue institutio intro<lb ed="#B" break="no" n="20"/>ducta 
+          fuerit prout in 3a consideratione probatum est
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e540">
+          ergo re<lb ed="#B" break="no" n="21"/>ges 
+          nostri naturali legi atque diuina tenentur vitare ac pre<lb ed="#B" break="no" n="22"/>cauere 
+          tam in applicatione<del>m</del> et ingressu terras illas quam in pro<lb ed="#B" break="no" n="23"/>gressu 
+          omnem turbationem scandalum iniustitiam etc. 
+          <lb ed="#B" n="24"/>Et omne id quo impediri vel retardari aut difficilis obtentu 
+          <lb ed="#B" n="25"/>fieri potest finis huiusmodi: in quibus quidem includi negatiuum 
+          <lb ed="#B" n="26"/>preceptum nemini dubitandum est: uidelicet non facere turba<lb ed="#B" break="no" n="27"/>tionem 
+          non dare causam scandali non ponere offendiculum 
+          <lb ed="#B" n="28"/>euangelio: non inpedire profectum fidei et conuersionem ani<lb ed="#B" break="no" n="29"/>marum: 
+          non denique omittere adhibere que prohibere poterunt 
+          <lb ed="#B" n="30"/>prohibentia et plura huiusmodi que continentur sub negatiuis 
+          <lb ed="#B" n="31"/>preceptis ipsorumque ui prohibentur
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e569">
+          <pc type="pilcrow">¶</pc> <sic>2o</sic> ratio probatur eadem 
+          <lb ed="#B" n="32"/>pars secunda per locum a contrariis siue oppositis: quia eiusdem 
+          est unum contrariorum prosequi et aliud refutare aut ex<lb ed="#B" break="no" n="33"/>cludere 
+          ut patet. Medicina enimque sanitatem operatur:
+          <lb ed="#B" n="34"/>consequenter excludere egritudinem ui qua poterit conatur. Eius<pb ed="#B" n="28-v"/><lb ed="#B" break="no" n="1"/>dem 
+          rationis et est moueri sursum et deorsum. Et propterea dicitur 
+          <lb ed="#B" n="2"/>contrariorum <sic>eadem</sic> esse materiam potentiam et disciplinam 
+          <lb ed="#B" n="3"/>2o de coelo et mundo 2 Rhetoricorum 1 et 6 topicorum 4 et 8 physicorum 
+          <lb ed="#B" n="4"/>et 11o metaphysicae et per legistas l. et si contra in fine ff. de vulgari et 
+          <lb ed="#B" n="5"/>pupillari et institut: de his qui sunt sui vel alieni iuris,in principio. Unde 
+          <lb ed="#B" n="6"/>tendens in finem quemcunque naturalem duobus mouetur: quorum 
+          <lb ed="#B" n="7"/>primum est fuga et amotio eius quod es impedimentum motus
+          <lb ed="#B" n="8"/>in finem et a fine facit deuiare. Alterum uero est adhesio et tentio
+          <lb ed="#B" n="9"/>eius quod est in finem ductiuum et hoc secundum duas partes iustitie
+          <lb ed="#B" n="10"/>integrales quibus acquiruntur virtutes scilicet descendendo 
+          <lb ed="#B" n="11"/>a malo et faciendo bonum. Ita inquit <ref xml:id="cy8th8-d1e190-Rd1e610">Henricus de Gandauo 
+          <lb ed="#B" n="12"/>in summa sua theologie articulo 24. quaestione 4.</ref> et sic patet quod vitare 
+          <lb ed="#B" n="13"/>contrarium eius quod intenditur finis in <sic>mortalibus</sic> cadit 
+          <lb ed="#B" n="14"/>sub precepto naturalis iustitie.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e622">
+          <pc type="pilcrow">¶</pc> 3a eadem pars 2a probatur:
+          <lb ed="#B" n="15"/>quia nisi reges nostri predicta contraria inconuenientia et 
+          <lb ed="#B" n="16"/>prohibentia in suo aduentu et ingressu vel suorum et similiter 
+          <lb ed="#B" n="17"/>in progressu precauerent aut vitarent: proculdubio forent
+          <lb ed="#B" n="18"/>causa priuatiua causa boni cuiusque unusquisque dicitur et est: 
+          <lb ed="#B" n="19"/>cui speciali lege puta ex officio vel stipendio incumbit adipisci 
+          <lb ed="#B" n="20"/>aliquid: et tamen omittit per negligentiam vel incuriam tol<lb ed="#B" break="no" n="21"/>lere 
+          impedimenta rei adipiscenda Sicut nauta non solum 
+          <lb ed="#B" n="22"/>tenetur ex officio nauim ad portum ducere: uerum etiam pre<lb ed="#B" break="no" n="23"/>cauere 
+          ne nauigando in syrtibus naufragio pereat. Et milites 
+          <lb ed="#B" n="24"/>conducti: non modo ad defendendam ciuitatem obligantur fortiter 
+          <lb ed="#B" n="25"/>in <seg type="correction">con<del rend="strikethrough">flicto</del>flictu</seg> pugnando: sed ad vigilandum et summe ca<lb ed="#B" break="no" n="26"/>uendum 
+          ne ab hostibus per insidias et clanculum capiatur. Sic 
+          <lb ed="#B" n="27"/>etiam principes nostri hispaniarum qui magno stipendio ab apos<lb ed="#B" break="no" n="28"/>tolica 
+          sede fuerunt (ut ita dixerimus) conducti et ex speciali 
+          <lb ed="#B" n="29"/>lege id est ex officio eis incumbit: cauere tenentur sumopere 
+          <lb ed="#B" n="30"/>atque tollere non qualitercunque sed efficaciter quecunque impe<lb ed="#B" break="no" n="31"/>dimenta
+          quibus prememoratus finis tolli vel impediri seu etiam 
+          <lb ed="#B" n="32"/>retardari ualeat. Alioquin si per negligentiam seu incuriam 
+          <lb ed="#B" n="33"/>omittunt: sine dubio causa priuatiua erunt prefatorum bonorum 
+          <lb ed="#B" n="34"/>et per consequens rei omnium malorum que ob eiusmodi omissionem
+          <pb ed="#B" n="29-r"/>
+          <lb ed="#B" n="1"/>et incuriam in fidei et religionis christiane honorisque diuini de<lb ed="#B" break="no" n="2"/>trimentum 
+          et in animarum perditionem subsequentur.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e684">
+          <pc type="pilcrow">¶</pc> 4o 
+          <lb ed="#B" n="3"/>probatur utraque pars simul: unusquisque obligatur de necessitate 
+          <lb ed="#B" n="4"/>salutis ad ea que sunt sui officii ad quod exercendum se obli<lb ed="#B" break="no" n="5"/>gauit 
+          et pro cuius exercitiis impensione mercedem accepit. Sed 
+          <lb ed="#B" n="6"/>rege nostri ad exercendum ea que spectant ad officium regum 
+          <lb ed="#B" n="7"/>commune et ulterius peculiari quodam iure id est apostolorum 
+          <lb ed="#B" n="8"/>officio ad curam habendam qualiter scilicet Christi euangelium 
+          <lb ed="#B" n="9"/>predicetur et cultus diuinus amplietur et nomen redemptoris 
+          <lb ed="#B" n="10"/>notificetur uniuersis illis indianis populis in toto illo india<lb ed="#B" break="no" n="11"/>rum 
+          orbe de gentibus eorumque procuretur salus se obligarunt: 
+          <lb ed="#B" n="12"/>et pro impensione huius exercitii magnam immo maximam 
+          <lb ed="#B" n="13"/>mercedem acceperunt. licet sine mercede poterant a sede apo<lb ed="#B" break="no" n="14"/>stolica 
+          per preceptum obligari ergo tenentur ex vi precepti et 
+          <lb ed="#B" n="15"/>necessitate salutis ad predicta duo contenta in hac 5a consideratione,
+          <lb ed="#B" n="16"/>ratione uidelicet ad proportionandum: moderandum <del rend="strikethrough">ab</del> or<lb ed="#B" break="no" n="17"/>dinandum
+          aduentum et primum ingressum suum uel suorum 
+          <lb ed="#B" n="18"/>et etiam progressum id est regimen et omnia alia que sibi agen<lb ed="#B" break="no" n="19"/>da 
+          forent circa terras et nationes illas orbem illum inhabitan<lb ed="#B" break="no" n="20"/>tes: 
+          quatenus fidei predicationi et dilatationi et animarum con<lb ed="#B" break="no" n="21"/>uersioni 
+          conducant siue conueniant: et per consequens, ad pre<lb ed="#B" break="no" n="22"/>cauendum 
+          omnia contraria que possunt obuiare his seu illa tolle<lb ed="#B" break="no" n="23"/>re 
+          aut impedire vel etiam quoquo modo retardare quibunt. Utra<lb ed="#B" break="no" n="24"/>que 
+          enim <seg type="correction">pertinet<del>et</del></seg> ad regis officium ut ex dictis apparet. consequentia 
+          <lb ed="#B" n="25"/>patet cum maiore per S. Thomam 3 parte quaestione 67 articulo 8 corpore ubi dicit 
+          <lb ed="#B" n="26"/>quod <quote xml:id="cy8th8-d1e190-Qd1e748">unusquisque obligatur ad exequendum officium quod accipit</quote>. Et 
+          <lb ed="#B" n="27"/>super epistolam 1 ad Thimotheum in prologo, ait quod <quote xml:id="cy8th8-d1e190-Qd1e753">prelati et superiores
+          <lb ed="#B" n="28"/>de precepto tenentur ad ea que sunt proprii officii</quote>. Et potest cla<lb ed="#B" break="no" n="29"/>rius
+          videri hec obligatio per exemplum de illo qui assumit aduo<lb ed="#B" break="no" n="30"/>candi
+          medicandi protegendi et docendi et sic de aliis ministe<lb ed="#B" break="no" n="31"/>rium
+          et accepit mercedem pro illius administratione aut exer<lb ed="#B" break="no" n="32"/>citio 
+          ut probatur per legem qui mercedem ff. locati: cum ibi notatis 
+          <lb ed="#B" n="33"/>et quod legitur et notatur in l. dominus in principio et C. mandati l. 
+          <pb ed="#B" n="29-v"/>
+          <lb ed="#B" n="1"/>in re mandata. Minor uero scilicet quod Reges nostri peculiari 
+          <lb ed="#B" n="2"/>quodam iure etiam obligentur etc. Patet <del rend="strikethrough">tunc</del> tum primo 
+          <lb ed="#B" n="3"/>ex sua pollicitatione que transiuit in pactum statim quod papa 
+          <lb ed="#B" n="4"/>per literas suam illam acceptavit l. pactum, ff. de pollicita.
+          <lb ed="#B" n="5"/>Unde dicitur in decreto praedicto et in super mandamus vobis
+          <lb ed="#B" n="6"/>in virtute sancte obedientie sicut etiam pollicemini etc <pc type="virgula">/</pc>. Tum 
+          <lb ed="#B" n="7"/>2o quia precepto formali summus pontifex astrinxit eos quod per 
+          idoneos ministros inducere uelint <unclear>incolas</unclear> et habitatores pre<lb ed="#B" break="no" n="8"/>facti 
+          orbis ad suscipiendam fidem ac <del rend="strikethrough">inb</del> imbuerint bonis
+          <lb ed="#B" n="9"/>moribus etc <pc type="virgula">/</pc> Unde sic addidit <quote xml:id="cy8th8-d1e190-Qd1e805">sicut etiam pollicemini (et 
+          <lb ed="#B" n="10"/>non dubitamus pro vestra maxima deuotiones et regia mag<lb ed="#B" break="no" n="11"/>nanimitate 
+          vos esse facturos) ad terras firmas et insulas
+          <lb ed="#B" n="12"/>predictas uiros probos deum timentes doctos peritos et expertos 
+          <lb ed="#B" n="13"/>ad instruendum incolas et habitatores prefatos in fide catholica 
+          <lb ed="#B" n="14"/>et bonis moribus imbuendum destinare debeatis omnem debi<lb ed="#B" break="no" n="15"/>tam 
+          <lb ed="#B" n="16"/>diligentiam in premissis adhibentes</quote> etc <pc type="virgula">/</pc> hec ibi in for<lb ed="#B" break="no" n="17"/>ma. 
+          Ubi patet reges nostros obligatione peculiari ultra eam 
+          <lb ed="#B" n="18"/>que communis est omnibus regibus teneri ad predicta. Et 
+          <lb ed="#B" n="19"/>de hoc diffusius disputauimus in nostro tractatu de bello Xa<lb ed="#B" break="no" n="20"/>lisquino 
+          in probatione cuiusdam corrolarii 3 circa principium
+          <lb ed="#B" n="21"/>operis.
+        </p>
+        <p xml:id="cy8th8-d1e190-d1e839">
+          <pc type="pilcrow">¶</pc> Quod autem Reges nostri sint quodammodo precio
+          <lb ed="#B" n="22"/>conducti ad curam et laborem predictum patet quia magno sti<lb ed="#B" break="no" n="23"/>pendio 
+          magnis muneribus maximisque honoribus ac ingenti 
+          <lb ed="#B" n="24"/>dignitate a summo christi vicario ex thesauro ecclesie id est ec<lb ed="#B" break="no" n="25"/>clesiastica 
+          potestate stipendiati sunt officio uidelicet apostolorum: hoc 
+          <lb ed="#B" n="26"/>est dilatandi fidem et conuertendi animas. Est enim rex noster 
+          <lb ed="#B" n="27"/>quidam illorum apostolus Principatu insuper temporali et anto<lb ed="#B" break="no" n="28"/>nomastica 
+          celsitudine Rex uidelicet summus super multos 
+          <lb ed="#B" n="29"/>et magnos reges diuitiis quoque incomparabilibus auri ar<lb ed="#B" break="no" n="30"/>genti
+          ceterorum methalorum: gemarum <seg type="correction">union<subst><del rend="strikethrough">e</del><add place="above-line">u</add></subst>m</seg> smaragdum <pc type="virgula">/</pc> 
+          <lb ed="#B" n="31"/>et aliarum id genus variarunque specierum: et thesauris tan<lb ed="#B" break="no" n="32"/>dem 
+          innumeris qualia nec numero nec valore nusquam terra<lb ed="#B" break="no" n="33"/>rum 
+          vel gentium fuerunt audita: dum: tamen illa que spo<lb ed="#B" break="no" n="34"/>ponderunt. 
+          et polliciti sunt adimpleant reges nostri catho<lb ed="#B" break="no" n="35"/>lici <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
