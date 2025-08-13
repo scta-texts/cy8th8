@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 11</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 11</title>
+          <date when="2025-08-13">August 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="30-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e203">
+        <head xml:id="cy8th8-d1e203-Hd1e97">Sectio 11</head>
+        <p xml:id="cy8th8-d1e203-d1e99">
+          <pb ed="#B" n="30-r"/>
+          <lb ed="#B" n="1"/>§ 11
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e106">
+          <lb ed="#B" n="2"/>Preactis quinque considerationibus suppositis ad obiectionis. §. 5.
+          <lb ed="#B" n="3"/>positi plenariam solutionem videlicet quod licet quantum ad quoscunque 
+          <lb ed="#B" n="4"/>reges alios de mundo indorum reges et domini sint liberi non 
+          <lb ed="#B" n="5"/>recognoscentes superiorem: atque proinde nemo absque eorum 
+          <lb ed="#B" n="6"/>licentia et beneplacito possit citra iniuriam intrare regna 
+          <lb ed="#B" n="7"/>illa et querere aut scrutari que in illis sunt et illa tollere: 
+          <lb ed="#B" n="8"/>non tamen hoc locum habet quoad reges nostros hispaniarum 
+          <lb ed="#B" n="9"/>qui per summum pontificem constituti sunt illius orbis sumi 
+          <lb ed="#B" n="10"/>principes etc <pc type="virgula">/</pc>. ponuntur sequentes conclusiones
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e131">
+          <lb ed="#B" n="11"/>Prima conclusio 
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e136">
+          <lb ed="#B" n="12"/><pc type="pilcrow">¶</pc> Intentio summi pastoris animarum fuit ut reges nostri ser<lb ed="#B" break="no" n="13"/>varent
+          omnino iuris ordinem et debitas circumstantias in 
+          <lb ed="#B" n="14"/>accedendo et ingrediendo per nuntios seu legatos suos re<lb ed="#B" break="no" n="15"/>giones 
+          illas et capiendo earum possessionem nec dedit eis 
+          <lb ed="#B" n="16"/>licentiam faciendi contrarium.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e152">
+          Probatur conclusio: per ea 
+          <lb ed="#B" n="17"/>que probata sunt in secunda consideratione. Quia summus 
+          <lb ed="#B" n="18"/>pontifex profitetur se uelle diuinas et humanas leges seruare: 
+          <lb ed="#B" n="19"/>et nullam transgrediendi iura diuina et naturalia habere potes<lb ed="#B" break="no" n="20"/>tatem.
+          Et est quidam ordo in rebus agendis necessarius et 
+          <lb ed="#B" n="21"/>naturalis et similiter circumstantie ut tempus et locus et relique: 
+          <lb ed="#B" n="22"/>quibus recte ac congruenter quilibet actus humanus vestitur 
+          <lb ed="#B" n="23"/>ut habeat bonitatem. Que omnia Diuus Paulus comprehen<lb ed="#B" break="no" n="24"/>dit: 
+          <quote xml:id="cy8th8-d1e203-Qd1e171" source="http://scta.info/resource/Icor14_40@1-7">communia (inquit) honeste et secundum ordinem fiant 
+          <lb ed="#B" n="25"/>in uobis</quote> <ref xml:id="cy8th8-d1e203-Rd1e176">1. ad Corinthios 14</ref> et <quote xml:id="cy8th8-d1e203-Qd1e178" source="http://scta.info/resource/rom13_1@14-20">que a deo sunt ordinata</quote> ad 
+          <lb ed="#B" n="26"/>Romanos 13 et c. 10 <quote xml:id="cy8th8-d1e203-Qd1e184" source="http://scta.info/resource/Icor10_31">omnia quecunque agitis in verbo vel in opere 
+          <lb ed="#B" n="27"/>in gloriam dei facite<!-- source is a little uncertain --> </quote> Et <ref xml:id="cy8th8-d1e203-Rd1e191">ad Colossenses 3</ref> idem dicit et addit <quote xml:id="cy8th8-d1e203-Qd1e193" source="http://scta.info/resource/col3_17@10-13">in 
+          <lb ed="#B" n="28"/>nomine domini nostri iesu christi</quote> et de circumstantiis que bonos 
+          <lb ed="#B" n="29"/>reddunt actus humanos <pc type="virgula">/</pc> habetur 29 dist per totum ergo 
+          <pb ed="#B" n="30-v"/>
+          <lb ed="#B" n="1"/>intentio summi pontificis fuit quod reges nostri seruarent ordinem 
+          <lb ed="#B" n="2"/>iuris et debitas circumstantias etc. per consequens non dedit licen<lb ed="#B" break="no" n="3"/>tiam 
+          eis faciendi contrarium. <pc type="virgula">/</pc>
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e216">
+          <lb ed="#B" n="4"/>2a conclusio
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e221">
+          <lb ed="#B" n="5"/><pc type="pilcrow">¶</pc> Ordo iuris necessarius et circumstantie que naturali ratione 
+          <lb ed="#B" n="6"/>in hac re oportet seruari continet duodecim partes sequentes
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e230">
+          <lb ed="#B" n="7"/><pc type="pilcrow">¶</pc> In primis quod nunciorum regum nostrorum inter quos predica<lb ed="#B" break="no" n="8"/>tores 
+          fidei connumerabuntur: aduentus accessus siue applicatio 
+          <lb ed="#B" n="9"/>ad indianas regiones: sit pacificus modestissimus. et omni quere<lb ed="#B" break="no" n="10"/>la 
+          carens.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e243">
+          <pc type="pilcrow">¶</pc> Morosus non repentinus: et per partem illam 
+          <lb ed="#B" n="11"/>cuiuscunque prouintie vel regni per quam incole et habitatores il<lb ed="#B" break="no" n="12"/>lius 
+          et principes eorum minus queant turbari.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e253">
+          <pc type="pilcrow">¶</pc>  Ordinata in 
+          <lb ed="#B" n="13"/>quamlibet terram descensio vel ingressus innoxius: ne scilicet 
+          <lb ed="#B" n="14"/>prius contingat in terram vel portum e nauibus descendere aut 
+          <lb ed="#B" n="15"/>egredi: quam habita principum aut magistratuum terre illius licentia 
+          <lb ed="#B" n="16"/>voluntaria expressa vel tacita.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e268">
+          <pc type="pilcrow">¶</pc> Salutatio et alloquutio humilis 
+          <lb ed="#B" n="17"/>et gratiosa ad principes et populos et singulos qui occurrerint.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e276">
+          <lb ed="#B" n="18"/><pc type="pilcrow">¶</pc> Conuersatio exemplaris mansueta et christiana et ut gratior ad<lb ed="#B" break="no" n="19"/>uentus 
+          eorum eis existat: aliquorum munusculorum ex parte re<lb ed="#B" break="no" n="20"/>gum 
+          nostrorum liberalis oblatio.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e287">
+          <pc type="pilcrow">¶</pc> Notificatio aut significatio tem<lb ed="#B" break="no" n="21"/>pestiua 
+          <pc type="virgula">/</pc> quieta <pc type="virgula">/</pc> suauis <pc type="virgula">/</pc> et amicabilis <pc type="virgula">/</pc> modestissima et animorum 
+          <lb ed="#B" n="22"/>audientium conciliatiua morosa et cum temporis interuallo plu<lb ed="#B" break="no" n="23"/>rium
+          dierum successiua: finis siue cause finalis legationis et ad<lb ed="#B" break="no" n="24"/>uentus
+          sui explicatiua. Videlicet ad docendum eos de uno magno 
+          <lb ed="#B" n="25"/>et uero deo omnium Domino creatore id est ad predicandum 
+          <lb ed="#B" n="26"/>eis fidem iesu christi quem ignorant missi:
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e318">
+          Iterum pro tuitione vel 
+          <lb ed="#B" n="27"/>defensa predicatorum et sua alicuius domus fortis vel turris 
+          <lb ed="#B" n="28"/>sub colore aliquo: videlicet: morandi vel pluuie siue frigoris
+          <lb ed="#B" n="29"/>aut caloris vitandi gratia cauta constructio. Que quidem facilis 
+          <lb ed="#B" n="30"/>factu erit.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e329">
+          <pc type="pilcrow">¶</pc> Deinde sequeretur exhortatio miti uerbo ac dulci 
+          <lb ed="#B" n="31"/>et placido religiosorum seu predicatorum ad conuentum faci<lb ed="#B" break="no" n="32"/>endum 
+          eorum: id est ut simul omnes vel maiores eorum pri<pb ed="#B" n="31-r"/><lb ed="#B" break="no" n="1"/>mo: 
+          deinde alii aliquo in loco congruendi ad audiendum verbum 
+          <lb ed="#B" n="2"/>vite conueniant.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e344">
+          <pc type="pilcrow">¶</pc> Post hec autem superueniet discreta distincta 
+          <lb ed="#B" n="3"/>seu explicita et salutaris plenaque secundum formam a christo datam 
+          <lb ed="#B" n="4"/>fidei predicatio: ingressus quoque cum diuino auxilio illorum infide<lb ed="#B" break="no" n="5"/>lium 
+          in ecclesiam dei catholicam per fidem et sacri baptismatis sus<lb ed="#B" break="no" n="6"/>ceptionem 
+          eorumque christi corpori mistico uoluntaria incorpora<lb ed="#B" break="no" n="7"/>tio
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e362">
+          <pc type="pilcrow">¶</pc> Rursus ulterius informatio per eosdem fidei precones de ti<lb ed="#B" break="no" n="8"/>tulo 
+          regnum nostrorum et ad se recipiendum quasi pro reddenda 
+          <lb ed="#B" n="9"/>vice regibus nostris et pro tanto fidei bono recompensa seu aliqua<lb ed="#B" break="no" n="10"/>li 
+          gratificatione in uniuersales principes: et bona que exinde pro<lb ed="#B" break="no" n="11"/>uentura 
+          sunt expositio.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e376">
+          <pc type="pilcrow">¶</pc> Tempestiua discretissima modestissima 
+          <lb ed="#B" n="12"/>ualde blanda saluberrimaque ad consentiendum prefate institutioni
+          <lb ed="#B" n="13"/>apostolice de regibus nostris exhortatio dulcis ac mitis monitio et 
+          <lb ed="#B" n="14"/>inductio.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e388">
+          <pc type="pilcrow">¶</pc>  Postremo habito ipsorum consensu libero et eius modi 
+          <lb ed="#B" n="15"/>papali de regibus nostris institutione voluntarie acceptata tractatus 
+          <lb ed="#B" n="16"/>cum pacto de modo regnandi: de tributis et de seruitiis regibus no<lb ed="#B" break="no" n="17"/>stris 
+          exhibendis cum prestatione iuramenti utriusque partis de 
+          <lb ed="#B" n="18"/><sic>comentione</sic> et pactis seruandis et similia <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e407">
+          <lb ed="#B" n="19"/><pc type="pilcrow">¶</pc>  hic igitur ordo est iuris actus et circumstantie necessarie que ob<lb ed="#B" break="no" n="20"/>seruari 
+          necesse est: ad hoc quod rite ac recte reges nostri hispaniarum
+          <lb ed="#B" n="21"/>adipisci valeant summum illius orbis indiarum principatum: 
+          <lb ed="#B" n="22"/>sine quibus nihil de iure valebit quicquid secus factum fuerit ut pa<lb ed="#B" break="no" n="23"/>tebit
+          clarum <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e426">
+          <lb ed="#B" n="24"/><pc type="pilcrow">¶</pc>  Nunc ergo ad probationem conclusionis et singularum illius par<lb ed="#B" break="no" n="25"/>tium 
+          accedamus
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e435">
+          <lb ed="#B" n="26"/><pc type="pilcrow">¶</pc> Prima pars conclusionis scilicet quod aduentus 
+          <lb ed="#B" n="27"/>primus hispanorum cum predicatoribus fidei 
+          <lb ed="#B" n="28"/>debeat esse pacificus etc. probatur.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e447">
+          <pc type="pilcrow">¶</pc> Per preceptum et formam christi quam predicandi euangelium
+          <lb ed="#B" n="29"/>suum statuit. Matheus 10 et Marcus 6 et lucas 10. <quote xml:id="cy8th8-d1e203-Qd1e454">intrantes autem in
+          <lb ed="#B" n="30"/>domum (inquit) salutate eam dicentes pax huic domui. Et si 
+          <lb ed="#B" n="31"/>quidem fuerit illa digna veniet pax vestra super eam: si autem 
+          <lb ed="#B" n="32"/>non fuerit digna pax vestra reuertetur ad vos</quote>. Nam omnis salu<pb ed="#B" n="31-v"/><lb ed="#B" break="no" n="1"/>tatio 
+          est bonorum imprecatio. Et tamen in hac salutatione plu<lb ed="#B" break="no" n="2"/>rima 
+          bona bona clauduntur. Quia pax est tranquilitas ordinis ut 
+          <lb ed="#B" n="3"/><ref xml:id="cy8th8-d1e203-Rd1e470">Augustinus dicit libro 19 <sic>c.</sic> de ciuitate dei</ref> Nullum autem bonum de<lb ed="#B" break="no" n="4"/>est 
+          ubi tranquillitas ordinis <del rend="strikethrough">us</del> manet. Et secundum Isidorum 
+          <lb ed="#B" n="5"/>Ethimologiis <quote xml:id="cy8th8-d1e203-Qd1e482">est tranquillitas et status quietus et multorum inter se 
+          <lb ed="#B" n="6"/>ipsos amicitia</quote>. Et ideo rex pacificus pia miseratione disposuit 
+          <lb ed="#B" n="7"/>sibi subditos fore pudicos pacificos et modestos ut dicitur in prohemio
+          <lb ed="#B" n="8"/>decretalium. Unde docuit dominus (secundum remigium) pre<lb ed="#B" break="no" n="9"/>dicatores 
+          legis sue in introitu offerre pacem: ut salutatione pacis 
+          <lb ed="#B" n="10"/>(res quidem ab omnibus tam amata <pc type="virgula">/</pc> tam dulcis <pc type="virgula">/</pc> et delectabilis)
+          <lb ed="#B" n="11"/>habitantes ciuitatem castellum vel domum gratos et beneuolos
+          <lb ed="#B" n="12"/>redderent ad suscipiendum et hospitandum illos gratiose atque be<lb ed="#B" break="no" n="13"/>nigne: 
+          nec non allicerent ad eorum doctrinam libenter aus<lb ed="#B" break="no" n="14"/>cultandum.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e512">
+          particula 2a
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e514">
+          <lb ed="#B" n="15"/><pc type="pilcrow">¶</pc> Omni querela carens
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e521">
+          <lb ed="#B" n="16"/><pc type="pilcrow">¶</pc> Quatenus nulla in re nec ipsi duces nec eorum comites vel 
+          <lb ed="#B" n="17"/>ministri quicunque verbo aut opere faciant unde habitantibus cuius<lb ed="#B" break="no" n="18"/>libet
+          loci molesti sint aut graues: potissimum eorum que offen<lb ed="#B" break="no" n="19"/>dere 
+          poterunt honestatem <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e537">
+          <lb ed="#B" n="20"/>particula 3a
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e542">
+          <lb ed="#B" n="21"/>Morosus scilicet accessus non repentinus etc
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e548">
+          <lb ed="#B" n="22"/><pc type="pilcrow">¶</pc> Quia si subitus uel repentinus esset non careret suspitione ac per 
+          <lb ed="#B" n="23"/>consequens turbarentur indigne. quoniam omnia noua insolita <pc type="virgula">/</pc> inopi<lb ed="#B" break="no" n="24"/>nata 
+          et repentina magnam turbationem nata sunt causare: 
+          <lb ed="#B" n="25"/>quia maxime timentur. Uidentur enim esse maiora mala et 
+          <lb ed="#B" n="26"/>minus remediabilia secundum <ref xml:id="cy8th8-d1e203-Rd1e566">Augustinum libra 2o confessio<lb ed="#B" break="no" n="27"/>num</ref>. 
+          Omnis namque subita mutatio rerum non sine quodam 
+          <pb ed="#B" n="32-r"/>
+          <lb ed="#B" n="1"/>quasi conflictu contingit animorum secundum Boetium libro 2o prosa 
+          <lb ed="#B" n="2"/>1a de consolatione
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e578">
+          <pc type="pilcrow">¶</pc> Hec satis expresse probantur per <ref xml:id="cy8th8-d1e203-Rd1e583">l. obser<lb ed="#B" break="no" n="3"/>uare
+          § antequam ff. de officio proconsulis</ref> Ubi dicitur <quote xml:id="cy8th8-d1e203-Qd1e588">antequam fines decrete 
+          <lb ed="#B" n="4"/>sibi prouintie proconsul ingressus sit: edictum debet de aduentu 
+          <lb ed="#B" n="5"/>suo mittere continens commendationem aliquam sui scilicet vos dili<lb ed="#B" break="no" n="6"/>go 
+          pro vtilitate vestra venio: et similia: significetque qua die fines sit 
+          <lb ed="#B" n="7"/>ingressurus. Plerunque enim incerta hec et inopinata turbant pro<lb ed="#B" break="no" n="8"/>uinciales 
+          et actus impedit ingressus. Hoc etiam eum obseruare
+          <lb ed="#B" n="9"/>oportet ut per eam partem prouintiam ingrediatur per quam in<lb ed="#B" break="no" n="10"/>gredi
+          moris est. Et obseruare in quam primum ciuitatem veniet 
+          <lb ed="#B" n="11"/>vel applicet. Magni enim faciunt prouintiales seruare sibi consue<lb ed="#B" break="no" n="12"/>tudinem 
+          et huiusmodi prerogatiuas etc.</quote> hec ibi Vbi Baldus notat: 
+          <lb ed="#B" n="13"/>quod <quote xml:id="cy8th8-d1e203-Qd1e612">incerta et inopinata turbant prouinciales. et quod dicitur turbari ciuitas 
+          <lb ed="#B" n="14"/>quando ratione alicuius casus homines relinquunt artes et ministeria 
+          <lb ed="#B" n="15"/>sua. Et quod quis debeat ingredi in propriam terram uel ciuitatem 
+          <lb ed="#B" n="16"/>(certe fortius in alienam) per loca consueta. Nam si princeps in regno 
+          <lb ed="#B" n="17"/>suo committit proconsulem seu gubernatorem ad prouintiam 
+          <lb ed="#B" n="18"/>sibi subditam moderandum: oportet omnino seruare quod prius
+          <lb ed="#B" n="19"/>quam fines illius prouintie ingrediatur significare aduentum suum 
+          <lb ed="#B" n="20"/>et commendationem sui facere: quo scilicet amore prouintiales 
+          <lb ed="#B" n="21"/>prosequatur: et quod ad eorum se missum sciant communem utilitatem: 
+          <lb ed="#B" n="22"/>quatenus beneuolentiam prouincialium sibi valeat <sic>unciliare</sic> de<lb ed="#B" break="no" n="23"/>nique 
+          ingressus sui et qua parte sit ingressurus pateat: ne habita<lb ed="#B" break="no" n="24"/>tores 
+          ciuitatum et locorum incerto et inopinato aduentu et ingres<lb ed="#B" break="no" n="25"/>su 
+          proconsulis possint turbari: quanto rationabilius et fortius immo 
+          <lb ed="#B" n="26"/>longe magis et maxime necessum erit et fuisset obseruari antequam
+          <lb ed="#B" n="27"/>quicunque nuncii uel legati regum nostrorum agere vel agant vel 
+          <lb ed="#B" n="28"/>egissent ad hoc quod pace mansuetudine <del>ab</del> ac bonis et christianis
+          <lb ed="#B" n="29"/>actibus gentium illarum beneuolentiam captarent: nihil mo<lb ed="#B" break="no" n="30"/>lestum 
+          aut unde turbari queant vel quiuissent dicere aut operari</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e203-d1e657">
+          <lb ed="#B" n="31"/><pc type="pilcrow">¶</pc> Rursus notat baldus <pc type="virgula">/</pc> quod qui uult ordinem turbare tenetur 
+          <lb ed="#B" n="32"/>actione iniuriarum et potest et resistit etiam armata manu: quia 
+          <lb ed="#B" n="33"/>nemo tenetur iniuriam pati vel parvi pensionem proprii hono<lb ed="#B" break="no" n="34"/>ris 
+          ut ff. de postulando l. 1 Ad idem refertur alia pars
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
