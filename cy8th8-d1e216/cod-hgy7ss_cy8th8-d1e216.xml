@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 12</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 12</title>
+          <date when="2025-08-14">August 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="32-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e216">
+        <head xml:id="cy8th8-d1e216-Hd1e97">Sectio 11</head>
+        <p xml:id="cy8th8-d1e216-d1e99">
+          <pb ed="#B" n="32-v"/>
+          <lb ed="#B" n="1"/>§ 12
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e106">
+          <lb ed="#B" n="2"/>Particula 4a
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e111">
+          <pc type="pilcrow">¶</pc> Ordinata in quamlibet terram descen<lb ed="#B" break="no" n="3"/>sio 
+          uel ingressus innoxius et quod non fi<lb ed="#B" break="no" n="4"/>at 
+          sine licentia habitantium <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e124">
+          <lb ed="#B" n="5"/><pc type="pilcrow">¶</pc>  Cuius ratio est quia si absque licentia expressa uel tacita niterentur
+          <lb ed="#B" n="6"/>intrare aut defendere aut presertim si ab incolis prohiberentur
+          <lb ed="#B" n="7"/>verbis aut signis vel factis descendere a nauibus tunc enim ingres<lb ed="#B" break="no" n="8"/>sus
+          esset noxius atque iniuriosus: unde merito incole turbarentur 
+          <lb ed="#B" n="9"/>et sic ordo naturalis iustitie ex parte nunciorum seu legatorum 
+          <lb ed="#B" n="10"/>regum nostrorum uiolaretur atque proinde violentiam incolis in<lb ed="#B" break="no" n="11"/>ferrent 
+          et iure naturali licebit eis ad arma concurrere: et non 
+          <lb ed="#B" n="12"/>solum descensionem et ingressum impedire illorum uerum etiam 
+          <lb ed="#B" n="13"/>tanquam hostiles impetus iniuste in se factos iuste propellere at<lb ed="#B" break="no" n="14"/>que 
+          seuere ulcisci.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e151">
+          <pc type="pilcrow">¶</pc> Potest nanque quelibet gens ciuitas munici<lb ed="#B" break="no" n="15"/>pium 
+          siue regnum non recognoscens superiorem aut summus 
+          <lb ed="#B" n="16"/>gubernator illius per statutum aut legem regiam. Si viderit sibi 
+          <lb ed="#B" n="17"/>expedire ad pacem ad tranquillitatem ad malorum morum cor<lb ed="#B" break="no" n="18"/>ruptionem 
+          vitandam ad defensionem securitatem et conseruatio<lb ed="#B" break="no" n="19"/>nem 
+          status regni vel rei publice: ne quis forensium seu alieni<lb ed="#B" break="no" n="20"/>genarum 
+          seu cuiusque alterius regni persona: regnum <pc type="virgula">/</pc> vel prouin<lb ed="#B" break="no" n="21"/>tiam 
+          aut ciuitatem sue ditionis ingrediatur pro quacunque causa 
+          <lb ed="#B" n="22"/>vel mercimonii vel commutationis <pc type="virgula">/</pc> emptionis venditionis aut
+          <lb ed="#B" n="23"/>gratia in ibi habitandi Et id quidem rationabiliter ac pruden<lb ed="#B" break="no" n="24"/>ter 
+          faceret: atque auctoritate iuris gentium et naturalis punire con<lb ed="#B" break="no" n="25"/>trarium 
+          attentantes.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e187">
+          <pc type="pilcrow">¶</pc> Probatur hoc multipliciter ratione auctori<lb ed="#B" break="no" n="26"/>tate 
+          et exemplis.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e195">
+          <pc type="pilcrow">¶</pc> Prima ratio quia nemini facit iniuriam privi<lb ed="#B" break="no" n="27"/>dendo 
+          <lb ed="#B" n="28"/>intra limites proprii territorii et iurisdictionis sue quod iudi<lb ed="#B" break="no" n="29"/>cat 
+          paci quieti libertati et securitati status et regni seu ciuitatis et 
+          <lb ed="#B" n="30"/>gentis sibi subiecte fore necessarium vel etiam utile. et esset stultum 
+          <lb ed="#B" n="31"/>satis aliam gentem vel ciuitatem aut regem alterius nationis conqueri 
+          <pb ed="#B" n="33-r"/>
+          <lb ed="#B" n="1"/>de huiusmodi lege aut statuto vel poscere aut velle sibi eorum que 
+          <lb ed="#B" n="2"/>alia res publica vel ciuitas siue rex liber non recognoscens superio<lb ed="#B" break="no" n="3"/>rem 
+          ordinat vel precipit in regno suo reddi rationem. Vt 
+          <lb ed="#B" n="4"/>de se patet.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e222">
+          <pc type="pilcrow">¶</pc> Ratio 2a sit hec: ad boni et prudentis regis 
+          <lb ed="#B" n="5"/>siue cuiuscunque moderatoris vniuersalis siue suppremi regni 
+          <lb ed="#B" n="6"/>vel rei publice non recognoscentis superiorem officium et curam 
+          <lb ed="#B" n="7"/>pertinet: vt per eius industriam prouideatur quatenus obuietur 
+          <lb ed="#B" n="8"/>periculis et incomodis futuris que toti regno et rei publice possum 
+          <lb ed="#B" n="9"/>accidere.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e239">
+          Sed per aduentum et ingressum forensium et alieni<lb ed="#B" break="no" n="10"/>genarum 
+          in regnum <del rend="strikethrough">et ingressum</del> vel patriam sue cure commissam 
+          <lb ed="#B" n="11"/>quacunque de causa quam preseferant: possunt accidere multa pe<lb ed="#B" break="no" n="12"/>ricula 
+          et incommoda regno et regi et toti rei publice ergo Rex bo<lb ed="#B" break="no" n="13"/>nus 
+          et prudens neminem recognoscens superiorem si viderit ex<lb ed="#B" break="no" n="14"/>pedire 
+          ad pacem ad quietem ad malorum morum corruptionem vi<lb ed="#B" break="no" n="15"/>tandam 
+          ad defensionem securitatem et conseruationem liberta<lb ed="#B" break="no" n="16"/>tis
+          regni et sue rei publice: potest statuere vel lege regia prohi<lb ed="#B" break="no" n="17"/>bere:
+          ne quis forensium et alienigenarum siue cuiuscunque alterius 
+          <lb ed="#B" n="18"/>regni vel extranee nationis: regnum vel patriam vel prouintiam 
+          seu ciuitatem sue dictionis ingrediatur vel causa mercimonii etc <pc type="virgula">/</pc> 
+          <lb ed="#B" n="19"/>aut quacunque alia.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e270">
+          Consequentia de se patet. Maior proba<lb ed="#B" break="no" n="20"/>tur: 
+          quia ad prudentiam et circunspectionem cuiuslibet pru<lb ed="#B" break="no" n="21"/>dentis 
+          maxime qui curam gerit multorum spectat timere 
+          <lb ed="#B" n="22"/>ac precauere in illis in quibus non est determinatum euentus 
+          <lb ed="#B" n="23"/>si possunt in malum exitum uerti. Et ratio huius est: quia 
+          <lb ed="#B" n="24"/>non solum attenditur quod in presenti est: sed quod esse potest 
+          <lb ed="#B" n="25"/>aut potest succedere eo quod euentus sunt in hominum conside<lb ed="#B" break="no" n="26"/>ratione 
+          vt iuriste etiam tradunt in l. aut facta § euentus ff. 
+          <lb ed="#B" n="27"/>de poenis. et melius est ante tempus occurrere: quam post exitum uin<lb ed="#B" break="no" n="28"/>dicare 
+          l. 1 c. quando liceat uni se uindicare. Et se cuius est preveniri 
+          <lb ed="#B" n="29"/>ut notatur in l. 3. § cum igitur ff. de vi. et vi. armata et in l. vt 
+          <lb ed="#B" n="30"/>vim ff. de iustitia et iure.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e297">
+          <pc type="pilcrow">¶</pc> Minor uero probatur. quoniam si omnibus 
+          <lb ed="#B" n="31"/>forensibus et alienigenis liceret indifferenter ingredi pro 
+          <lb ed="#B" n="32"/>quacunque causa puta comertii mercimonii etc. regnum vel 
+          <lb ed="#B" n="33"/>patriam quancunque aliorum regum vel gentium: posset con<lb ed="#B" break="no" n="34"/>tingere 
+          forenses malo animo ad regnum alienum venire 
+          <lb ed="#B" n="35"/>fictis causis ostensis explorandi videlicet infirmiora terre 
+          <pb ed="#B" n="33-v"/>
+          <lb ed="#B" n="1"/>ad tradendum illum in manus hostium. Possent nanque de 
+          <lb ed="#B" n="2"/>diuersis locis ad inuicem consideratis vel de uno potenti regno 
+          <lb ed="#B" n="3"/>cognita et considerata vel audita terre infirmitate in vnum con<lb ed="#B" break="no" n="4"/>gregari 
+          plurime gentes et tunc convenire magni exercitus contra 
+          <lb ed="#B" n="5"/>regnum illud: et sic illud turbare de predari <pc type="virgula">/</pc> deripere vel 
+          <lb ed="#B" n="6"/>seruituti sue subiicere. Et hoc procul dubio ad quemlibet nisi 
+          <lb ed="#B" n="7"/>mente captus sit potissime ad regem cui cura totius communitatis 
+          <lb ed="#B" n="8"/>commissa est: et proinde circumspectior oportet esse vniuersis: pre<lb ed="#B" break="no" n="9"/>cogitare 
+          suspicari timere <pc type="virgula">/</pc> precauere pertinet: quoniam uidet homi<lb ed="#B" break="no" n="10"/>nes 
+          extraneos in suo regno nisi constet iam diu de illorum 
+          <lb ed="#B" n="11"/>intentione ac fine aut simplicitate. Unde quia defensio 
+          <lb ed="#B" n="12"/>proprie patrie atque libertatis eiusdem de iure naturali esse noscitur: 
+          <lb ed="#B" n="13"/>patet quamlibet gentem vel populum aut illum qui vices illius 
+          <lb ed="#B" n="14"/>gerit vt regem posse atque iure ipso naturali facere debere si vide<lb ed="#B" break="no" n="15"/>rit 
+          expedire: inter dicere videlicet forensibus extranee natio<lb ed="#B" break="no" n="16"/>nis 
+          quibuscunque ingressum in propriam patriam vel regnum
+          <lb ed="#B" n="17"/>donec saltem nouerit quod de talium introitu non imminet pa<lb ed="#B" break="no" n="18"/>trie
+          periculum. Cum quilibet populus liber ciuitas vel comu<lb ed="#B" break="no" n="19"/>nitas 
+          rationabiliter sibi metuere debeat ne alii nationis extra<lb ed="#B" break="no" n="20"/>nee 
+          fortiores se moliantur eam sibi subiicere unde suam libertatem 
+          <lb ed="#B" n="21"/>amittat. Est enim de iure nature quelibet humana societas (ut 
+          <lb ed="#B" n="22"/>alibi latissime adduximus) et per consequens omnia necessaria ad con<lb ed="#B" break="no" n="23"/>seruationem 
+          dicte communitatis siue societatis esse de naturali iure: 
+          <lb ed="#B" n="24"/>nemo est qui nesciat. Et ob hoc dixit <ref xml:id="cy8th8-d1e216-Rd1e373">Durandus in tractatu 
+          <lb ed="#B" n="25"/>de legibus</ref> quod <quote xml:id="cy8th8-d1e216-Qd1e378">omne illud fieri potest per ipsam communitatem 
+          <lb ed="#B" n="26"/>(supple vel illum qui eius vices gerit) quod est ad salutem politie 
+          <lb ed="#B" n="27"/>et pacificam conseruationem eius</quote> hec <sic>hec</sic> ille.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e389">
+          <pc type="pilcrow">¶</pc> Auctoritatibus 
+          <lb ed="#B" n="28"/>etiam idem probatur et primo per l. ercatores C. de comerciis 
+          <lb ed="#B" n="29"/>et mercatoribus ubi lex prohibet ne mercationis causa conuersentur 
+          <lb ed="#B" n="30"/>subiecti Romano imperio cum gentibus et non gratis ne 
+          <lb ed="#B" n="31"/>credantur Romani exploratores archanorum regni alieni 
+          <lb ed="#B" n="32"/>secundum baldum in legis summario Unde sic dicit textus. 
+          <lb ed="#B" n="33"/><quote xml:id="cy8th8-d1e216-Qd1e406">Mercatores tam imperio nostro quam persarum regi subiectos 
+          <lb ed="#B" n="34"/>ultra ea loca in quibus federis tempore cum memorata natione
+          <pb ed="#B" n="34-r"/>
+          <lb ed="#B" n="1"/>nobis conuenit nundinas exercere minime oportet: ne alieni 
+          <lb ed="#B" n="2"/>regni. (quod non conuenit) scrutentur archana</quote>. hec ibi in 
+          <lb ed="#B" n="3"/>forma ergo malum est vel esse potest et suspitiosum cuilibet 
+          <lb ed="#B" n="4"/>rei publice gentes extranee nationis ingredi alienam patriam. 
+          <lb ed="#B" n="5"/>ergo Rex vel gubernator uniuersalis vel ipsa communitas in 
+          <lb ed="#B" n="6"/>ipsam ingrediatur.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e427">
+          <pc type="pilcrow">¶</pc> 2o probatur per ea que notat bar<lb ed="#B" break="no" n="7"/>tholus 
+          in l. relegatorum § inter dicere ff. de interdictis et relegatis 
+          <lb ed="#B" n="8"/>posse scilicet statui quod quis subditorum non uadat ad faciendum 
+          <lb ed="#B" n="9"/>mercantias extra territorium vel ad talem ciuitatem per d. l. 
+          <lb ed="#B" n="10"/>mercatores.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e441">
+          <pc type="pilcrow">¶</pc> 3o probatur per <name xml:id="cy8th8-d1e216-Nd1e446">andream de Isernia</name> inde pro<lb ed="#B" break="no" n="11"/>hibita 
+          feudi alienatione per fredericum circa finem. Ubi dicit quod rex potest pro<lb ed="#B" break="no" n="12"/>hibere
+          ingressum uel meatum puta multitudini et exercitui las<lb ed="#B" break="no" n="13"/>ciuo,
+          quia lasciuo argumentum ff. locati et conducti circa finem. Iustam ha<lb ed="#B" break="no" n="14"/>bere 
+          causam prohibendi: ut per regnum suum non transeat ti<lb ed="#B" break="no" n="15"/>mendo 
+          inuasionem terrarum suarum uel alias inuasiones et peri<lb ed="#B" break="no" n="16"/>cula 
+          per ea que durandus numero 20 et 21 c. Item et uni posse pro<lb ed="#B" break="no" n="17"/>hibere 
+          ex causa ut scilicet non sciantur secreta regni sui argumentum 
+          <lb ed="#B" n="18"/>C. de comerciis et mercatoribus l. 3 6. q. 2. merito vel alia simili causa habente 
+          <lb ed="#B" n="19"/>similem rationem. Nam vbi est ratio eadem idem ius ff. de 
+          <lb ed="#B" n="20"/>fundi l. 1. vt si nollet alienigenas exteros in regno suo con<lb ed="#B" break="no" n="21"/>uersari 
+          vel manere: ne animos subditorum inficiant. Et est
+          <lb ed="#B" n="22"/>timor iustus et causa talis vera: quia et potest quis prohibere 
+          <lb ed="#B" n="23"/>vt aliquis sibi odiosus rem suam non emat. argumentum. C. de iure 
+          <lb ed="#B" n="24"/>emphiteutico fi. in principio ff. de actionibus emp. l. si sterilis § si tibi de con<lb ed="#B" break="no" n="25"/>trahenda 
+          emptiane. l. qui fundum. hec Andreas de Isernia in forma.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e481">
+          <pc type="pilcrow">¶</pc> 4o pro<lb ed="#B" break="no" n="26"/>batur 
+          per baldum quem referunt et sequuntur multi: quip<lb ed="#B" break="no" n="27"/>pe 
+          qui super feudis titulo de forma fidelitatis § dominus vero: querit 
+          <lb ed="#B" n="28"/>an domini terrarum sine causa possint expellere mercatores
+          <lb ed="#B" n="29"/>forenses de suis territoriis: et non recedentibus bona auferre. 
+          <lb ed="#B" n="30"/>Respondit quod non nisi ex causa. Venturis autem ad patriam a<lb ed="#B" break="no" n="31"/>lienam 
+          bene potest interdici ingressus. argumentum ff. de usufructu per legatum
+          <lb ed="#B" n="32"/>l. heres et ff. si seruitus uindicetur l. sicut § Aristo. et Instit. de rerum 
+          <lb ed="#B" n="33"/>diuisione § illud in verbo apes et l. quod enim de acquirenda rerum dominia 
+          <lb ed="#B" n="34"/>in quibus legibus prohibetur intrare in agros uel fundos alie<pb ed="#B" n="34-v"/><lb ed="#B" break="no" n="1"/>nos 
+          aut aliquid in eis facere <pc type="virgula">/</pc> sine licentia dominorum et mi<lb ed="#B" break="no" n="2"/>nus 
+          contra eorum voluntatem: ob quod traduntur a docto<lb ed="#B" break="no" n="3"/>ribus 
+          dicta iura in argumentum huiusmodi et glossa in l. 
+          <lb ed="#B" n="4"/>quod enim notat quod possum prohibere in tantum meo fundo 
+          <lb ed="#B" n="5"/>et manu armata resistere ut ff. ad l. aquiliam l. quemadma<lb ed="#B" break="no" n="6"/>dum 
+          circa principium et possum iniuriarum ff. de in<lb ed="#B" break="no" n="7"/>iuriis 
+          l. iniuriarum § si quis me prohibeat Ubi habetur quod 
+          <lb ed="#B" n="8"/>si quis nititur in alienum fundum intrare inuito domino vim
+          <lb ed="#B" n="9"/>turbatiuam infert. Cum nec sinat re sua libere uti unde in<lb ed="#B" break="no" n="10"/>iuriam 
+          illi facit ergo longe grauiorem iniuriam faciunt mo<lb ed="#B" break="no" n="11"/>lientes
+          intrare inuito rege alienum regnum vel patriam toti 
+          <lb ed="#B" n="12"/>communitati. Idem quod Baldus inquit Iacobus de sancto Grego<lb ed="#B" break="no" n="13"/>rio 
+          in tractatu de feudis <pc type="pilcrow">¶</pc> Exemplis quaque diuine scripture 
+          <lb ed="#B" n="14"/>predicta roborantur. Nam Genesis 42 legimus Ioseph im<lb ed="#B" break="no" n="15"/>posuisse 
+          fratribus ut eos terreret tanquam iniuriosum delictum 
+          <lb ed="#B" n="16"/>morte dignum contra regnum egiptiorum commisissent <quote xml:id="cy8th8-d1e216-Qd1e548">vos 
+          <lb ed="#B" n="17"/>(inquit) speculatores estis vt videatis infirmiora terre venistis</quote> 
+          <lb ed="#B" n="18"/>Et subdit: <quote xml:id="cy8th8-d1e216-Qd1e555">per salutem pharaonis non egrediemini hinc</quote> etc 
+          <lb ed="#B" n="19"/>et ipsi <quote xml:id="cy8th8-d1e216-Qd1e559">non est ita domine sed serui tui uenerunt ut emerent 
+          <lb ed="#B" n="20"/>cibos omnes filii vnius viri sumus pacifice venimus: nec quicquam 
+          <lb ed="#B" n="21"/>famuli tui machinantur mali</quote> etc. Hec ibi. 
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e567">
+          <pc type="pilcrow">¶</pc> Ecce quod malum 
+          <lb ed="#B" n="22"/>potest suspicari rationabiliter de aduentu ad patriam alienam 
+          <lb ed="#B" n="23"/>forensium: donec de illis et aduentus sui causa certitudo et securi<lb ed="#B" break="no" n="24"/>tas 
+          habeatur. Quanquam enim Ioseph certus esset ad malum aliquod ma<lb ed="#B" break="no" n="25"/>chinandum 
+          <lb ed="#B" n="26"/>non uenisse fratres non tamen absurde aut irra<lb ed="#B" break="no" n="27"/>tionabiliter 
+          illos obiurgauit sub titulo quae erant exploratores: quan<lb ed="#B" break="no" n="28"/>doquidem 
+          volebat sic eos terrere et affligere: sciens quemquam sapi<lb ed="#B" break="no" n="29"/>entem 
+          et maxime prouidum uniuersalem ac supremum cuius<lb ed="#B" break="no" n="30"/>libet
+          regni aut patrie gubernatorem: non ab te sed meritissime 
+          <lb ed="#B" n="31"/>posse illis obiicere siue de illis eadem suspicari. Et dicunt he<lb ed="#B" break="no" n="32"/>brei 
+          Ioseph induxisse contra fratres in argumentum quod co<lb ed="#B" break="no" n="33"/>gnita 
+          terre infirmitate poterant gentes aduerse contra re<lb ed="#B" break="no" n="34"/>gnum 
+          egipti exercitum magnum congregare ergo prouidus 
+          <pb ed="#B" n="35-r"/>
+          <lb ed="#B" n="1"/>rex et summus regni cuiuslibet moderator proinde habet re<lb ed="#B" break="no" n="2"/>gno 
+          et patrie sue timere a forensibus et extraneis ac per consequens 
+          <lb ed="#B" n="3"/>merito potest et debet ingressum quibuscunque in regnum suum 
+          <lb ed="#B" n="4"/>uel patriam interdicere quotiens ad pacem ad quietem ad secu<lb ed="#B" break="no" n="5"/>ritatem 
+          ad defensionem libertatemque conseruandam viderit 
+          <lb ed="#B" n="6"/>expedire.
+        </p>
+        <p xml:id="cy8th8-d1e216-d1e617">
+          <pc type="pilcrow">¶</pc> Idem apparet ex ratione quam prae se ferebant prin-
+          cipes et consiliarii regis Amonitarum 1 paralipomenon 19 
+          <lb ed="#B" n="7"/>qui timentes ne nuntii Dauid quos miserat ad consolandum Amon
+          <lb ed="#B" n="8"/>super mortem patris essent exploratores terre dixerunt regi: 
+          <lb ed="#B" n="9"/><quote xml:id="cy8th8-d1e216-Qd1e627">tu forsitan putas quod <del rend="strikethrough">ut ex</del> Dauid honoris gratia in patrem tuum 
+          <lb ed="#B" n="10"/>miserit qui consolarentur te. Nec animaduertis quod ut explorent 
+          <lb ed="#B" n="11"/>et investiguent et scrutentur terram tuam venerint ad te ser<lb ed="#B" break="no" n="12"/>ui 
+          eius</quote> etc <pc type="virgula">/</pc> Nam licet Amon et serui uel consiliarii eius 
+          <lb ed="#B" n="13"/>inhumaniter fecerint et grauiter peccarent contumelia gra<lb ed="#B" break="no" n="14"/>uissima 
+          affligendo nuncios Dauid in hoc quod calcauerint et ra<lb ed="#B" break="no" n="15"/>serint 
+          eos <sic>precidentes</sic> tunicas eorum usque ad nates: et per 
+          <lb ed="#B" n="16"/>consequens magnam iniuriam intulerunt ipsi Dauid: tamen reuera 
+          <lb ed="#B" n="17"/>prudenter et rationabiliter moti sunt ad suspicandum et timendum 
+          <lb ed="#B" n="18"/>ne forte alieni regni essent exploratores. Nec tene<lb ed="#B" break="no" n="19"/>bantur
+          verbis pacificis et officiosis nuntiorum Dauid credere 
+          <lb ed="#B" n="20"/>cum possent dolosa et ficta seu deceptoria mendacia esse <pc type="virgula">/</pc> et 
+          <lb ed="#B" n="21"/>per hunc timorem iustum iuste poterat rex Amon et sui 
+          <lb ed="#B" n="22"/>precipere nunciis Dauid ut exirent de regno suo recta via 
+          ut non ingrederentur in aliquas urbes ne uiderent terre 
+          <lb ed="#B" n="23"/>infirmiora quibuscunque minis additis. Quod si contra facerent 
+          <lb ed="#B" n="24"/>non iniuria punirent illos. Non tamen potuit Rex Amon 
+          <lb ed="#B" n="25"/>uel sui per solam suspicionem punire: ideo male et contra ratio<lb ed="#B" break="no" n="26"/>nem 
+          fecerunt. Unde Dauid iuste <seg type="correction">moui<subst><del>d</del><add place="above-line">t</add></subst></seg> bellum contra eos 
+          <lb ed="#B" n="27"/>propter iniuriam sibi et suis irrogatam. ergo quelibet gens aut 
+          <lb ed="#B" n="28"/>ciuitas vel Rex qui curam habet rei publice non recognoscens supe<lb ed="#B" break="no" n="29"/>riorem 
+          potest prohibere per statutum vel per legem regiam 
+          <lb ed="#B" n="30"/>si viderit expedire ad pacem ad securitatem etc. <pc type="virgula">/</pc> ne quis fo<lb ed="#B" break="no" n="31"/>rensium 
+          in proprium regnum uel patriam ingrediatur pro 
+          <lb ed="#B" n="32"/>quacunque causa etc. et punire contrarium facientes autoritate 
+          <pb ed="#B" n="35-v"/>
+          <lb ed="#B" n="1"/>iuris gentium et naturalis ergo bene ac iuste possunt id facere 
+          <lb ed="#B" n="2"/>indiane nationes ergo descensio vel ingressus nunciorum re<lb ed="#B" break="no" n="3"/>gum
+          nostrorum in quamlibet orbis illius partem: oportet esse 
+          <lb ed="#B" n="4"/>ordinatus et sic innoxius: et de licentia principum et domi<lb ed="#B" break="no" n="5"/>norum 
+          seu magistratum terre voluntaria. Si secus factum 
+          <lb ed="#B" n="6"/>fuerit iure optimo tanquam aduersus publicos hostes possunt exi<lb ed="#B" break="no" n="7"/>re 
+          armata manu et non modo resistere ac prohibere acce<lb ed="#B" break="no" n="8"/>ssionem 
+          et ingressum: uerum etiam pro iniuria et inuasione 
+          <lb ed="#B" n="9"/>seu violatione imperii et iuris alieni exercere ultionem. Nam 
+          <lb ed="#B" n="10"/>inter omnes vniuersi orbis gentes naturalis illa omnibus 
+          <lb ed="#B" n="11"/>hominibus permissa immo concessa est defensio qua uim et 
+          <lb ed="#B" n="12"/>iniuriam non modo: nobis sed etiam patrie propinquis et 
+          <lb ed="#B" n="13"/>sociis illatam propulsamus: et etiam quecunque communitates vel res 
+          <lb ed="#B" n="14"/>publice libere cum habeant iurisdictionem omnimodam merum
+          <lb ed="#B" n="15"/>et mixtum imperium quemadmodum sunt iste ut <ref xml:id="cy8th8-d1e216-Rd1e736">§ 5 visum
+          <lb ed="#B" n="16"/>fuit</ref> et <ref xml:id="cy8th8-d1e216-Rd1e741">infra videbitur</ref> ulciscuntur. Probauimus hec latissime in 
+          <lb ed="#B" n="17"/>nostro libro 1o de unico vocationis modo omnium gentium ad 
+          <lb ed="#B" n="18"/>veram religionem in corrolario 4o incidentali et in tractatu de 
+          <lb ed="#B" n="19"/>bello Xalisquino <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
