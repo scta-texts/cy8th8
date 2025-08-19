@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 13</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 13</title>
+          <date when="2025-08-15">August 15, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="35-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e229">
+        <head xml:id="cy8th8-d1e229-Hd1e97">Sectio 13</head>
+        <p xml:id="cy8th8-d1e229-d1e99">
+          <lb ed="#B" n="20"/>§ 13
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e104">
+          <lb ed="#B" n="21"/>Particula 5a
+          <lb ed="#B" n="22"/>Salutatio et alloquutio humilis 
+          <lb ed="#B" n="23"/>et gratiosa etc <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e116">
+          <lb ed="#B" n="24"/>Uidelicet vt justum debitumque honorem et reuerentiam 
+          <lb ed="#B" n="25"/>principibus et dominis seu locorum siue populorum 
+          <lb ed="#B" n="26"/>magistratibus exhibentes animos eorum alliciant et conci<lb ed="#B" break="no" n="27"/>liem 
+          et sic reputentur uiri pacifici et humani. 
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e127">
+          Consueue<lb ed="#B" break="no" n="28"/>runt 
+          enim homines in exordiis uerborum suorum maxime ad 
+          <pb ed="#B" n="36-r"/>
+          <lb ed="#B" n="1"/>ignotos ex vrbanitate salutatione vti: vt imprecatio bonorum
+          <lb ed="#B" n="2"/>quae per salutationem fit sit eis locutionis initium. Iudicatur
+          <lb ed="#B" n="3"/>autem rudis et inurbanus qui salutatione beneuola non vtitur. 
+          <lb ed="#B" n="4"/>Unde iam salutatio quasi necessaria est inter homines ex con<lb ed="#B" break="no" n="5"/>suetudine 
+          in exordiis loquutionum: et ideo christus induxit 
+          <lb ed="#B" n="6"/>Apostolos ut ipsi preuenirent alios in salutando quia virtutis 
+          <lb ed="#B" n="7"/>est prius honorem impendere quam recipere; propter quod ad <ref xml:id="cy8th8-d1e229-Rd1e148">Romanos 12 
+          <lb ed="#B" n="8"/>dicebat apostolus</ref> <quote xml:id="cy8th8-d1e229-Qd1e153" source="http://scta.info/resource/rom12_10@5-7">Honore uos inuicem preuenientes</quote> id est quilibet studeat
+          <lb ed="#B" n="9"/>prius honorare alterum quod honoretur ab eo. sic dixit 
+          <lb ed="#B" n="10"/><ref xml:id="cy8th8-d1e229-Rd1e160">Chrysostomus homilia 31 super Matheum</ref>: <quote xml:id="cy8th8-d1e229-Qd1e162">Nolite cogitare <unclear>quum</unclear> 
+          <lb ed="#B" n="11"/>doctores estis idcirco spectandum uobis esse donec illic salutatio 
+          <lb ed="#B" n="12"/>ab illis uobis afferatur: sed <seg type="correction">precedi<del rend="strikethrough">do</del>te</seg> vos honore primique 
+          <lb ed="#B" n="13"/>salutate</quote> hec ille
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e181">
+          Et quod regibus infidelium debeatur etiam a fidelibus 
+          <lb ed="#B" n="14"/>honor et reuerentia late patuit supra in consideratione prima <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e189">
+          <lb ed="#B" n="15"/>Particula 6a
+          <lb ed="#B" n="16"/>Conuersatio exemplaris mansueta 
+          <lb ed="#B" n="17"/>et christiana, etc. <pc type="virgula">/</pc>
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e201">
+          <lb ed="#B" n="18"/><pc type="pilcrow">¶</pc> Quoniam bene viuendi norma et rectis operibus opus est <pc type="virgula">/</pc> 
+          <lb ed="#B" n="19"/>vt gentes que deum ignorant lucrifaciamus: et sic finis prae<lb ed="#B" break="no" n="20"/>intenti 
+          adeptione reges nostri quibus id incumbit 
+          <lb ed="#B" n="21"/>perfruentur. Efficatiora enim sunt opera christianorum
+          <lb ed="#B" n="22"/>etiam si pauca sint ad infidelium auersionem: quam verba quantum<lb ed="#B" break="no" n="23"/>cunque 
+          persuasiua existant et plurima. 
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e222">
+          Quinimo nihil opus 
+          <lb ed="#B" n="24"/>esset verbis si vita nostra sanctitatis luce fulgeret unde 
+          <lb ed="#B" n="25"/>chrisostomus super primum capitulum geneseos, homilia 8 
+          <lb ed="#B" n="26"/>ita inquit: neque enim deus vult vt christianus se ipso tantum 
+          <lb ed="#B" n="27"/>contentus sit sed vt alios edificet non per doctrinam solum 
+          <lb ed="#B" n="28"/>sed et per vitam et conuersationem. Neque sic nos inducit 
+          <lb ed="#B" n="29"/>in veritatis viam: vt in vite curam. Nam neque <sic>tan</sic> consideran<lb ed="#B" break="no" n="30"/>tur 
+          ea que a nobis dicuntur quam que a nobis aguntur. Et ut scias 
+          <pb ed="#B" n="36-v"/>
+          <lb ed="#B" n="1"/>rem ita se habere licet infinities tantum philosophemur ver<lb ed="#B" break="no" n="2"/>bis 
+          et de patientia disseramus et cum tempus fuerit eam ope<lb ed="#B" break="no" n="3"/>ribus 
+          non demonstremus non tantum proderunt verba quantum 
+          <lb ed="#B" n="4"/>nocebunt opera sin autem et post verba operum specimen exhi<lb ed="#B" break="no" n="5"/>buerimus 
+          digni habebimur qui admoneamus alios eorum <unclear>quae</unclear> per 
+          <lb ed="#B" n="6"/>opera adimplemus; quia et christus illos beatos dixit inquiens. 
+          <lb ed="#B" n="7"/><quote xml:id="cy8th8-d1e229-Qd1e260">beatus qui fecerit et docuerit</quote> <ref xml:id="cy8th8-d1e229-Rd1e262">Mattheus 5.</ref> vide quod opus preposue<lb ed="#B" break="no" n="8"/>rit: 
+          et postea doctrinam. Atque adeo precedente opere: etiam si 
+          <lb ed="#B" n="9"/>non sequatur doctrina: sufficiunt opera ipsa luce clarius 
+          <lb ed="#B" n="10"/>ad docendum eos qui in nos respiciunt. hoc igitur omnibus 
+          <lb ed="#B" n="11"/>modis consideremus ut prius operibus doceamus et postea
+          <lb ed="#B" n="12"/>sermonibus: ut ne et nos audiamus a beato Paulo. <quote xml:id="cy8th8-d1e229-Qd1e275">Tu qui doces
+          alium te ipsum non doces</quote>. Et cum uolumus admonere alium 
+          <lb ed="#B" n="13"/>vt aliquid ex his quae necessaria agat honeste: prius studeamus 
+          <lb ed="#B" n="14"/>et nos hoc ipsum agere quo nobis et maior sit loquendi fiducia: 
+          et omnis nostra cura sit in animarum salute. Et quo modo po<lb ed="#B" break="no" n="15"/>terimus 
+          lasciuias carnis refrenemus etc. hec chrisostomus 
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e284">
+          <lb ed="#B" n="16"/><pc type="pilcrow">¶</pc> <sic>Normam</sic> siquidem quam primi regum nostrorum nuncii 
+          <lb ed="#B" n="17"/>ad partes indiarum illas oportet tenere ut ordo necessarius in 
+          <lb ed="#B" n="18"/>eas intrandi seruetur ponit apostolus plene ad Thessalonicen<lb ed="#B" break="no" n="19"/>ses 
+          2 capite inter cetera inquiens: <quote xml:id="cy8th8-d1e229-Qd1e299">Vos testes estis et deus 
+          <lb ed="#B" n="20"/>quam sancte et inculpate et iuste et sine querela vobis qui credidistis 
+          <lb ed="#B" n="21"/>adfuimus</quote>: ita ante sicut post conuersionem vestram vt 
+          <lb ed="#B" n="22"/>dicit glosa interlinearis etc. Quam sancte (scilicet) quo<lb ed="#B" break="no" n="23"/>ad 
+          Deum secundum eamdem glossam et secundum athanasium 
+          <lb ed="#B" n="24"/>(hoc est) omnia factu necessaria seruatis modo erga deum 
+          <lb ed="#B" n="25"/>pietate et cultu adimplentes secundum autem Anselmum <quote xml:id="cy8th8-d1e229-Qd1e314">quam 
+          <lb ed="#B" n="26"/>sancte: quantum ad puritatem mundissime conuersationis fue<lb ed="#B" break="no" n="27"/>rimus 
+          vobis quam iuste (scilicet) quoad proximum faciendo de<lb ed="#B" break="no" n="28"/>bita 
+          et non faciendo indebita</quote>. Secundum interlinearem 
+          <lb ed="#B" n="29"/>vel secundum Athanasium: hoc est <quote xml:id="cy8th8-d1e229-Qd1e326">nemini pecunias flagi<lb ed="#B" break="no" n="30"/>tando 
+          inferentes iniuriam. et sine querela absque <del rend="strikethrough">iurae</del> 
+          <pb ed="#B" n="37-r"/>
+          <lb ed="#B" n="1"/>cuiusdam offensione</quote>. Vel secundum Anselmum <quote xml:id="cy8th8-d1e229-Qd1e338">quam 
+          <lb ed="#B" n="2"/>iuste quantum ad equitatem erga proximos servandam 
+          <lb ed="#B" n="3"/>faciendo debita et quam sine querela (id est) quam innocenter et irre<lb ed="#B" break="no" n="4"/>prehensibiliter
+          vobis quia nihil fecimus vobis unde possetis 
+          <lb ed="#B" n="5"/>conqueri de nobis: vel sine querela fuimus vobis quia numquam 
+          <lb ed="#B" n="6"/>questi sumus de vobis dum imbecillitatem vestram portaremus 
+          <lb ed="#B" n="7"/>taliter fuimus conuersantes uobis (id est) ad utilitatem vestram 
+          <lb ed="#B" n="8"/>sicut ipsi scitis</quote> etc. et in posteriorem <ref xml:id="cy8th8-d1e229-Rd1e356">epistolam ad Thessalonicenses capitulo 3</ref> 
+          <lb ed="#B" n="9"/>ait anselmus super illud <quote xml:id="cy8th8-d1e229-Qd1e360">ipsi scitis</quote> etc. <quote xml:id="cy8th8-d1e229-Qd1e363">Non est opus ut 
+          <lb ed="#B" n="10"/>exponam vobis eam traditionem quia scitis eam. scitis videlicet 
+          quomodo qui recte uolunt ambulare debent ambulare per 
+          <lb ed="#B" n="11"/>uiam per quam nos ambulamus <sic>ideste</sic> exempla nostra 
+          <lb ed="#B" n="12"/>sequi</quote> hec ille. Polycarpus autem beati Ioannis euangeliste discipulus 
+          in epistola ad philipenses: <quote xml:id="cy8th8-d1e229-Qd1e374">conuersationem vestram consideran<lb ed="#B" break="no" n="13"/>tes 
+          irreprehensibilem in gentibus vt ex bonis operibus ves<lb ed="#B" break="no" n="14"/>tris 
+          et uos laudem accipiatis et dominus in vobis non blas<lb ed="#B" break="no" n="15"/>phemetur. 
+          Ve autem homini illi per quem nomen domini blasphematur</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e384">
+          <pc type="pilcrow">¶</pc> Patet igitur forma preambula trahendi 
+          <lb ed="#B" n="16"/>infideles ad christum vita scilicet sancta et conuersatio e<lb ed="#B" break="no" n="17"/>xemplaris 
+          operibus uirtuosis refulgens atque sine offensione 
+          <lb ed="#B" n="18"/>cuius piam et omnimodo quaqua ex parte irreprehensibilis.
+          <lb ed="#B" n="19"/>Nam qui docere alios intendit premittere debet verborum 
+          <lb ed="#B" n="20"/>suorum exemplaria opera vt magis opere doceat quam sermone: 
+          <lb ed="#B" n="21"/>sicut apostoli qui prius vite exemplis docebant: deinde verbis.
+          <lb ed="#B" n="22"/>Quin potius ne verbis quidem erant opus cum clamarent 
+          <lb ed="#B" n="23"/>opera. Et usque adeo eorum opera vitam sanctissimam gerere 
+          <lb ed="#B" n="24"/>testabantur quod nemo carperet profecto eorum vitam sed pre<lb ed="#B" break="no" n="25"/>dicationi 
+          derogabant secundum Chrisostomum:
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e412">
+          Denique pre<lb ed="#B" break="no" n="26"/>dicationis 
+          causa tanquam seductores ac magis calumnias sus<lb ed="#B" break="no" n="27"/>tinebant. 
+          Ipsorum autem vitam nemo fere unquam fuit qui 
+          <lb ed="#B" n="28"/>vituperare presumeret. Quocirca nullus unquam apostolis aut
+          <lb ed="#B" n="29"/>fornicationis aut impudicitie aut auaritie crimen obiecit:
+          <pb ed="#B" n="37-v"/>
+          <lb ed="#B" n="1"/>sed tantummodo seductores appellabant quae solum ad dogma 
+          <lb ed="#B" n="2"/>refertur. Qui enim fuerit vite fulgore conspicuus et illis ve<lb ed="#B" break="no" n="3"/>rendus 
+          sit necesse est quippe veritas ipsa quoque ora obstruat 
+          <lb ed="#B" n="4"/>inimicis. Nempe enim quod eos maledictis et opprobriis impeti fas 
+          <lb ed="#B" n="5"/>non sit qui irreprehensibiliter viuunt audias licet christum 
+          <lb ed="#B" n="6"/><quote xml:id="cy8th8-d1e229-Qd1e437" source="http://scta.info/resource/mt5_16@2-19">luceat lux vestra coram hominibus vt videant opera vestra 
+          <lb ed="#B" n="7"/>et glorificent patrem vestrum qui in celis est</quote>. Quemadmodum 
+          <lb ed="#B" n="8"/>denique nemo obscurum diceret solem ne si cecus quidem fuerit: 
+          <lb ed="#B" n="9"/>erubescet quippe opinionibus hominum aduersari. Ita et eum 
+          <lb ed="#B" n="10"/>qui nimis fuerit decore conspicuus atque morum honestate illus<lb ed="#B" break="no" n="11"/>tris: 
+          nullus profecto culpare presumit.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e451">
+          <pc type="pilcrow">¶</pc> Ita igitur uiuamus 
+          ne nomen Dei blasphemetur a gentibus: neque vero humanam 
+          <lb ed="#B" n="12"/>aucupemur gloriam neque iterum et pessima opinione carea<lb ed="#B" break="no" n="13"/>mus 
+          quod bonum ac rectum est faciamus: uerum in utroque mo<lb ed="#B" break="no" n="14"/>dum 
+          honoremus in quibus lucetis (inquit ad philippenses 2) quasi 
+          <lb ed="#B" n="15"/>luminaria in mundo. Idcirco nempe nos ille eligit ut simus 
+          <lb ed="#B" n="16"/>quasi luminaria et veluti fermentum euadamus et magis<lb ed="#B" break="no" n="17"/>tri 
+          ceterorum efficiamur: vt veluti angeli cum hominibus 
+          <lb ed="#B" n="18"/>versemur in terris: vt tanquam viri cum infantibus et pueris: 
+          <lb ed="#B" n="19"/>quasi spirituales cum animalibus: ex contubernio nostro ingentia 
+          <lb ed="#B" n="20"/>illi lucra conquirant vt semina simus vt ut fructum latissimum 
+          <lb ed="#B" n="21"/>afferamus. Nihil opus esset uerbis si in hunc modum vita 
+          <lb ed="#B" n="22"/>nostra sanctitatis luce fulgeret. Nihil magistris opus esset 
+          <lb ed="#B" n="23"/>si virtutis probos actus preferemus. Nemo profecto gentilis 
+          <lb ed="#B" n="24"/>esset: si ipsi vt oporteret christiani esse curaremus si dei 
+          <lb ed="#B" n="25"/>monitis ac scitis obtemperaremus si iniurias perpessi vicem 
+          <lb ed="#B" n="26"/>non referremus si maledictis lacessiti benediceremus: si pro 
+          <lb ed="#B" n="27"/>malis bona redderemus. Nemo esset ita fera bellua vt non 
+          <lb ed="#B" n="28"/>statim ad cultum vere religionis accurreret: si videret 
+          <lb ed="#B" n="29"/>hec ab hominibus fieri atque ut discas ita esse vnus profecto 
+          <lb ed="#B" n="30"/>erat Paulus et tam multos ad dei atraxit doctrinam.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e498">
+          <lb ed="#B" n="31"/>Si omnes essemus huiusmodi quot terrarum orbes atra<pb ed="#B" n="38-r"/><lb ed="#B" break="no" n="1"/>here 
+          et ipsi possemus. Quippe discipuli semper doctorum vitam 
+          <lb ed="#B" n="2"/>intuentur at siquidem viderint nos quoque eadem secum appe<lb ed="#B" break="no" n="3"/>tere 
+          eadem concupiscere: honores atque primatus ambitum 
+          <lb ed="#B" n="4"/>querere: quam illi christianam religionem poterunt admi<lb ed="#B" break="no" n="5"/>rari? 
+          Vident ecce reprehensibilem christianorum vitam 
+          <lb ed="#B" n="6"/>terrestres animos atque in humum abiectos pecunias non 
+          <lb ed="#B" n="7"/>secus quam se admirari. Immo et longe amplius mortem simi<lb ed="#B" break="no" n="8"/>liter
+          perhorrescere paupertatem pariter metuere morbos 
+          <lb ed="#B" n="9"/>eadem inpatientia tolerare claritatem atque potentiam non 
+          <lb ed="#B" n="10"/>minus quam se amare auaritie gratia seipsos concidere ipsi obsequi: 
+          <lb ed="#B" n="11"/>vnde ergo credere illi poterunt: fortasse ex signis? At ista 
+          <lb ed="#B" n="12"/>modo non fiunt. An uero ex sanctitate uite? Sed illa plane 
+          <lb ed="#B" n="13"/>periit. Num vero charitatis causa? At nusquam aliquod ipsius 
+          <lb ed="#B" n="14"/>vestigium cernitur. Quocirca non modo peccatorum nostrorum 
+          <lb ed="#B" n="15"/>uerum et alieni incommodi cuius ipsi in causa sumus rationem 
+          <lb ed="#B" n="16"/>profecto reddemus. Resipiscamus tandem <pc type="virgula">/</pc> euigilemus queso: 
+          <lb ed="#B" n="17"/>celestem in terris conuersationem preferamus. Dicamus cum apostolo: 
+          <lb ed="#B" n="18"/><quote xml:id="cy8th8-d1e229-Qd1e544">quia conuersatio nostra in celis est</quote> <ref xml:id="cy8th8-d1e229-Rd1e546">ad Philippenses 3</ref> certamen in terris 
+          <lb ed="#B" n="19"/>atque pugnam subeamus. At fortasse inquies fuerunt magni 
+          <lb ed="#B" n="20"/>apud nos viri Sed occurret gentilis et dicet: Unde id cre<lb ed="#B" break="no" n="21"/>dam. 
+          Nec enim vos eadem gerere video que illos preclara uerba fecisse predi<lb ed="#B" break="no" n="22"/>catis. 
+          Nam si huiusmodi narrationibus passim credere oportet 
+          <lb ed="#B" n="23"/>possemus et ipsi philosophos adducere in medium magnos atque mi<lb ed="#B" break="no" n="24"/>rabiles 
+          vite ac morum gratia. Ceterum ostende mihi pau<lb ed="#B" break="no" n="25"/>lum 
+          aliumque Ioannem. Nunc enim uel pro obolo occidere 
+          <lb ed="#B" n="26"/>parati singuli estis. Pro terrena gleba innumeras excitatis li<lb ed="#B" break="no" n="27"/>tes 
+          etc. hec omnia chrisostomus super capitulum 3 primae 
+          <lb ed="#B" n="28"/>ad thimotheum homilia 10.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e571">
+          Et super 1am ad Corinthios homilia 4. 
+          <lb ed="#B" n="29"/>Idem chrisostomus ita ratio<add place="above-line">ci</add>natur. hoc igitur pacto prosterne<lb ed="#B" break="no" n="30"/>mus 
+          si pugnemus: et longe magis quam verbis vite rectitudine 
+          eorum animas percellemus. Hoc maximum certamen 
+          <lb ed="#B" n="31"/>est; hic sillogismus certissimus qui per opera efficitur. Nam 
+          <lb ed="#B" n="32"/>etsi frequenter verbis philosophemur: non tamen propterea
+          <lb ed="#B" n="33"/>vitam exhiberemus meliorem nullum nobis lucrum accederet.
+          <pb ed="#B" n="38-v"/>
+          <lb ed="#B" n="1"/>Non enim verbis attendunt homines sed opera perscrutan<lb ed="#B" break="no" n="2"/>tur 
+          et inquiunt: Tu prior verbis tuis obtempera deinde 
+          <lb ed="#B" n="3"/>alios admoneas. Et si dixeris innumera esse in futuro seculo 
+          <lb ed="#B" n="4"/>bona: et tamen tanquam non sint presentibus rebus aflixus 
+          <lb ed="#B" n="5"/>videberis: opera tua quam uerba magis mihi persuadebunt. Si 
+          <lb ed="#B" n="6"/>quidem cum alienarum rerum raptorem amissa immo<lb ed="#B" break="no" n="7"/>dice 
+          deplorantem multis aliis obnoxius criminibus animaduerto: 
+          <lb ed="#B" n="8"/>qua <sic>tatione<!-- should probably be ratione--></sic> tibi resurrectionem credam? Et licet hoc non dicant,
+          <lb ed="#B" n="9"/>cogitatione tamen et animo versant. Et hoc est quod prohibet 
+          <lb ed="#B" n="10"/>vt infideles christiani fiant. Reuocemus igitur eos uite nostre exemplo.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e616">
+          <lb ed="#B" n="11"/>Multi enim indocti viri hoc pacto philosophorum mentes percu<lb ed="#B" break="no" n="12"/>lerunt 
+          tanquam re ipsa philosophiam ostenderent: vocem tuba cla<lb ed="#B" break="no" n="13"/>riorem 
+          bonitate vite et philosophia emittentes ipsa enim quam lingua vehe<lb ed="#B" break="no" n="14"/>mentior 
+          est. Quum ergo dicam quod non licet succensere cuipiam de<lb ed="#B" break="no" n="15"/>inde 
+          gentilem innumeris malis afficio: quo pacto verbis ipsum 
+          <lb ed="#B" n="16"/>allicere potero <pc type="virgula">/</pc> cum operibus abigam? Quam obrem eos uite inte<lb ed="#B" break="no" n="17"/>gritate 
+          alliciamus. et per eorum animas edificemus ecclesiam 
+          <lb ed="#B" n="18"/>et huiusmodi comparemus diuitias. Nihil est enim quod anime possit
+          <lb ed="#B" n="19"/>equiparari: non vniuersus quidem mundus etc. <pc type="virgula">/</pc>
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e644">
+          <pc type="pilcrow">¶</pc> Et in home<lb ed="#B" break="no" n="20"/>lia 
+          9 de superstitione ad populum Antiochensem: «<quote xml:id="cy8th8-d1e229-Qd1e651">Interim 
+          <lb ed="#B" n="21"/>uero illud charitati uestre necessarium est dicere: sicut glori<lb ed="#B" break="no" n="22"/>ficauit 
+          Deus per tantam nos creaturam, ita quoque per puram 
+          <lb ed="#B" n="23"/>ipsum conuersationem glorificamus. celi enarrant gloriam
+          <lb ed="#B" n="24"/>Dei: non dicentes tantum sed tacentes et vite claritate omnia 
+          <lb ed="#B" n="25"/>in admirationem adducentes luceat enim lux vestra coram homi<lb ed="#B" break="no" n="26"/>nibus
+          vt videant opera vestra bona: et glorificent patrem 
+          <lb ed="#B" n="27"/>vestrum qui in celis est. Cum enim videt infideles te fidelem 
+          <lb ed="#B" n="28"/>compositum modestum ornatum esse mirabitur et dicet. 
+          <lb ed="#B" n="29"/>Vere magnus christianorum Deus quales constituit homines 
+          <lb ed="#B" n="30"/>qualis est qualibus fecit. angelos ex hominibus ipsos reddidit. 
+          <lb ed="#B" n="31"/>Si quis contumeliam fecerit: non conuiciantur. Si quis per<lb ed="#B" break="no" n="32"/>cusserit 
+          non <unclear>egreferunt</unclear> pro his qui leserunt orant. Inimi<lb ed="#B" break="no" n="33"/>cum 
+          non habent. Iram seruare non nouerunt mentiri 
+          <lb ed="#B" n="34"/>non didicerunt</quote> etc. 
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e688">
+          et super Matheum 5 in opere imperfecto 
+          <lb ed="#B" n="35"/>Sic luceat lux vestra etc. Qui docet (inquit) et facit quod
+          <pb ed="#B" n="39-r"/>
+          <lb ed="#B" n="1"/>docet: uere ille docet. Qui autem non facit quod docet non ali<lb ed="#B" break="no" n="2"/>um 
+          docet sed se ipsum condemnat. Et melius est facere et non 
+          <lb ed="#B" n="3"/>docere quam docere et non facere. Quoniam qui facit etsi tacuerit 
+          <lb ed="#B" n="4"/>aliquos corrigit sub exemplo. Qui autem docet et non facit: non 
+          <lb ed="#B" n="5"/>solum neminem corrigit sed adhuc multos scandalizat. Quis enim 
+          <lb ed="#B" n="6"/>non moueatur ad peccandum si uiderit ipsos doctores pietatis 
+          <lb ed="#B" n="7"/>peccantes? Ergo per illos quidem doctores qui docent et non faci<lb ed="#B" break="no" n="8"/>unt 
+          blasphematur Deus.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e712">
+          Ut puta si bene doceant sacerdotes et 
+          <lb ed="#B" n="9"/>melius viuant videntes gentiles dicunt: <quote xml:id="cy8th8-d1e229-Qd1e716">benedictus Deus qui ta<lb ed="#B" break="no" n="10"/>les 
+          habet seruos. Uere enim eorum Deus verus est Deus</quote>. Nisi enim 
+          <lb ed="#B" n="11"/>ipse esset iustus nunquam populum suum circa iusticiam sic teneret.
+          <lb ed="#B" n="12"/>Nam disciplina domini ex moribus familie demonstratur. Si autem 
+          <lb ed="#B" n="13"/>bene doceant et male conuersentur <pc type="virgula">/</pc> videntes dicunt: <quote xml:id="cy8th8-d1e229-Qd1e731">Qualis est 
+          <lb ed="#B" n="14"/>Deus eorum qui talia agunt? Nunquid sustineret eos talia 
+          <lb ed="#B" n="15"/>facientes nisi consentiret operibus eorum</quote> Vides quomodo deus 
+          <lb ed="#B" n="16"/>per malos christianos blasphematur. Nec potest dominus bonam 
+          <lb ed="#B" n="17"/>opinionem habere: qui malam familiam habet. Unde dictum est 
+          <lb ed="#B" n="18"/>ad populum Dei. Nomen enim dei <sic>perros</sic> blasphematur inter gen<lb ed="#B" break="no" n="19"/>tes 
+          Esay. 52. et Ezechiel. 36. et ad Romanos. 2o. hec ex chrisosto<lb ed="#B" break="no" n="20"/>mo.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e752">
+          poteramus plura alia testimonia tum ex ipso chrisostomo 
+          <lb ed="#B" n="21"/>tum ex hieronimo Cypriano et Augustino aliorumque doctorum 
+          <lb ed="#B" n="22"/>sanctorum doctrinis in confirmationem presentis conclusionis 
+          <lb ed="#B" n="23"/>particule scilicet necessarium esse conuersationem exemplarem 
+          <lb ed="#B" n="24"/>mansuetam et christianam etc <pc type="virgula">/</pc>. Ad hoc ut ingressus hyspa<lb ed="#B" break="no" n="25"/>norum 
+          maxime primus in partes illas et regna indiarum 
+          <lb ed="#B" n="26"/>ordinatus sit et iustitia non careat.
+        </p>
+        <p xml:id="cy8th8-d1e229-d1e771">
+          <pc type="pilcrow">¶</pc> Addidimus in particula 
+          <lb ed="#B" n="27"/>ista fieri debere aliquorum munusculorum ex parte regis nostri 
+          <lb ed="#B" n="28"/>oblatio: quatenus gratior et acceptabiliter sit <sic>rebus</sic> et populis illis 
+          <lb ed="#B" n="29"/>eorum aduentus quia his que allectiua sunt uidelicet incipient 
+          <lb ed="#B" n="30"/>affici ad reges nostros et sic disponi ad facilius prebendum 
+          <lb ed="#B" n="31"/>consensum cum de suscipiendis eis in uniuersales dominos
+          <lb ed="#B" n="32"/>secum tractabitur. Rursus proderit hec munusculorum 
+          <lb ed="#B" n="33"/>oblatio ad predicationem libentius audiendam et fidem sus<lb ed="#B" break="no" n="34"/>cipiendam: 
+          sicut legitur de beato siluestre quod muneribus 
+          <pb ed="#B" n="39-v"/>
+          <lb ed="#B" n="1"/>et donis iudeos et alios infideles ad fidem venire prouo<lb ed="#B" break="no" n="2"/>cabat <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
