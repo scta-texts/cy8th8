@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 14</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 13</title>
+          <date when="2025-08-20">August 20, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="39-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e242">
+        <head xml:id="cy8th8-d1e242-Hd1e97">Sectio 14</head>
+        <p xml:id="cy8th8-d1e242-d1e99">
+          <lb ed="#B" n="23"/>§ 14
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e104">
+          <lb ed="#B" n="24"/>Sequitur in conclusione 
+          <lb ed="#B" n="25"/>particula 7a
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e111">
+          <lb ed="#B" n="26"/><pc type="pilcrow">¶</pc> Notificatio tempestiua quieta etc <pc type="virgula">/</pc>. de causa sui aduentus 
+          <lb ed="#B" n="27"/>et legationis etc <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e126">
+          Tempestiua quidem scilicet loco et tem<lb ed="#B" break="no" n="28"/>pore 
+          personis et aliis circumstantiis seruatis iuxta ea que 
+          <lb ed="#B" n="29"/>Philosophus docet 3 Ethicorum quod uirtuosus operatur quod oportet et se<lb ed="#B" break="no" n="30"/>cundum 
+          quod oportet et quando et quomodo et circa quod operatur. 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e136">
+          Et 
+          <lb ed="#B" n="31"/>presertim exspectandum et seruandum est in hoc articulo: 
+          <lb ed="#B" n="32"/>quo prius idioma uniuscuiusque prouincie uel loci hyspani 
+          <lb ed="#B" n="33"/>siue nuncii prefati addiscant et sciant: itaque plene intelli<lb ed="#B" break="no" n="34"/>gant 
+          gentes ille quecunque proposita fuerint eis: alias nihil 
+          <lb ed="#B" n="35"/>fiet de iure in l. 1 § fi. in 5 columna ff. de verborum obligatione et ibi 
+          <lb ed="#B" n="36"/>notat ludovicus Romanus et institu. eo titulo § in hac re. Et Antonius 
+          <lb ed="#B" n="37"/>de butrio in c. fi. de eo qui mittitur in possessionem causa rei servande 2 columna 
+          <lb ed="#B" n="38"/>ibi uerbis apertis et claris ita quod intelligantur ff. de institutionum l. 
+          <lb ed="#B" n="39"/>sed et si § 1. Notat felinus in rubrica de constitutionibus penultima columna.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e158">
+          <lb ed="#B" n="40"/><pc type="pilcrow">¶</pc> Quod autem hec notificatio debeat esse quieta id est 
+          <lb ed="#B" n="41"/>quantum ad intellectum et rationem a caligine per turbationum que 
+          <lb ed="#B" n="42"/>causantur ex passionibus anime patet: quia sicut sydera 
+          <lb ed="#B" n="43"/>consueta nobis lucere et terram germinare cessant hoc fa<lb ed="#B" break="no" n="44"/>cere 
+          propter interpositionem nubium obscurarum: sic intel<lb ed="#B" break="no" n="45"/>lectus
+          et ratio que lucent et illuminant hominem in co<lb ed="#B" break="no" n="46"/>gnitionem 
+          veritatis: impediuntur caligine perturbatio<lb ed="#B" break="no" n="47"/>num. 
+          Et sicut aqua maris manente clara quemadmodum 
+          <lb ed="#B" n="48"/>vitrium visus noster potest eam penetrare atque videre
+          <pb ed="#B" n="39-v"/>
+          <lb ed="#B" n="1"/>que sunt sub aqua. Sed si turbatur per ventum tunc obstabit vi<lb ed="#B" break="no" n="2"/>sui. 
+          sic animus quietus hominis non impedit discursus 
+          <lb ed="#B" n="3"/>rationis nec iudicium intellectus ad intelligendum que pro<lb ed="#B" break="no" n="4"/>ponuntur.
+          Verum si moueatur et turbetur aliqua molestia 
+          <lb ed="#B" n="5"/>vel angustia timore tristitia: dolore <pc type="virgula">/</pc> seu etiam ira uel aliorum 
+          <lb ed="#B" n="6"/>que dant causam perturbationibus statim obsistit discursui ra<lb ed="#B" break="no" n="7"/>tionis 
+          et iudicio intellectus. Similiter sicut aqua cur<add place="above-line">r</add>ens de mon<lb ed="#B" break="no" n="8"/>tibus 
+          altis libere ac recto tramite procedit: et per obstaculum 
+          <lb ed="#B" n="9"/>lapidis qui resoluitur de monte impeditur ne recte procedere va<lb ed="#B" break="no" n="10"/>leat: 
+          ita ratio libera non impedita recte discurrit et intelle<lb ed="#B" break="no" n="11"/>ctus 
+          recte iudicat. Si autem afficitur motibus alicuius pertur<lb ed="#B" break="no" n="12"/>bationis
+          impediuntur ratio in libertatis discursu: et intellectus 
+          <lb ed="#B" n="13"/>in libertatis cognitione. Ita dicit <ref xml:id="cy8th8-d1e242-Rd1e218" corresp="#cy8th8-d1e242-Qd1e223">Boetius lib. 1 metro 7, de 
+            <lb ed="#B" n="14"/>consolatione</ref> <quote xml:id="cy8th8-d1e242-Qd1e223" source="http://scta.info/resource/hy7y6y-d1e51-d1e419@1-55">Nubibus atris condita nullum fundere possum sydera
+          <lb ed="#B" n="15"/>lumen etc. Tu quoque si vis lumine claro cernere Verum: tra<lb ed="#B" break="no" n="16"/>mite 
+          recto carpere celum gaudia pelle / pelle timorem</quote> etc. <pc type="virgula">/</pc> 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e234">
+          Ex qui<lb ed="#B" break="no" n="17"/>bus 
+          apparet quod ad hoc quod ea que volumus aliquibus proponere et 
+          <lb ed="#B" n="18"/>persuadere audiantur et intelligantur: oportet rationem et 
+          <lb ed="#B" n="19"/>intellectum audientium inquiete esse et tranquillitate ac procul 
+          <lb ed="#B" n="20"/>a quacumque molestia et re alia que perturbationem in animo sit 
+          <lb ed="#B" n="21"/>sufficiens causare. Si autem proponerentur cum tumultu uel forte 
+          <lb ed="#B" n="22"/>cum armorum <sic>est repitu</sic> <pc type="virgula">/</pc> aspirante terrore cum minis vel fla<lb ed="#B" break="no" n="23"/>gellis 
+          <lb ed="#B" n="24"/>aut modo imperioso <pc type="virgula">/</pc> aut duriter et qualicumque alio ri<lb ed="#B" break="no" n="25"/>gore 
+          siue perturbatione: manifestum est quod humana mens 
+          <lb ed="#B" n="26"/>terroribus consternitur clamoribus <pc type="virgula">/</pc> metu et verbis durio<lb ed="#B" break="no" n="27"/>ribus 
+          <del>consternitur clamoribus <pc type="virgula">/</pc> metu verbis</del> turbatur 
+          <lb ed="#B" n="28"/>tristatur affligitur refugit proinde audire <pc type="virgula">/</pc> uidereque sensus exterior 
+          <lb ed="#B" n="29"/>interior quoque ut fantasia seu imaginatio turbatur: caligatur 
+          <lb ed="#B" n="30"/>consequenter ratio intellectus non apprehendit nec potest su<lb ed="#B" break="no" n="31"/>mere 
+          formam intelligibilem amabilem seu delectatibilem: sed tris<lb ed="#B" break="no" n="32"/>tabilem 
+          potius et odibilem. Propter quod voluntas non solum non 
+          <lb ed="#B" n="33"/>potest affici vel amare: sed potius odire illa que proponuntur 
+          <lb ed="#B" n="34"/>et indignari propter terribilia illa que iniuste vel homo per in<lb ed="#B" break="no" n="35"/>tellectum 
+          <sic>stimat</sic> pati
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e301">
+          ergo necesse est quod ista notificatio sit 
+          qui<pb ed="#B" n="40-v"/><lb ed="#B" break="no" n="1"/>eta et libera ab omni caligine per turbatione etc.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e307">
+          <pc type="pilcrow">¶</pc> Ex his potest 
+          <lb ed="#B" n="2"/>elici probatio illius quod sequitur scilicet quod hec notificatio debeat 
+          <lb ed="#B" n="3"/>esse suauis et amicabilis etc. 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e317">
+          <pc type="virgula">/</pc> Patet hoc totum 1o quia regularum 
+          <lb ed="#B" n="4"/>rhetoricarum prima est: quod qui vult aliqua aliquibus proponere atque 
+          <lb ed="#B" n="5"/>illa eis persuadere: opus habet animos eorum conciliatos sibi 
+          <lb ed="#B" n="6"/>imprimis habuisse per quod beneuolos attentos et dociles reddat 
+          <lb ed="#B" n="7"/>secundum <ref xml:id="cy8th8-d1e242-Rd1e331">Tullium 2 de oratore</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e335">
+          <pc type="pilcrow">¶</pc> Conciliantur autem per 
+          <lb ed="#B" n="8"/>vocis lenitatem et vultus pudoris significationem mansuetudi<lb ed="#B" break="no" n="9"/>nis 
+          ostensionem placidam verborum comitatem quequam maxime bene<lb ed="#B" break="no" n="10"/>uolentiam 
+          parant secundum eundem ciceronem
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e347">
+          <pc type="pilcrow">¶</pc> Tum 2o quia modus 
+          <lb ed="#B" n="11"/>naturalis quo creatura rationalis apta nata est moueri <pc type="virgula">/</pc> duci di<lb ed="#B" break="no" n="12"/>rigi 
+          persuaderi et trahi ad quodcunque bonum est ut blande dulciter <pc type="virgula">/</pc> 
+          <lb ed="#B" n="13"/>leniter atque suauiter moueatur <pc type="virgula">/</pc> ducatur <pc type="virgula">/</pc> dirigatur <pc type="virgula">/</pc> persuadeatur 
+          <lb ed="#B" n="14"/>et trahatur propter arbitrii libertatem: scilicet: ita ut motus ille sit 
+          <lb ed="#B" n="15"/>illi lenis, dulcis et suauis et connaturalis: quatenus sua sponte auscultet <pc type="virgula">/</pc> 
+          <lb ed="#B" n="16"/>audiat <pc type="virgula">/</pc> consideret acquiescat et quicquid virtutis fuerit acceptet 
+          <lb ed="#B" n="17"/>et faciat. 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e390">
+          Unde dicitur <ref xml:id="cy8th8-d1e242-Rd1e392" corresp="#cy8th8-d1e242-Qd1e394">Ecclesiastici 6.</ref> <quote xml:id="cy8th8-d1e242-Qd1e394" source="http://scta.info/resource/sir6_5@1-4">Verbum dulce multiplicat amicos</quote> 
+          <lb ed="#B" n="18"/>(Sicut de beatis Clemente et Sylvestro legimus: quod propter dul<lb ed="#B" break="no" n="19"/>cedinem
+          eloquii et mansuetudinem gratiosam in conuersando 
+          <lb ed="#B" n="20"/>erant dilecti non solum a fidelibus sed etiam a gentilibus et iudeis) 
+          <lb ed="#B" n="21"/>et sequitur in adducta ecclesiastici auctoritate: <quote xml:id="cy8th8-d1e242-Qd1e405" source="http://scta.info/resource/sir6_5@5-7">et mitigat inimicos</quote>. hoc ap<lb ed="#B" break="no" n="22"/>paruit 
+          in Gedeone: qui viros Ephraym concitatos contra miti<lb ed="#B" break="no" n="23"/>gauit 
+          per verbum dulce: <ref xml:id="cy8th8-d1e242-Rd1e411">Iudicum 8</ref>. Et <ref>Valerius maximus lib. 5</ref> 
+          <lb ed="#B" n="24"/>loquens de laude humanitatis ait: <quote xml:id="cy8th8-d1e242-Qd1e416">humanitatis dulcedo etiam
+          <lb ed="#B" n="25"/>efferata barbarorum ingenia penetrat orbosque et truces hostium 
+          <lb ed="#B" n="26"/>mollit oculos ac victorie insolentisssimos spiritus flectit: nec illi 
+          <lb ed="#B" n="27"/>arduum ac difficile est inter arma contraria inter districtos 
+          <lb ed="#B" n="28"/>cominus mucrones placidum iter reperire. Vincit iram: pros<lb ed="#B" break="no" n="29"/>ternit 
+          odium: hostilemque sanguinem hostibus lachrymis per<lb ed="#B" break="no" n="30"/>miscet</quote> 
+          etc <pc type="virgula">/</pc>. et huius rei ratio est generositas animi humani. 
+          <lb ed="#B" n="31"/>Nam secundum Senecam. <quote xml:id="cy8th8-d1e242-Qd1e437">Animus humanus magis ducitur 
+          <lb ed="#B" n="32"/>quam trahatur habet enim mens humana quoddam sublime et altum 
+          <lb ed="#B" n="33"/>ac impatiens superioris sed delectatione cuiusdam subiicitur 
+          <pb ed="#B" n="41-r"/>
+          <lb ed="#B" n="1"/>reuerentie seu leuitatis</quote> etc.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e449">
+          <pc type="pilcrow">¶</pc> Debet igitur notificatio illa sua<lb ed="#B" break="no" n="2"/>uis 
+          et amicabilis esse et modestissima et animorum audienti<lb ed="#B" break="no" n="3"/>um 
+          conciliatiua. 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e459">
+          <pc type="pilcrow">¶</pc> Ulterius diximus <quote xml:id="cy8th8-d1e242-Qd1e464">esse debere morosam et 
+          <lb ed="#B" n="4"/>cum temporis interuallo plurium dierum successiua</quote>: 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e470">
+          quod patet pri<lb ed="#B" break="no" n="5"/>mo: 
+          quia cum ea que significaturi sunt de fine siue causa finalis aduentus 
+          <lb ed="#B" n="6"/>sui scilicet ad docendum eos de uno et uero deo domino creatore omni<lb ed="#B" break="no" n="7"/>um 
+          et ad Deum pertinentiis que fides predicat catholica: sint eis nunquam 
+          <lb ed="#B" n="8"/>audita nec cogitata quidem <pc type="virgula">/</pc> tam nova <pc type="virgula">/</pc> tam admiranda utpote 
+          <lb ed="#B" n="9"/>transcendentia omnem nature facultatem: manifestum est indi<lb ed="#B" break="no" n="10"/>gere 
+          tractu siue mora temporis non minima immo magna 
+          <lb ed="#B" n="11"/>et maxima ad cogitandum de his que proponuntur: utrum sic se ha<lb ed="#B" break="no" n="12"/>beant 
+          in veritate ut astruuntur. 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e497">
+          Nam cum ista que de deo gen<lb ed="#B" break="no" n="13"/>tibus 
+          illis proponi se habent non sint manifesta intellectui 
+          <lb ed="#B" n="14"/>statim esse vera: sed oportet precedere aliquam ratiocinationem ad 
+          <lb ed="#B" n="15"/>credendum ea esse vera: itaque intellectus non concedit ea esse vera. 
+          <lb ed="#B" n="16"/>nisi velit et nisi per voluntatem et ex proposito ratiocinatus fuerit 
+          <lb ed="#B" n="17"/>circa ea sufficienter. Ratiocinari autem secundum magnum Dioni<lb ed="#B" break="no" n="18"/>sium 
+          7 de diuinis nominibus est procedere per quendam discursum de 
+          <lb ed="#B" n="19"/>uno intellecto ad aliud: et sic ratio vel intellectus vel homo per ratio<lb ed="#B" break="no" n="20"/>nem 
+          vel intellectum cogitat <pc type="virgula">/</pc> inquirit <pc type="virgula">/</pc> et discurrit de uno in aliud 
+          <lb ed="#B" n="21"/>eorum que audit antequam assentiat uel assensum prestet 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e525">
+          ergo nationes 
+          <lb ed="#B" n="22"/>ille indigent intervallo et processu non parui: temporis: ad hoc 
+          <lb ed="#B" n="23"/>quod ea que sibi proponuntur audiant <pc type="virgula">/</pc> cogitent inquirant <pc type="virgula">/</pc> dicur<lb ed="#B" break="no" n="24"/>rant 
+          et intelligant. Quare notificatio cause aduentus hyspanorum 
+          <lb ed="#B" n="25"/>seu regum nostrorum legatorum ad gentes illas: necessario moro<lb ed="#B" break="no" n="26"/>sa 
+          et plurium dierum successiua et non repentina debet esse.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e545">
+          <lb ed="#B" n="27"/><pc type="pilcrow">¶</pc> Tum 2o ea que de fine vel causa finali aduentus hyspanorum gen<lb ed="#B" break="no" n="28"/>tibus 
+          eiusmodi sunt in principio applicationis sue ad quemlibet lo<lb ed="#B" break="no" n="29"/>cum 
+          vel prouinciam proponenda: sunt insolita et inconsueta et
+          <lb ed="#B" n="30"/>nunquam audita <del rend="strikethrough">et inconsueta na</del> nec somniata ut predictum 
+          <lb ed="#B" n="31"/>est.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e564">
+          Sed insolita et inconsueta naturaliter iudicamus minus 
+          <lb ed="#B" n="32"/>digna auditu et receptione tanquam minus nota et extranea a ratio<lb ed="#B" break="no" n="33"/>ne: 
+          et sic minus uera, propter hoc quod sunt inconsueta secundum <ref xml:id="cy8th8-d1e242-Rd1e570">Philosophum
+          <lb ed="#B" n="34"/>2o Methaphysicae</ref>. Nam si qua dicantur nobis preter ea que consueui<pb ed="#B" n="41-v"/><lb ed="#B" break="no" n="1"/>mus 
+          audire non videntur nobis similia in veritate his que con<lb ed="#B" break="no" n="2"/>suevimus 
+          audire 
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e581">
+          ergo ad hoc quod digna videantur auditu et simi<lb ed="#B" break="no" n="3"/>lia 
+          in veritate his que consuevimus audire oportet apud nos esse 
+          <lb ed="#B" n="4"/>consueta.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e588">
+          Ea enim que sunt consueta libentius audiuntur et faci<lb ed="#B" break="no" n="5"/>lius 
+          recipiuntur. Sunt enim consueta Iucunda. Dignum namque 
+          <lb ed="#B" n="6"/>uidetur nobis vt ita dicatur de quocunque sicut consuevimus 
+          audire. Illud enim quod est consuetum est nobis magis notum 
+          <lb ed="#B" n="7"/>et iucundum. Cuius ratio est quia consuetudo vertitur in natu<lb ed="#B" break="no" n="8"/>ram.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e600">
+          Sed consueta esse non possum nec consuetudo generari 
+          <lb ed="#B" n="9"/>nisi ex frequentatis actibus et ad frequentationem actuum 
+          <lb ed="#B" n="10"/>necessario requiritur temporis et plurium dierum interval<lb ed="#B" break="no" n="11"/>lum.
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e609">
+          ergo vt ea que de causa aduentus hispanorum scilicet de deo 
+          <lb ed="#B" n="12"/>et de preambulis ad illud et subsequentibus: in principio gentibus
+          <lb ed="#B" n="13"/>prefatis notificanda sunt esse possint eis consueta et iucunda et 
+          <lb ed="#B" n="14"/>sic videantur eis digna auditu et similia his que vera sunt vel con<lb ed="#B" break="no" n="15"/>sueurunt
+          audire libentiusque audiantur et facilius recipiantur: 
+          <lb ed="#B" n="16"/>oportet quod notificatio prememorata sit morosa et plurium dierum 
+          <lb ed="#B" n="17"/>succesiua: in quo temporis interuallo frequenter et frequentis<lb ed="#B" break="no" n="18"/>sime 
+          illa proponantur <pc type="virgula">/</pc> repetantur explicentur <pc type="virgula">/</pc> distinguantur: 
+          <lb ed="#B" n="19"/>quatenus ex tam frequentatis actibus paulatim in cordibus audi<lb ed="#B" break="no" n="20"/>entium 
+          generetur quedam vis et dispositio siue consuetudo Iucunda 
+          <lb ed="#B" n="21"/>vel habitus quae causat inclinationem quasi naturalem qua hu<lb ed="#B" break="no" n="22"/>manus 
+          animus iuuetur et disponatur: ita ut prefata eoque iam 
+          <lb ed="#B" n="23"/>consueta audiri <pc type="virgula">/</pc> facta sunt sibi iucunda: videantur consona ve<lb ed="#B" break="no" n="24"/>ritari 
+          et per consequens digna ut audiantur credantur <pc type="virgula">/</pc> et recipian<lb ed="#B" break="no" n="25"/>tur
+        </p>
+        <p xml:id="cy8th8-d1e242-d1e655">
+          Patet igitur qualiter supra dicta notificatio de causa et fine 
+          <lb ed="#B" n="26"/>aduentus hispanorum fienda et nuncianda gentibus et habita<lb ed="#B" break="no" n="27"/>toribus 
+          illius indiarum orbis esse debet tempestiua quieta (id est) 
+          <lb ed="#B" n="28"/>libera quantum ad intellectum et rationem a quacunque perturba<lb ed="#B" break="no" n="29"/>tione: 
+          suauis et amicabilis modestissima et animorum audient<lb ed="#B" break="no" n="30"/>ium 
+          conciliatiua morosa denique cum temporis interuallo succe<lb ed="#B" break="no" n="31"/>ssiua 
+          et non repentina <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
