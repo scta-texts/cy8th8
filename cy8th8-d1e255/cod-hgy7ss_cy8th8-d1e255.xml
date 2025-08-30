@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 15</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 15</title>
+          <date when="2025-08-29">August 29, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="42-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e255">
+        <head xml:id="cy8th8-d1e255-Hd1e97">Sectio 15</head>
+        <p xml:id="cy8th8-d1e255-d1e99">
+          <pb ed="#B" n="42-r"/>
+          <lb ed="#B" n="1"/>§ 15
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e106">
+          <pc type="pilcrow">¶</pc> <lb ed="#B" n="2"/>Particula 8a
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e114">
+          <lb ed="#B" n="3"/>Interim pro tuitione uel defensa predicatorum fidei et 
+          <lb ed="#B" n="4"/>nuntiorum regum nostrorum: quod debeat fieri aliqua turris 
+          <lb ed="#B" n="5"/>vel domus aliqualiter fortis pretextu alicuius necessitatis
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e123">
+          <lb ed="#B" n="6"/>cuius constructio erit facillima factu: cum non oporteat illam 
+          <lb ed="#B" n="7"/>facere ex lapidibus politis et quadratis: sed sufficit vel terrea esse 
+          <lb ed="#B" n="8"/>vel lignea ob imbecillitatem et penuriam armorum indigenarum. 
+          <lb ed="#B" n="9"/>Melius tamen esset ex terra fabricare illam cum tecto ligneo te<lb ed="#B" break="no" n="10"/>gulis 
+          cooperto propter periculum combustionis. Hoc enim facere 
+          <lb ed="#B" n="11"/>ad prudentiam pertineret ducis nunciorum regum nostrorum 
+          <lb ed="#B" n="12"/>quatenus periculis et incommodis obuietur futuris: et ideo 
+          <lb ed="#B" n="13"/>melius est ante tempus occurrere: quam post exitum etc. Vt di<lb ed="#B" break="no" n="14"/>ximus 
+          supra. Non enim statim credendum est extraneis et igno<lb ed="#B" break="no" n="15"/>tis 
+          nationibus: licet preseferant amoris signa <pc type="virgula">/</pc> pacis et comitatis. 
+          <lb ed="#B" n="16"/>Quanquam de nostris indianis populis antequam nos ex operibus nostris co<lb ed="#B" break="no" n="17"/>gnoscerent 
+          timendum nobis nullatenus erat: quoniam nihil 
+          <lb ed="#B" n="18"/>fictitium nihil fucosum gerere erga nos interius exteriusque scie<lb ed="#B" break="no" n="19"/>bant: 
+          sed simplici corde magna cum admiratione iubilo et ala<lb ed="#B" break="no" n="20"/>critate 
+          paterna quadam humanitate hospitalitate mira cum 
+          <lb ed="#B" n="21"/>omni genere <sic>benefficiorum</sic> recipiebant et afficiebant nos etc
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e167">
+          <lb ed="#B" n="22"/>Particula 9a
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e172">
+          <lb ed="#B" n="23"/>Exhortatio miti verbo 
+          <lb ed="#B" n="24"/>ac dulci etc 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e179">
+          <pc type="pilcrow">¶</pc> Uidelicet, ut in aliquo loco congruenti conueniant ad audien<pb ed="#B" n="42-v"/><lb ed="#B" n="1"/>dum 
+          ea que fidei sunt etc. 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e188">
+          hec particula satis apparet ex probatio<lb ed="#B" break="no" n="2"/>ne 
+          precedentium presertim illarum (scilicet) salutatio et alloquutio 
+          <lb ed="#B" n="3"/>humilis: et conuersatio exemplaris et notificatio tempestiua <pc type="virgula">/</pc> quie<lb ed="#B" break="no" n="4"/>ta 
+          suauis amicabilis modestissima et animorum audientium 
+          <lb ed="#B" n="5"/>conciliatiua morosa etc <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e206">
+          <pc type="pilcrow">¶</pc> Simili censura operitur subsequens par<lb ed="#B" break="no" n="6"/>ticula 
+          (scilicet) predicatio fidei distincta discreta et secundum 
+          <lb ed="#B" n="7"/>formam a christo statutam regulari: quatenus effectus desideratus 
+          <lb ed="#B" n="8"/>(hoc est) conversio animarum illarum cum diuino adiutorio sub<lb ed="#B" break="no" n="9"/>sequatur 
+          per ingressum earum in sacro sanctam ecclesiam catholi<lb ed="#B" break="no" n="10"/>cam 
+          suscepto sacri baptismi sacramento voluntarie <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e226">
+          <lb ed="#B" n="11"/><pc type="pilcrow">¶</pc> Particula 10a
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e234">
+          <lb ed="#B" n="12"/><pc type="pilcrow">¶</pc> Informatio, per eosdem fidei preco<lb ed="#B" break="no" n="13"/>nes 
+          de titulo regum nostrorum etc.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e243">
+          <lb ed="#B" n="14"/><pc type="pilcrow">¶</pc> Que quidem informatio de titulo quod sit necessaria probatur
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e250">
+          1o sic 
+          <lb ed="#B" n="15"/>allegans titulum singularem secundum iura debet probare etiam si 
+          <lb ed="#B" n="16"/>sit filius cum presumatur pro herede uniuersali l. siue possidetis
+          <lb ed="#B" n="17"/>et ibi Baldus C. de probationibus 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e259">
+          sed ex parte regum nostrorum allegatur 
+          <lb ed="#B" n="18"/>titulus singularis extraneus nouus et mirabilis quantum ad illos 
+          <lb ed="#B" n="19"/>populos. Illi vero populi et reges eorum presumunt immo sciunt 
+          <lb ed="#B" n="20"/>et scimus se esse veros dominos et iustos illius <sic>esse</sic> orbis possesso<lb ed="#B" break="no" n="21"/>res.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e272">
+          ergo necesse est quod probetur eis ex parte regum nostrorum 
+          <lb ed="#B" n="22"/>titulus quem ad dominium vel iurisdictionem illarum terrarum 
+          <lb ed="#B" n="23"/>pretendunt se habere: atque plene doceantur de titulo.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e279">
+          <pc type="pilcrow">¶</pc> consequentia 
+          <lb ed="#B" n="24"/>clara cum Maiore. 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e288">
+          Minor probatur: quia quilibet possessor 
+          <lb ed="#B" n="25"/>presumitur credere se dominum Cynus in l. cum alienum C.
+          <lb ed="#B" n="26"/>de <seg type="correction"><del>c</del>lega</seg> bartho. in l. 1. si de momem. posse fue. appel. 1 colu.
+          <lb ed="#B" n="27"/>verb. extra no. possesor enim habetur pro domino si possidet tanquam 
+          <lb ed="#B" n="28"/>dominus glossa bartholus et doctores in l. quidam in fine ff. de conditionibus 
+          <lb ed="#B" n="29"/>institutionum
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e306">
+          <pc type="pilcrow">¶</pc> 2o sic probandi onus incumbit ei qui asserrit vel dicit l. 
+          <lb ed="#B" n="30"/>actor C. de probationibus et l. ei qui ff. eo titulo et l. qui accusare C. de e<pb ed="#B" n="43-r"/><lb ed="#B" break="no" n="1"/>dendo 
+          Item agens et quicunque allegat uel agit debet probare 
+          <lb ed="#B" n="2"/>quod allegat d. l. actor et ibi Cynus bartholus et baldus quod verum 
+          <lb ed="#B" n="3"/>est nisi habeat presumptionem prose l. ei incumbit et ibi bartholus 
+          <lb ed="#B" n="4"/>ff. de probationibus maxime specialem l. cum indebito eo titulo. Item 
+          <lb ed="#B" n="5"/>si actor non est in quasi possessione iuris quod asserit l. circa eum 
+          <lb ed="#B" n="6"/>per bartholum eo titulo. Item est verum etiam si reus habeat violentam 
+          <lb ed="#B" n="7"/>possessionem. d. l. circa eum et l. vis eius et ibi baldus in uerbis 
+          <lb ed="#B" n="8"/><quote xml:id="cy8th8-d1e255-Qd1e330">quero hic numquid agens</quote> C. de probationibus.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e333">
+          <pc type="pilcrow">¶</pc> Sed reges nostri 
+          <lb ed="#B" n="9"/>in negotio isto non habent presumptionem prose respectu illorum 
+          <lb ed="#B" n="10"/>nec sunt in quasi possessione iuris quod asserunt se habere: 
+          <lb ed="#B" n="11"/>Illi uero populi et orbis totus non sunt in possessione vio<lb ed="#B" break="no" n="12"/>lenta 
+          sed propria debita vera naturalis et pacifica 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e347">
+          ergo pro<lb ed="#B" break="no" n="13"/>bandi 
+          onus eius quod asserunt incumbit regibus nostris.
+          <lb ed="#B" n="14"/>Et per consequens debent docere de titulo ad probandam et fundandam
+          <lb ed="#B" n="15"/>intentionem suam consequentia clara.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e356">
+          <pc type="pilcrow">¶</pc> Preterea generale brocar<lb ed="#B" break="no" n="16"/>dum 
+          est quod <quote xml:id="cy8th8-d1e255-Qd1e363">qui petit dominium in aliqua re: oportet quod probet</quote>
+          <lb ed="#B" n="17"/>C. de rei vendi. doce et de alienatione iudicii l. 1 et innocentius in C. inter 
+          <lb ed="#B" n="18"/>quatuor de maioritate et obedientia.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e370">
+          <pc type="pilcrow">¶</pc> Rursus 3o sic quando aliquis petit 
+          <lb ed="#B" n="19"/>debitum aliquod debitore negante probatio incumbit petenti. 
+          <lb ed="#B" n="20"/>signanter quando per aduersarium non est fundata intentio: quia nega<lb ed="#B" break="no" n="21"/>tiua 
+          non debet probari per negantem sed per aduersarium in 
+          <lb ed="#B" n="22"/>casu dicto scilicet quando eius non est fundata intentio Baldus in 
+          <lb ed="#B" n="23"/>l. si ex <sic>cantione</sic> 2 columna
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e390">
+          sed reges nostri si peterent debitum 
+          <lb ed="#B" n="24"/>scilicet obedientiam et subiectionem ab illis populis indiarum orbis: 
+          <lb ed="#B" n="25"/>et ipsi negant ut merito possunt cum sint liberi vt ex dictis 
+          <lb ed="#B" n="26"/>constat constabitque lucidius inferius neque reges nostri habent 
+          <lb ed="#B" n="27"/>suam intentionem fundatam populi uero ipsi sic ergo nega<lb ed="#B" break="no" n="28"/>tiuam 
+          illa per reges nostros debet probari.
+          <lb ed="#B" n="29"/>Sed hoc est docendum 
+          <lb ed="#B" n="30"/>de titulo 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e408">
+          ergo tenentur reges nostri docere et fidem facere 
+          <lb ed="#B" n="31"/>gentibus eiusmodi de titulo quem pretendunt se habere ad uni<del rend="strikethrough">modi</del><lb ed="#B" n="32"/>uersale 
+          dominium et principatum orbis illius.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e417">
+          <pc type="pilcrow">¶</pc> 4 sic 
+          <lb ed="#B" n="33"/>probatur per argumentum a maiori quoniam si habens possessionem quando 
+          <lb ed="#B" n="34"/>habet ius in contrarium cogitur ostendere titulum ergo multo 
+          <pb ed="#B" n="43-v"/>
+          <lb ed="#B" n="1"/>melius et fortius quin neque ius neque possessionem noscitur hac te<lb ed="#B" break="no" n="2"/>nus 
+          habuisse.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e434">
+          Nam ubicunque ius resistit alicui volenti aliquam 
+          <lb ed="#B" n="3"/>rem sibi vendicare potissime in preIudicium alterius: opor<lb ed="#B" break="no" n="4"/>tet 
+          ostendere et docere de titulo sicut in uolente prescribite 
+          <lb ed="#B" n="5"/>ut est casus in c. 1, de prescriptione lib. 6 et hoc etiam si habeat pos<lb ed="#B" break="no" n="6"/>sessionem 
+          rei sine qua non potest prescribi de prescriptione c. illud 
+          <lb ed="#B" n="7"/>16 q. <!-- gap here --> § potest et in regula sine possessione lib. 6 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e449">
+          facit ad 
+          <lb ed="#B" n="8"/>propositum nostrum textus satis acomodatus et notandus in 
+          <lb ed="#B" n="9"/>C. cum persone de priuilegiis lib. 6 ubi <quote xml:id="cy8th8-d1e255-Qd1e455">subditi episcopi si dicant 
+          <lb ed="#B" n="10"/>se exemptos ab episcopo propter iuris resistentiam quam habent 
+          <lb ed="#B" n="11"/>contra se: oportet ante omnia ostendere titulum sue exemp<lb ed="#B" break="no" n="12"/>tionis 
+          quod si non ostendant et prescriptionem probare nitantur 
+          <lb ed="#B" n="13"/>probatione prescriptionis precedente: cum de iure communi or<lb ed="#B" break="no" n="14"/>dinariorum 
+          intentio sic fundata sua iurisdictione uti possunt 
+          <lb ed="#B" n="15"/>libere in eosdem donec de prescriptione canonica fecerint plenam 
+          <lb ed="#B" n="16"/>fidem <pc type="virgula">/</pc> quamuis illi sint in possessione exemptionis. Ex quo inferre
+          <lb ed="#B" n="17"/>ille textus secundum aliquos quod lite pendente possit iste possessor 
+          <lb ed="#B" n="18"/>contra quem facit ius commune turbari et violenter expelli 
+          <lb ed="#B" n="19"/>sicut qui possidet vi aut clam aut precario</quote> Ita dicit Ancha<lb ed="#B" break="no" n="20"/>ranus 
+          ibi 11o notabili 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e485">
+          Cogitur ergo quis ostendere quo titulo 
+          <lb ed="#B" n="21"/>possidet vel petit aliquam rem quando est contra ius commune: 
+          <lb ed="#B" n="22"/>alias poterit illa priuari si possidet vel suam repudiari petitio<lb ed="#B" break="no" n="23"/>nem 
+          si possidendam petit. Ut patet ex predictis et tenet Baldus 
+          <lb ed="#B" n="24"/>in l. 2, 2 columna C. quomodo et quando iudi. dicens quod qui preten<lb ed="#B" break="no" n="25"/>dit 
+          titulum sue possessionis: quem refert et sequitur aluarotus in c. 
+          <lb ed="#B" n="26"/>1 in prin. de controuertis inuestigandum 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e502">
+          Si ergo quis in rei possessione 
+          <lb ed="#B" n="27"/>existens quando habet ius contra se cogitur ostendere ti<lb ed="#B" break="no" n="28"/>tulum 
+          sequitur fortiori ratione Reges nostros hispaniarum 
+          <lb ed="#B" n="29"/>teneri ostendere titulum quo fulti peterent a gentibus et po<lb ed="#B" break="no" n="30"/>pulis 
+          illis recipi in Dominos et sic obedientiam etc <pc type="virgula">/</pc> cum 
+          <lb ed="#B" n="31"/>nec possessionem nec proprietatem nec aliquod ius in et ad 
+          <lb ed="#B" n="32"/>regna illa et gentes noscantur hactenus habuisse: atque pro<lb ed="#B" break="no" n="33"/>inde 
+          resistat eis omne ius commune naturale humanum et diui<pb ed="#B" n="44-r"/><lb ed="#B" break="no" n="1"/>num. 
+          quod tamen fauet totum et patrocinatur in colis et ha<lb ed="#B" break="no" n="2"/>bitatoribus 
+          orbis illius iuste possidentibus illa.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e528">
+          Maius enim est rei 
+          <lb ed="#B" n="3"/>possessionem habere et legitime ius asequutum fuisse: quam solum<lb ed="#B" break="no" n="4"/>modo 
+          rei titulum pretendere in re aliena.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e535">
+          <pc type="pilcrow">¶</pc> Ad propositum fa<lb ed="#B" break="no" n="5"/>cit 
+          quod dicit Panormitanus: post Innocentium in c. post electionem de 
+          <lb ed="#B" n="6"/>concessione prebende quod contra agentem possessorio excipitur defec<lb ed="#B" break="no" n="7"/>tu 
+          potestatis in conferente vel in eligente. et talis exceptio ad<lb ed="#B" break="no" n="8"/>mittitur 
+          <lb ed="#B" n="9"/>vt in c. cum olim de causa possessionis et proprietatis. Non enim debet 
+          <lb ed="#B" n="10"/>alicui possessio dari quam nunquam habuit: nisi prius constet de 
+          <lb ed="#B" n="11"/>suo legitimo titulo l. fi. C. de edicto diui adriani tollendo 
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e556">
+          Reges igitur 
+          <lb ed="#B" n="12"/>nostri nunquam habuerunt possessionem neque proprietatem illius 
+          <lb ed="#B" n="13"/>orbis antequam orbis ille detegeretur. Item possunt optimo iure omnes 
+          <lb ed="#B" n="14"/>gentes ille cum dominis et regibus suis excipere de defectu po<lb ed="#B" break="no" n="15"/>testatis 
+          in summo pontifice quod tradidisset dominio et iurisdictioni 
+          <lb ed="#B" n="16"/>ac seruituti alterius extranei regis: Reges magnos et gentes ac
+          <lb ed="#B" n="17"/>populos et regna libera libertatem iure nature et gentium possi<lb ed="#B" break="no" n="18"/>dentes.
+        </p>
+        <p xml:id="cy8th8-d1e255-d1e574">
+          Unde patet: quod reges nostri tenentur docere nationes 
+          <lb ed="#B" n="19"/>illas de titulo quem pre se ferunt ut ordo naturalis et iuridicus 
+          <lb ed="#B" n="20"/>seruetur ut in conclusione dicitur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
