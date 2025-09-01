@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 16</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 16</title>
+          <date when="2025-08-31">August 31, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="44-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e269">
+        <head xml:id="cy8th8-d1e269-Hd1e97">Sectio 16</head>
+        <p xml:id="cy8th8-d1e269-d1e99">
+          <lb ed="#B" n="20"/>§ 16
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e104">
+          <lb ed="#B" n="21"/>Particula 11a
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e109">
+          <lb ed="#B" n="22"/><pc type="pilcrow">¶</pc> Post ostensionem de titulo quod modestissime blandissime <pc type="virgula">/</pc> discre<lb ed="#B" break="no" n="23"/>tissime
+          atque dulcissime quoad fieri poterit debeant gentes 
+          <lb ed="#B" n="24"/>et populi ac reges eorum persuaderi <pc type="virgula">/</pc> moueri et induci bonis ra<lb ed="#B" break="no" n="25"/>tionibus
+          dulcibus blandis verbis et suauibus inductionibus: osten<lb ed="#B" break="no" n="26"/>sis 
+          commodis que in dies adepturi sunt ad hoc quod prefate institu<lb ed="#B" break="no" n="27"/>tioni 
+          papali de regibus nostris in vniuersales principes et do<lb ed="#B" break="no" n="28"/>minos 
+          illius orbis voluntarie consentiant etc
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e135">
+          <lb ed="#B" n="29"/><pc type="pilcrow">¶</pc> Probatur hec particula multipliciter sed <sic>moranda</sic> sunt ali<pb ed="#B" n="44-v"/><lb ed="#B" break="no" n="1"/>qua 
+          prius supra deducta <pc type="virgula">/</pc> quorum primum est: quod apud illos infide<lb ed="#B" break="no" n="2"/>les 
+          et similes iuste ac legitime dominia et iurisdictiones principa<lb ed="#B" break="no" n="3"/>tus 
+          et regales dignitates esse iure nature et gentium confirmata per 
+          <lb ed="#B" n="4"/>ius diuinum utriusque testamenti. Ut probatum fuit supra § 5 
+          <lb ed="#B" n="5"/>et 6 in prima consideratione.
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e160">
+          <pc type="pilcrow">¶</pc> Secundum memorandum est 
+          <lb ed="#B" n="6"/>quod gentes eiusmodi ac populi cum suis regibus et principibus sunt vel 
+          <lb ed="#B" n="7"/>erant liberi quando eas invenimus: nullum extra se recognoscentes 
+          <lb ed="#B" n="8"/>superiorem habentes dominium merum mixtum imperium et 
+          <lb ed="#B" n="9"/>omnimodam iurisdictionem atque omnia iura principis que apud 
+          <lb ed="#B" n="10"/>nos tribuimus imperatori ut patuit ubi immediate allegatum 
+          <lb ed="#B" n="11"/>et patebit expressius infra § 25 conclusione 4a
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e179">
+          <pc type="pilcrow">¶</pc> Tertium quod 
+          <lb ed="#B" n="12"/>summus pontifex per dictam institutionem vel provisionem de re<lb ed="#B" break="no" n="13"/>gibus 
+          nostris: non intellexit priuare Reges et dominos naturales 
+          <lb ed="#B" n="14"/>suis dominiis vel iurisdictionibus iuribus aut dignitatibus etc 
+          <lb ed="#B" n="15"/>Quia nulla subfuit causa ut late probauimus in 4a et 2a conside<lb ed="#B" break="no" n="16"/>rationibus.
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e196">
+          <pc type="pilcrow">¶</pc> His ergo memoratis probatur particula hec primo sic. 
+          <lb ed="#B" n="17"/>Eiusmodi promotio uel institutio papalis de regibus nostris in 
+          <lb ed="#B" n="18"/>superiores illius orbis et super reges naturales illius: affert magnum 
+          <lb ed="#B" n="19"/>preiudicium eorum libertati cum sint liberi nullum recognoscentes 
+          <lb ed="#B" n="20"/>superiorem ergo oportet quod bonis rationibus suadeantur moueantur <pc type="virgula">/</pc>
+          <lb ed="#B" n="21"/>et inducantur ad hoc quod dicte institutioni vel promotioni consentiant
+          <lb ed="#B" n="22"/>libere ac eam ratam habeant.
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e218">
+          <pc type="pilcrow">¶</pc> Antecedens patet: quia cum populi et 
+          <lb ed="#B" n="23"/>communitates ille dando eis nouum regem super suos naturales reges 
+          <lb ed="#B" n="24"/>uel dominos: essent deinceps duplici onere grauate eo quod cogerentur 
+          <lb ed="#B" n="25"/>duobus immo pluribus dominis seruire et seruare fidelitatem. Unde duce<lb ed="#B" break="no" n="26"/>rentur
+          in duplicem ac duriorem seruitutem. Similiter Reges et principes 
+          <lb ed="#B" n="27"/>eorum agerentur habere super se dominum et recognoscere superiorem 
+          <lb ed="#B" n="28"/>quod horrori est regibus liberis manifestum est quod talis promotio siue 
+          <lb ed="#B" n="29"/>institutio papalis de regibus nostris super illum orbem affert magnum 
+          <lb ed="#B" n="30"/>preiudicium libertati utrorumque subditorum (scilicet) et regum natu<lb ed="#B" break="no" n="31"/>ralium 
+          uel dominorum. Est enim quedam seruitutis species ut ff.
+          <lb ed="#B" n="32"/>de usufructu l. si cuius § 1 et l. cum seruum ad fi. C. de seruis fugitivis <pc type="virgula">/</pc>. 
+          <lb ed="#B" n="33"/>et qui subest iurisdictioni alicuius dicitur quasi serus illius. Et <sic>iuris<pb ed="#B" n="45-r"/><lb ed="#B" break="no" n="1"/>dictioni 
+          <lb ed="#B" n="2"/>alicuius dicitur quasi seruus illius</sic>. Et iursdictio equiparatur 
+          <lb ed="#B" n="3"/>dominio secundum Baldum in d. l. cum seruum et notat glossa d. l. 
+          <lb ed="#B" n="4"/>si cuius et in c. cum olim el. 2o de priuilegiis Ibi <quote xml:id="cy8th8-d1e269-Qd1e262">ius professionis</quote> quod est 
+          <lb ed="#B" n="5"/>contrarium libertati et in c. ne dei de symonia in quibus omnibus notatur 
+          quod iuramentum fidelitatis uel fidelitas et subiectio ipsa est quedam 
+          <lb ed="#B" n="6"/>seruitus. ut notat Baldus in l. si aquam. C. de seruitutibus et aqua pluuie
+          </p>
+          <p xml:id="cy8th8-d1e269-d1e270">.
+            <lb ed="#B" n="7"/><pc type="pilcrow">¶</pc> Seruitus autem est qua quis dominio alieno contra naturam subiici<lb ed="#B" break="no" n="8"/>tur 
+            ut in l. libertas ff. de statu hominum et institut. de iure personarum 
+            <lb ed="#B" n="9"/>§ seruitus et 1 distin 6. ius gentium Nam in hoc differt seruus a 
+            <lb ed="#B" n="10"/>libero: quia per seruitutem adimitur quod alias ei competebat sci<lb ed="#B" break="no" n="11"/>licet 
+            libere agere ac de sua persona et suis posse ad libitum dispo<lb ed="#B" break="no" n="12"/>nere. 
+            Unde liberum dominium non habet quis super actum circa 
+            <lb ed="#B" n="13"/>quem cum illum vult exercere impeditur aliqualiter. Omnis enim con<lb ed="#B" break="no" n="14"/>tradictio 
+            <lb ed="#B" n="15"/>vel prohibitio siue temporalis siue perpetua contradicit 
+            <lb ed="#B" n="16"/>libertati vt in d. l. libertas. Unde diffinitio libertatis est naturalis 
+            <lb ed="#B" n="17"/>facultas (id est) possibilitas eius quod cuique facere libet nisi quod 
+            <lb ed="#B" n="18"/>ui aut iure prohibetur.
+          </p>
+          <p xml:id="cy8th8-d1e269-d1e301">
+            <pc type="pilcrow">¶</pc> Quando autem uis aut necessitas infertur 
+            <lb ed="#B" n="19"/>quecunque <del rend="strikethrough">facere libet</del> facultas agendi vel disponendi libere tollitur et 
+            <lb ed="#B" n="20"/>sic libertati preiudicatur et per consequens tristitia et flebilitas causatur. 
+            <lb ed="#B" n="21"/>Sic dicit Philosophus 5 Metaphysicae loquens de violento et necessario quod 
+            <lb ed="#B" n="22"/>uiolen<del rend="strikethrough">dum</del>tum infert: quod <quote xml:id="cy8th8-d1e269-Qd1e321">omne uiolentum est triste siue flebile</quote>. Quod 
+            <lb ed="#B" n="23"/>probat per dictum cuiusdam poete dicentis <quote xml:id="cy8th8-d1e269-Qd1e325">quod omnis res necessaria 
+            <lb ed="#B" n="24"/>siue violenta est tristis siue lamentabilis</quote>. Necessitas enim est quaedam 
+            <lb ed="#B" n="25"/>violentia. <quote xml:id="cy8th8-d1e269-Qd1e333">Vis (inquit) poeta me facere coegit id est necessitas</quote> Ubi S.
+            <lb ed="#B" n="26"/>Thomas dicit <quote xml:id="cy8th8-d1e269-Qd1e337">violentum est quod est preter naturalem inclination<lb ed="#B" break="no" n="27"/>em
+            rei naturalis</quote>. Et est impediens propositum in prosequutione motus 
+            <lb ed="#B" n="28"/>voluntarii iam incepti. et prohibens etiam ne incipiat. Unde est 
+            <lb ed="#B" n="29"/>impediens voluntatem contristamur. Tristitia enim est de his que 
+            <lb ed="#B" n="30"/>nobis nolentibus accidunt.
+          </p>
+          <p xml:id="cy8th8-d1e269-d1e350">
+            Omne autem triste est odiosum et 
+            <lb ed="#B" n="31"/>horribile quia natura semper in quantum potest fugit triste: ap<lb ed="#B" break="no" n="32"/>petit 
+            enim delectabile secundum philosophum 8 ethicorum et huiusmodi 
+            <lb ed="#B" n="33"/>est seruitus que propter hoc dicitur mortis imago secundum Polycra<lb ed="#B" break="no" n="34"/>tum 
+            lib. 7. c. 17. et ff. de regulis iuris l. quot attinet. et extremum 
+            <lb ed="#B" n="35"/>malorum omnium non solum bello sed morte repellendum est se<pb ed="#B" n="45-v"/><lb ed="#B" break="no" n="1"/>cundum
+            Tulium in philipinis c. 2 et sallustius in cathilina: 
+            <lb ed="#B" n="2"/><quote xml:id="cy8th8-d1e269-Qd1e367">libertatem nemo bonus nisi cum anima simul amittit</quote>
+          </p>
+          <p xml:id="cy8th8-d1e269-d1e370">
+          <pc type="pilcrow">¶</pc> Cum 
+            <lb ed="#B" n="3"/>igitur instituendo super nationes illas et reges eorum alium
+            <lb ed="#B" n="4"/>regem uel dominum deducantur in seruitutem qua eis adimitur 
+            <lb ed="#B" n="5"/>libere agere et de propriis personis et statibus et suorum non 
+            <lb ed="#B" n="6"/>posse disponere ad libitum: unde liberum dominium non habet 
+            <lb ed="#B" n="7"/>super actus circa quos cum illos voluerint exercere vel publice 
+            <lb ed="#B" n="8"/>id est in bonum commune suarum rerum publicarum quantum 
+            <lb ed="#B" n="9"/>ad reges et dominos: vel priuatim (id est) unusquisque privatus 
+            <lb ed="#B" n="10"/>ad bonum priuatum impediuntur: atque proinde omnia hec sint 
+            <lb ed="#B" n="11"/>contraria voluntati utpote contra inclinationem naturalem ergo 
+            <lb ed="#B" n="12"/>magnum et enorme preiudicium prefata papalis institutio 
+            <lb ed="#B" n="13"/>de regibus nostris affert eorum libertati et ideo merito eis 
+            <lb ed="#B" n="14"/>erunt hec flebilia et valde contristantia.
+          </p>
+          <p xml:id="cy8th8-d1e269-d1e402">
+            <pc type="pilcrow">¶</pc> consequentia vero 
+            <lb ed="#B" n="15"/>probatur quia persone aut communitates libere siue liberi populi 
+            <lb ed="#B" n="16"/>possunt sua sponte se subiicere aliorum iudicio vel guber<lb ed="#B" break="no" n="17"/>nationi 
+            quamuis non sint superiores. Unde per pactiones que inter<lb ed="#B" break="no" n="18"/>veniunt 
+            inter homines potest quis obligare personam suam 
+            <lb ed="#B" n="19"/>et conditionem facere deteriorem. l. cum scimus C. de agricolis 
+            <lb ed="#B" n="20"/>et censitis lib. 11o et l. 1 § 1. et l. iuris gentium et pretorum ff. 
+            <lb ed="#B" n="21"/>de pactis et c. 1 et 2, extra de pactis. Idem est <add place="above-line">in</add> regnis et qui<lb ed="#B" break="no" n="22"/>buscunque 
+            communitatibus liberis vt in l. vt preiudicium illud 
+            <lb ed="#B" n="23"/>patienter tollerare velint bonis rationibus et suauibus inductio<lb ed="#B" break="no" n="24"/>nibus 
+            sunt mouendi suadendi et inducendi et certe rogandi.
+          </p>
+          <p xml:id="cy8th8-d1e269-d1e433">
+            <lb ed="#B" n="25"/><pc type="pilcrow">¶</pc> 2 idem sic probatur Regna illa et populi totius illius orbis 
+            <lb ed="#B" n="26"/>sunt vel erant iure naturae et gentium, liberi tempore quo eos in<lb ed="#B" break="no" n="27"/>uenimus 
+            reges vel principes habentes non recognoscentes extra 
+            <lb ed="#B" n="28"/>se aliquem superiorem de iure nec de facto ut sepe repetitum 
+            <lb ed="#B" n="29"/>est ergo sine consensu libero et beneplacito eorum non potest eis dari 
+            <lb ed="#B" n="30"/>alium nouum regem
+          </p>
+          <p xml:id="cy8th8-d1e269-d1e451">
+            ergo ad hoc quod eiusmodi consensum libere prestent 
+            <lb ed="#B" n="31"/>oportet illos dulcissimis mansuetissimis immo simplicibus verbis 
+            <lb ed="#B" n="32"/>suauibus inductionibus et bonis rationibus moueri induci et persua<lb ed="#B" break="no" n="33"/>deri.
+          </p>
+        <p xml:id="cy8th8-d1e269-d1e460">
+          <pc type="pilcrow">¶</pc> consequentia 2a patet. 1a probatur tum 1o quia fieret eis <del rend="strikethrough">vide</del> violenter 
+          <pb ed="#B" n="46-r"/>
+          <lb ed="#B" n="1"/>grauissima iniuria et damnum enormissimum vtpote subiiceremus 
+          <lb ed="#B" n="2"/>reges et regnicolas dominos et subditos seruitute contra naturale ius 
+          <lb ed="#B" n="3"/>et rationem
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e479">
+          <pc type="pilcrow">¶</pc> Tum 2o quia esset talis principatus uiolentus usurpatus 
+          <lb ed="#B" n="4"/>et tyrannicus. Vt probatum 1. q. 1. c. principatus et C. de sacrosantis 
+          <lb ed="#B" n="5"/>ecclesiis l. decernimus
+        </p>
+        <p xml:id="cy8th8-d1e269-d1e489">
+          Ubi baldus dicit <del rend="strikethrough">quod</del> <add place="above-line">quod</add> prouintie que consueue<lb ed="#B" break="no" n="6"/>runt 
+          Regi per Reges et principes suos dicuntur esse sub eorum naturali 
+          <lb ed="#B" n="7"/>dominio (id est) de iure gentium vt l. ex hoc iure ff. de iustitia et iure et si 
+          <lb ed="#B" n="8"/>alius accipiat ibi dominium contra voluntatem regis (adde et populi 
+          <lb ed="#B" n="9"/>iuxta dicenda infra § 28) <quote xml:id="cy8th8-d1e269-Qd1e506">ille est tyrannus quia (inquit baldus) usur<lb ed="#B" break="no" n="10"/>pata 
+          dominia dicuntur tyrannides</quote>. hec ille in forma. Ubi etiam addit quod 
+          <lb ed="#B" n="11"/><quote xml:id="cy8th8-d1e269-Qd1e512">inuadentibus castra pertinentia ad iustos dominos non possunt illa castra 
+          <lb ed="#B" n="12"/>concedi per principem siue inuadentes sint priuate persone siue singulares: 
+          <lb ed="#B" n="13"/>siue sint communitates ut in l. 2. C. de fundis et saltibus lib. 11o ubi hoc
+          <lb ed="#B" n="14"/>notatur</quote> hec baldus Eandem sententiam tenet in uerbis formalibus Angelus 
+          <lb ed="#B" n="15"/>de perusio in repetitione l. ciuitas ff. de rebus creditis <pc type="virgula">/</pc>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
