@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 17</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 16</title>
+          <date when="2025-09-03">September 03, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-09-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="46-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e282">
+        <head xml:id="cy8th8-d1e282-Hd1e97">Sectio 17</head>
+        <p xml:id="cy8th8-d1e282-d1e99">
+          <lb ed="#B" n="16"/>§ 17
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e104">
+          <lb ed="#B" n="17"/>3o Probatur eadem consequentia prima: quandocunque homo liber et fortius liber 
+          <lb ed="#B" n="18"/>populus uel communitas habet obligari ad aliquod onus subeundum vel soluen<lb ed="#B" break="no" n="19"/>dum 
+          aliquod debitum et generaliter quando tractatur de preiudicio potissime mul<lb ed="#B" break="no" n="20"/>torum: 
+          oportet omnes quos res tangit vocari et consensum liberum ab eis obtineri 
+          <lb ed="#B" n="21"/>alioquin nihil valebit quod agetur. vt infra patebit.
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e117">
+          sed si superpone<lb ed="#B" break="no" n="22"/>retur 
+          Rex noster hispaniarum nationibus illis et principibus earum 
+          <lb ed="#B" n="23"/>in regem et dominum universalem de iure aut de facto: obliga<lb ed="#B" break="no" n="24"/>rentur 
+          saltem ciuiliter quoad forum iudiciale vel humanum
+          <lb ed="#B" n="25"/>iudicium ad grauissimum onus et ad soluendum debitum intole<lb ed="#B" break="no" n="26"/>rabile: 
+          utpote recognoscere in regem et dominum: hominem qui<lb ed="#B" break="no" n="27"/>dem 
+          ignotum sibi <add place="above-line">regem</add> alterius extranee nationis et propterea suspectum 
+          <lb ed="#B" n="28"/>ualde: prestare subiectionem obedientiam reuerentiam redditus 
+          <lb ed="#B" n="29"/>seruitia noua vestigalia ceteraque regalia iura que utinam de 
+          <lb ed="#B" n="30"/>die in diem non crescerent <pc type="virgula">/</pc> tanquam spuma maris immo non ut 
+          <pb ed="#B" n="46-v"/>
+          <lb ed="#B" n="1"/>a terra in celum ardens et cuncta deuorans flamma. Unde tracta<lb ed="#B" break="no" n="2"/>tur 
+          de incomparabili et forte de damno irreparabili. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e152">
+          ergo oportet 
+          <lb ed="#B" n="3"/>omnes reges et populos vniuersos illarum nationum vocari et consensum 
+          <lb ed="#B" n="4"/>illorum liberum ab eis expectari. et obtineri. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e160">
+          Sed hunc nunquam saltem 
+          <lb ed="#B" n="5"/>liberum <sic>(</sic>que qualitas necessario requiritur prestabunt 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e167">
+          ergo ut ab 
+          <lb ed="#B" n="6"/>eis obtineatur oportet bonis rationibus: et suauibus dulcibus et melifluis 
+          <lb ed="#B" n="7"/>inductionibus suadeantur et inducantur.
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e174">
+          <pc type="pilcrow">¶</pc> Minor est plana. consequentia 
+          <lb ed="#B" n="8"/>cum maiore probatur: 1o quia notum est in iure citantos seu vocandos 
+          <lb ed="#B" n="9"/>esse omnes quos negocium <quote xml:id="cy8th8-d1e282-Qd1e183" source="http://scta.info/resource/wef6td-d1e1612-d1e309@3-7">tangit debet ab omnibus approbari</quote>.
+          <lb ed="#B" n="10"/><ref xml:id="cy8th8-d1e282-Rd1e187">De regulis iuris libro 6.</ref> videlicet omnes illi qui leduntur vel quorum 
+          <lb ed="#B" n="11"/>iuri detrahitur: vel quibus preiudicium fit. <quote xml:id="cy8th8-d1e282-Qd1e192">Quibus data est potestas 
+          <lb ed="#B" n="12"/>a iure naturali et diuino et humano consentiendi vel contradicendi</quote> ut 
+          <lb ed="#B" n="13"/>dicit <ref xml:id="cy8th8-d1e282-Rd1e199">Baldus in l. nam ita divus, ff. de adoptione</ref>. Quod intelligitur 
+          <lb ed="#B" n="14"/>secundum <ref xml:id="cy8th8-d1e282-Rd1e203">Innocentium et omnes in c. cum omnes de constitutionibus</ref> quando 
+          <lb ed="#B" n="15"/>aliquid est commune pluribus ut collegiatis vel tamquam uni corpori 
+          <lb ed="#B" n="16"/>Sed ut singulis vel super iure singulari. Tunc enim oportet scire et consen<lb ed="#B" break="no" n="17"/>tire 
+          singulos alias non ualet quod fit a pluribus nisi omnes consen<lb ed="#B" break="no" n="18"/>tiant 
+          siue simul siue separatim secundum <ref xml:id="cy8th8-d1e282-Rd1e214">Innocentium ff. de seruitutibus rusticorum 
+          <lb ed="#B" n="19"/>prediorum l. per fundum</ref> 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e220">
+          Et secundum <name xml:id="cy8th8-d1e282-Nd1e222">baldum</name> probatur ista distinctio in <ref xml:id="cy8th8-d1e282-Rd1e224" target="http://scta.info/resource/cice-l1t2-Dd1e184">d. c. cum 
+          <lb ed="#B" n="20"/>omnes</ref> et in <ref xml:id="cy8th8-d1e282-Rd1e229" target="http://scta.info/resource/bgy6gt-d1e137-d1e176">l. in tantum, § uniuersitatis ff de rerum diuisione</ref> et <ref xml:id="cy8th8-d1e282-Rd1e232" target="http://scta.info/resource/bgy6gt-d1e5159-d1e1870">ff. 
+          <lb ed="#B" n="21"/>de regulis iuris l. <del rend="strikethrough">aliud</del> aliud § refertur</ref> ubi plene de hoc ut ecce si 
+          <lb ed="#B" n="22"/>plures habent fundum communem et volunt constituere servitutem 
+          <lb ed="#B" n="23"/>in fundo oportet omnium consensum interuenire: alias defectus unius reddit
+          <lb ed="#B" n="24"/>constitutionem inutilem ut <ref xml:id="cy8th8-d1e282-Rd1e247">ff. de seruitute rusticorum prediorum l receptum</ref> et 
+          <lb ed="#B" n="25"/><ref xml:id="cy8th8-d1e282-Rd1e250" target="http://scta.info/resource/bgy6gt-d1e3844-Dd1e270">d. l. si per fundum</ref> et <ref xml:id="cy8th8-d1e282-Rd1e253" target="http://scta.info/resource/bgy6gt-d1e3195-Dd1e330">ff de aqua pluvia arcende l. in concedendo</ref> <ref xml:id="cy8th8-d1e282-Rd1e257" target="http://scta.info/resource/azsw2e-d1e3242-Dd1e147">C de 
+          <lb ed="#B" n="26"/>autoritate prestanda l. ultima</ref>, et <ref xml:id="cy8th8-d1e282-Rd1e262">ff. de adoptione l. ita divus</ref> ubi dicitur quod <quote xml:id="cy8th8-d1e282-Qd1e264" source="http://scta.info/resource/bgy6gt-d1e126-Dd1e545@28-31">qui leduntur, uocandi sunt in confirmatione adoptionis.</quote> Si plures 
+          <lb ed="#B" n="27"/>habent seruitutem aque ducende ex eo fonte et dominus velit conce<lb ed="#B" break="no" n="28"/>dere 
+          aliis cum diminutione iuris primorum: non poterit nisi consensu 
+          <lb ed="#B" n="29"/>primorum.
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e274">
+          De his <del rend="strikethrough">Dignus</del> Dynus in d. regula; <quote xml:id="cy8th8-d1e282-Qd1e279">Quod omnes tangit</quote> 
+          <lb ed="#B" n="30"/>et glossa ibi et <name xml:id="cy8th8-d1e282-Nd1e283">innocentius</name> in d. c. cum omnes de constitutionibus Panormitanus et felinus
+          <lb ed="#B" n="31"/>ibidem
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e288">
+          <pc type="pilcrow">¶</pc> Et maxime requiritur vocatio vel citatio et consensus om<lb ed="#B" break="no" n="32"/>nium
+          eorum qui aliquod interesse pretendunt aut preiudicium timent
+          <pb ed="#B" n="47-r"/>
+          <lb ed="#B" n="1"/>futurum, quotienscunque ab aliquo populo vel gente petitur obedientia
+          <lb ed="#B" n="2"/>vel subiectio et cetera iura regalia. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e303">
+          Manifestum enim est quod hac causa 
+          <lb ed="#B" n="3"/>omnes tam magnos id est reges et dominos principes proceres et magis<lb ed="#B" break="no" n="4"/>tratus 
+          seu capita ciuitatum et populorum: quam paruos et singulos oportet 
+          <lb ed="#B" n="5"/>vocari: et omnes et singuli habent consentire alias nihil valebit: 
+          quidquid factum fuerit in contrarium. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e312">
+          Nam si in concedendo haustum 
+          <lb ed="#B" n="6"/>aque vocandi sunt omnes qui ius habent et in confirmatione adoptionis 
+          <lb ed="#B" n="7"/>eo quod detrahitur iuri uniuscuiusque uel singulorum et tractatur de singulo<lb ed="#B" break="no" n="8"/>rum 
+          preiudicio ut in iuribus preallegatis: quam fortiori ratione vocandi 
+          <lb ed="#B" n="9"/>essent et ab eis magnis et paruis voluntarium consensum expetendum 
+          <lb ed="#B" n="10"/>quorum omnium iuri adeo detrahitur quod populi et principes liberi existentes nul<lb ed="#B" break="no" n="11"/>lumque 
+          recognoscentes superiorem reges principes et subditi magni et parui per<lb ed="#B" break="no" n="12"/>dant 
+          suam amabilem libertatem obligentur ad obedientiam ad subiectionem perpetuam 
+          <lb ed="#B" n="13"/>ad reuerentiam re<add place="above-line">d</add>ditus et alia iura soluenda regalia. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e335">
+          Pretendunt enim
+          <lb ed="#B" n="14"/>omnes magni et parui id est principes et domini: et populi eorum et 
+          <lb ed="#B" n="15"/>subditi maximum interesse. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e342">
+          Et principes quidem patet: quia dominus 
+          <lb ed="#B" n="16"/>temporalis liber existens nulli subiectus: fit seruus quodammodo. Item 
+          <lb ed="#B" n="17"/>si subditi sui alterius domini ditioni subiiciantur diminuitur eius auto<lb ed="#B" break="no" n="18"/>ritas 
+          dominium et potestas simul et commodum. Item subditi eius 
+          <lb ed="#B" n="19"/>duplici onere immo multiplici grauantur. Quod est contra rationem 
+          <lb ed="#B" n="20"/>naturalem. Unde potest et debet se opponere pro conseruando iure subdi<lb ed="#B" break="no" n="21"/>torum
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e358">
+          argumentum optimum ad hoc <ref xml:id="cy8th8-d1e282-Rd1e360" target="http://scta.info/resource/bgy6gt-d1e578-Dd1e522">ff. de dolo l. cum quis</ref> et <ref xml:id="cy8th8-d1e282-Rd1e363" target="http://scta.info/resource/cice-l2t10-Dd1e123">extra de ordine cognitionum 
+          <lb ed="#B" n="22"/>C. 2</ref>, et <ref xml:id="cy8th8-d1e282-Rd1e368" target="http://scta.info/resource/cice-l2t13-Dd1e108">de restitutione spoliatorum c. 1</ref> et <ref xml:id="cy8th8-d1e282-Rd1e371" target="http://scta.info/resource/cice-l2t28-Dd1e927">de appellationibus, c. dilectis</ref> in tantum quod ipse do<lb ed="#B" break="no" n="23"/>minus 
+          bellum mouere potest contra dominum temporalem oppri<lb ed="#B" break="no" n="24"/>mentem 
+          iura subditi sui si requisitus iustitiam de illo facere negligat 
+          <lb ed="#B" n="25"/>vel recusat per capitulum dominus noster 23, q. 2 sic notant Innocentius et hostiensis 
+          <lb ed="#B" n="26"/>in d. c. dilectis et <ref xml:id="cy8th8-d1e282-Rd1e383">hostiensis de treuga et pace c. 1</ref>. et hoc quia interest 
+          <lb ed="#B" n="27"/>sua ut subditi non vexentur sui et ne sua iurisdictio violetur nec 
+          <lb ed="#B" n="28"/>commodum suum minuatur. Sic summus pontifex in extravaganti 
+          <lb ed="#B" n="29"/>Ioannis primi asserit se ecclesie romane suorumque fidelium dispendia 
+          <lb ed="#B" n="30"/>dissimulare non posse: quin postquam ei cognita fuerint aduersus ea <del rend="strikethrough">opt</del>
+          <lb ed="#B" n="31"/>opportunis remediis occursurum. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e400">
+          Unde dominus potest repetere sub<lb ed="#B" break="no" n="32"/>ditum 
+          suum ab alio detentum ut possit munera personalia subire l. 
+          <lb ed="#B" n="33"/>de iure ff. ad municipia de quo glossa in l. 1 § per hanc ff. de rei uendicatione
+          <pb ed="#B" n="47-v"/>
+          <lb ed="#B" n="1"/>et dominus repetet <unclear>ascriptitirum</unclear> suum c. 2 de iudiciis et glossa 
+          <lb ed="#B" n="2"/>in cap. autoritate de priuilegiis lib. 6 et <ref xml:id="cy8th8-d1e282-Rd1e415"><name xml:id="cy8th8-d1e282-Nd1e416">Panormitanus</name> in c. dilecti de appe<lb ed="#B" break="no" n="3"/>llationibus 
+          circa prin.</ref>. Item quilibet potest agere pro diminutione sui pa<lb ed="#B" break="no" n="4"/>trimonii. 
+          Et facilius quis iura sua percipit in re libera et vacan<lb ed="#B" break="no" n="5"/>te 
+          quam ab alio possessa. ut in <ref xml:id="cy8th8-d1e282-Rd1e425" target="http://scta.info/resource/cice-l2t13-d1e392">c. fine de restitutione spoliatorum</ref>. faciunt notata 
+          <lb ed="#B" n="6"/>per <ref xml:id="cy8th8-d1e282-Rd1e431">Innocentium in c. veniens de testibus</ref>, et per <ref xml:id="cy8th8-d1e282-Rd1e433">Bartholum in l. a 
+          <lb ed="#B" n="7"/>Diuo pio ff. de re iudicata</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e440">
+          <pc type="pilcrow">¶</pc> Subditorum autem interest ut eorum 
+          <lb ed="#B" n="8"/>dominus sit liber et alteri non se subiicere: ne cogantur plures do<lb ed="#B" break="no" n="9"/>minos 
+          habere. Item sicut interest domini non mutare subiectum: 
+          <lb ed="#B" n="10"/>ita interest subiecti non mutare <del rend="strikethrough">subiectam</del> dominum et subiici 
+          <lb ed="#B" n="11"/>extraneo. et maxime si contingat illum esse alterius lingue aut 
+          <lb ed="#B" n="12"/>nationis: quia tales parum solent affectos esse subditis nec 
+          <lb ed="#B" n="13"/>multum de eis curare. Vt infra patebit. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e462">
+          De his <name xml:id="cy8th8-d1e282-Nd1e464">Hostiensis</name> in c. di<lb ed="#B" break="no" n="14"/>lecti 
+          de maioritate et obedientia et ibi <name xml:id="cy8th8-d1e282-Nd1e468">panormitanus</name> et <name xml:id="cy8th8-d1e282-Nd1e470">felinus</name> et omnes et in c. fine eo ti<lb ed="#B" break="no" n="15"/>tulo 
+          et <ref xml:id="cy8th8-d1e282-Rd1e475">Innocentius in c. auditis de prescriptionibus</ref> Videtur si dominus ali<lb ed="#B" break="no" n="16"/>cuius 
+          loci vult subiicere illum locum alieno domino: possunt homines
+          <lb ed="#B" n="17"/>loci illius contradicere secundum omnes in <ref xml:id="cy8th8-d1e282-Rd1e481" target="http://scta.info/resource/cice-l1t33-d1e362">D. c. fine de maioritate et obedentia</ref> 
+          <lb ed="#B" n="18"/>et in <ref xml:id="cy8th8-d1e282-Rd1e486">d. l. in tantum C, de appellationibus</ref> facit textus in <ref xml:id="cy8th8-d1e282-Rd1e489">d. l. imperialem, in § preterea ducatus de probibita feudi alienatione per fredericum collatio 10</ref>
+          <lb ed="#B" n="19"/>ubi singulariter habetur quod dominus feudi non potest inuito vasallo do<lb ed="#B" break="no" n="20"/>minium 
+          in alium transferre: ne iste vasallus cogatur habere alienum 
+          <lb ed="#B" n="21"/>dominum. Et si decedit dominus pluribus filiis relictis: non tenetur 
+          <lb ed="#B" n="22"/>vasallus omnibus prestare iuramentum fidelitatis sed sufficit uni. 
+          <lb ed="#B" n="23"/>Quod est menti tenendum secundum <ref xml:id="cy8th8-d1e282-Rd1e502">Panormitanum in d. c. dilecti de maioritate 
+          <lb ed="#B" n="24"/>et obedientia</ref> et facit secundum eumdem illud dictum hostiensis cum allegatio<lb ed="#B" break="no" n="25"/>nibus 
+          predictis: ut rex non possit inuitis hominibus castrum vel ci<lb ed="#B" break="no" n="26"/>uitatem
+          sibi subiectam alicui inferiori subiicere. Et <ref xml:id="cy8th8-d1e282-Rd1e511">Innocentius in d. cap.
+          auditis</ref>, ait quod <quote xml:id="cy8th8-d1e282-Qd1e513">sicut interest domini non perdere vasallum: ita eque
+          <lb ed="#B" n="27"/>interest subditorum non perdere dominum</quote> <quote xml:id="cy8th8-d1e282-Qd1e518">Quod bene notabis</quote>
+          inquit <name xml:id="cy8th8-d1e282-Nd1e521">Panormitanus</name> et super glossa iuncto textu in d. c. fine quod <quote xml:id="cy8th8-d1e282-Qd1e523">dominus<!-- correction here --> non 
+          <lb ed="#B" n="28"/>potest componere super iure superioritatis in per iudicium sub<lb ed="#B" break="no" n="29"/>ditorum: 
+          nisi subditi consentiant ea ratione quia scilicet subdi<lb ed="#B" break="no" n="30"/>torum 
+          interest non habere plures dominos vel non mutare
+          <lb ed="#B" n="31"/>dominum ut d. l. imperialem</quote>. Et ratione glosse secundum eum 
+          <pb ed="#B" n="48-r"/>
+          <lb ed="#B" n="1"/>potest generaliter colligi quod ubicunque subditi possunt pretendere aliquod 
+          <lb ed="#B" n="2"/>interesse non vallet compositio facta per solum dominum ipsis subditis 
+          <lb ed="#B" n="3"/>non consentientibus (et potest addi) vel ad consensum coactis.
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e545">
+          <pc type="pilcrow">¶</pc> Ecce 
+          <lb ed="#B" n="4"/>qualiter tam subditorum omnium quam dominorum interest ut in 
+          <lb ed="#B" n="5"/>questione vel causa prestande et subiectionis: et <seg type="correction">admi<add place="above-line">t</add>tendi</seg> aliquem 
+          <lb ed="#B" n="6"/>dominum in superiorem obligandi sese ad subeundum onus et onera 
+          <lb ed="#B" n="7"/>grauissima que exinde subsequuntur: requiritur necessario ut vocentur 
+          <lb ed="#B" n="8"/>omnes et ab omnibus requiratur et obtineatur liber consensus <seg type="correction">c<subst><del rend="strikethrough">a</del><add place="above-line">u</add></subst>m omnes</seg> 
+          et singulos res siue causa hec tangat et per consequens ab omnibus et sin<lb ed="#B" break="no" n="9"/>gulis 
+          debeat approbari. Alias indubie quod factum fuerit nullius 
+          <lb ed="#B" n="10"/>erit firmitatis.
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e581">
+          hoc patet praeter iura supra inducta per capitulum inter 
+          <lb ed="#B" n="11"/>quator de maioritate et obedentia: ubi papa reiicit petitionem cuiusdam
+          <lb ed="#B" n="12"/>patriarche constantinopolitani petentis sibi subiici quasdam ecclesias 
+          <lb ed="#B" n="13"/>partibus, non citatis quia ubi de obedientia et subiectione agitur: nihil 
+          <lb ed="#B" n="14"/>attentari debet in preiudicium rei uel possessoris non citati. Ubi 
+          <lb ed="#B" n="15"/>textus dicit <quote xml:id="cy8th8-d1e282-Qd1e594">iuris nanque ratio postulat ut in eorum preiudicium 
+          <lb ed="#B" n="16"/>quibus eiusdem ecclesie sunt subiecti nihil ordinemus de ipso cum 
+          <lb ed="#B" n="17"/>nec citati sunt nec conuicti</quote> etc <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e605">
+          <pc type="pilcrow">¶</pc> In quo etiam capitulo ait Inno<lb ed="#B" break="no" n="18"/>centius 
+          et alii doctores post eum quod <quote xml:id="cy8th8-d1e282-Qd1e612">peccaremus si ab aliquibus 
+          <lb ed="#B" n="19"/>obedientiam. vel subiectionem interim quod subiecti aliis sunt peteremus et 
+          <lb ed="#B" n="20"/>puniendi sumus etiam si ipsi sponte se nobis subiicerent</quote>. Allegat 
+          <lb ed="#B" n="21"/>capitulum placuit 16 q 13 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e622">
+          Et ratio huius est quia interim furtum 
+          <lb ed="#B" n="22"/>et vlolentiam et iniuriam alio possessori facimus: donec causa 
+          <lb ed="#B" n="23"/>sit cognita iudicialiter et autoritate iuris rite interposita: et ipsi etiam 
+          <lb ed="#B" n="24"/>subditi subtrahendo obedientiam possessori peccant nisi prius ab eius obedientia 
+          <lb ed="#B" n="25"/>absoluantur. quod non potest fieri si presens non est ille cui modo obediunt: 
+          <lb ed="#B" n="26"/>et quia non est contra eum in iusto iudicio actum secundum Innocentium 
+          <lb ed="#B" n="27"/>et Baldum in d. c. inter quatuor argumentum 8 q. ultima c. nonne et notatur 
+          <lb ed="#B" n="28"/>per eundem innocentium et alios in d. c. auditis Allegat Baldus ad pre<lb ed="#B" break="no" n="29"/>dicta
+          ff. de adquirenda hereditate l. Iuste
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e643">
+          <pc type="pilcrow">¶</pc> Cum igitur hoc quod est suscipere 
+          <lb ed="#B" n="30"/>regem nostrum hispaniarum in dominum vniuersalem omnes illas 
+          <lb ed="#B" n="31"/>nationes indiarum non solum reges et principes populos prouincias <pc type="virgula">/</pc> 
+          <lb ed="#B" n="32"/>ciuita<subst><del rend="strikethrough">s</del><add>tes</add></subst> municipia <pc type="virgula">/</pc> et loca: uerum etiam et singulas personas uni<lb ed="#B" break="no" n="33"/>uscuiusque 
+          prouintie ciuitatis municipii et loci tangat: utpote oportet
+          <pb ed="#B" n="48-v"/>
+          <lb ed="#B" n="1"/>omnes et singulos ad subeundum maximum onus et soluenda 
+          <lb ed="#B" n="2"/>debita magna obligari perdere vel saltem multum diminuere 
+          <lb ed="#B" n="3"/>etiam si recte ac prospere res silue gubernatio cum eis agatur pro<lb ed="#B" break="no" n="4"/>priam 
+          libertatem tam regum et principum quam populorum et singu<lb ed="#B" break="no" n="5"/>lorum 
+          incolarum: quam quidem totaliter amittere probabilius est quam 
+          <lb ed="#B" n="6"/>quod minima gaudeant libertatis parte (quod quidem certo certius esse immo fuisse 
+          <lb ed="#B" n="7"/>et nunc esse prout rei probauit probatque euentus) prestando sub<lb ed="#B" break="no" n="8"/>iectionem 
+          obedientiam reuerentiam et multiplicia iura regalia: et 
+          <lb ed="#B" n="9"/>proinde tractatur de suo preiudicio maximo quia omnes ledentur 
+          <lb ed="#B" n="10"/>et eorum omnium iuri detrahitur. et cum liberi existant eis a 
+          <lb ed="#B" n="11"/>iure naturali potestas et facultas consentiendi datur et contradicendi
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e695">
+          <lb ed="#B" n="12"/>ergo omnes tam magni quam parui vniuersi populi et persone
+          <lb ed="#B" n="13"/>singulares sunt vocandi et ab eis omnibus consensum liberum ex<lb ed="#B" break="no" n="14"/>quiri 
+          et obtinendus. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e704">
+          Sed hunc saltem liberum que qualitas id est libertas 
+          <lb ed="#B" n="15"/>necessario requiritur nunquam praestabunt ut patet. ergo ut ab eis
+          <lb ed="#B" n="16"/>liber consensus obtineatur oportet bonis rationibus suauibus <pc type="virgula">/</pc> dulcibus 
+          et melifluis inductionibus suadeantur 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e714">
+          <pc type="pilcrow">¶</pc> Quod autem libertas 
+          <lb ed="#B" n="17"/>in consensu prestando necessario tanquam necessaria qualitas requira<lb ed="#B" break="no" n="18"/>tur 
+          probatur per textum valde notabilem in c. ubi periculum § 
+          <lb ed="#B" n="19"/>coeterum de electione lib. 6 ubi dicitur quod cessat electio ubi admittitur li<lb ed="#B" break="no" n="20"/>bertas 
+          eligendi. ubi ponderandum est uerbum libertas requiritur 
+          <lb ed="#B" n="21"/>ergo in electione vel acceptatione cuiuscunque futuri superioris 
+          <lb ed="#B" n="22"/>vel rectoris a personis liberis eligendi vel acceptandi consensus 
+          <lb ed="#B" n="23"/>liber. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e735">
+          Si ergo adest consensus sine qualitate libertatis non est illa 
+          <lb ed="#B" n="24"/>electio instar matrimonii carnalis ut in c. cum locum et 
+          <lb ed="#B" n="25"/>quod ibi notatur de sponsalibus et glossa in c. quisquis. de electionibus
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e742">
+          <pc type="pilcrow">¶</pc> Con<lb ed="#B" break="no" n="26"/>cordat 
+          Bartholus in tractatu de tyrano: ubi ait quod si ciuitas habens 
+          <lb ed="#B" n="27"/>electionem rectoris et per tyranum compulsa eligeret
+          <lb ed="#B" n="28"/>Rectorem: non ualeret electio. Unde sententie late ab illo 
+          <lb ed="#B" n="29"/>rectore essent nulle. Pro quo bene facit <ref xml:id="cy8th8-d1e282-Rd1e756" target="http://scta.info/resource/bgy6gt-d1e662-Dd1e114">l. 2 ff. de iudiciis</ref> Ubi 
+          <lb ed="#B" n="30"/>requiritur liber consensus in transferenda et subroganda 
+          <lb ed="#B" n="31"/>iurisdictione. 
+        </p>
+        <p xml:id="cy8th8-d1e282-d1e765">
+          Ex quo etiam infertur quod si tyranus ibit ad ci<lb ed="#B" break="no" n="32"/>uitatem 
+          liberam cum exercitu: ciuitas elegit tyrannum in domi<lb ed="#B" break="no" n="33"/>num 
+          transferendo millium omnem iurisdictionem: non ualet 
+          <pb ed="#B" n="49-r"/>
+          <lb ed="#B" n="1"/>quod tali timore agitur. et per consequens non valebunt gesta 
+          <lb ed="#B" n="2"/>a tali tyrano quod firmat Bartholus in d. tractatu de tyrano. 
+          <lb ed="#B" n="3"/>adde hic que notantur ab omnibus in l. decernimus C. de 
+          <lb ed="#B" n="4"/>sacrosanctis ecclesiis et calderi consilio primo et Ancharano in consilio 
+          <lb ed="#B" n="5"/>300 et Panormitano in c. licet de euitanda 10 columna de electione
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
