@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 18</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 18</title>
+          <date when="2025-09-14">September 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-09-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="49-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e295">
+        <head xml:id="cy8th8-d1e295-Hd1e97">Sectio 18</head>
+        <p xml:id="cy8th8-d1e295-d1e99">
+          <lb ed="#B" n="6"/>§ 18
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e104">
+          <lb ed="#B" n="7"/><pc type="pilcrow">¶</pc> Quarto probatur quod sine consensu libero et beneplacito illorum
+          <lb ed="#B" n="8"/>populorum et regum ipsorum non potest eis dari aut constitui
+          <lb ed="#B" n="9"/>alius nouus rex super reges naturales suos sic.
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e115">
+          <pc type="pilcrow">¶</pc> Autoritates 
+          <lb ed="#B" n="10"/>et exempla sacre scripture possumus allegare ad decisionem causa<lb ed="#B" break="no" n="11"/>rum 
+          et determinationem dubiorum ut est textus in c. per vene<lb ed="#B" break="no" n="12"/>rabilem 
+          extra qui <sic>fil</sic> sint legitimi: et ibi notata et in c. 2 de prescriptionibus 
+          <lb ed="#B" n="13"/>et in c. cum apostolus de censibus et de prebendis c. cum secundum
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e132">
+          <lb ed="#B" n="14"/>Hoc probatur etiam per duas glossas ciuilis iuris. Altera in authent. Ut 
+          <lb ed="#B" n="15"/>iudices: sine quoquo suffragio § cogitatio in verbo eloquiorum. Altera 
+          <lb ed="#B" n="16"/>in l. illud ff. ad l. aquiliam baldus in autbent. ad hec 2 columna C. de usuris 
+          <lb ed="#B" n="17"/>Idem Baldus allegat apostolus in rubrica C. de fide instrumentorum. Et hoc
+          <lb ed="#B" n="18"/>dicunt iuriste verum nisi esset lex contraria diuine autoritati 
+          <lb ed="#B" n="19"/>quia tunc stabitur legi.
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e149">
+          limitatur tamen hoc: nisi autoritas 
+          <lb ed="#B" n="20"/>diuina loqueretur in concernentibus animam quia tunc non solum 
+          <lb ed="#B" n="21"/>est superior legi ciuili § finali de secundis nuptiis: sed etiam ca<lb ed="#B" break="no" n="22"/>nonice 
+          vel auditori canonis: 25, q. 1. c. sunt quidam de hoc vide<lb ed="#B" break="no" n="23"/>atur 
+          felinus in c. ex parte el 1o 20 columna de scriptis.
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e160">
+          <pc type="pilcrow">¶</pc> Sed in sacra 
+          <lb ed="#B" n="24"/>scriptura inuenitur ordinatum: ad eo ut in datione vel constitu<lb ed="#B" break="no" n="25"/>tione 
+          noui et sumi principis a principio celebranda etiam de 
+          <lb ed="#B" n="26"/>principe quem deus signaverat. seu elegerat interveniret con<lb ed="#B" break="no" n="27"/>sensus 
+          liber et autoritas et acceptatio voluntaria populorum: 
+          <lb ed="#B" n="28"/>sine qua etiam diuina institutio de principe summo effectum 
+          <lb ed="#B" n="29"/>non sortiebatur
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e179">
+          ergo sine consensu libero et beneplacito illorum 
+          <lb ed="#B" n="30"/>populorum et regum ipsorum non potest eis dari vel constituere 
+          <lb ed="#B" n="31"/>Regem nouum. 
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e186">
+          Notanter dicimus a principio scilicet antequam re<lb ed="#B" break="no" n="32"/>gnum 
+          vel principatus deferatur per successionem. Cum a principio 
+          <lb ed="#B" n="33"/>omnis principatus vel regimen populi originem duxerit a con<lb ed="#B" break="no" n="34"/>sensu 
+          et electione populi l. ex hoc iure ff. de iustitia et iure et ff. 
+          <pb ed="#B" n="49-v"/>
+          <lb ed="#B" n="1"/>de origine iuris l. 2 § deinde cum essent et § nouissime et ff. 
+          <lb ed="#B" n="2"/>de constitutione principum l. 2 et instit. de iure naturali gentium et ciuili § sed et 
+          <lb ed="#B" n="3"/>hoc studiosum et in authent. de instrumentorum cautela et fide § et quia impe<lb ed="#B" break="no" n="4"/>rium
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e206">
+          <lb ed="#B" n="5"/>consequentia patet. Minor probatur per illud Deuteronomi 17 
+          <lb ed="#B" n="6"/>ubi sic dicitur <quote xml:id="cy8th8-d1e295-Qd1e212">cum ingressus fueris terram quam dominus Deus tuus 
+          <lb ed="#B" n="7"/>dabit tibi et possideris eam habita<add place="above-line">ue</add>risque in illa et dixeris consti<lb ed="#B" break="no" n="8"/>tuam 
+          super me regem sicut habent omnes per circuitum nationes  
+          <lb ed="#B" n="9"/>eum constitue quem dominus Deus tuus elegerit de numero fratrum 
+          <lb ed="#B" n="10"/>tuorum</quote> etc
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e227">
+          <pc type="pilcrow">¶</pc> In quibus quidem verbis duo decreuit dominus 
+          <lb ed="#B" n="11"/>debere concurrere ad institutionem regis et executionem regie 
+          <lb ed="#B" n="12"/>potestatis. 
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e238">
+          Alterum ex parte instituentis scilicet quod diuina pro<lb ed="#B" break="no" n="13"/>videntia
+          fuisset electus expectando in electione iudicium dei. Alterum 
+          <lb ed="#B" n="14"/>ex parte populi: videlicet quod talem a deo in regem electum populus
+          <lb ed="#B" n="15"/>voluntarie reciperet libenterque ratum haberet atque possessionem
+          <lb ed="#B" n="16"/>traderet regni. Que duo clare denotant predicta verba scilicet illum
+          <lb ed="#B" n="17"/>constituas quem dominus deus tuus elegerit Vbi actus volunta<lb ed="#B" break="no" n="18"/>rius
+          id est consensus et approbatio populi requirebatur ibi eum 
+          <lb ed="#B" n="19"/>constitues id est ratum habebis seu acceptabis et regem habebis super te
+          <lb ed="#B" n="20"/>quem deus insinuauerit tibi elegisse: vel sibi placuisse ut sit rex. 
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e258">
+          Unde 
+          <lb ed="#B" n="21"/>licet deus potuisset constituere regem super populum hebreorum etiam 
+          <lb ed="#B" n="22"/>inuitum: tum quia dominus uniuersorum est ad hebreos et quilibet 
+          <lb ed="#B" n="23"/>homo et quisquis populus est seruus Dei per naturam: et plusquam seruus 
+          <lb ed="#B" n="24"/>scilicet sicut possessio inanimata ad suum possessorem et sic pote<lb ed="#B" break="no" n="25"/>rat 
+          facere de re sua quicquid vellet et precipue quod apud ipsum sunt 
+          <lb ed="#B" n="26"/>dominia et iura regnorum terre: et potest illa dare cui uoluerit vt appa<lb ed="#B" break="no" n="27"/>ret 
+          Daniel 4: <quote xml:id="cy8th8-d1e295-Qd1e275">Donec scias quod dominatur excelsus in regno hominum 
+          <lb ed="#B" n="28"/>et cui uoluerit det illud</quote> Tum maxime quia ille populus sub speciali 
+          <lb ed="#B" n="29"/>Dei cura regebatur ut aparet <ref xml:id="cy8th8-d1e295-Rd1e282">Deuteronomi 7</ref> <quote xml:id="cy8th8-d1e295-Qd1e284">te elegit dominus deus tuus 
+          <lb ed="#B" n="30"/>ut sis eius populus <del rend="strikethrough">sub speciali</del> peculiaris</quote> et <ref xml:id="cy8th8-d1e295-Rd1e293">exodi 19</ref>: <quote xml:id="cy8th8-d1e295-Qd1e295">Eritis mihi 
+          <lb ed="#B" n="31"/>in peculium de cunctis populis</quote>. Noluit tamen priuare illum priui<lb ed="#B" break="no" n="32"/>legio 
+          iuris naturalis quo spectat ad omnem hominem et ad omnem 
+          <lb ed="#B" n="33"/>populum liberum submittere se propria sponte alterius regimini 
+          <lb ed="#B" n="34"/>si viderit sibi vtile esse Deus enim non destruit vel abrogat opus 
+          <lb ed="#B" n="35"/>suum uel ius naturale quod a principio ipse tam sapienter tam ordi<lb ed="#B" break="no" n="36"/>nate 
+          tanquam immutabiliter instituit 
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e312">
+          Nam diuine proui<pb ed="#B" n="50-r"/><lb ed="#B" break="no" n="1"/>dentie 
+          non est naturas cogere vel corrumpere ut magnus Dionisius D
+          <lb ed="#B" n="2"/>4 de diuinis nominibus ait: Unde sicut ex diuina ordinatione vim habebat 
+          <lb ed="#B" n="3"/>precepti quod populus voluntarie illum quem Dominus eligeret consti<lb ed="#B" break="no" n="4"/>tueret 
+          super se in regem id est ratam haberent talem dei ele<lb ed="#B" break="no" n="5"/>ctionem 
+          et possessionem regni eidem traderent: ita aeque ordina<lb ed="#B" break="no" n="6"/>tione 
+          divina consensus et rati habitio populi et traditio possessio<lb ed="#B" break="no" n="7"/>nis 
+          regni ad exercitium regiae potestatis necessario requirebatur 
+          <lb ed="#B" n="8"/>Quem quidem populi consensum et acceptationem possessionisque 
+          <lb ed="#B" n="9"/>traditionem regni si Deus non requireret: dixisset utique tantum<lb ed="#B" break="no" n="10"/>modo: 
+          <quote xml:id="cy8th8-d1e295-Qd1e336">is erit rex tibi quem dominus Deus tuus elegerit</quote>. nec opor<lb ed="#B" break="no" n="11"/>tebat 
+          <quote xml:id="cy8th8-d1e295-Qd1e341">cum constituas <del rend="strikethrough">innuit</del> quem dominus</quote> etc. Quia tamen 
+          <lb ed="#B" n="12"/>dixit <quote xml:id="cy8th8-d1e295-Qd1e349">eum constitues</quote>: innuit euidenter ordinatione diuina necessa<lb ed="#B" break="no" n="13"/>rio 
+          requiri etiam ex parte populi: actum aliquem scilicet consen<lb ed="#B" break="no" n="14"/>sum 
+          et ratihabitionem seu acceptationem voluntariam: nec non 
+          <lb ed="#B" n="15"/>traditionem possessionis de uere interuenire. Ponderanda enim sunt 
+          <lb ed="#B" n="16"/>verba scripture sacre cum sint misteriis plena: et aliquod improprium 
+          <lb ed="#B" n="17"/>superfluum aut diminutum in ea reperiri posse arbitrari nephas 
+          <lb ed="#B" n="18"/>sit
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e365">
+          <pc type="pilcrow">¶</pc> Hec patet maxime in constitutione duorum primorum
+          <lb ed="#B" n="19"/>regum Saulis scilicet et Dauid. Nam ut I regum c. 10 habetur 
+          <lb ed="#B" n="20"/>licet Saul prius fuisset ex precepto Dei per Samuelem in Regem unctus 
+          <lb ed="#B" n="21"/>et per unctionem illam Ius et titulum ad regnum illud adeptus esset: 
+          <lb ed="#B" n="22"/>deinde tamen institui et acceptari a populo in regem oportuit et tradi 
+          <lb ed="#B" n="23"/>sibi possessionem regni. Neque ausus fuit Saul iurisdictionem vel auto<lb ed="#B" break="no" n="24"/>ritatem
+          <lb ed="#B" n="25"/>regie potestatis exercere neque poterat iure pleno antequam po<lb ed="#B" break="no" n="26"/>pulus
+          electioni de se facte consentiret regnique possessionem illi trade<lb ed="#B" break="no" n="27"/>ret 
+          vel concederet.
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e390">
+          Sic enim legitur in principio illius decimi capituli Tulit 
+          <lb ed="#B" n="28"/>autem Samuel lenticulam olei et effudit super caput saulis et oscula<lb ed="#B" break="no" n="29"/>tus 
+          est eum et ait: Ecce unxit te dominus super hereditatem sum 
+          <lb ed="#B" n="30"/>in principem. Deinde vero aliquibus transactis diebus: Samuel con<lb ed="#B" break="no" n="31"/>uocuauit
+          populum ad dominum in Masphat: et fecit stare per tribus 
+          <lb ed="#B" n="32"/>et familias et missis sortibus primo ad determinandum tribum 
+          <lb ed="#B" n="33"/>deinde familiam usque ad viros et peruenit sors usque ad Saul (quo 
+          <lb ed="#B" n="34"/>adducto quia absconditus erat domini) ait Samuel ad omnem populum: 
+          <lb ed="#B" n="35"/><quote xml:id="cy8th8-d1e295-Qd1e408">certe uidetis quam elegit dominus: quoniam non sit similis illi in omni 
+          <lb ed="#B" n="36"/>populo</quote>: et clamauit omnis populus et ait viuat Rex etc. 
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e414">
+          Ecce con<lb ed="#B" break="no" n="37"/>sensus 
+          ratihabitio seu acceptatio populi.
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e420">
+          <pc type="pilcrow">¶</pc> Post hec et non ante cepit 
+          <pb ed="#B" n="50-v"/>
+          <lb ed="#B" n="1"/>Saul uti Regia potestate quando concisis in frustra bovus misit 
+          <lb ed="#B" n="2"/>in omnes terminos Israel per manum nunciorum Dicens. <quote xml:id="cy8th8-d1e295-Qd1e431">Quicunque 
+          <lb ed="#B" n="3"/>non exierit et sequutus fuerit Saul et Samuel</quote> etc. <ref xml:id="cy8th8-d1e295-Rd1e437">cap. 10.</ref> et 
+          <lb ed="#B" n="4"/>quia aliqui de populo non consenserant libenter electioni Dei de 
+          <lb ed="#B" n="5"/>Saul licet fuisset collatus titulus ad regnandum per unctionem et 
+          <lb ed="#B" n="6"/>iterum per sortem electus in Regem voluntarie et iussu dei: quin 
+          <lb ed="#B" n="7"/>potius multi dicebant <quote xml:id="cy8th8-d1e295-Qd1e447">Num saluare nos poterit iste.</quote> Ideo ad 
+          <lb ed="#B" n="8"/>inducendum populum ut consentiret Samuel dixit iterum ad uni<lb ed="#B" break="no" n="9"/>uersum 
+          populum: <quote xml:id="cy8th8-d1e295-Qd1e454">venite eamus in Galgala et innouemus ibi regnum</quote>. 
+          <lb ed="#B" n="10"/>et perrexit omnis populus in Galgala: et fecerunt ibi regem Saul 
+          <lb ed="#B" n="11"/>coram domino in Galgala etc. 
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e461">
+          Ubi apparet quanta cura et soli<lb ed="#B" break="no" n="12"/>citudo 
+          adhibita est de voluntate Dei ut priuilegium libertatis natu<lb ed="#B" break="no" n="13"/>ralis 
+          consentien<del rend="strikethrough">tis</del>di scilicet voluntarie in principem seruaretur 
+          <lb ed="#B" n="14"/>populo nec compulit aut reprehendit eum: sed spectauit quo<lb ed="#B" break="no" n="15"/>usque 
+          voluntarie prestaret consensum ad recipiendum regem tra<lb ed="#B" break="no" n="16"/>deretque 
+          regni possessionem: quamquam ex principio electus fuerit diuinitus 
+          <lb ed="#B" n="17"/>et sibi regius titulus collatus 
+        </p>
+        <p xml:id="cy8th8-d1e295-d1e480">
+          ergo ad hoc quod rex in illo populo 
+          <lb ed="#B" n="18"/>haberet exercitium regie potestatis et ius in regno illo: non sufficit 
+          <lb ed="#B" n="19"/>ex diuina ordinatione institutio diuina de rege sine consensu et 
+          <lb ed="#B" n="20"/>acceptatione populi <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
