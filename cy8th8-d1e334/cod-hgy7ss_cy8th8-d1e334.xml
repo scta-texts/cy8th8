@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 21</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 21</title>
+          <date when="2025-09-18">September 18, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-09-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="54-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e334">
+        <head xml:id="cy8th8-d1e321-Hd1e97">Sectio 21</head>
+        <p xml:id="cy8th8-d1e334-d1e100">
+          <lb ed="#B" n="3"/>§ 21
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e105">
+          <lb ed="#B" n="4"/>Quod si prefata media (quod absit) omittantur et statim 
+          <lb ed="#B" n="5"/>dum ad terras illas et regna hyspani applicuerint easque 
+          <lb ed="#B" n="6"/>fuerint ingressi noua tam insolita et sibi a seculis in<lb ed="#B" break="no" n="7"/>audita 
+          <lb ed="#B" n="8"/>immo nec somniata (ut diximus) notificauerint po<lb ed="#B" break="no" n="9"/>pulis 
+          eisdem videlicet quod teneantur obedientiam seruitutem 
+          <lb ed="#B" n="10"/>et subiectionem regi extraneo prestare atque illum in dominum 
+          <lb ed="#B" n="11"/>super suos et naturales reges ac dominos recipere universalem
+          <lb ed="#B" n="12"/>et hoc quoad incolas omnes sed quoad reges et principes eorum 
+          <pb ed="#B" n="55-r"/>
+          <lb ed="#B" n="1"/>si loquamur si audierint alterius regis ditioni debere colla sub<lb ed="#B" break="no" n="2"/>mittere
+          atque superiorem recognoscere cum reges liberi et supe<lb ed="#B" break="no" n="3"/>riores 
+          domini et magni Domini existant pluribus dominis 
+          <lb ed="#B" n="4"/>aliis per magnifice atque fastuose modo suo principantes: nunquid 
+          <lb ed="#B" n="5"/>hec audientes poterunt omnes pariter turbari acerrime: 
+          <lb ed="#B" n="6"/>terreri et inplacabiliter scandalizari. Nonne rex Herodes
+          <lb ed="#B" n="7"/>audito a Magis quod natus erat rex Iudeorum: turbatus est et om<lb ed="#B" break="no" n="8"/>nis 
+          hierosolima cum illo Et quod merito turbari queant immo 
+          <lb ed="#B" n="9"/>quiverint patet quia aliquis alium turbare dicitur per simp<lb ed="#B" break="no" n="10"/>licem 
+          introitum in sua possessione eo inuito l. iniuriarum § 
+          <lb ed="#B" n="11"/>fine ff de iniuriis et 1 dist c. 1.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e153">
+          <pc type="pilcrow">¶</pc> Item turbat quis alium per as<lb ed="#B" break="no" n="12"/>portationem 
+          fructuum Baldus in l. post sententiam ultima columna 
+          <lb ed="#B" n="13"/>C. de sententiis. 
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e163">
+          <pc type="pilcrow">¶</pc> Item per arationem et fructuum collectionem baldus 
+          <lb ed="#B" n="14"/>in consilio quidam acusatus in fine et talis turbans dicitur 
+          <lb ed="#B" n="15"/>maleficus Baldus in l. in cunctis, 1 columna C. finium regundo.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e174">
+          <pc type="pilcrow">¶</pc> Item dicitur delictum l. si quis § si tutoris. C. si vi aut
+          <lb ed="#B" n="16"/>clam.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e182">
+          Item dicitur quis turbare per resistentiam. 
+          <lb ed="#B" n="17"/>Baldus in l. 1, C. de testibus. 
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e187">
+          <pc type="pilcrow">¶</pc> Vendendo rem alienam 
+          <lb ed="#B" n="18"/>et tradendo emptori possessionem glossa et bartholus in l. 
+          <lb ed="#B" n="19"/>si duo 2 columna ff. uti possidetis.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e197">
+          Item asserendo habere 
+          <lb ed="#B" n="20"/>seruitutem in re aliena glossa et Bartholus in d. l. sí duo in 
+          <lb ed="#B" n="21"/>princ. 1. q. ff. uti possidetis et in l. 2 § fine ad finem ff de acqui 
+          <lb ed="#B" n="22"/>emptio et in l. menius § fundo ult. colu. ff. de legatis 2.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e206">
+          <lb ed="#B" n="23"/><pc type="pilcrow">¶</pc> Turbando in seruitute fundi: dicitur turbare in fundo bartholus 
+          <lb ed="#B" n="24"/>in l. sicut § aristo. versi turbatur § si seruus ubi glossa.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e215">
+          <lb ed="#B" n="25"/><pc type="pilcrow">¶</pc> Item turbat quis per quamcunque molestiam et impedimentum
+          <lb ed="#B" n="26"/>instit de interdictis § retinendum. Cynus in l. 1, C. uti possidetis
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e225">
+          <lb ed="#B" n="27"/><pc type="pilcrow">¶</pc> Item negando quod aduersarius non possideat Bartholus in l. si
+          <lb ed="#B" n="28"/>prius ff. de operis noui nunciatione.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e234">
+          <pc type="pilcrow">¶</pc> Item quando aliquis possidere vel 
+          <lb ed="#B" n="29"/>aliquod ius habere se asserit. Baldus in l. ordinari 5 columna C. 
+          <lb ed="#B" n="30"/>de rei vendicatione et in l. non ab re. C. vnde vi.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e244">
+          <pc type="pilcrow">¶</pc> Sed aliis mu<lb ed="#B" break="no" n="31"/>ltis 
+          exemplis turbationis taceamus: nemo est qui patienter 
+          <pb ed="#B" n="55-v"/>
+          <lb ed="#B" n="1"/>et sine animi sui maxima turbatione audire ferat quod liber<lb ed="#B" break="no" n="2"/>tatem 
+          amittat: que res constat esse inestimabilis et ama<lb ed="#B" break="no" n="3"/>bilis 
+          ut supra probatum est et l. libertasff. de regulis iuris. et ma<lb ed="#B" break="no" n="4"/>xime
+          subiici debere regi ignoto, alterius gentis incognite. Cum 
+          <lb ed="#B" n="5"/>tales reges soleant parum affici ad gentem cui preficiuntur: et 
+          <lb ed="#B" n="6"/>per consequens non curare multum de eis. Et Iterum eos exactionibus
+          <lb ed="#B" n="7"/>affligere importabilibus angariis et per oneribusque 
+          <lb ed="#B" n="8"/>aliis insolitis grauare. Et hec causa fuit quare dominus prohi<lb ed="#B" break="no" n="9"/>buit
+          populo suo peculiari ut non facerent sibi regem alteri<lb ed="#B" break="no" n="10"/>us 
+          gentis ut patet Deuteronomii 17 Et S. Thomas 1 2e q. 105 articulo 1 2m. 
+          <lb ed="#B" n="11"/>cuius etiam meminit Bartholus in tractatu de regimine ciuitatis 4
+          <lb ed="#B" n="12"/>et penultima columnis.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e280">
+          <pc type="pilcrow">¶</pc> Sed quid rogo facerent et qualiter turba<lb ed="#B" break="no" n="13"/>buntur 
+          aut turbati sunt illi qui tot insultus calamitates <pc type="virgula">/</pc> tru<lb ed="#B" break="no" n="14"/>cidationesque 
+          a nostratibus sunt perpessi. et illi ad quos nondum 
+          <lb ed="#B" n="15"/>hyspani peruenerunt et tamen audierunt quanta mala con<lb ed="#B" break="no" n="16"/>vicinis 
+          prouincialibus intulimus: quando nuntii Regis nostri ab illis 
+          <lb ed="#B" n="17"/>petant consensum et voluntatem eum in suppremum principem 
+          <lb ed="#B" n="18"/>suscipiendum. si probabiliter presumere ac timere timore ca<lb ed="#B" break="no" n="19"/>dente 
+          in constantissimos viros quibus se spoliandos fore bonis 
+          <lb ed="#B" n="20"/>suis dignitatibus et dominiis rapiendas sibi uxores: filiis orban<lb ed="#B" break="no" n="21"/>dos 
+          et in omnimodam et acerbissimam seruitutem redigendos
+          <lb ed="#B" n="22"/>Re vera plena animorum maxima perturbatione: terribili horrore 
+          <lb ed="#B" n="23"/>ingentique viscerum dolore atque indignatione usque ad auditum suf<lb ed="#B" break="no" n="24"/>ferre
+          minime valebunt. 
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e315">
+          Nam quis unquam sane mentis dubitare 
+          <lb ed="#B" n="25"/>audebit quominus credat gentes illas ilico cum primum id audi<lb ed="#B" break="no" n="26"/>erint 
+          ad naturalem <pc type="virgula">/</pc> iustum ac commune uniuersis nationibus refu<lb ed="#B" break="no" n="27"/>gium 
+          merito conuolaturas. ad arma videlicet et vim vi nisibus 
+          <lb ed="#B" n="28"/>totis repulsuras: quatenus vel vitam mortis periculis exponant 
+          <lb ed="#B" n="29"/>et in bello finiant: uel ab eiusmodi inuadentibus quos impios 
+          <lb ed="#B" n="30"/>et scelerosos non immerito iudicant sunt enim et se subiectu<lb ed="#B" break="no" n="31"/>ros 
+          iniustissime vident propias respublicas liberent? Que 
+          <lb ed="#B" n="32"/>causa iustior est belligerandi quam seruitutis de pulsio. Secundum
+          <pb ed="#B" n="56-r"/>
+          <lb ed="#B" n="1"/>Tullium in Philippicis l. 7. Et vegetius de re militari lib. 3 Quis du<lb ed="#B" break="no" n="2"/>bitat 
+          artem bellicam omnibus esse potiorem per quam libertas 
+          <lb ed="#B" n="3"/>retinetur et dignitas prouintie propagatur et conseruatur imperi<lb ed="#B" break="no" n="4"/>um. 
+          Et iterum diuitiarum non est secura possessio, nisi armo<lb ed="#B" break="no" n="5"/>rum 
+          defensione seruetur. Sed de his alibi plenius 
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e351">
+          ergo ad vitandum 
+          <lb ed="#B" n="6"/>tam grauem et iniustam turbationem in populis illis: ad ob<lb ed="#B" break="no" n="7"/>viandum 
+          tot malis que in bellis necesse est interuenire tot mor<lb ed="#B" break="no" n="8"/>tibus 
+          <pc type="virgula">/</pc> stragibus populationibus terrarum (et quod miserabilius et 
+          <lb ed="#B" n="9"/>lamentabilius est) tot animarum damnationibus ac proinde tot 
+          <lb ed="#B" n="10"/>iniustitiis et operibus scelerosissimis tyranorum et vt sit iustus 
+          <lb ed="#B" n="11"/>et a deo approbatus regum nostrorum in orbem illum ingres<lb ed="#B" break="no" n="12"/>sus, 
+          principatus et uniuersale dominium: necessario requiritur 
+          <lb ed="#B" n="13"/>quod modestissime <pc type="virgula">/</pc> blandissime discretissime ac dulcissime verbis 
+          <lb ed="#B" n="14"/>dulcibus et supplicibus <pc type="virgula">/</pc> bonis rationibus et inductionibus moue<lb ed="#B" break="no" n="15"/>antur 
+          <pc type="virgula">/</pc> inducantur <pc type="virgula">/</pc> suadeantur ad proprium consensum libere 
+          <lb ed="#B" n="16"/>prestandum.
+        </p>
+        <p xml:id="cy8th8-d1e334-d1e394">
+          Et sic particula 11 conclusionis de qua § 16 in<lb ed="#B" break="no" n="17"/>cepimus
+          tractare patet <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

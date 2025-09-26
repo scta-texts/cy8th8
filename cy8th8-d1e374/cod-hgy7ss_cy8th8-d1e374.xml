@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 24</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 24</title>
+          <date when="2025-09-22">September 22, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-09-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="62-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e374">
+        <head xml:id="cy8th8-d1e374-Hd1e97">Sectio 24</head>
+        <p xml:id="cy8th8-d1e374-d1e99">
+          <lb ed="#B" n="14"/>§ 24
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e104">
+          <lb ed="#B" n="15"/>Tertia autem probatio est per instrumenta uel privilegia, seu 
+          <lb ed="#B" n="16"/>etiam per litteras papales. Per hanc quoque minime conuin<lb ed="#B" break="no" n="17"/>ci 
+          poterunt populi eiusmodi ut teneantur stare quibuscunque 
+          <lb ed="#B" n="18"/>litteris que eis ostendi contingat 
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e115">
+          probatur hoc sic: Per illud 
+          <lb ed="#B" n="19"/>quod quisque probabiliter ignorat et cui fidem non adhibendo 
+          <lb ed="#B" n="20"/>probabili ignorantia excusatur: conuinci non potest: nec ei 
+          <lb ed="#B" n="21"/>necessario quicquam poterit concludi ergo per quecunque ins<lb ed="#B" break="no" n="22"/>trumenta
+          priuilegia seu etiam per litteras papales illi po<lb ed="#B" break="no" n="23"/>puli 
+          conuinci non possunt nec eis concludi necessario 
+          <lb ed="#B" n="24"/>etiam post fidem susceptam quod institutio predicta emana<lb ed="#B" break="no" n="25"/>verit 
+          a papa vel quod papa potestatem habuerit faciendi illam.
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e133">
+          <lb ed="#B" n="26"/>antecedens patet de illo qui ignorat: quia non didicit scientiam
+          <lb ed="#B" n="27"/>alicuius artis <del rend="strikethrough">illius</del> <add place="margin-right">cui nititur quisquam probare aliquid per principia artis illius</add>. Talis enim probabiliter ignorat scientiam 
+          <lb ed="#B" n="28"/>illam cum non didicerit: nec artem illam profiteatur aut 
+          <pb ed="#B" n="62-v"/>
+          <lb ed="#B" n="1"/>adiscere teneatur qui etiam fidem principis artis illius 
+          <lb ed="#B" n="2"/>non adhibendo excusatur ignorantia probabili: quia 
+          <lb ed="#B" n="3"/>ignorat sine omni culpa et consequenter conuinci non 
+          <lb ed="#B" n="4"/>posset: nec ei poterit necessario quicquam illius artis concludit: 
+          ut de se patet. 
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e160">
+          Et probatur per l. regula, § sed facti 
+          <lb ed="#B" n="5"/>cum ibi notatis: et in regula ignorantia de regulis iuris Ubi 
+          <lb ed="#B" n="6"/>plene per <sic>dy</sic> et per glossam 38 distinctione in suma et 1, q. 3,
+          § notandum in texto et glossa. 
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e169">
+          <pc type="pilcrow">¶</pc> Est autem ignorantia proba<lb ed="#B" break="no" n="7"/>bilis 
+          quando quis ignorat quod communiter omnes vel ma<lb ed="#B" break="no" n="8"/>ior 
+          pars ciuium uel eorum qui sunt de suo statu vel qua<lb ed="#B" break="no" n="9"/>litate 
+          ignorant Baldus in l. iuris ignorantia in uerbo Iudicis
+          <lb ed="#B" n="10"/>C. qui admitti.
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e183">
+          Consequentia probatur: quia populi eiusmo<lb ed="#B" break="no" n="11"/>di 
+          etiam post fidem susceptam saltem per multum tempus 
+          <lb ed="#B" n="12"/>probabiliter immo inuincibiliter ignorabunt uim seu au<lb ed="#B" break="no" n="13"/>toritatem 
+          quorumcunque instrumentorum vel priuilegio<lb ed="#B" break="no" n="14"/>rum 
+          aut papalium litterarum: et proinde si fidem eiusmodi 
+          <lb ed="#B" n="15"/>litteris non adhibeant excusabuntur ignorantia probabili.
+          <lb ed="#B" n="16"/>Cum aqua ipsos ars litterarum prorsus non sit ulla. Et 
+          <lb ed="#B" n="17"/>instrumenta talia minime inter eos habentur: nec ipsi 
+          <lb ed="#B" n="18"/>consueuerunt unquam talibus fidem adhibere: aut ta<lb ed="#B" break="no" n="19"/>liter 
+          facere testimonium. Sed potius videtur sibi ars illa quo<lb ed="#B" break="no" n="20"/>dam 
+          prestigium seu superstitio diuinatiua vel incantatio 
+          <lb ed="#B" n="21"/>aut quid simile ex opere demonum proueniens: quando 
+          <lb ed="#B" n="22"/>percipiunt quod ea que longe fiunt hispani integraliter 
+          <lb ed="#B" n="23"/>norunt. Et ideo inculpabiliter ac sine omni culpa artem 
+          <lb ed="#B" n="24"/>litterarum non didicerint et ignorent eam uniuersa<lb ed="#B" break="no" n="25"/>liter 
+          omnes sue qualitatis nationes unde ad eam nullus
+          <lb ed="#B" n="26"/>eorum tenetur et proinde ad habendam fidem quibuscunque 
+          <lb ed="#B" n="27"/>litteris vel instrumentis que hispani eis ostenderint saltem 
+          <lb ed="#B" n="28"/>per multum tempus nemo eorum tenetur: probabili igno<lb ed="#B" break="no" n="29"/>rantia 
+          immo inuincibili eos excusante. Habent namque 
+          <lb ed="#B" n="30"/>gentes ille sufficiens impedimentum: propter quod vim et aucto<pb ed="#B" n="63-r"/><lb ed="#B" break="no" n="1"/>ritatem 
+          instrumentorum vel litterarum scire non possent. 
+          <lb ed="#B" n="2"/>Nec hispanis id asserentibus credere astringuntur: cum 
+          <lb ed="#B" n="3"/>in tam arduo et graui negocio sint omnino suspecti: 
+          <lb ed="#B" n="4"/>ut probatum est: Argumentum ad omnia que dicta 
+          <lb ed="#B" n="5"/>sunt in c. inter dilectos de fide instrumentorum. Ubi non 
+          <lb ed="#B" n="6"/>creditur quibusdam priuilegiis Ecclesie Uide qua ibi 
+          <lb ed="#B" n="7"/>notantur in c. ad audientiam de prescriptionibus. 
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e245">
+          Ex 
+          <lb ed="#B" n="8"/>quibus videbis quod etiam apud nos ad hoc quod alicui scripture
+          <lb ed="#B" n="9"/>fides habeatur: oportet quod consueuerit inter nos ab antiquis 
+          <lb ed="#B" n="10"/>nostris creditum communiter fuisse: vel quod reperta sit in loco 
+          <lb ed="#B" n="11"/>de quo nulla suspicio de falsitate habeatur. Ex quibus patet 
+          <lb ed="#B" n="12"/>quod si apud nos alicui scripture creditur et fidem facit: hoc est: 
+          <lb ed="#B" n="13"/>quia indubitanter reputatur autentica et fidelis ac sine omni 
+          <lb ed="#B" n="14"/>suspicione falsitatis ergo ubi cessauerit ratio talis certitudinis et 
+          <lb ed="#B" n="15"/>indubitabilis ueritatis: cessare oportebit fidei adhibitio et ipsa 
+          <lb ed="#B" n="16"/>credulitas. Sed apud populos illos cessat talis ratio certitudinis et 
+          indubitate veritatis: cum communiter omnes literas et libros 
+          <lb ed="#B" n="17"/>et vim earum sine omni culpa ignorent: nec sciant ali<lb ed="#B" break="no" n="18"/>cuius 
+          esse momenti estimationis vel autoritatis: immo ha<lb ed="#B" break="no" n="19"/>beant 
+          motiua plurima ad concipiendum uehementem et vio<lb ed="#B" break="no" n="20"/>lentam 
+          suspicionem de falsitate: cum litere vel instrumenta 
+          <lb ed="#B" n="21"/>super hoc confecte, et que possunt eis ostendi, contineant ea 
+          <lb ed="#B" n="22"/>que sunt expresse contra ius naturale et gentium et contra su<lb ed="#B" break="no" n="23"/>am 
+          publicam utilitatem secundum suam estimationem saltem. 
+          <lb ed="#B" n="24"/>Ergo non erit mirum si defuerit in eis credulitas et fidei 
+          <lb ed="#B" n="25"/>exhibitio ad litteras quascunque etiam papales: potissimum 
+          <lb ed="#B" n="26"/>in re tam ardua et tam magni preiudicii.
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e289">
+          3am 
+          <lb ed="#B" n="27"/>etiam speciem probationis scilicet per scripturam vel quascumque 
+          <lb ed="#B" n="28"/>litteras etiam papales non possunt conuinci gentes ille nec 
+          <lb ed="#B" n="29"/>poterit eis necessario concludi quod predicta instituuo sit 
+          <lb ed="#B" n="30"/>facta per papam vel quod papa potuerit eam in preiudicium tot 
+          <lb ed="#B" n="31"/>regum et dominorum populorumque similiter facere. Quod 
+          <lb ed="#B" n="32"/>si quis huiusmodi populis per quascumque <!-- edition has "quascumquem" --> litteras seu instrumenta
+          <pb ed="#B" n="63-v"/>
+          <lb ed="#B" n="1"/>niteretur predicta illis probare: per inde esset atque si 
+          <lb ed="#B" n="2"/>nescienti seu ignoranti scientiam alicuius artis: per eiusdem 
+          <lb ed="#B" n="3"/>artis principia aliquid ad eam pertinens probare velit: 
+          <lb ed="#B" n="4"/>quod esset ridiculum et satis irrationabile.
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e318">
+          <pc type="pilcrow">¶</pc> De 4a specie 
+          <lb ed="#B" n="5"/>probationis vide infra conclusionem 4am principalem § 31 
+          <lb ed="#B" n="6"/>vbi rationibus <sic>opimis<!-- edition has optimis without variant note--></sic> habes resolutionem.
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e333">
+          <pc type="pilcrow">¶</pc> De 5a <sic>sufficit<!-- edition has sufficiunt without note --></sic> 
+          que de tertia diximus: et adde quod ante annum Domini 
+          <lb ed="#B" n="7"/>1492 nondum sciebatur an ille orbis et eius habitatores 
+          <lb ed="#B" n="8"/>essent in rerum natura.
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e347">
+          <!-- edition has "de"-->6a <sic>nil<!-- edition has "nihil"--></sic> ad propositum. 
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e356">
+          similiter 
+          <lb ed="#B" n="9"/>et <!-- edition has "de" --> 7a.
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e363">
+          <!-- editio has De --> <pc type="pilcrow">¶</pc> 8a vero scilicet per iuramentum: per hanc etiam 
+          <lb ed="#B" n="10"/>concludi eis quicquam non potest etiam si omnes Hispani iurent 
+          <lb ed="#B" n="11"/>rationibus pro 2a superius allatis. ideo non tenentur ta<lb ed="#B" break="no" n="12"/>li 
+          iuramento stare nec aliquam fidem eidem prestare <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e381">
+          <pc type="pilcrow">¶</pc> Cum igitur per sepe factas probationes iuris nostri 
+          <lb ed="#B" n="13"/>eiusmodi populi et gentes conuinci non possunt etiam 
+          <lb ed="#B" n="14"/>post fidem susceptam nec eis plene vel sufficienter con<lb ed="#B" break="no" n="15"/>cludi 
+          aut certe probari quod dicta institutio seu promotio de 
+          <lb ed="#B" n="16"/>regibus nostris fuerit facta per papam vel quod papa habue<lb ed="#B" break="no" n="17"/>rit 
+          potestatem illam decernendi: atque proinde dictis pro<lb ed="#B" break="no" n="18"/>bationibus 
+          stare non teneantur: quia merito presumere possunt 
+          <lb ed="#B" n="19"/>literas super his sibi ostensas falsas esse: et id testantes pos<lb ed="#B" break="no" n="20"/>se 
+          ac deberi de mendacio et falsitate argui: cumque in se 
+          <lb ed="#B" n="21"/>etiam contineat aliquid quod hominum iudicio et secundum 
+          <lb ed="#B" n="22"/>veritatem est contra ius naturale et gentium et possit videri 
+          <lb ed="#B" n="23"/>eis esse in euersionem suarum rerum publicarum atque 
+          <lb ed="#B" n="24"/>proinde ab omni honestate et iustitia <sic>deuia <!-- edition has "deuium" --></sic>: et sic ar<lb ed="#B" break="no" n="25"/>bitrio 
+          omnium hominum estimabitur saltem in maximum 
+          <lb ed="#B" n="26"/>esse preiudicium: eo quod alienum et ignotum eis preficiat 
+          <lb ed="#B" n="27"/>dominum: immo nisibus totis institutioni<del rend="strikethrough">s</del> eiusmodi quili<lb ed="#B" break="no" n="28"/>bet 
+          homo prudens et valens repugnare non dubitaret. 
+        </p>
+        <p xml:id="cy8th8-d1e374-d1e429">
+          ergo 
+          <lb ed="#B" n="29"/>gentes ille iustam et rationabilem causam habent non 
+          <lb ed="#B" n="30"/>acceptandi vel saltem differendi etiam post <!-- edition has "fidem" here --> susceptam
+          <pb ed="#B" n="64-r"/>
+          <lb ed="#B" n="1"/>eiusmodi pape institutionem aut promotionem de regi<lb ed="#B" break="no" n="2"/>bus 
+          nostris quia rationabilis redditur causa: et illud facient 
+          <lb ed="#B" n="3"/>legis autoritate.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
