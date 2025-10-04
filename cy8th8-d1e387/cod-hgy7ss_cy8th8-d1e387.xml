@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 25</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 25</title>
+          <date when="2025-09-26">September 26, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-09-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="62-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e387">
+        <head xml:id="cy8th8-d1e387-Hd1e97">Sectio 25</head>
+        <p xml:id="cy8th8-d1e387-d1e99">
+          <lb ed="#B" n="14"/>§ 25
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e104">
+          <lb ed="#B" n="15"/><pc type="pilcrow">¶</pc> 2o principaliter probatur minor principalis rationis 
+          <lb ed="#B" n="16"/>posita supra § 23 quod scilicet non acceptando dictam <del rend="strikethrough">posit</del> 
+          institutionem papalem de regibus nostris gentes illa moveantur 
+          <lb ed="#B" n="17"/>iusta <sic>et legitima<!-- silently missing in edition --></sic> causa et iuris auctoritate. Et probatur sic.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e122">
+          <pc type="pilcrow">¶</pc> <sic>Ille habet <!-- edition has "illi habent"--></sic> iustam et legitimam causam non acceptandi 
+          <lb ed="#B" n="18"/>vel saltem differendi principis vel etiam papa mandatum 
+          <lb ed="#B" n="19"/>siue quamlibet aliam ordinationem: qui per eam <sic>putat<!-- edition has "putant" --></sic> 
+          <lb ed="#B" n="20"/>iniuste grauari: maxime si illud grauamen sit in totum 
+          <lb ed="#B" n="21"/>populum vel regnum et ex eo timetur aliquod magnum scan<lb ed="#B" break="no" n="22"/>dalum 
+          oriri: aut periculosa turbatio totius populi vel regni 
+          <lb ed="#B" n="23"/>siue aliud malum simile venturum. 
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e149">
+          Sed illi populi et regna 
+          <lb ed="#B" n="24"/>presertim principes et reges eorum etiam post fidem susceptam possunt 
+          <lb ed="#B" n="25"/>se rationabiliter reputare iniuste se et suos multum grauari 
+          <lb ed="#B" n="26"/>per sepe dictam pape institutionem de uniuersali dominio et 
+          <lb ed="#B" n="27"/>iurisdictionis totius illius orbis ad reges nostros et merito time<lb ed="#B" break="no" n="28"/>re 
+          magnum scandalum et grauamen ac periculosissimas tur<lb ed="#B" break="no" n="29"/>bationes 
+          in toto populo immo in populis et regnis acceptando 
+          dictam institutionem cum viderint se omnes alienigeno 
+          <lb ed="#B" n="30"/>et ignoto domino esse subiiciendos quod naturaliter om<lb ed="#B" break="no" n="31"/>nibus 
+          hominibus ingerit timorem et sic admirari possunt 
+          <lb ed="#B" n="32"/>de mente et bonitate ac de iustitia pape: turbari et exasperari 
+          <lb ed="#B" n="33"/>in animis suis. 
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e174">
+          ergo eiusmodi populi gentes et reges earum 
+          <lb ed="#B" n="34"/>legitimam et rationabilem causam eiusmodi pape institutio<lb ed="#B" break="no" n="35"/>nem 
+          non admittendi vel saltem differendi eius acceptationem 
+          <lb ed="#B" n="36"/>etc <pc type="virgula">/</pc>. 
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e186">
+          Consequentia nota cum maiore et probatione maioris 
+          <lb ed="#B" n="37"/>precedentis rationis.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e191">
+          <pc type="pilcrow">¶</pc> Minor probatur quantum ad primam 
+          <pb ed="#B" n="64-v"/>
+          <lb ed="#B" n="1"/>partem scilicet quod possunt rationabiliter se <sic>reputasse<!-- edition has "reputare" --></sic>
+          <lb ed="#B" n="2"/>et suos iniuste grauari etc. Quia sicut probatum est in 
+          <lb ed="#B" n="3"/>prima ratione nulla specie probationum et sic neque per 
+          <lb ed="#B" n="4"/>ius diuinum aut naturale vel etiam ciuile et canonicum pos<lb ed="#B" break="no" n="5"/>sit
+          probari eisdem: quia in neutro cautum reperitur: quod 
+          <lb ed="#B" n="6"/>pro habenda cura conuersionis et salutis spiritualis ipsorum 
+          <lb ed="#B" n="7"/>obligentur recipere reges nostros et extraneos in universa<lb ed="#B" break="no" n="8"/>les 
+          dominos: quinimmo econuerso ius ipsum diuinum 
+          <lb ed="#B" n="9"/>et naturale habent in suum favorem ut quilibet medio<lb ed="#B" break="no" n="10"/>criter 
+          doctus potest per se intelligere et nos in dicto tra<lb ed="#B" break="no" n="11"/>ctatu 
+          comprobatorio et latius in <ref xml:id="cy8th8-d1e387-Rd1e226">libro nostro de unico 
+          vocationis modo omnium gentium ad veram religionem</ref> 
+          <lb ed="#B" n="12"/>explanauimus consequens est: quod ad defensionem suam iure 
+          <lb ed="#B" n="13"/>possunt opponere exceptionem iniusti grauaminis ma<lb ed="#B" break="no" n="14"/>ximeque 
+          lesionis: et veraciter se sentire existimareque grauis<lb ed="#B" break="no" n="15"/>sime 
+          et valde enormiter ledi. cum sint regna et populi 
+          <lb ed="#B" n="16"/>liberi et nulli preter <sic>dominos suos<!-- edition has "dominis suis" --></sic> subiecti: et ipsi princi<lb ed="#B" break="no" n="17"/>pes 
+          non recognoscentes superiorem arbitrantes et rationa<lb ed="#B" break="no" n="18"/>biliter 
+          sentientes quod industriam: curam et expensas regum 
+          nostro<del rend="strikethrough">m</del>rum que subituri sunt vel iam subierunt propter 
+          <lb ed="#B" n="19"/>suam conuersionem et reductionem ad christum ex more 
+          <lb ed="#B" n="20"/>christianorum obtulisse ipsi christo gratis: sicut et ipsi 
+          <lb ed="#B" n="21"/>gratis receperunt.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e258">
+          <pc type="pilcrow">¶</pc> Nam grauamen <sic>manum<!-- edition has "magnum" --></sic> et lesio 
+          <lb ed="#B" n="22"/>magna immo maxima <add place="margin-left">ab uniuersis hominibus censetur: uel mutare dominum</add> vel alium superiorem recognoscere 
+          <lb ed="#B" n="23"/>et habere plures dominos aut quod dominus eorum non sit 
+          <lb ed="#B" n="24"/>liber. Ut in c. <sic>fi. <!-- edition has Digest.--></sic> de dilationibus. Et quod ibi <sic>notat<!-- edition has rightly but silently corrected to "notant" --></sic> doctores et 
+          <lb ed="#B" n="25"/>in c. suborta de re iudicata et in l. imperialem § preterea 
+          <lb ed="#B" n="26"/>ducatus de prohibita feudi alienatione per federicum et notant <ref xml:id="cy8th8-d1e387-Rd1e289">Innocentius in c. 
+          <lb ed="#B" n="27"/>auditis de prescriptionibus</ref> et <ref xml:id="cy8th8-d1e387-Rd1e295">hostiensis et panormitanus et Felinus, et alii, in c. di<lb ed="#B" break="no" n="28"/>lecti 
+          de maioritate et obedientia, et in c. fi. eo titulo</ref>, et <ref xml:id="cy8th8-d1e387-Rd1e300">idem panormitanus 
+          <lb ed="#B" n="29"/>in c. fin. de causa possessionis et proprietatis</ref>
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e306">
+          <pc type="pilcrow">¶</pc> Sed si predicta gra<pb ed="#B" n="65-r"/><lb ed="#B" break="no" n="1"/>uamina 
+          et lesiones aliquis populus uel ciuitas seu prouintia: 
+          siue regnum etiam inter christianos populos antiquos sen<lb ed="#B" break="no" n="2"/>tiret
+          ex literis aut rescripto uel qualibet ordinatione pa<lb ed="#B" break="no" n="3"/>pe 
+          cum prima fronte deuiet a naturali ratione et contra 
+          <lb ed="#B" n="4"/>publicam utilitatem et que pararent perpetuum <sic>preiudi<lb ed="#B" break="no" n="5"/>tium</sic> 
+          eiusmodi literis mandato seu ordinationi cuicumque 
+          <lb ed="#B" n="6"/>iuste et rationabiliter non obtemperaret nec ratum habe<lb ed="#B" break="no" n="7"/>ret 
+          etiam si haberet secundam iussionem ergo longe ratio<lb ed="#B" break="no" n="8"/>nabilius 
+          et iustius illi populi et nationes etiam post fidem 
+          <lb ed="#B" n="9"/>susceptam cum tunc erunt teneri et recentes ac neophiti 
+          <lb ed="#B" n="10"/>id est nouiter conuersi ad fidem possunt prefatam institu<lb ed="#B" break="no" n="11"/>tionem 
+          non habere ratam, nec illam acceptare: vel saltem 
+          <lb ed="#B" n="12"/>differre consensum immo et resistere illi: per argumentum a minori 
+          <lb ed="#B" n="13"/>quod validum est in iure ut in c. quemadmodum § nam si 
+          <lb ed="#B" n="14"/>potest de iure iurando et in c. cum in cunctis de electione. Facit 
+          <lb ed="#B" n="15"/>dictum Ioannis andree in <!-- gap here --> quod si per priuile<lb ed="#B" break="no" n="16"/>gium 
+          principis proprio motu concessum uniuersitatem aliquam 
+          <lb ed="#B" n="17"/>grauiter ledi contingat est super hoc ipsius principis remedium 
+          <lb ed="#B" n="18"/>implorandum ut notatur in c. suggestum de decimis et panormitanus in 
+          <lb ed="#B" n="19"/>c. 2, de immunitate ecclesiarum columna 5.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e359">
+          <pc type="pilcrow">¶</pc> Facit ad hoc notabilis sententia 
+          <lb ed="#B" n="20"/>Innocentii in c. inquisitioni de sententia excomunicationis. Ubi dicit quod si papa 
+          <lb ed="#B" n="21"/>mandat laico sibi non subiecto temporaliter quod alicui det rem
+          <lb ed="#B" n="22"/>suam non tenetur ei obedire si non apparet legitima causa obe<lb ed="#B" break="no" n="23"/>diendi
+          cum non sit ei subiectus temporaliter. Quod dictum fa<lb ed="#B" break="no" n="24"/>cit 
+          ad multa secundum Panormitanum in c. que in ecclesiarum de constitutionibus
+          <lb ed="#B" n="25"/>ad idem Clement. Pastoralis de re iudicata ubi ponderatur quod 
+          Rex cecilie non suberat imperatori: tu adde quod etiam si sit 
+          <lb ed="#B" n="26"/>ei subiectus potest non obedire: quando non est vel apparet legi<lb ed="#B" break="no" n="27"/>tima 
+          causa uel saltem expectare secundam iussionem iuxta 
+          <lb ed="#B" n="28"/>predeterminata.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e385">
+          <pc type="pilcrow">¶</pc> Pars secunda minoris scilicet quod prin<lb ed="#B" break="no" n="29"/>cipes 
+          et maiores eorum merito timere habent scandalum
+          <lb ed="#B" n="30"/>graue ac turbationem periculosam probata est in § 21 
+          <lb ed="#B" n="31"/>et videbitur etiam in § 30 in quibus memorate fuerunt 
+          <lb ed="#B" n="32"/>plures rationes quare merito <subst><del rend="strikethrough">timere habent scandalum</del> <add place="below-line">uniuersi habitatores illarum</add></subst> 
+          <pb ed="#B" n="65-v"/>
+          <lb ed="#B" n="1"/>regionum possunt: acerrime perturbari: et implacibi<lb ed="#B" break="no" n="2"/>liter 
+          scandalizari: iustam igitur et rationabi<del rend="strikethrough">liter</del>lem 
+          <lb ed="#B" n="3"/>causam habent non acceptandi memoratam papalem 
+          <lb ed="#B" n="4"/>institutionem vel saltem differendi eiusmodi consensum 
+          <lb ed="#B" n="5"/>vel acceptationem. Et sic idem quod prius <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e426">
+          <lb ed="#B" n="6"/><pc type="pilcrow">¶</pc> 3o principaliter idem probatur sic. Ille ha<lb ed="#B" break="no" n="7"/>bet 
+          legitimam et rationabilem causam non parendi accep<lb ed="#B" break="no" n="8"/>tandi 
+          aut differendi principis et <sic>papa<!-- edition has "pape"--></sic> mandatum lite<lb ed="#B" break="no" n="9"/>ras 
+          vel quancumque ordinationem: qui ad non parendum ac<lb ed="#B" break="no" n="10"/>ceptandum 
+          vel saltem differendum inducitur probabili et iusto 
+          <lb ed="#B" n="11"/>timore.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e448">
+          Sed populi et gentes ille cum suis principibus et supe<lb ed="#B" break="no" n="12"/>rioribus 
+          inducuntur ad non parendum acceptandum et dif<lb ed="#B" break="no" n="13"/>ferendum 
+          consensum ad predictam pape institutionem probabili 
+          <lb ed="#B" n="14"/>et iusto timore.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e457">
+          ergo iustam et rationabilem causam non 
+          <lb ed="#B" n="15"/>parendi <sic>acceptandi <!-- non in edition --></sic> vel saltem differendi etiam postquam fi<lb ed="#B" break="no" n="16"/>dem 
+          susceperint institutionem prefatam mandatum vel 
+          <lb ed="#B" n="17"/><sic>quacunque<!-- edition has corrected to "quamcunque" --></sic> ordinationem 
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e473">
+          Maior probatur, quia timor iustus 
+          <lb ed="#B" n="18"/>etiam probabilis qui alias secundum iura vocatur cadens in constan<lb ed="#B" break="no" n="19"/>tem 
+          virum qui est instantis vel futuri periculi causa et 
+          <lb ed="#B" n="20"/>mentis trepidatio <ref xml:id="cy8th8-d1e387-Rd1e481" target="http://scta.info/resource/bgy6gt-d1e567-d1e108">ff. quod metus causa, l. 1 <!-- edition has Digest 43, 16, 1; I don't see why that is correct; refereces seems to point clearly to Digest 4, 2, 1 --></ref> quando scilicet 
+          <lb ed="#B" n="21"/>timetur malum graue grauiter id est ex causa probabili ex<lb ed="#B" break="no" n="22"/>cusat 
+          in omnibus que homo propter iustum metum seu <unclear>timorem<!-- ms looks like timore, but m could be cut off in image --></unclear> 
+          <lb ed="#B" n="23"/>facit, <sic>propter<!-- edition has "praeter" --></sic> peccatum unde excusat anullat rescindit 
+          <lb ed="#B" n="24"/>et tollit actum requirentem liberum consensum ut patet per 
+          <lb ed="#B" n="25"/><ref xml:id="cy8th8-d1e387-Rd1e504" target="http://scta.info/resource/bgy6gt-d1e567">totum titulum ff. quod metus causa</ref>, et per <ref xml:id="cy8th8-d1e387-Rd1e507" target="http://scta.info/resource/cice-l1t40-Dd1e123">cap. abbas</ref>, et <ref xml:id="cy8th8-d1e387-Rd1e510" target="http://scta.info/resource/cice-l1t40-Dd1e184">cap. dilectus
+          <lb ed="#B" n="26"/>extra que vi aut metus causa fiunt</ref>. Adeo quod contractus celebratus
+          <lb ed="#B" n="27"/>per metum in his que consensum liberum requirunt: <sic>et<!-- edition has "est" not clear why this change was made or if it is a mistake --></sic> ipso 
+          <lb ed="#B" n="28"/>iure nullus vt legitur? et notatur in <ref xml:id="cy8th8-d1e387-Rd1e524">l. <sic>similiter<!-- edition has "sic mulier" --></sic> § fine ff. eo</ref> et vide 
+          <lb ed="#B" n="29"/><ref xml:id="cy8th8-d1e387-Rd1e532">panormitanum et alios in c. veniens. El. 2o de sponsalibus</ref> ubi patet
+          <lb ed="#B" n="30"/>quod ea que fiunt per metum talem regulariter non <sic>tenet <!-- edition has corrected to "tenent"--></sic>: dum<lb ed="#B" break="no" n="31"/>modo
+          sine culpa sua quis incidat in metum, et potest peti res<lb ed="#B" break="no" n="32"/>cisionem 
+          eorum que acta sunt per actionem quod metus causauit 
+          <pb ed="#B" n="66-r"/>
+          <lb ed="#B" n="1"/>ut in dictis iuribus. Et ea que inducunt iustum timorem seu 
+          <lb ed="#B" n="2"/>metum secundum <ref xml:id="cy8th8-d1e387-Rd1e551" target="http://scta.info/resource/ta-l4d29q1-d1e166">S. Thomam, in 4. distinctione 29. quaestione 1. articulo 2o. argumento 2.</ref> et 
+          <lb ed="#B" n="3"/>in <ref xml:id="cy8th8-d1e387-Rd1e557" target="http://scta.info/resource/ta-l4d29q1-d1e185">corpore</ref>: sunt mors verbera et cruciatus ut in <ref xml:id="cy8th8-d1e387-Rd1e560">d. c. cum 
+          dilectus</ref> dehonestatio per stuprum et servitus <sic>vel<!-- edition has "ut l." --></sic> <ref xml:id="cy8th8-d1e387-Rd1e566" target="http://scta.info/resource/bgy6gt-d1e567-Dd1e181">isti quidem 
+          <lb ed="#B" n="4"/>ff. eodem</ref> <ref xml:id="cy8th8-d1e387-Rd1e571">isti. eodem. § 1. 2. et 3.</ref> et vincula que reducunt 
+          <lb ed="#B" n="5"/>ad seruitutem. Ut in <ref xml:id="cy8th8-d1e387-Rd1e576" target="http://scta.info/resource/bgy6gt-d1e567-d1e172"><!-- editions references seems wrong -->l. neque timorem. ff. eodem</ref>
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e581">
+          <pc type="pilcrow">¶</pc> Metum 
+          <lb ed="#B" n="6"/>etiam iustum infert perditio omnium vel  <sic>maior pars<!-- edition has corrected to "maioris partis"--></sic>
+          temporalium <sic>honorum<!--looks corrected to "honorum" but edition has "bonorum" --></sic> ut in <ref xml:id="cy8th8-d1e387-Rd1e596" target="http://scta.info/resource/cice-l1t40-Dd1e123">d. c. Abbas</ref> et <ref xml:id="cy8th8-d1e387-Rd1e600" target="http://scta.info/resource/wef6td-d1e607-d1e120">c. frequens. de 
+          <lb ed="#B" n="7"/>restitatione spoliatorum. lib. 6</ref> si non potest quis sustentari sine bonis que 
+          <lb ed="#B" n="8"/>perdere timet. Ut notatur per <ref xml:id="cy8th8-d1e387-Rd1e607">panormitanum et alios in d. c. abbas.</ref> et 
+          <lb ed="#B" n="9"/><ref xml:id="cy8th8-d1e387-Rd1e610">glossa in l. aduocati. C. de aduocatione diuersorum iudiciorum</ref> <!-- something else here maybe "dicta"??--> notat pecuniam 
+          <lb ed="#B" n="10"/>esse vitam hominis: et quod bona temporalia non sunt aliud 
+          <lb ed="#B" n="11"/>quam vita corporalis: vnde sicut metus mortis excusat vt (dictum 
+          <lb ed="#B" n="12"/>est) ita metus perdendi bona temporalia vel maiorem partem 
+          <lb ed="#B" n="13"/>illorum. Et ratio est quia si in materia odiosa equiparantur 
+          <lb ed="#B" n="14"/>omnia bona et maior pars bonorum ut in <!-- correction here --><ref xml:id="cy8th8-d1e387-Rd1e627" target="http://scta.info/resource/wef6td-d1e607-d1e120">d. c. <del rend="strikethrough">abbas</del> 
+          <lb ed="#B" n="15"/>frequens</ref>: idem  videtur in casu fauorabili ut notat <ref xml:id="cy8th8-d1e387-Rd1e635">Panormitanus in 
+          <lb ed="#B" n="16"/>d. c. abbas.</ref> inde est: quod bona temporalia vt necessaria semper 
+          <lb ed="#B" n="17"/>sequuntur conditionem persone ut in c. 1, de iure patronatus et 
+          <lb ed="#B" n="18"/>in authent. ingressi. C. De sacrosanctis ecclesiis nam vita nostra corpo<lb ed="#B" break="no" n="19"/>ralis
+          sustentari non potest sine adiuuamento temporalium. 
+          <lb ed="#B" n="20"/>Et econtra 1. q. 1 si quis obiecerit. et <ref xml:id="cy8th8-d1e387-Rd1e649">glossa in d. c. abbas</ref>. <sic>ex<!-- edition has "et"--></sic> hoc 
+          <lb ed="#B" n="21"/>non solum quando quis sine illis rebus viuere non potest: sed etiam 
+          <lb ed="#B" n="22"/>quando grauem iacturam patitur. Et facit pro hoc <ref xml:id="cy8th8-d1e387-Rd1e659" target="http://scta.info/resource/gd-p1d50-Dd1e597">c. presbyte<lb ed="#B" break="no" n="23"/>ros 
+          50 distinctione</ref> et <ref xml:id="cy8th8-d1e387-Rd1e664">l. penultima. C. eodem<!-- edition says 1, 3, 86 but I don't think this exists--></ref>. Et predicta <sic>habet<!-- edition corrects to "habent" --></sic> talem 
+          <lb ed="#B" n="24"/>effectum excusandi: etiam si sint solum in comminatione 
+          <lb ed="#B" n="25"/>et non illata quando probabiliter estimatur quod ita erit. argumentum eorum 
+          <lb ed="#B" n="26"/>que notantur in <ref xml:id="cy8th8-d1e387-Rd1e679" target="http://scta.info/resource/cice-l1t40-Dd1e184">d. cap. cum dilectus de his que vi metuve fiunt</ref> 
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e684">
+          unde timorem 
+          <lb ed="#B" n="27"/>iustum inducunt verba minatoria vel sola petentia tyranni <sic>qui<!--edition has "quia"--></sic> 
+          <lb ed="#B" n="28"/>solebat male tractare homines non acquiescentes precibus
+          <lb ed="#B" n="29"/>suis. Nam tunc sole preces ingerunt iustum timorem notatur
+          <lb ed="#B" n="30"/>per <ref xml:id="cy8th8-d1e387-Rd1e699">glossam et doctores in d. c. cum dilectus.</ref> debet ergo iudex con<lb ed="#B" break="no" n="31"/>siderare 
+          personam minantis. Nam sunt aliqui homines qui 
+          <pb ed="#B" n="66-v"/>
+          <lb ed="#B" n="1"/><del rend="strikethrough">qui</del> minantur et statim execuuntur et alii multa minantur 
+          <lb ed="#B" n="2"/>et nihil faciunt ut notat bartholus in tractatu de tyrano 
+          <lb ed="#B" n="3"/>Et Innocentius. Et hostiensis et alii in d. c. cum dilectus Inferunt quoque 
+          <lb ed="#B" n="4"/>iustum metum mine et terrores potentium: et hoc si tales 
+          <lb ed="#B" n="5"/>potentes solent sevire post minas: alias mine non excusa<lb ed="#B" break="no" n="6"/>rent 
+          Bartholus in d. l. metum. <pc type="pilcrow">¶</pc> Idem intelligitur de minis 
+          <lb ed="#B" n="7"/>et terroribus mariti vel prelati. 
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e726">
+          <pc type="pilcrow">¶</pc> Et predicta intelliguntur 
+          <lb ed="#B" n="8"/>si ea vel aliquod predictorum immineant persone proprie: 
+          <lb ed="#B" n="9"/>siue filiorum, siue uxoris et huiusmodi secundum sanctam 
+          <lb ed="#B" n="10"/>Thomam vbi supra articulo 2o et in d. l. isti quidem, ff. eodem
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e738">
+          <pc type="pilcrow">¶</pc> Minor autem scilicet quod gentes ille inducuntur ad non 
+          <lb ed="#B" n="11"/>acceptandum dictam institutionem iusto timore etc. 
+          <lb ed="#B" n="12"/>Probatur quia sicut supra dictum est et dicetur: primus pes 
+          <lb ed="#B" n="13"/>quo hispani regiones illas sunt ingressi hoc fuit quod inopinate 
+          <lb ed="#B" n="14"/>gentes illas pacifice in suis domibus existentes inuaserunt eas 
+          <lb ed="#B" n="15"/>inauditis cedibus <pc type="virgula">/</pc> incendiis gladiis <pc type="virgula">/</pc> trucidationibus rapinis 
+          <lb ed="#B" n="16"/>nulli sexu vel etati aut dignitati parcentes occidebant qui<lb ed="#B" break="no" n="17"/>bus 
+          etiam crudeliter deuastabant uniuersa: et scandalis et 
+          <lb ed="#B" n="18"/>perturbationibus <sic>clamoribus <!-- edition omits this word --></sic> luctibus lamentis et timoribus
+          <lb ed="#B" n="19"/>totum illum orbem impleuerunt: nihil aliud principaliter 
+          <lb ed="#B" n="20"/>preseferentes nisi ut incuterent timorem et horrorem sui 
+          <lb ed="#B" n="21"/>ipsorum animis innocentum: quatenus post illos tute in 
+          <lb ed="#B" n="22"/>seruitute accerrima pro libitu tenerent. Nempe si nondum 
+          <lb ed="#B" n="23"/>experti fuissent iniustos <pc type="virgula">/</pc>  crudeles et execrabiles hispa<lb ed="#B" break="no" n="24"/>norum 
+          mores iustissime et meritissime adhuc timere et 
+          <lb ed="#B" n="25"/><sic>uade <!-- edition has valde --></sic> formidare poterunt sibi et suis imminere predicta ma<lb ed="#B" break="no" n="26"/>la 
+          iustum timorem inducentia<del rend="strikethrough">m</del>: videndo gentem ignotam 
+          <lb ed="#B" n="27"/>barbatam et robustam: sibique aspectu terribilem armis tam 
+          <lb ed="#B" n="28"/>efficacibus circumseptam: &amp; moribus a se distantissimam: 
+          <lb ed="#B" n="29"/>et suspicantes se oportere velint nolint cum illis in ire con<lb ed="#B" break="no" n="30"/>sortium 
+          ac in propriis terris et domibus recipere debere perpetuis 
+          <lb ed="#B" n="31"/>temporibus moraturam. Nulli enim mentis sane dubium esse 
+          <lb ed="#B" n="32"/>poterit quin persuadeat sibi tales gentes probabili et iusto metu 
+          <pb ed="#B" n="67-r"/>
+          <lb ed="#B" n="1"/>necessario fore mouendas et horribiliter concutiendas: ne ab
+          <lb ed="#B" n="2"/>eiusmodi hispanorum gente feroce: bona sua: dominia: 
+          <lb ed="#B" n="3"/>dignitates: et iurisdictiones subripiantur: verbera: et cru<lb ed="#B" break="no" n="4"/>ciatus: 
+          vincula dehonorationes per stupra et adulteria: ser<lb ed="#B" break="no" n="5"/>uitus 
+          insuper propriis personis et filiorum uxorumque infer<lb ed="#B" break="no" n="6"/>rentium 
+          <sic>est <!-- omitted in edition --></sic>: et mortem prout plenissime &amp; pessime pro 
+          <lb ed="#B" n="7"/>dolor factum est.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e833">
+          <pc type="pilcrow">¶</pc> Et si addas quod maiorem et probabiliorem 
+          <lb ed="#B" n="8"/>metum faciet uniuersis populis magnis et paruis scilicet in<lb ed="#B" break="no" n="9"/>certitudo
+          integritatis <pc type="virgula">/</pc> rectitudinis et affectionis ad ipsos 
+          <lb ed="#B" n="10"/>principis vel domini futuri: tunc erit plenior minoris pro<lb ed="#B" break="no" n="11"/>positionis 
+          probatio. Dictum est enim supra. <pc type="pilcrow">¶</pc> 25 quod Reges
+          <lb ed="#B" n="12"/>alterius extranee et ignote gentis solent parum affici ad 
+          <lb ed="#B" n="13"/>gentem cui denuo preficiuntur. Et sic non curare multum 
+          <lb ed="#B" n="14"/>de eis: sed oneribus indebitis et extorsionibus oppressiuis in<lb ed="#B" break="no" n="15"/>iuste 
+          grauare atque interdum usque ad exalandas animas subdi<lb ed="#B" break="no" n="16"/>torum 
+          inclementer affligere. Et ex hoc merito ualde timere 
+          <lb ed="#B" n="17"/>potuerunt et poterunt.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e867">
+          <pc type="pilcrow">¶</pc> Quia ergo non solum attenditur quod est: 
+          <lb ed="#B" n="18"/>sed quod esse poterit: eo quod euentus sunt in hominum consideratione 
+          <lb ed="#B" n="19"/><ref xml:id="cy8th8-d1e387-Rd1e875" target="http://scta.info/resource/bgy6gt-d1e2305-Dd1e919">l. pater filio: ff. de heredibus instituendis</ref> et <ref xml:id="cy8th8-d1e387-Rd1e878" target="http://scta.info/resource/bgy6gt-d1e4700-d1e427">l. <sic>autem<!-- edition has corrected to "aut" --></sic> facta § euentus ff. de poenis</ref> et 
+          <lb ed="#B" n="20"/><ref xml:id="cy8th8-d1e387-Rd1e887">§ posteriore <sic>insti<!-- edition has "instit"--></sic> quibus modis testamenta infirmantur</ref> et in <ref xml:id="cy8th8-d1e387-Rd1e894" target="http://scta.info/resource/bgy6gt-d1e3291-d1e462">l. generaliter 
+          <lb ed="#B" n="21"/>§ si libero homini ff. de fideicommissaris libertatibus</ref>. 
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e900">
+          Ideo concludendum est 
+          <lb ed="#B" n="22"/>satis probatam esse minorem scilicet quod populi et gentes ille cum suis 
+          <lb ed="#B" n="23"/>regibus uel principibus et superioribus etiam post fidem suscep<lb ed="#B" break="no" n="24"/>tam 
+          inducuntur ad non parendum uel acceptandum vel saltem 
+          <lb ed="#B" n="25"/>differendum consensum institutionis papali de regibus nostris: pro<lb ed="#B" break="no" n="26"/>babili 
+          et iusto timore.
+        </p>
+        <p xml:id="cy8th8-d1e387-d1e914">
+          <pc type="pilcrow">¶</pc> Manet igitur clara et inconcussa princi<lb ed="#B" break="no" n="27"/>palis 
+          nostre minoris propositionis veritas videlicet populos illarum 
+          <lb ed="#B" n="28"/>regionum Iustissimam et valde rationabilem causam habere: 
+          <lb ed="#B" n="29"/>non acceptandi memoratam pape institutionem etiam post fidem 
+          <lb ed="#B" n="30"/>susceptam: vel saltem differendi ac suspendendi consensum: 
+          <lb ed="#B" n="31"/>et proinde penas nec temporales nec ecclesiasticas mereri
+          <lb ed="#B" n="32"/>ergo nemini licitum est illas inferre non magis post fidem 
+          <pb ed="#B" n="67-v"/>
+          <lb ed="#B" n="1"/>susceptam: quam dum erant infideles.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
