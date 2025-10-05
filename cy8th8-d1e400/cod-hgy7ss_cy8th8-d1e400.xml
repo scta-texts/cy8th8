@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 26</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 26</title>
+          <date when="2025-10-04">October 04, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="67-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e400">
+        <head xml:id="cy8th8-d1e400-Hd1e97">Sectio 26</head>
+        <p xml:id="cy8th8-d1e400-d1e99">
+          <lb ed="#B" n="2"/>§ 26
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e104">
+          <lb ed="#B" n="3"/><pc type="pilcrow">¶</pc> Contra ea que decisa sunt videtur posse aliquid non 
+          <lb ed="#B" n="4"/>leuiter opponi: videlicet quod cum credere summum pontificem esse 
+          <lb ed="#B" n="5"/>christi vicarium et omnia in ecclesia posse ordinare et operari 
+          <lb ed="#B" n="6"/>pro eiusdem uniuersalis ecclesie utilitate que christus potuit sit de ne<lb ed="#B" break="no" n="7"/>cessitate
+          fidei: videtur quod illi populi etiam teneantur credere pa<lb ed="#B" break="no" n="8"/>pam
+          potuisse in fidei fauorem predicande illum orbem ordi<lb ed="#B" break="no" n="9"/>nare 
+          atque proinde prefatam facere institutionem. Est enim 
+          <lb ed="#B" n="10"/>manifestum ex supra determinatis maxime in consideratione 
+          <lb ed="#B" n="11"/>3a ipsam institutionem ad predicationem euangelii: et 
+          <lb ed="#B" n="12"/>conuersionem illarum gentium tanquam propter finem or<lb ed="#B" break="no" n="13"/>dinari 
+          Quod si credere tenentur ergo obedire ac executioni 
+          <lb ed="#B" n="14"/>operando mandare (id est) admittere illam institutionem et 
+          <lb ed="#B" n="15"/>consensum <sic>libere<!-- missing in edition --></sic> prestare sicut et aliis fidei articulis. Alias 
+          <lb ed="#B" n="16"/><quote xml:id="cy8th8-d1e400-Qd1e141" source="http://scta.info/resource/iac2_20@8-12"><!-- edition says iac2_17 but I think 2_20 is a better match -->fides sine operibus nihil ualet</quote> Iacobi.
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e146">
+          Unde alterum 
+          <lb ed="#B" n="17"/>de duobus inconuenientibus sustinebunt necessario vel heresim 
+          <lb ed="#B" n="18"/>non efugient si non crederent: vel grauem contumaciam
+          <lb ed="#B" n="19"/>commitent si non obediunt. 
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e155">
+          Et tunc summus christi 
+          <lb ed="#B" n="20"/>vicarius et quilibet episcopus posset contra eos ecclesiasticas censuras 
+          <lb ed="#B" n="21"/>fulminare quod est contra conclusionem
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e163">
+          <pc type="pilcrow">¶</pc> Sed dicendum non obstare Nempe gentes ille postquam 
+          <lb ed="#B" n="22"/>primam sacramentorum ianuam fuerint ingresse et in his 
+          <lb ed="#B" n="23"/>que fidei sunt plene per plures annos instructe atque sufficienter 
+          <lb ed="#B" n="24"/>informati credere tenentur: papam esse vicarium iesu christi 
+          <lb ed="#B" n="25"/>caput summum <sic>e<!-- edition has "et" --></sic> vnicum Ecclesie vniuersalis: super eam to<lb ed="#B" break="no" n="26"/>tam 
+          habentem principatum cui commisit Deus tam terreni 
+          <lb ed="#B" n="27"/>quam celestis imperii curam: id est omnes sunt ei subiecti quantum
+          <pb ed="#B" n="68-r"/>
+          <lb ed="#B" n="1"/>ad spiritualia et in casu etiam quoad temporalia sicut late 
+          <lb ed="#B" n="2"/>in nostro tractatu comprobatorio probauimus. Et ob hoc nulli 
+          <lb ed="#B" n="3"/>inferiorem vel equalem sed superiorem omnibus et super omnes ha<lb ed="#B" break="no" n="4"/>bentem 
+          iurisdictionem et plenitudinem potestatis: et omnium 
+          <lb ed="#B" n="5"/>esse generalem prelatum. Et quod possit ipse Romanus pon<lb ed="#B" break="no" n="6"/>tifex 
+          statuta firma perpetua et inmutabilia condere: quam 
+          <lb ed="#B" n="7"/>firmitatem innuit Christus dicens: <quote xml:id="cy8th8-d1e400-Qd1e202" source="http://scta.info/resource/mt16_18@9-15">et super hanc petram 
+          <lb ed="#B" n="8"/>edificabo ecclesiam meam</quote>: quasi videlicet ipse Christus sit fun<lb ed="#B" break="no" n="9"/>damentum 
+          naturale<del rend="strikethrough">m prelatum</del> <ref xml:id="cy8th8-d1e400-Rd1e213" target="http://scta.info/resource/Icor3_11">1 Corinthios 3</ref> Petrus autem et succeso<lb ed="#B" break="no" n="10"/>res 
+          quasi petra prima in fundamento. Unde ipse post christum 
+          <lb ed="#B" n="11"/>est ecclesie fundamentum secundum Hieronimum Chri<lb ed="#B" break="no" n="12"/>sostomum
+          <pc type="virgula">/</pc> Origenes <pc type="virgula">/</pc>  et <ref xml:id="cy8th8-d1e400-Rd1e229">sanctum Thomam: 1. p. q. 112. 2. 
+          <lb ed="#B" n="13"/>2m 2a 2e q. 1 articulo 10 c. opusculum 1. c. 65 et c. 66</ref>. Item tenentur 
+          <lb ed="#B" n="14"/>et credere quod papa dat robur et autoritatem conciliis et sta<lb ed="#B" break="no" n="15"/>tutis 
+          conciliorum 17 dist. concilia: et qui tandem omnes 
+          <lb ed="#B" n="16"/>iudicat: et a nullo potest iudicari: <ref xml:id="cy8th8-d1e400-Rd1e241">40 dist. c. 
+          <lb ed="#B" n="17"/>si papa</ref>, <quote xml:id="cy8th8-d1e400-Qd1e246" source="http://scta.info/resource/gd-p1d40-d1e202@62-66">nisi inueniatur deuius a fide</quote>: <ref xml:id="cy8th8-d1e400-Rd1e249" target="http://scta.info/resource/gd-p2c9q3-Dd1e219">9, q. 3, c. conquestus.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e253">
+          <lb ed="#B" n="18"/>Et probantur omnia predicta in <ref xml:id="cy8th8-d1e400-Rd1e257" target="http://scta.info/resource/gd-p1d12-Dd1e112">c. non decet 12 dist.</ref> et 
+          <lb ed="#B" n="19"/><ref xml:id="cy8th8-d1e400-Rd1e261" source="http://scta.info/resource/gd-p1d19-Dd1e225">19 dist. c. ita dominus</ref>, et <ref xml:id="cy8th8-d1e400-Rd1e264" target="http://scta.info/resource/gd-p2c2q6-Dd1e311">2, q. 6, c. qui se scit</ref> et <ref xml:id="cy8th8-d1e400-Rd1e267" target="http://scta.info/resource/wef6td-d1e1430-d1e124">c. pro hu<lb ed="#B" break="no" n="20"/>mani 
+          de homicidio, lib. 6</ref> Et in <ref xml:id="cy8th8-d1e400-Rd1e273" source="http://scta.info/resource/kdhaWs-d1e301-d1e116">clemen. Romani de iureiurando</ref> 
+          <lb ed="#B" n="21"/>et in <ref xml:id="cy8th8-d1e400-Rd1e278" target="http://scta.info/resource/gd-p1d22-Dd1e115">c. omnes, 22 dist.</ref> et in <ref xml:id="cy8th8-d1e400-Rd1e281">extranagant. unam sanctam 
+          <lb ed="#B" n="22"/>per bonifacium</ref> et <ref xml:id="cy8th8-d1e400-Rd1e286" target="http://scta.info/resource/gd-p1d17">17 dist. per totum</ref> et <ref xml:id="cy8th8-d1e400-Rd1e289">2, q. <sic>5<!-- edition has 6; target hard to find. two possible options in 6--></sic>, c. ideo</ref>, et 
+          <lb ed="#B" n="23"/><ref xml:id="cy8th8-d1e400-Rd1e298" target="http://scta.info/resource/gd-p2c3q6-Dd1e235">3, q. 6, c. dudum.</ref> Que omnia sunt priuilegia ecclesiastica 
+          <lb ed="#B" n="24"/>Romane atque vniuersalis ecclesie a deo collata ut in <ref xml:id="cy8th8-d1e400-Rd1e303" target="http://scta.info/resource/gd-p1d22-Dd1e115">c. omnes 
+          <lb ed="#B" n="25"/>22 dist.</ref> <quote xml:id="cy8th8-d1e400-Qd1e308">que qui non credit: vel auferre conatur, hereticus 
+          <lb ed="#B" n="26"/>est</quote> ut in <ref xml:id="cy8th8-d1e400-Rd1e313" target="http://scta.info/resource/gd-p1d22-Dd1e115">d. c. omnes.</ref> Est enim omne id de iure diuino. Unde de 
+          <lb ed="#B" n="27"/>hoc proponitur unus specialis articulus fidei cunctis credendus in 
+          <lb ed="#B" n="28"/>Symbolo: Credo sanctam ecclesiam catholicam. <sic>Quae<!-- edition has "quo" --></sic> intelligitur 
+          <lb ed="#B" n="29"/>ecclesia uniuersalis cum capita suo summo<del rend="strikethrough">m</del> scilicet pontifice 
+          <lb ed="#B" n="30"/>id est papa ut in <ref xml:id="cy8th8-d1e400-Rd1e333" target="http://scta.info/resource/gd-p1d22-Dd1e115">d. c. omnes</ref> et in <ref xml:id="cy8th8-d1e400-Rd1e336" target="http://scta.info/resource/gd-p1d12-Dd1e112">d. c. non decet</ref>. Dicit quoque 
+          <lb ed="#B" n="31"/>S. Thomas in opusculo contra errores Gregorum et 2a 2e q. 1 
+          <lb ed="#B" n="32"/>articulo 10. Qui quia papa habet uniuersalis ecclesie primatum 
+          <pb ed="#B" n="68-v"/>
+          <lb ed="#B" n="1"/>ad quem pertinet ea que sunt fidei determinare ut ab 
+          <lb ed="#B" n="2"/>omnibus inconcussa fide teneantur: et in eo principaliter 
+          <lb ed="#B" n="3"/>residet auctoritas uniuersalis ecclesie: et ideo ad fidem etiam 
+          <lb ed="#B" n="4"/>pertinet inherere determinationi summi pontificis in his 
+          <lb ed="#B" n="5"/>que fidei sunt: et in his que spectant ad bonos mores. Quia 
+          <lb ed="#B" n="6"/>in huiusmodi ecclesia errare non potest et consequenter 
+          <lb ed="#B" n="7"/>nec caput eius in quantum caput siue in quantum pontifex. 
+          <lb ed="#B" n="8"/>Quod intelligitur quando interrogatur in dubiis non ut uir 
+          <lb ed="#B" n="9"/>doctus aut talis persona sed ut caput Christianitatis. Ut 
+          <lb ed="#B" n="10"/>in <ref xml:id="cy8th8-d1e400-Rd1e367" target="http://scta.info/resource/gd-p2c24q1-Dd1e283">c. quoties</ref> et in <ref xml:id="cy8th8-d1e400-Rd1e370" target="http://scta.info/resource/gd-p2c24q1-d1e255">c. a recta<!-- editions marks this as c 8, but I'm pretty sure its 9 --></ref> et in <ref xml:id="cy8th8-d1e400-Rd1e374" target="http://scta.info/resource/gd-p2c24q1-Dd1e313">c. hec est fides 24 q. 1</ref> 
+          <lb ed="#B" n="11"/>et <ref xml:id="cy8th8-d1e400-Rd1e380" target="http://scta.info/resource/gd-p2c25q1-d1e175">25, q. 1, c. violatores</ref>. Quapropter ad ipsum maiores de 
+          <lb ed="#B" n="12"/>baptimo et <ref xml:id="cy8th8-d1e400-Rd1e385">c. <!-- gap --> 42 dist.</ref> Et generaliter ipse habet inter<lb ed="#B" break="no" n="13"/>pretari
+          omnia dubia que orta fuerint in ecclesia Dei <ref xml:id="cy8th8-d1e400-Rd1e392" target="http://scta.info/resource/cice-l4t17-Dd1e214">extra qui <unclear>filii</unclear> sint 
+          <lb ed="#B" n="14"/>legitimi cap. <sic>per principalem<!-- edition has "perlatum"--></sic></ref>
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e403">
+          <pc type="pilcrow">¶</pc> In aliis autem que ad fidem et bonos mo<lb ed="#B" break="no" n="15"/>res
+          non spectant ut in sententiis et determinationibus que ad 
+          <lb ed="#B" n="16"/>particularia facta pertinent ut cum agitur de posessionibus 
+          <lb ed="#B" n="17"/>vel de criminibus vel de huiusmodi papa errare potest quia sequitur 
+          <lb ed="#B" n="18"/>rationem humanam quae falli potest ut dicit S. Thomas Quodlibet. 9 articulo ultimo 
+          <lb ed="#B" n="19"/>Et <name xml:id="cy8th8-d1e400-Nd1e419">Ioannes de Neapoli</name> post eum  Quodlibet, 11o Facit extra de sen.<del rend="strikethrough">tia</del> <sic>ex</sic> 
+          <lb ed="#B" n="20"/>excomunionis c. a nobis el. 2 ubi habetur quod iudicium ecclesie fallit et fa<lb ed="#B" break="no" n="21"/>llitur 
+          Immo non est hereticus sentiens contra determinationem ecclesie 
+          <lb ed="#B" n="22"/>in aliis quam in spectantibus ad fidem et bonos mores. Quemadmodum 
+          <lb ed="#B" n="23"/>Ioannes papa 22 determinauit in extranaganti. ad conditionem: quod 
+          <lb ed="#B" n="24"/>ius separari non potest ab usu in usu consumpti<add place="above-line">bi</add>lium: et tamen dicit 
+          <lb ed="#B" n="25"/>huic sententie contradicentes esse contumaces et ecclesie rebelles 
+          <lb ed="#B" n="26"/>non autem hereticos.
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e445">
+          <pc type="pilcrow">¶</pc> De huiusmodi autem est negocium quod in presen<lb ed="#B" break="no" n="27"/>tiarum 
+          tractamus. Non enim pertinet ad fidem vel bonos mores 
+          <lb ed="#B" n="28"/>quod summus pontifex concesserit dominium seu principatum illa<lb ed="#B" break="no" n="29"/>rum 
+          terrarum regibus hispaniarum cum neque in fide vel in iure 
+          <lb ed="#B" n="30"/>diuino aut naturali ratione talis institutio non includitur siue fun<lb ed="#B" break="no" n="31"/>detur 
+          nec etiam in doctrina sanctorum reperiatur, sed potius inue<lb ed="#B" break="no" n="32"/>nietur 
+          contrarium. Sed est potius quedam humani iuris deter<lb ed="#B" break="no" n="33"/>minatio 
+          que potuit aliter se habere, et ex humana voluntate 
+          <pb ed="#B" n="69-r"/>
+          <lb ed="#B" n="1"/>id est pape dependens. Unde post <sic>successionem<!-- edition has: "susceptionem"--></sic> etiam fidei et 
+          <lb ed="#B" n="2"/>plenam omnium que ad fidem spectant et ipsi scire tenentur 
+          <lb ed="#B" n="3"/>informationem: quamuis eiusmodi populi ad credendum quod papa 
+          <lb ed="#B" n="4"/>est vicarius christi et <del>cetera huiusmodi</del> a christo habet omnem 
+          <lb ed="#B" n="5"/>quam habet autoritatem ac super omnem hominem iurisdictionem 
+          <lb ed="#B" n="6"/>modo quo dictum est et cetera huiusmodi obligentur: non tamen 
+          <lb ed="#B" n="7"/><!--"credere" added here in edition--> tenentur: papam potuisse autoritate sibi concessa credere diuinitus: 
+          <lb ed="#B" n="8"/>reges hispaniarum in uniuersales principes in preiudicium natu<lb ed="#B" break="no" n="9"/>ralium 
+          regum et magistratuum sine culpa sua totius illius orbis 
+          <lb ed="#B" n="10"/>instituisse: itaque si non credant culpam heresis incurrant. 
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e497">
+          Quod 
+          <lb ed="#B" n="11"/>probari potest dupliciter. Primo sic Nemo tenetur credere nisi que 
+          <lb ed="#B" n="12"/>cadunt sub fide vel directe et principaliter puta articulos fidei 
+          <lb ed="#B" n="13"/>qui scilicet sunt de his que uisuri sumus in patria ut trinitatem 
+          <lb ed="#B" n="14"/>personarum: vel per que venimus ad patriam ut misterium 
+          <lb ed="#B" n="15"/>incarnationis christi vel indirecte et secundario ut ea ex qui<del rend="strikethrough">bus</del><lb ed="#B" break="no" n="16"/>bus 
+          si non crederentur: sequeretur alicuius articuli corrup<lb ed="#B" break="no" n="17"/>tio 
+          secundum S. Thomam 2a 2e q. 11a articulo 2o c. et q. 1 articulo 6 1m et 
+          <lb ed="#B" n="18"/>articulo 8 in corp. et q. 2. articulo 5 c. articulo 7. c. 
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e519">
+          <pc type="pilcrow">¶</pc> pertinent quoque ad fidem 
+          <lb ed="#B" n="19"/>omnia que sunt in scriptura per accidens tanquam declarativa predicto<lb ed="#B" break="no" n="20"/>rum,
+          ut S. Thomas dicit ubi supra q. 1 articulo 6 ad 1m ad fidem insuper
+          <lb ed="#B" n="21"/>per accidens pertinent omnia que continentur in doctrina ecclesie. quia 
+          <lb ed="#B" n="22"/>ut idem S. Doctor inquit q. 5 articulo 3 et 3 sententiarum dist. 23, q. 3 
+          <lb ed="#B" n="23"/>articulo 3. q. 2 et Quodlibet 6o articulo 6. <quote xml:id="cy8th8-d1e400-Qd1e535">Quicunque sicut infallibili et diuine 
+          <lb ed="#B" n="24"/>regule non inheret doctrine ecclesie id est non credit omnia que 
+          <lb ed="#B" n="25"/>credit et tenet ecclesia que procedunt ex prima ueritate ma<lb ed="#B" break="no" n="26"/>nifesta 
+          in scripturis illi non habet habitum fidei: sed ea que sunt 
+          <lb ed="#B" n="27"/>fidei aliter tenet quam per fidem</quote> hec ex illo.
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e548">
+          <pc type="pilcrow">¶</pc> Sed neque in articulis 
+          <lb ed="#B" n="28"/>fidei que pertinent ad diuinitatem uel ad humanitatem: neque in scri<lb ed="#B" break="no" n="29"/>pturis 
+          diuinis neque in doctrina ecclesie inuenitur quod debeatur uniuer<lb ed="#B" break="no" n="30"/>salis 
+          principatus illius orbis regibus hispaniarum propter hoc quod curam 
+          <lb ed="#B" n="31"/>gerant fidei predicandae in eo: aut quod papa possit illum concedere: 
+          <lb ed="#B" n="32"/>neque quod non credendo hoc sequitur corruptio alicuius articuli.
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e565">
+          <lb ed="#B" n="33"/>ergo non tenentur nationes ille credere papam potuisse reges 
+          <lb ed="#B" n="34"/>nostros in uninersales principes illius orbis instituere. Minor 
+          <pb ed="#B" n="69-v"/>
+          <lb ed="#B" n="1"/><del rend="strikethrough">minor</del> claret intuendo per singula. consequentia probatur
+          <lb ed="#B" n="2"/>quia non omnia acta et determinationes summi pontificis te<lb ed="#B" break="no" n="3"/>nemur
+          credere atque illis adherere de necessitate fidei: sed illis 
+          <lb ed="#B" n="4"/>dumtaxat que ad fidem spectant et bonos mores, ut ex dictis 
+          <lb ed="#B" n="5"/>apparet ergo. Neque quod potuit reges nostros instituere in principes 
+          <lb ed="#B" n="6"/>illius orbis uniuersales aut concedere illius imperium: quia 
+          <lb ed="#B" n="7"/>hoc non spectat ad fidem vel bonos mores: sed solum spectat 
+          <lb ed="#B" n="8"/>ad voluntatem ipsius pape qui prefatis clarissimis regibus illud 
+          <lb ed="#B" n="9"/>uoluit concedere: quod si non fecisset: semper fides incorrupta per<lb ed="#B" break="no" n="10"/>maneret. 
+          Nec hoc non credendo sequitur alicuius articuli corru<lb ed="#B" break="no" n="11"/>ptio: 
+          quia si sequeretur esset articulus: per hoc non corrumpitur 
+          <lb ed="#B" n="12"/>cum possumus sentire contrarium huius quod est: papam non 
+          <lb ed="#B" n="13"/>posse errare in casu aliquo qui ad fidem vel ad bonos mores 
+          <lb ed="#B" n="14"/>non spectat: et tamen remanebit articulus ille incorruptus
+          <lb ed="#B" n="15"/>quia non dubitatur quod papa sit vicarius Dei aut caput vniuersalis
+          <lb ed="#B" n="16"/>ecclesie vel <del rend="strikethrough">quod</del> in his que fidei sunt bonorumque morum 
+          <lb ed="#B" n="17"/>vera et sine errore salubria determinet etc.
+        </p>
+        <p xml:id="cy8th8-d1e400-d1e616">
+          ergo non sequitur 
+          <lb ed="#B" n="18"/>corruptio alicuius articuli ergo non credere quod papa potuit 
+          <lb ed="#B" n="19"/>talem institutionem facere: non incurritur culpa heresis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 27</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 27</title>
+          <date when="2025-10-04">October 04, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="67-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e413">
+        <head xml:id="cy8th8-d1e413-Hd1e97">Sectio 27</head>
+        <p xml:id="cy8th8-d1e413-d1e99">
+          <lb ed="#B" n="20"/>§ 27
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e104">
+          <lb ed="#B" n="21"/><pc type="pilcrow">¶</pc> 2o probatur idem sic. Nemo agit contra fidem si non cre<lb ed="#B" break="no" n="22"/>dit 
+          vel dubitat de eo in quo catholici doctores contrarie opinantur 
+          <lb ed="#B" n="23"/>donec per ecclesiam determinetur quod illud est contra fidem: vel quod 
+          <lb ed="#B" n="24"/>ex eo aliquid contrarium fidei sequatur. Sed circa potestatem pape 
+          <lb ed="#B" n="25"/>maxime in temporalibus quando videlicet potest exercere tempora<lb ed="#B" break="no" n="26"/>lem 
+          iurisdictionem vel in quibus casibus: catholici doctores 
+          <lb ed="#B" n="27"/>discordant et contrarie opinantur ut patet in <ref xml:id="cy8th8-d1e413-Rd1e123" target="http://scta.info/resource/cice-l2t1-Dd1e290">c. Nouit 
+          <lb ed="#B" n="28"/>de iudicis</ref> et in <ref xml:id="cy8th8-d1e413-Rd1e128" target="http://scta.info/resource/cice-l2t2-Dd1e244">c. licet de foro competenti</ref> et in <ref xml:id="cy8th8-d1e413-Rd1e131">c. uenerabilem 
+          <lb ed="#B" n="29"/>de electione</ref> et in <ref xml:id="cy8th8-d1e413-Rd1e136" target="http://scta.info/resource/cice-l1t6-Dd1e603">c. per uenerabilem extra</ref> qui filii sint legitimi. Et in 
+          <lb ed="#B" n="30"/>multus aliis iuris locis et tractatibus quos super hoc scrips<pb ed="#B" n="70-r"/><lb ed="#B" n="1"/>erunt. 
+          Et specialiter in ipsamet materia de qua tractamus 
+          <lb ed="#B" n="2"/>scilicet si apud infideles sint iuste legitima dominia et iuris<lb ed="#B" break="no" n="3"/>dictiones
+          etc. ergo <sic>ille <!-- edition corrects to "illi" --></sic> populi et nationes non agent contra 
+          <lb ed="#B" n="4"/>fidem si non credant vel dubitent etiam post susceptam fidem 
+          <lb ed="#B" n="5"/>papam posse reges hispaniarum in superiores illius orbis ins<lb ed="#B" break="no" n="6"/>titutuisse.
+          Maior est S. Thome 1. p. q. 32 articulo ultimo et quodlibet. 
+          <lb ed="#B" n="7"/>consequentia clara et specialiter probatur ut patet per <name xml:id="cy8th8-d1e413-Nd1e162">Innocentium</name> 
+          <lb ed="#B" n="8"/>et <name xml:id="cy8th8-d1e413-Nd1e167">hostiensem</name>. Nam ille dicit apud infideles esse legitime 
+          <lb ed="#B" n="9"/>dominia et iurisdictiones nec ecclesiam posse illos eisdem 
+          <lb ed="#B" n="10"/>bonis sine culpa spoliare quem sequitur turba multa doctorum 
+          <lb ed="#B" n="11"/>canonistarum et legistarum similiter. Iste uero ingenue asserit 
+          <lb ed="#B" n="12"/>satis absurde in aduentu christi omnes infideles ipso iure fuisse 
+          <lb ed="#B" n="13"/>talibus spoliatos, et sic facit eos incapaces dominiorum. Hunc 
+          <lb ed="#B" n="14"/>sequuntur nonnulli vt uidetur, sicut ipse parum de necessaria 
+          <lb ed="#B" n="15"/>infidelium differentia seu distinctione intelligentes. De Theo<lb ed="#B" break="no" n="16"/>logorum 
+          autem schola est in primis <ref xml:id="cy8th8-d1e413-Rd1e186">S. Thomas 2a 2e q. 10 articulo 10</ref> 
+          <lb ed="#B" n="17"/>et <ref xml:id="cy8th8-d1e413-Rd1e190">q. 66 articulo 8 ad 2m</ref> qui apud infideles esse iuste dominia 
+          <lb ed="#B" n="18"/>et iurisdictiones subtiliter probat. 
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e196">
+          <pc type="pilcrow">¶</pc> Idem <ref xml:id="cy8th8-d1e413-Rd1e201"><ref xml:id="cy8th8-d1e413-Rd1e202">Augustinus de 
+          <lb ed="#B" n="19"/>Anchona</ref> in tractatu de potestate pape. q. 23</ref>. Nouissime autem 
+          <lb ed="#B" n="20"/><ref xml:id="cy8th8-d1e413-Rd1e209">dominus cardinalis caietanus in 2 2. q. 66</ref> ubi supra clarius 
+          <lb ed="#B" n="21"/>et <seg type="correction"><add place="above-line">inti</add>mius</seg> licet paucis uerbis prosequitur dubium hoc: et 
+          <lb ed="#B" n="22"/>reddit illud veritatem apertissimam ubi sic ait: <quote xml:id="cy8th8-d1e413-Qd1e221" source="http://scta.info/resource/TAcCaj-d1e1613-d1e1747@16-215">quod si inueni<lb ed="#B" break="no" n="23"/>entur 
+          pagani qui nunquam imperio Romano subditi fuerunt: 
+          <lb ed="#B" n="24"/>terras inhabitantes in quibus christianum nunquam fuit nomen 
+          <lb ed="#B" n="25"/>Harum namque domini quamuis infideles legitimi sunt siue regali 
+          <lb ed="#B" n="26"/>siue politico regimine gubernentur. De his nullam scio legem 
+          <lb ed="#B" n="27"/>quoad temporalia. Contra hos nullus rex nullus imperator 
+          <lb ed="#B" n="28"/>nec ecclesia Romana potest mouere bellum ad occupandas ter<lb ed="#B" break="no" n="29"/>ras 
+          eorum aut subiiciendum eas temporaliter: quia nulla 
+          <lb ed="#B" n="30"/>subest causa iusti belli. Unde grauissime peccaremus si 
+          <lb ed="#B" n="31"/>fidem christi per hanc viam ampliare contenderemus: nec 
+          <lb ed="#B" n="32"/>essemus legitimi domini illarum: sed magna latrocinia
+          <lb ed="#B" n="33"/>committeremus et <sic>teneremus <!-- edition has teneremur --></sic> ad restitutionem utpote iniusti de<lb ed="#B" break="no" n="34"/>bellatores 
+          aut occupatores</quote> etc Hec ille. 
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e255">
+          <pc type="pilcrow">¶</pc> Cum igitur inter illustres 
+          <lb ed="#B" n="35"/>doctores sit de huiusmodi controversia: immo ut in plurimum 
+          <lb ed="#B" n="36"/>omnes sequantur veritatem quam defendimus scilicet quod papa non possit
+          <pb ed="#B" n="70-v"/>
+          <lb ed="#B" n="1"/>occupare vel auferre terras vel dominia infidelium ergo nec 
+          <lb ed="#B" n="2"/>contra eorum voluntatem eis preficere alium dominum ergo 
+          <lb ed="#B" n="3"/>non credere aut dubitare post fidem susceptam: papam non posse 
+          <lb ed="#B" n="4"/>facere memoratam institutionem de regibus nostris gentes ille non 
+          <lb ed="#B" n="5"/>incurrent culpam heresis.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e279">
+          <pc type="pilcrow">¶</pc> Ad non credendum namque in<lb ed="#B" break="no" n="6"/>ducuntur 
+          efficaci motiuo scilicet naturali ratione ex iure ipso na<lb ed="#B" break="no" n="7"/>turali 
+          elicita. Quia videlicet habent Reges suos et dominos naturales 
+          <lb ed="#B" n="8"/>qui se in iustitia et pace omnique bono politico regimine suo modo pro<lb ed="#B" break="no" n="9"/>ut 
+          sine fide uirtutibus moralibus possunt <pc type="virgula">/</pc> gubernant, et ideo 
+          <lb ed="#B" n="10"/>merito omne aliud alterius extranei principis regimen: non 
+          <lb ed="#B" n="11"/>necessarium sibi: sed superfluum naturali consideratione ducti 
+          <lb ed="#B" n="12"/>existimabunt quia natura non abundat in <sic>superfluis<!-- edition has superfluum --></sic>: si<lb ed="#B" break="no" n="13"/>cut 
+          non deficit in necessariis secundum Philosophum.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e309">
+          <pc type="pilcrow">¶</pc> Neque etiam 
+          <lb ed="#B" n="14"/>si litteris papalibus dicte institutionis nolint consentire: aut 
+          <lb ed="#B" n="15"/>mandatis super hoc apostolicis statim obedire: rebelles aut 
+          <lb ed="#B" n="16"/>contumaces erunt: Tum 1o: quia illud faciunt iuris autoritate 
+          <lb ed="#B" n="17"/>§ 23 in prima ratione ad probandum minorem. Tum 2o 
+          <lb ed="#B" n="18"/>quia iustam causam non parendi nec consensum prestandi ha<lb ed="#B" break="no" n="19"/>bent 
+          vt late patet supra §  23 24 25. Tum 3o quia gentes 
+          <lb ed="#B" n="20"/>ille tam reges quam populares sentiunt se tali promotione seu ins<lb ed="#B" break="no" n="21"/>titutione 
+          grauissime et enormissime grauari et maximum <sic>per iudicium <!-- edition has "preiudicium"--></sic> pati. Et ideo sunt audiendi et non sic ex abrupto
+          <sic>iudicari <!-- edition has iudicandi--></sic> ut infra 4a conclusione principali monstrabitur. Tum 
+          <lb ed="#B" n="22"/>demum 4o quoniam uniuerse ille nationes post fidem etiam susceptam 
+          <lb ed="#B" n="23"/>laborant ignorantia probabili quinimmo inuincibili ut §  23 <del rend="strikethrough">quoni<lb ed="#B" break="no" n="24"/>am 
+          universe ille nationes</del> et 24 et 25 patet.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e350">
+          <pc type="pilcrow">¶</pc> Ignorantes autem 
+          <lb ed="#B" n="25"/>probabiliter vel inuincibiliter cum id agant uel omittant sine 
+          <lb ed="#B" n="26"/>dolo et affectu errandi contumaces vel rebelles non possunt 
+          <lb ed="#B" n="27"/>apellari. Unde si per impossibile alique sententie spirituales 
+          <lb ed="#B" n="28"/>seu ecclesie contra illos fulminarentur in hoc casu: nequaquam 
+          <lb ed="#B" n="29"/>eos ligarent in conscientia quoad Deum neque quoad ecclesiam.
+          <lb ed="#B" n="30"/>Probatur hoc quia ad hoc quod quis incidat in excommunicationem 
+          <lb ed="#B" n="31"/>maxime requiritur dolus verus vel presumptus: cuiusmodi est 
+          <lb ed="#B" n="32"/>lata culpa: <ref xml:id="cy8th8-d1e413-Rd1e372" target="http://scta.info/resource/bgy6gt-d1e1463-d1e625">l. quod nerua ff. de <sic>po</sic> <!-- edition as Digest, 3, 1 ,3, but 16, 3, 32 has the incipit "quod nerva" --></ref> tenet hoc Ioannes andreas 
+          <lb ed="#B" n="33"/>in cap. quanto de sententia excommunicationis ubi dicit quod in nullum canon aliquis 
+          <pb ed="#B" n="71-r"/>
+          <lb ed="#B" n="1"/>incidit: nisi sit in dolo: et <ref xml:id="cy8th8-d1e413-Rd1e385">idem Innocentius in c. cum medicinalis eo 
+          <lb ed="#B" n="2"/>titulo lib. 6</ref> facit quod notat <ref xml:id="cy8th8-d1e413-Rd1e390">bartholus in l. quicunque C. de servis fugitiuis</ref> 
+          <lb ed="#B" n="3"/>ubi ait quod ubicunque loquitur de pena capitali vel corporali sub<lb ed="#B" break="no" n="4"/>intelligitur 
+          dolus ergo a fortiori ratione in hac pena que ani<lb ed="#B" break="no" n="5"/>mam 
+          occidit mutilans a corpore uiuo (id est) sancta Ecclesia.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e400">
+          <pc type="pilcrow">¶</pc> Non ergo gentes ille non credendo papam potuisse institu<lb ed="#B" break="no" n="6"/>tionem
+          dictam facere: aut non admittendo illam nec con<lb ed="#B" break="no" n="7"/>sensum 
+          prestando heresim aliquam contrahent: nec commitent: 
+          contumaciam. Sed stat bene quod illud non credant vel du<lb ed="#B" break="no" n="8"/>bitent 
+          et istud non admittant: nec velint reges nostros 
+          <lb ed="#B" n="9"/>suscipere in superiores vniuersales: et sint catholici et obedi<lb ed="#B" break="no" n="10"/>entes 
+          filii apostolicis mandatis inde fit consequens: quod nec per pe<lb ed="#B" break="no" n="11"/>nas 
+          vel censuras ecclesiasticas: sicut per temporales puniri non 
+          <lb ed="#B" n="12"/>debent aut molestari.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e421">
+          Et sic patet veritas conclusionis in principio 
+          <lb ed="#B" n="13"/>§ 22 situate. Patet insuper manifeste quam necessarium sit 
+          <lb ed="#B" n="14"/>regibus nostris quod blandissime ac dulcissime bonis rationibus et sua<lb ed="#B" break="no" n="15"/>sionibus 
+          ad se suscipiendum per liberum consensum gentes ille 
+          <lb ed="#B" n="16"/>inducantur: si rite ac recte illius orbis et uastorum regnorum 
+          <lb ed="#B" n="17"/>eius volunt principari: et sic ista particula undecima tanquam 
+          <lb ed="#B" n="18"/>contenta sub ordine iuris diuini et naturalis non est superflua, 
+          <lb ed="#B" n="19"/>sed necessaria sine qua nihil iuridicum erit factum.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e439">
+          <lb ed="#B" n="20"/><pc type="pilcrow">¶</pc> Et iuxta predicta volumus vt intelligantur et corrigantur 
+          <lb ed="#B" n="21"/>ea que in nostro tractatu <ref xml:id="cy8th8-d1e413-Rd1e447">comprobatorio de iure regio in pro<lb ed="#B" break="no" n="22"/>batione 
+          prime conclusionis in 2 principali ratione</ref> diximus: 
+          <lb ed="#B" n="23"/><quote xml:id="cy8th8-d1e413-Qd1e453"><sic>videlicet<!--edition has "videtur" --></sic> quod cum primum gentes ille sacrum baptismatis sacra<lb ed="#B" break="no" n="24"/>mentum 
+          susceperunt habent reges nostri completam potestatem in 
+          <lb ed="#B" n="25"/>actu et quod possint exercere contentiosam iurisdictionem in illas</quote> etc. 
+          <lb ed="#B" n="26"/>Sed addendum est ibi: <quote xml:id="cy8th8-d1e413-Qd1e466">et postquam consensum prestiterint liberum 
+          <lb ed="#B" n="27"/>quemadmodum prescriptum est</quote> et quod dixi in 19a propositione 
+          <lb ed="#B" n="28"/>ad consilium regale indiarum scilicet uniuersos reges et domi<lb ed="#B" break="no" n="29"/>nos 
+          naturales communitates ciuitates et populos illius orbis postquam 
+          <lb ed="#B" n="30"/>fidem uoluntarie susceperint teneri ad recognoscendum reges 
+          <lb ed="#B" n="31"/>nostros in imperatores et uniuersales dominos seruatis tamen iuri<lb ed="#B" break="no" n="32"/>bus 
+          et dominiis regibus et dominis naturalibus et populis ceterisque sin<lb ed="#B" break="no" n="33"/>gulis 
+          personis prout in <ref xml:id="cy8th8-d1e413-Rd1e484">18a propositione</ref> continebatur. Quod si ante 
+          <pb ed="#B" n="71-v"/>
+          <lb ed="#B" n="1"/>baptismum noluerint a nullo iudicum de mundo propter hoc iure 
+          <lb ed="#B" n="2"/>puniri. ubi uidebatur supponi quod post baptismum susceptum 
+          <lb ed="#B" n="3"/>si non recognoscerent possent compelli et puniri. intelligendum 
+          <lb ed="#B" n="4"/>tamen <sic>hunc <!-- edition has "hoc" --></sic> passum sic volumus (videlicet) quod tam post baptis<lb ed="#B" break="no" n="5"/>mum 
+          quam ante si nolunt reges nostros recipere in principes supre<lb ed="#B" break="no" n="6"/>mos 
+          nullus est iudex de mundo qui potestatem habeat illos hac de 
+          <lb ed="#B" n="7"/>causa puniendi. Prout determinatum relinquitur in supra posita 
+          <lb ed="#B" n="8"/>conclusione et eius probatione. Quoniam in sua facultate naturali
+          <lb ed="#B" n="9"/>habent ius consentiendi vel dissentiendi saepe dictae institutioni
+          <lb ed="#B" n="10"/>papali in utroque statu eorum (scilicet) vel ante vel post suam conver<lb ed="#B" break="no" n="11"/>sionem 
+          vt ex quam plurimis iam probatis hec veritas euidens facta est et 
+          <lb ed="#B" n="12"/>habent multas alias exceptiones si in iudicium contradictorium 
+          <lb ed="#B" n="13"/>hec causa adduceretur. Verumtamen fuissent obligati ad susci<lb ed="#B" break="no" n="14"/>piendum 
+          reges nostros in principes si mala crudelia et damna irrepara<lb ed="#B" break="no" n="15"/>bilia 
+          tyranidesque a nostris hispanis passi non fuissent; si fides paci<lb ed="#B" break="no" n="16"/>fice 
+          et secundum formam christianam eis predicata esset obligatione 
+          <lb ed="#B" n="17"/>que ad antidota dicitur. Que obligatio insurgit <sic>et<!-- edition has "ex" --></sic> illa equitate 
+          <lb ed="#B" n="18"/>naturali ut benefacienti nobis benefaciamus <ref xml:id="cy8th8-d1e413-Rd1e536"><!-- ref very unclear; edition ref of 3,25., section 11 also can't be found -->l. sed si lege. § 
+          <lb ed="#B" n="19"/>consuluit. ff. de peti. here.</ref> et <ref xml:id="cy8th8-d1e413-Rd1e542" target="http://scta.info/resource/cice-l3t26-d1e210">c. cum in officiis, De testamentis</ref> Nec tamen 
+          <lb ed="#B" n="20"/>est talis ista obligatio qualis est illa naturalis que ortum habet ex 
+          <lb ed="#B" n="21"/>pacto. Nam propter istam nulla competit actio <ref xml:id="cy8th8-d1e413-Rd1e549" target="http://scta.info/resource/bgy6gt-d1e1452-Dd1e155">l. etiam ff. 
+          <lb ed="#B" n="22"/>de compensationibus</ref> ubi talis obligatio ad antidota non potest deduci in 
+          <lb ed="#B" n="23"/>compoensationem <ref xml:id="cy8th8-d1e413-Rd1e557">l. ex hoc iure §  penultim ff. de donationibus <!-- ff 31, 5, 19 sect 5; can't find but edition ref doesn't make sense--></ref> de hoc vide 
+          <lb ed="#B" n="24"/>que notantur in <ref xml:id="cy8th8-d1e413-Rd1e563" target="http://scta.info/resource/cice-l2t19-Dd1e275">c. ad nostram de probationibus <!-- extra 2 19 12--></ref> de hac igitur intelligimus 
+          <lb ed="#B" n="25"/>in dicta nostra propositione 19 fore naturales reges obligatos 
+          <lb ed="#B" n="26"/>ad reges nostros et ideo ista ibidem suppleantur. Et hec de se<lb ed="#B" break="no" n="27"/>cundo 
+          statu illarum gentium scilicet postquam christiani et bapti<lb ed="#B" break="no" n="28"/>zati 
+          erunt dicta sufficiant <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e581">
+          <pc type="pilcrow">¶</pc> De tertio vero eorum statu scilicet 
+          <lb ed="#B" n="29"/>post recepta inaudita mala per nostram crudelem tyrannidem 
+          <lb ed="#B" n="30"/>tot strages tot populationes et euersiones populorum oppi<lb ed="#B" break="no" n="31"/>dorum 
+          et ciuitatum: immo et regnorum: que nunc versa 
+          <lb ed="#B" n="32"/>sunt in deserta et solitudinem facta ferarum habitatio: cum fuissent 
+          <lb ed="#B" n="33"/>plenissima mortalibus et ceteris speciebus innumeris crucia 
+          <pb ed="#B" n="72-r"/>
+          <lb ed="#B" n="1"/>tumm (taceo de rapinis captiuitatibus <pc type="virgula">/</pc> sublatis thesauris <pc type="virgula">/</pc> domi<lb ed="#B" break="no" n="2"/>niis 
+          et dignitatibus usurpatis) et infinita omnis generis 
+          <lb ed="#B" n="3"/>calamitatum nec visa nec audita vel somniata usquam <!-- present in edition "in orbe" --> terra<lb ed="#B" break="no" n="4"/>rum: 
+          que a nobis perpessi sunt sine causa. Si de hoc statu inquam 
+          <lb ed="#B" n="5"/>loquamur: manifesta est responsio quam tibi dabit quilibet quan<lb ed="#B" break="no" n="6"/>tumcunque 
+          sit nutritus in siluis et natura barbarus.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e621">
+          <pc type="pilcrow">¶</pc> Nempe 
+          <lb ed="#B" n="7"/>dicet non modo illos non teneri ad reges nostros recipiendos 
+          <lb ed="#B" n="8"/>super regna non sua vt illa sunt: sed si propria et patrimo<lb ed="#B" break="no" n="9"/>nialia 
+          fuerant deducta per legitimam successionem: merito 
+          <lb ed="#B" n="10"/>ac iure fore iisdem spoliandos et tanquam hostes publicos bello 
+          <lb ed="#B" n="11"/>insequendos ac morte crudelissima cruciandos talem namque
+          <lb ed="#B" n="12"/>opinionem merito conceperunt gentes ille de nostris inclitis 
+          <lb ed="#B" n="13"/>regibus hispaniarum: scilicet reges fortes <pc type="virgula">/</pc> robustos <pc type="virgula">/</pc> impios in<lb ed="#B" break="no" n="14"/>misericordes:
+          implacabiles et vniuersis de mundo crudeliores et in<lb ed="#B" break="no" n="15"/>iustiores 
+          semper sitibundos humano sanguine: putantes vniuer<lb ed="#B" break="no" n="16"/>sa 
+          mala que sustinent procedere ex regum ipsorum propria volunta<lb ed="#B" break="no" n="17"/>te. 
+          Quod tamen verum non est ut infra explicabitur.
+        </p>
+        <p xml:id="cy8th8-d1e413-d1e657">
+          Et ut 
+          <lb ed="#B" n="18"/>ista finiamus: bene possunt reges nostri spem omnem relinque<lb ed="#B" break="no" n="19"/>re: 
+          quod nunquam illius orbis <sic>tute<!-- not in edition --></sic> sine conscientie scrupulo tenebunt 
+          <lb ed="#B" n="20"/>principatum: eriamsi gentes ille consensum prestent: quoniam 
+          <lb ed="#B" n="21"/>semper iura presument prestare illum metu iustissimo coactos: 
+          <lb ed="#B" n="22"/>sed quod prius est re periculosum valde: quod nec petetur ab illis 
+          <lb ed="#B" n="23"/>grauatis propter consiliariorum insensibilitatem: nec ipsi 
+          <lb ed="#B" n="24"/>unquam vere nec interpretatiue prestabunt. Et nunc videat 
+          <lb ed="#B" n="25"/>et iudicet quispiam etiam barbarus Utrum <sic>nec<!-- edition has "ne"--></sic> sit hec parti<lb ed="#B" break="no" n="26"/>cula 
+          (quot mansuete et oblandis verbis et rationibus gentes illas 
+          <lb ed="#B" n="27"/>inducere ad consensum prestandum oporteat) ut reges nostri
+          <lb ed="#B" n="28"/>illius orbis principatum rite ingrediantur: superflua an 
+          <lb ed="#B" n="29"/>necessaria. <pc type="virgula">/</pc>  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
