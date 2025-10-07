@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 29</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 29</title>
+          <date when="2025-10-07">October 07, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="76-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e440">
+        <head xml:id="cy8th8-d1e440-Hd1e97">Sectio 29</head>
+        <p xml:id="cy8th8-d1e440-d1e99">
+          <lb ed="#B" n="3"/>§ 29
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e104">
+          <lb ed="#B" n="4"/> <pc type="pilcrow">¶</pc> Incliti Reges nostri hyspaniarum quamdiu populi et 
+          <lb ed="#B" n="5"/>habitatores illius orbis indiarum cum regibus et principibus 
+          <lb ed="#B" n="6"/>suis non consenserint libere prefate institutioni de se factae 
+          <lb ed="#B" n="7"/>per papam <pc type="virgula">/</pc> eamque ratam habeant et possessionem tradant
+          <lb ed="#B" n="8"/>solum titulum id est causam acquirendi suppremi principatus 
+          <lb ed="#B" n="9"/>orbis prefati et ius ad rem vel ad regna et superioritatem 
+          <lb ed="#B" n="10"/>seu dominium uniuersale eorum quod ex titulo oritur: non 
+          <lb ed="#B" n="11"/>autem ius in re vel in regnis habent.
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e130">
+          <pc type="pilcrow">¶</pc> Est enim titulus omnis causa dominii acquirendi ut titulus 
+          <lb ed="#B" n="12"/>pro emptore <pc type="virgula">/</pc> pro donato pro herede pro suo etc. Secundum 
+          <lb ed="#B" n="13"/><ref xml:id="cy8th8-d1e440-Rd1e141">glossam, in ca. fi. de officio archipresbiteri</ref> et <ref xml:id="cy8th8-d1e440-Rd1e143" target="http://scta.info/resource/bplext-d1e116-d1e107">c. dudum El. 2o de 
+          <lb ed="#B" n="14"/>electione in verbo <mentioned>intitulatam</mentioned></ref>
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e150">
+          <lb ed="#B" n="15"/><pc type="pilcrow">¶</pc> Dicitur autem quis habere ius ad rem et non in re quotiens 
+          <lb ed="#B" n="16"/>aliquod ius ei restat habendum vel obtinendum ad hoc quod sit 
+          <lb ed="#B" n="17"/>ei ius quesitum illius rei, et sic ius ad rem est nondum esse 
+          <lb ed="#B" n="18"/>ius quesitum plene alicui: sicut in electo ad aliquod benefici<lb ed="#B" break="no" n="19"/>um 
+          vel dignitatem. Nam per electionem acquiritur tantum 
+          <lb ed="#B" n="20"/>ius ad rem non in re. Per confirmationem autem vel collatio<lb ed="#B" break="no" n="21"/>nem 
+          acquiritur ius in re iuxta ea que notantur in c. penultimo 
+          <lb ed="#B" n="22"/>de prebendis lib. et 6 <del>super his de acusa et in clemen. unica</del> 
+          <lb ed="#B" n="23"/>et in c. fi. de concessione preben. eo lib. et c. super his de acusationibus 
+          <lb ed="#B" n="24"/>et in <ref xml:id="cy8th8-d1e440-Rd1e178">clemen. unica de secresta possessionum.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e182">
+          <pc type="pilcrow">¶</pc> sic est de regibus 
+          <pb ed="#B" n="76-v"/>
+          <lb ed="#B" n="1"/>nostris. habent enim electionem siue institutionem pa<lb ed="#B" break="no" n="2"/>palem 
+          et sic titulum et ius ad regna illa quod regum nemo 
+          <lb ed="#B" n="3"/>christianorum de mundo habet. Sed adhuc restat illis 
+          <lb ed="#B" n="4"/>aliud potentius et principalius ius obtinendum scilicet 
+          <lb ed="#B" n="5"/>consensus populorum et regum suorum ut ratam habeant 
+          <lb ed="#B" n="6"/>dictam papalem institutionem: recipiendo eos in uni<lb ed="#B" break="no" n="7"/>uersales 
+          dominos et principes supremos: tradendo eis libere
+          <lb ed="#B" n="8"/>regnorum illorum possessionem: quatenus ius acquirant 
+          <lb ed="#B" n="9"/>in re reges nostri (id est) plenam consequantur potesta<lb ed="#B" break="no" n="10"/>tem 
+          exercendi iurisdictionem suprenam et ea que sunt sup<lb ed="#B" break="no" n="11"/>premi 
+          principis et regie ac imperiali auctoritate reseruata. 
+          <lb ed="#B" n="12"/>ut ex dictis manifeste apparet ergo quandiu populi et ha<lb ed="#B" break="no" n="13"/>bitatores 
+          prefati cum regibus suis libere non consenserint 
+          <lb ed="#B" n="14"/>etc. <pc type="virgula">/</pc> Tantum habebunt reges nostri titulum et ius ad re<lb ed="#B" break="no" n="15"/>gna 
+          illa non autem in regnis illis (id est) nullam exercendi 
+          <lb ed="#B" n="16"/>iurisdictionem aut gerendi se pro <add place="above-line">sup</add>remis principibus habent 
+          <lb ed="#B" n="17"/>facultatem.
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e233">
+          <pc type="pilcrow">¶</pc> Probatur consequentia 1o quia totius facultatis aut potes<lb ed="#B" break="no" n="18"/>tatis 
+          et iurisdictionis exercende atque adipiscendi principatus 
+          <lb ed="#B" n="19"/>eiusdem. deest regibus nostris naturale fundamentum et efficiens 
+          <lb ed="#B" n="20"/>causa scilicet consensus populorum et regum suorum. Dicit enim bal<lb ed="#B" break="no" n="21"/>dus 
+          in c. quia propter 3 columna. de electione quod consensus requiritur tamquam
+          <lb ed="#B" n="22"/>naturale fundamentum scilicet ad hoc quod quis indignitatem 
+          <lb ed="#B" n="23"/>siue magistratum rite et recte ingrediatur. Et debet esse sim<lb ed="#B" break="no" n="24"/>plex 
+          id est sine plica vis vel metus adeo quod si violentia coarctet 
+          <lb ed="#B" n="25"/>electores vel <del rend="strikethrough">electo</del> clamor furibundi populi electio dicitur ipso 
+          <lb ed="#B" n="26"/>iure nulla: quia non dicitur liberum quod quoquo modo est 
+          <lb ed="#B" n="27"/>coarctatum. ff. de conditionibus et demonstrationibus l. titio centum § 1. 
+          <lb ed="#B" n="28"/>argumentum ff. qui et quibus l. si optio.
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e266">
+          <pc type="pilcrow">¶</pc> Dicit etiam ibi causam effi<lb ed="#B" break="no" n="29"/>cientem 
+          electionis esse consensum actiue in eligente <pc type="virgula">/</pc> passiue 
+          <lb ed="#B" n="30"/>in electo. ubi ergo de<add place="above-line">est</add> consensus eligentium: deest naturale 
+          <pb ed="#B" n="77-r"/>
+          <lb ed="#B" n="1"/>fundamentum et causa integra efficiens. Ideo talis in dignita<lb ed="#B" break="no" n="2"/>tem 
+          siue magistratum nec rite nec recte potest ingredi nec 
+          <lb ed="#B" n="3"/>illum possidere. Sic de catholicis regibus nostris quia donec 
+          <lb ed="#B" n="4"/>populi prefati et reges eorum consensum sine plica <sic>vi<!-- edition has "vis" --></sic> aut <sic>metu <!-- edition has metus --></sic> 
+          <lb ed="#B" n="5"/>prestiterint: rite aut recte ius in regnis illis id est exercitium 
+          <lb ed="#B" n="6"/>regie potestatis (nisi ius ad rem et solum titulum) non habebunt.
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e306">
+          <lb ed="#B" n="7"/><pc type="pilcrow">¶</pc> Quod autem consensus predictus sit ius potentius t principa<lb ed="#B" break="no" n="8"/>lius 
+          (inquam) respectu scilicet institutionis papalis in quantum 
+          <lb ed="#B" n="9"/>huiusmodi probatur. quoniam si populi illi cum regibus suis <pc type="virgula">/</pc> re<lb ed="#B" break="no" n="10"/>gibus 
+          nostris vel cuicunque alio christiano principi ante dictam 
+          <lb ed="#B" n="11"/>institutionem se voluntarie subjecissent prout de iure gentium 
+          <lb ed="#B" n="12"/>et naturali poterant cum sint <sic>libere <!-- edition has "liberi" --></sic> populi <sic>et</sic> §  tactum est l. 
+          <lb ed="#B" n="13"/>ex hoc iure ff. de iustitia et iure et ibi omnes et baldus in c. de quo 
+          <lb ed="#B" n="14"/>vult deo extra. de iudiciis manifestum est quod summus pontifex talem 
+          <lb ed="#B" n="15"/>subiectionem non impediret. Probatur hoc 1o quia tunc cessaret 
+          <lb ed="#B" n="16"/>causa finalis exercendi temporalem iurisdictionem in illos. Est enim 
+          <lb ed="#B" n="17"/>finalis causa propter quam christi vicarius se potest intromittere 
+          <lb ed="#B" n="18"/>de rebus temporalibus maxime circa illas nationes: fidei predica<lb ed="#B" break="no" n="19"/>tio 
+          et illarum conuersio ad quod cuncta que agenda sunt in 
+          <lb ed="#B" n="20"/>huiusmodi negociis ordinari et inferri debent ut in 3a con<lb ed="#B" break="no" n="21"/>sideratione
+          § 7 probatum reliquimus. Et hoc presupposito 
+          <lb ed="#B" n="22"/>quod ita eque bene cum alio principe christiano prouisum esset 
+          <lb ed="#B" n="23"/>populis ipsis circa suam conuersionem ad fidem: secus autem si non 
+          <lb ed="#B" n="24"/>esset eque bene prouisum.
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e359">
+          Quo dato bene poterat summus pontifex 
+          <lb ed="#B" n="25"/>subiectionem illam impedire ratione existentie <sic>causa<!-- edition has "cause" --></sic> argumentum op<lb ed="#B" break="no" n="26"/>timum 
+          C. Venerabilem cum notatis extra de electione.
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e370">
+          <pc type="pilcrow">¶</pc> 2o probatur 
+          <lb ed="#B" n="27"/>quia ubi aliquis disponit de iure suo extranei consensus requirendus 
+          <lb ed="#B" n="28"/>non est ut in § moribus si de feu fue. contio in. do. et agna. vas
+          <lb ed="#B" n="29"/>quod verum est secundum baldum ibi si disponat de iure suo vel in tempus 
+          <lb ed="#B" n="30"/>quo <sic>liberum <!-- edition has "liber" --></sic> erat secus si in alterius preoiudicium ut ff. de aqua 
+          <lb ed="#B" n="31"/><sic>pluvii <!-- edition has pluvie --></sic> arcenda l. in concedendo et l. in diem. et l. receptum ff. communia 
+          <lb ed="#B" n="32"/>prediorum l. si per fundum ff. de seruitutibus rusticorum prediorum et <ref xml:id="cy8th8-d1e440-Rd1e395" target="http://scta.info/resource/azsw2e-d1e2264-Dd1e241">C. de contrahenda 
+          <pb ed="#B" n="77-v"/>
+          <lb ed="#B" n="1"/>emptione l. dudum.</ref> 
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e404">
+          <pc type="pilcrow">¶</pc> Sed isti populi se cuicumque christiano <sic>prin<lb ed="#B" break="no" n="2"/>cipe <!-- edition has "principi"--></sic> 
+          subiiciendo: disposuissent de iure suo et per consequens 
+          <lb ed="#B" n="3"/>absque alicuius preiudicio ergo summus pontifex eiusmodi sub<lb ed="#B" break="no" n="4"/>iectionem 
+          non impedisset. Cessante ergo causa exercendi 
+          <lb ed="#B" n="5"/>talem iurisdictionem cessare debuit iurisdictio ipsa. Patet 
+          <lb ed="#B" n="6"/>consequentia: quia quando causa requiritur tanquam fundamentum iuris<lb ed="#B" break="no" n="7"/>dictionis: 
+          oportet causam inesse et veram et discussam
+          <lb ed="#B" n="8"/>esse: alias iudicium est nullum ipso iure ut <!-- edition has "in" here --> § 9o diximus:
+          <lb ed="#B" n="9"/>Dempto enim fundamento veritatis et per consequens potestatis 
+          edificium quod constat precipue ex hoc lapide fundamenti 
+          <lb ed="#B" n="10"/>vertitur in ruinam. Notatur per baldum super rubrica C. si quis 
+          <lb ed="#B" n="11"/>aliquem probibuerit 5 columna facit c. <!-- edition has "cum" here --> cessante de appellationibus
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e440">
+          <lb ed="#B" n="12"/><pc type="pilcrow">¶</pc> Cum igitur absque scientia et licentia pape ante preme<lb ed="#B" break="no" n="13"/>moratam 
+          institutionem de regibus nostris in uniuersales prin<lb ed="#B" break="no" n="14"/>cipes 
+          illius orbis licitum fuerit populis illis cum suis prin<lb ed="#B" break="no" n="15"/>cipibus 
+          se cui voluissent christianorum principum subiicere 
+          <lb ed="#B" n="16"/>unde dicta papalis institutio per se solam non sufficeret 
+          <lb ed="#B" n="17"/>sine consensu illorum vt probatum est: ergo ad adi<lb ed="#B" break="no" n="18"/>piscendum 
+          rite ac recte plenum dominium et iurisdictionem 
+          <lb ed="#B" n="19"/>super illos potentius et principalius ius est eorum consen<lb ed="#B" break="no" n="20"/>sus
+          ergo habentes reges nostri solam papalem institutionem: 
+          et carentes consensu et voluntaria eiusdem institutionis accep<lb ed="#B" break="no" n="21"/>tatione 
+          illorum populorum: deest sibi ius quod est principalius.
+          <lb ed="#B" n="22"/>consequentia 1a patet: quia quando aliqua duo sic se habent ad aliquem 
+          <lb ed="#B" n="23"/>actum explicandum quod uno existente sine alio: ille actus ex<lb ed="#B" break="no" n="24"/>plicari 
+          potest et non e conuerso: illud est potentius et principa<lb ed="#B" break="no" n="25"/>lius.
+          Vel sic secundum philosophum 3 topicorum. Vbi contingit unum
+          <lb ed="#B" n="26"/>sine altero esse: illud simpliciter est principalius immo et melius 
+          <lb ed="#B" n="27"/>ut sic. Patet hec regula. In autoritate regali que potest esse sine au<pb ed="#B" n="78-r"/><lb ed="#B" break="no" n="1"/>toritate
+          proconsulis: est principalior illa que non potest 
+          <lb ed="#B" n="2"/>stare sine regali: <ref xml:id="cy8th8-d1e440-Rd1e484" target="http://scta.info/resource/gd-p1d8-Dd1e141">c. Que contra 8 dist.</ref> et <ref xml:id="cy8th8-d1e440-Rd1e487" target="http://scta.info/resource/gd-p2c11q3-Dd1e1554">11 q. 3, c. 
+          <lb ed="#B" n="3"/>Iulianus</ref>
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e493">
+          <pc type="pilcrow">¶</pc> 3o probatur quod sit potentius et principalius con<lb ed="#B" break="no" n="4"/>sensus 
+          populorum et regum ipsorum quam papalis institutio 
+          <lb ed="#B" n="5"/>de regibus nostris in quantum huiusmodi. Et hoc per textum 
+          <lb ed="#B" n="6"/>satis congruum in <ref xml:id="cy8th8-d1e440-Rd1e504"><!-- can't find taret; edition suggestsion Digest, 34,2, 19 section 20 but this also doesn't seem correct-->l. et si non sint § veniamus ff. de 
+          <lb ed="#B" n="7"/>auro argentoque legatis</ref> ubi dicit textus quod semper cum que<lb ed="#B" break="no" n="8"/>rimus 
+          quod cui cedat illud expectamus quod cuius rei ori<lb ed="#B" break="no" n="9"/>unde 
+          causa adhibetur: ut acceptio cedat principali. ubi 
+          <lb ed="#B" n="10"/>in fine subdit <sic>quoniam <!-- edition has "quia" --></sic> hec expectamus que res cuius rei oriunde 
+          <lb ed="#B" n="11"/>causa <unclear>sit<!-- possibly "fit" --></unclear> adhibita: non que sit preciosior. hec ibi
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e528">
+          <pc type="pilcrow">¶</pc> Verum 
+          <lb ed="#B" n="12"/>cum conuersio illarum gentium et populorum et utilitas
+          <lb ed="#B" n="13"/>etiam eorum temporalis fuerint causa finalis ut ori<add place="above-line">r</add>etur 
+          institutio vel promotio aut donatio siue concessio vel quocunque 
+          <lb ed="#B" n="14"/>alio nomine censeatur et in § 7 probatum est: et sine consen<lb ed="#B" break="no" n="15"/>su 
+          eorundem ius et causa efficiens prin<lb ed="#B" break="no" n="16"/>cipatus 
+          regum nostrorum principalius seu principalior. Et 
+          <lb ed="#B" n="17"/>cum tale ius usque modo prefate institutioni defuerit papali ergo 
+          <lb ed="#B" n="18"/>solum titulum et ius ad illa regna: non autem in regnis illis 
+          <lb ed="#B" n="19"/>id est nullam exercendi iurisdictionem aut gerendi se pro prin<lb ed="#B" break="no" n="20"/>cipibus 
+          summis illius orbis hactenus reges nostri habuerunt 
+          <lb ed="#B" n="21"/>iuridicam auctoritatem vel potestatem. Nec deinceps ha<lb ed="#B" break="no" n="22"/>bere 
+          poterunt: quamdiu populi et habitatores cum regibus 
+          <lb ed="#B" n="23"/>suis <sic>praefait orbis <!-- didn't seem present in edtion --></sic> consensum liberum non prestabunt.
+        </p>
+        <p xml:id="cy8th8-d1e440-d1e567">
+          <lb ed="#B" n="24"/><pc type="pilcrow">¶</pc> 2o principaliter probatur conclusio per exemplum Saulis et 
+          <lb ed="#B" n="25"/>Davidis primorum regum regni Israel qui ratione naturali 
+          <lb ed="#B" n="26"/>et motu ac inspiratione divina <sic>tunc <!-- doesn't seem present in edition --></sic> in operibus et actibus 
+          <lb ed="#B" n="27"/>suis dirigebantur: et tamen non sunt ausi quamdiu populi 
+          <lb ed="#B" n="28"/>consensum non habuerunt licet habuissent institutionem seu 
+          <pb ed="#B" n="78-v"/>
+          <lb ed="#B" n="1"/>electionem Dei: et certi essent instituti <sic>a deo <!-- not present in edition --></sic> <sic>seu<!-- edition has "et" --></sic> electi <sic>populi <!-- not in edition --></sic> 
+          <lb ed="#B" n="2"/>illius reges <!-- edition has "a Deo" here--> <pc type="virgula">/</pc> se intromittere de exercendo iurisdictionem in populo
+          <lb ed="#B" n="3"/>illo aut se gerere pro regibus intelligentes se tantummodo 
+          <lb ed="#B" n="4"/>ius habere ad regnum: non autem ius in regno ut supra § 18 
+          <lb ed="#B" n="5"/>ea § 19 euidenter monstratum est. Patet igitur <sic>3a con<lb ed="#B" break="no" n="6"/>clusio<!-- edition has "conclusio 3a principalis --></sic>  
+          scilicet quod incliti <sic>et catholici <!-- omitted in edition --></sic> reges nostri quandiu populi 
+          <lb ed="#B" n="7"/>illius orbis indiarum cum regibus suis non consenserint libere 
+          <lb ed="#B" n="8"/>prefate institutioni papali de eis facte eam ratam habue<lb ed="#B" break="no" n="9"/>rint 
+          et possessionem eis <sic>tratant<!-- edition has "tradant" --></sic>: tantummodo titulum 
+          <lb ed="#B" n="10"/>id est causam acquirendi supremi principatus prefati 
+          <lb ed="#B" n="11"/>orbis et ius ad regna et superioritatem seu dominium uni<lb ed="#B" break="no" n="12"/>versale 
+          eorum quod ex titulo oritur: non autem ius in eis habent.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
