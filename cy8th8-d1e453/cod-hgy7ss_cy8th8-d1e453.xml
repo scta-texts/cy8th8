@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 30</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 30</title>
+          <date when="2025-10-08">October 08, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="78-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e453">
+        <head xml:id="cy8th8-d1e453-Hd1e97">Sectio 30</head>
+        <p xml:id="cy8th8-d1e453-d1e99">
+          <lb ed="#B" n="13"/>§ 30
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e104">
+          <lb ed="#B" n="14"/><pc type="pilcrow">¶</pc> Reges nostri catholici hyspaniarum principatum 
+          <lb ed="#B" n="15"/>summum orbis illius indiarum dominium et iurisdictio<lb ed="#B" break="no" n="16"/>nem 
+          suppremam et omnia illaque ad summos princi<lb ed="#B" break="no" n="17"/>pes 
+          de iure spectant: habent in habitu licet non plene in 
+          <lb ed="#B" n="18"/>habitu purificato.
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e119">
+          <pc type="pilcrow">¶</pc> Probatur corrolarium quoniam habere dominium aut 
+          <lb ed="#B" n="19"/>iurisdictionem seu potestatem in habitu quis dicitur quando aliquid 
+          <lb ed="#B" n="20"/>sibi deesse noscitur per cuius carentiam ab actuali po<lb ed="#B" break="no" n="21"/>testatis 
+          Dominii vel iurisdictionis exercitio prepeditur. 
+          <lb ed="#B" n="22"/>Quod multipliciter potest contingere. Aut in delegato cum 
+          <lb ed="#B" n="23"/>per generalem clausulam positam in rescripto sine ex<lb ed="#B" break="no" n="24"/>pressione 
+          rerum et personarum iurisdictionem in habitu 
+          <lb ed="#B" n="25"/>et non in actu committitur. Post expressionem uero 
+          <pb ed="#B" n="79-r"/>
+          <lb ed="#B" n="1"/>personarum et rerum habet eam in actu ut in <ref xml:id="cy8th8-d1e453-Rd1e143" target="http://scta.info/resource/cice-l1t3-d1e316@79-80"><!-- target imprecise; points to quoniam autem, but this might need to become its own section at which point the target needs to update -->c. pastoralis § quoniam  
+          <lb ed="#B" n="2"/>autem de rescriptis</ref>
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e150">
+          <pc type="pilcrow">¶</pc> Aut in quolibet electo ante confirmatio<lb ed="#B" break="no" n="3"/>nem. 
+          Nam per electionem confertur electo titulus prelatu<lb ed="#B" break="no" n="4"/>re 
+          et habitus potestatis administrande per confirmatio<lb ed="#B" break="no" n="5"/>nem 
+          <sic>autem<!-- edition has "uero" --></sic> solum exercitium confertur <ref xml:id="cy8th8-d1e453-Rd1e166" target="http://scta.info/resource/gd-p1d63-Dd1e244">capitulo Quanto et que ibi 
+          <lb ed="#B" n="6"/>notantur 63 dist.</ref> Notat et glossa fi. et per doctores in <ref xml:id="cy8th8-d1e453-Rd1e171">c. si 
+          <lb ed="#B" n="7"/>per confirmationem de electione libro 6</ref>
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e178">
+          <pc type="pilcrow">¶</pc> Item prelatus ecclesie 
+          <lb ed="#B" n="8"/>collegiate non habet de presenti collegium habet <sic>enim <!-- edition has "in" --></sic> ha<lb ed="#B" break="no" n="9"/>bitu 
+          et potentia iurisdictionem quod si hodie aliqui assu<lb ed="#B" break="no" n="10"/>merentur 
+          ad collegium: quam primus prelatus posset eam 
+          <lb ed="#B" n="11"/>exercere: quam prius non habebat in actu eo quod deerat sibi 
+          <lb ed="#B" n="12"/>subiectum circa quod exerceretur iurisdictio.
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e199">
+          <pc type="pilcrow">¶</pc> Et similiter pa<lb ed="#B" break="no" n="13"/>tet 
+          in presbytero parochiali parochiani habent3e distin<lb ed="#B" break="no" n="14"/>ctam 
+          in qua habitat nemo habet nanque talis rector 
+          <lb ed="#B" n="15"/>curam in habitu et non in actu de quibus vide notat <ref xml:id="cy8th8-d1e453-Rd1e210">Panormitanus 
+          <lb ed="#B" n="16"/>in d. §  quoniam autem</ref> et in <ref xml:id="cy8th8-d1e453-Rd1e216">c. de multa de prebendis</ref> quem etiam
+          <lb ed="#B" n="17"/>uideas in clement. 1 de priuilegiis 
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e221">
+          <pc type="pilcrow">¶</pc> Claret etiam per iurisdictionem 
+          <lb ed="#B" n="18"/>in potestate vel iudice antequam intret territorium sibi de<lb ed="#B" break="no" n="19"/>putatum 
+          vt in <ref xml:id="cy8th8-d1e453-Rd1e230" target="http://scta.info/resource/bgy6gt-d1e226-Dd1e138">l. obseruare ff. de officio proconsulis</ref>. Vnde 
+          <lb ed="#B" n="20"/>iurisdictio in habitu est per potentiam in actu autem per exer<lb ed="#B" break="no" n="21"/>citium 
+          ut notat <ref xml:id="cy8th8-d1e453-Rd1e238">baldus de allodiis libro feudorum et C. de summa 
+          <lb ed="#B" n="22"/>trinitate l. 1. 2 columna, in fin.</ref> baldus et ff. de officio prefecti urb. l. 1, 
+          <lb ed="#B" n="23"/>1 §  1. et per Ba<add place="above-line">r</add>tholum ff. de iurisdictione omnium iudicum
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e249">
+          <pc type="pilcrow">¶</pc> habere autem 
+          <lb ed="#B" n="24"/>quenquam iurisdictionem non plene in habitu dicitur quando<lb ed="#B" break="no" n="25"/>cunque 
+          alicui non competit pure in habitu de presenti:
+          sed venit purificanda ex actu de futuro: quemadmodum 
+          <lb ed="#B" n="26"/>videre est in archiepiscopo cui iurisdictio nondum etiam 
+          <lb ed="#B" n="27"/>in habitu competit ante interpositam appellationem. 
+          <lb ed="#B" n="28"/>Unde non potest archiepiscopus deputare officialem in decissione 
+          <pb ed="#B" n="79-v"/>
+          <lb ed="#B" n="1"/>sui suffraganei super appellationibus interponendis ad 
+          <lb ed="#B" n="2"/>eum cuius ratio est quia ante appellationem interiectam
+          <lb ed="#B" n="3"/>adhuc non habet iurisdictionem etiam in habitu: sed postquam 
+          <lb ed="#B" n="4"/>appellatum fuerit. Tunc illico purificatur et presenti et 
+          <lb ed="#B" n="5"/>competit ei iurisdictio plene in habitu ut est textus notabilis 
+          <lb ed="#B" n="6"/>in <ref xml:id="cy8th8-d1e453-Rd1e280">c. Romana de officio ordinarii lib. 6</ref> et <ref xml:id="cy8th8-d1e453-Rd1e282">c. Romana de <add place="above-line">a</add>ppellationibus</ref> 
+          <lb ed="#B" n="7"/>eo libro cum utrobique notatis per hoc. 
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e291">
+          et utraque iurisdictio 
+          <lb ed="#B" n="8"/>in habitu modis predictis: sic se habet circa exercitium et 
+          <lb ed="#B" n="9"/>commissionem. Nam prima que pure competit alicui 
+          <lb ed="#B" n="10"/>in habitu de presenti habenti eam potest <sic>comittere</sic> quantum sci<lb ed="#B" break="no" n="11"/>licet 
+          ad id quod habet id est habitum iurisdictionis: ut quia po<lb ed="#B" break="no" n="12"/>testas 
+          potest existens extra territorium sue iurisdictionis 
+          <lb ed="#B" n="13"/>causam delegare subdito existenti in territorio ut in <ref xml:id="cy8th8-d1e453-Rd1e308" target="http://scta.info/resource/bgy6gt-d1e226-Dd1e138">l. obser<lb ed="#B" break="no" n="14"/>vare, 
+          ff. de officio proconsulis</ref> et notatis per glossam et doctores in c. nouit 
+          <lb ed="#B" n="15"/>de officio legati exercitium uero actus iurisdictionalis: nec exer<lb ed="#B" break="no" n="16"/>cere 
+          ualet nec committere ut d. l. observare et § quoniam 
+          <lb ed="#B" n="17"/>autem et ibi glossa et doctores et glossa fi. in c. <sic>fi. in c.</sic> ex tenore et glossa 
+          <lb ed="#B" n="18"/>in c. <!-- edition has "licet" here --> ex suscepto de foro competenti et <ref xml:id="cy8th8-d1e453-Rd1e326" target="http://scta.info/resource/nyf6td-d1e178-Dd1e17247">Ioannes monachus in c. 
+          <lb ed="#B" n="19"/>si confirmationem de electione lib. 6</ref> et in <sic>d. Romana de officio 
+          <lb ed="#B" n="20"/>ordinarii<!--seems like accidental repetition here which is omitted in edition--></sic> d. c. Romana § 1 de officio ordinarii libro 6
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e338">
+          <pc type="pilcrow">¶</pc> Secunda 
+          <lb ed="#B" n="21"/>vero competens alicui non pure in habitu de presenti
+          <lb ed="#B" n="22"/>sed ex actu futuro purificanda committi seu delegari non 
+          <lb ed="#B" n="23"/>potest ut in d. c. romana et notat <ref xml:id="cy8th8-d1e453-Rd1e349">Panormitanus in d. § quoniam autem</ref> 
+          <lb ed="#B" n="24"/>et <ref xml:id="cy8th8-d1e453-Rd1e354"><name xml:id="cy8th8-d1e453-Nd1e355">Antonius de butrio</name> in. d. §  quoniam autem</ref> et pulchre per dominos 
+          <lb ed="#B" n="25"/>de rota in decisione 846 et in decisione 156 in antiquis. 
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e362">
+          et ratio 
+          <lb ed="#B" n="26"/>est quia quod non est comitti non potest ut <ref xml:id="cy8th8-d1e453-Rd1e366" target="http://scta.info/resource/gd-p2c1q7-Dd1e476">1, q. 7, c. Daibertum</ref> 
+          <lb ed="#B" n="27"/>et d. quoniam et de eo quod non est iudicium accipi non potest <ref xml:id="cy8th8-d1e453-Rd1e371" target="http://scta.info/resource/bgy6gt-d1e662-Dd1e382">ff. de iudiciis l. 
+          <lb ed="#B" n="28"/>non potest</ref> et <ref xml:id="cy8th8-d1e453-Rd1e376" target="http://scta.info/resource/cice-l1t3-Dd1e244">de rescriptis c. ad <sic>hec.<!-- edition has "hoc" --></sic></ref> Et quod per me non possum 
+          <lb ed="#B" n="29"/><sic>nec <!--edition has 'neque' --></sic> per alios valeo exercere <ref xml:id="cy8th8-d1e453-Rd1e388" target="http://scta.info/resource/wef6td-d1e1612-d1e574">de regulis iuris quod alicui libro. 6</ref> 
+          <lb ed="#B" n="30"/>et <ref xml:id="cy8th8-d1e453-Rd1e393" target="http://scta.info/resource/bgy6gt-d1e5058-Dd1e114">ff. de administratione rerum ad ciuitatem <sic>pertinentium<!-- edition has "petinentium" which is likely just typo --></sic>, l. 2.</ref> Potest tamen exercere 
+          <lb ed="#B" n="31"/>actum aliquem circa <sic>iurisdictionis<!-- edition has "iurisditionis" which is likely a typo --></sic> preparatoria ut notatur in <ref xml:id="cy8th8-d1e453-Rd1e407" target="http://scta.info/resource/bgy6gt-d1e226-Dd1e138">d. l. 
+          <pb ed="#B" n="80-r"/>
+          <lb ed="#B" n="1"/>observare</ref>, et in <ref xml:id="cy8th8-d1e453-Rd1e414">d. c. Romana</ref> et per glossam et panormitanum in d. §  
+          <lb ed="#B" n="2"/>quoniam autem et <ref xml:id="cy8th8-d1e453-Rd1e418">d. c. nouit</ref> et aliis locis.
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e421">
+          <pc type="pilcrow">¶</pc> Et talis 
+          <lb ed="#B" n="3"/>est iurisdictio quam summus pontifex christi vicarius 
+          <lb ed="#B" n="4"/>quantum ad infideles qui nondum fidem susceperunt habet. Qui 
+          <lb ed="#B" n="5"/>ad hoc quod plene illam habeat in habitu: oportet quod per sus<lb ed="#B" break="no" n="6"/>ceptionem 
+          fidei aut per aliquam offensam quam ecclesiae fa<lb ed="#B" break="no" n="7"/>ciant 
+          et sic ex actu futuro purificetur. Manifestum enim est 
+          <lb ed="#B" n="8"/>quod summus pontifex de temporalibus non se intromittit nisi inter 
+          <lb ed="#B" n="9"/>christianos et cum causa <pc type="virgula">/</pc> et <sic>solum <!-- edition omits "solum" --></sic> intra ecclesiam habet iurisdi<lb ed="#B" break="no" n="10"/>ctionem 
+          plene in habitu: et sic proximiorem exercitio siue 
+          <lb ed="#B" n="11"/>ut reducatur ad actum. Quantum vero ad infideles quoniam 
+          <lb ed="#B" n="12"/>conuersio eorum vel culpa specialis est futura que est actus quo 
+          <lb ed="#B" n="13"/>iurisdictio est purificanda id est perficionanda: ideo in presen<lb ed="#B" break="no" n="14"/>tia 
+          donec fuerint christiani: est remotior ad esse in actu ac 
+          <lb ed="#B" n="15"/>proinde non plene in habitu.
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e462">
+          Cum igitur dominium potestas et 
+          <lb ed="#B" n="16"/>iurisdictio vniuersalis illius orbis non <sic>dependeat <!-- edition has "dependat" --></sic> ex papali con<lb ed="#B" break="no" n="17"/>cessione 
+          seu institutione Duntaxat (ut ex multis supra probatis
+          <lb ed="#B" n="18"/>apparet) sed principalius ex consensu libero et acceptatione 
+          <lb ed="#B" n="19"/>voluntaria gentium illarum et principum <sic>ac populorum 
+          <lb ed="#B" n="20"/>simul<!-- edition has "simul et populorum" --></sic>: quem tamen consensum nondum reges nostri ha<lb ed="#B" break="no" n="21"/>buerunt 
+          hactenus (ut statim proba<add place="above-line">bi</add>tur) atque proinde pu<lb ed="#B" break="no" n="22"/>rificanda 
+          veniant ex <sic>actibus futuris <!-- edition has "futuris actibus" --></sic> (scilicet) conuersione
+          <lb ed="#B" n="23"/>et consensu illorum populorum cum regibus suis sequitur
+          <lb ed="#B" n="24"/>quod dictum Dominium potestas iurisdictio illius summi principa<lb ed="#B" break="no" n="25"/>tus
+          competat regibus nostris in habitu tantum ex parte tituli 
+          <lb ed="#B" n="26"/>prefate institutionis vel concessionis papalis: et sic <sic>enim <!-- edition has "in" --></sic> habitu 
+          <lb ed="#B" n="27"/>nondum de presenti purificato sed purificando: 
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e510">
+          Ideo solummodo 
+          <lb ed="#B" n="28"/>possunt se occupare circa preparatoria quantum scilicet ad 
+          <lb ed="#B" n="29"/>hoc <seg type="correction">quod<del rend="strikethrough">ud</del></seg> possint <sic>licite ire vel <!-- edition has "licite ire aut" --></sic> mittere nuncios et legatos 
+          <lb ed="#B" n="30"/>suos et exercere omnes actus preparatorios qui circa incolas
+          <pb ed="#B" n="80-v"/>
+          <lb ed="#B" n="1"/>et habitatores illarum regionum et terrarum a principio 
+          <lb ed="#B" n="2"/>agendi vel exercendi sunt Illos videlicet quos in 2a conclusione <!-- edition has "principali" here--> situ<lb ed="#B" break="no" n="3"/>auimus
+          sub ordine iuris necessario seruandi atque seruandos. 
+          <lb ed="#B" n="4"/>Quod nulli alio christiano principi licitum est exercere propter 
+          <lb ed="#B" n="5"/>inhibitionem expressam et iustam summi <sic>vicarii christi<!-- edition has "christi vicarii" --></sic> 
+          <lb ed="#B" n="6"/>sub anathematis incursione <sic>grauissimo <!-- edition has "gravissima" --></sic>: imo nec ulla quacunque 
+          <lb ed="#B" n="7"/>de causa ad <sic>partes illas <!-- edition has "illas partes" --></sic> vel accedere vel mittere ut in decreto 
+          <lb ed="#B" n="8"/>apostolico de hoc apparet.
+        </p>
+        <p xml:id="cy8th8-d1e453-d1e563">
+          <!-- edition has some other stuff here --> Unde apparet reges nostros nullam 
+          <lb ed="#B" n="9"/>causam in <sic>terris <!-- edition has "regnis" --></sic> illis posse delegare cum desit eis subiectum
+          <lb ed="#B" n="10"/>(id est) subditi circa quos <sic>potestatem habitualem<!-- edition has "habitualem potestatem"--></sic> <sic>exerceatur<!-- edition has "exerceant"--></sic>: 
+          <lb ed="#B" n="11"/>nec habeant de iure subditum aliquem ibidem cui delegent 
+          <lb ed="#B" n="12"/>causam sicut in exemplo de archiepiscopo ante interpositam 
+          <lb ed="#B" n="13"/>apellationem. Et hoc quousque ditioni sue illi populi se sponte 
+          <lb ed="#B" n="14"/>propria submittant: ut satis per multa superius adducta 
+          <lb ed="#B" n="15"/>probatur ad que uide statim que <!-- edition has diffusius --> dico infra § 33 et sic 
+          <lb ed="#B" n="16"/>patet corrolarium.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
