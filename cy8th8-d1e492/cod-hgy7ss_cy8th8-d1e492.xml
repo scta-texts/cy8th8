@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 33</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 33</title>
+          <date when="2025-10-12">October 12, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="87-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e492">
+        <head xml:id="cy8th8-d1e479-Hd1e97">Sectio 33</head>
+        <p xml:id="cy8th8-d1e492-d1e100">
+          <lb ed="#B" n="13"/>§ 33
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e105">
+          <pc type="pilcrow">¶</pc> C
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e111">
+          <lb ed="#B" n="14"/>Conclusio 5a
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e116">
+          <lb ed="#B" n="15"/><pc type="pilcrow">¶</pc> Catholici Reges nostri hyspaniarum sunt modo 
+          <lb ed="#B" n="16"/>in statu illo quantum ad dominium et iurisdictionem 
+          <lb ed="#B" n="17"/>actualem siue regie potestatis exercitium illius indiarum 
+          <lb ed="#B" n="18"/>orbis quo erant quando Rome facta fuit eorum institutio de 
+          <lb ed="#B" n="19"/>orbe illo per summum pontificem Romanum.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e132">
+          <lb ed="#B" n="20"/><pc type="pilcrow">¶</pc> Probatur conclusio multipliciter et primo sic scilicet per argu<lb ed="#B" break="no" n="21"/>mentum 
+          a correlatiuis. De quo per <ref xml:id="cy8th8-d1e492-Rd1e140">Baldum in l. conuenticula 
+          <lb ed="#B" n="22"/>C. de episcopis et clericis</ref> et per secundum modum quo dictum 
+          <lb ed="#B" n="23"/>argumentum formatur scilicet destructiue. Ut ad remo<lb ed="#B" break="no" n="24"/>tionem 
+          unius relatiuorum sequitur remotio alterius. Textus 
+          <lb ed="#B" n="25"/>notabilis in l. fi. ff. de acceptiliationibus et l. 1, C. de Cypressis 
+          <lb ed="#B" n="26"/>libro 11o et quod negatur vel corrigitur in uno negatur 
+          <pb ed="#B" n="88-r"/>
+          <lb ed="#B" n="1"/><sic>ut<!-- edition has "vel"--></sic> corrigitur de alio. textus est in <ref xml:id="cy8th8-d1e492-Rd1e161">l. fi., C., <sic>de iudii. vidua. <!--in ius uocando--></sic></ref> et ibi 
+          <lb ed="#B" n="2"/><ref xml:id="cy8th8-d1e492-Rd1e169">legiste.</ref> 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e172">
+          <pc type="pilcrow">¶</pc> Correlatiua enim sunt reges nostri et populi omnes 
+          <lb ed="#B" n="3"/>illi quantum ad uniuersalem iurisdictionem: sed remotum sem<lb ed="#B" break="no" n="4"/>per 
+          fuit ab omnibus regibus <pc type="virgula">/</pc> incolis et populis illius orbis 
+          <lb ed="#B" n="5"/>ius vel onus habendi vel recognoscendi reges nostros 
+          <lb ed="#B" n="6"/>in superiores et ad hoc consensum prestandum: cum 
+          <lb ed="#B" n="7"/>semper et modo est a clarissimis et catholicis regibus 
+          <lb ed="#B" n="8"/>nostris ius actualis dominii et exercendi iurisdictionem 
+          <lb ed="#B" n="9"/>actualem aut regie potestatis per totum illum indiarum 
+          <lb ed="#B" n="10"/>orbem ergo in illo statu sunt reges nostri etc <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e201">
+          <lb ed="#B" n="11"/><pc type="pilcrow">¶</pc> 2o probatur conclusio quia sicut tunc reges nostri habebant 
+          <lb ed="#B" n="12"/>ius ad rem et non in re respectu illius indiani orbis: et ita 
+          <lb ed="#B" n="13"/>et nunc habent ius ad rem et non in re ut in conclusione 3a
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e212">
+          <lb ed="#B" n="14"/><pc type="pilcrow">¶</pc> 3o quia sicut tunc habebant solum titulum ad regna illa ita 
+          <lb ed="#B" n="15"/>modo solum habent titulum ad regna illa vt apparuit in 
+          <lb ed="#B" n="16"/>eadem 3a conclusione 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e223">
+          <pc type="pilcrow">¶</pc> 4o quia sicut tunc habebant domi<lb ed="#B" break="no" n="17"/>nium 
+          in habitu et iurisdictionem et non in actu: ita modo 
+          <lb ed="#B" n="18"/>habent illa non in actu sed in habitu et adhuc non in habitu 
+          <lb ed="#B" n="19"/>plene. Ut patet in precedenti corrolario.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e235">
+          <pc type="pilcrow">¶</pc> 5o quia sicut 
+          <lb ed="#B" n="20"/>tunc nondum fuerant illa duodecim requisita et necessario
+          <lb ed="#B" n="21"/>seruanda que conclusio 2a continet utpote ordinem naturalis 
+          <lb ed="#B" n="22"/>et diuini iuris executioni mandata: ita et nunc et tempore 
+          <lb ed="#B" n="23"/>intermedio etiam nunquam fuerunt servata: sed omnimodis factum 
+          <lb ed="#B" n="24"/>est contrarium vt per totum istum tractatum evidenter apparet.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e253">
+          <lb ed="#B" n="25"/><pc type="pilcrow">¶</pc> 6o quia sicut tunc reges nostri non habebant consensum 
+          <lb ed="#B" n="26"/>regum et populorum quo ratam haberent dictam institutionem 
+          <lb ed="#B" n="27"/>papalem atque libera voluntate se ditioni et imperio eorum 
+          <lb ed="#B" n="28"/>uti traderent (quod est fundamentum et causa efficiens 
+          <lb ed="#B" n="29"/>totius huius negocii prout est probatum) ita et nunc pre<lb ed="#B" break="no" n="30"/>fato 
+          fundamento et causa efficiente carent vt in penultima 
+          <lb ed="#B" n="31"/>particula conclusionis 2e fuit probatum.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e273">
+          <pc type="pilcrow">¶</pc> 7o quia sicut 
+          <lb ed="#B" n="32"/>tunc nemo regum et populorum illius orbis rite id est iuridice: 
+          <pb ed="#B" n="88-v"/>
+          <lb ed="#B" n="1"/>nec r<add place="above-line">e</add>cte id est cum debitis circunstantiis re<lb ed="#B" break="no" n="2"/>cognouit 
+          reges nostros in dominos superiores: ita nemo nunc est 
+          <lb ed="#B" n="3"/>qui rite aut recte ab illo tempore usque modo recognoue<lb ed="#B" break="no" n="4"/>rit 
+          aut recognoscat Reges nostros in superiores ut 4a conclusio 
+          <lb ed="#B" n="5"/>satis declarat.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e297">
+          <pc type="pilcrow">¶</pc> 8o demum probatur conclusio: quia sicut 
+          <lb ed="#B" n="6"/>tunc quando litere apostolice prefate institutionis fuerunt 
+          <lb ed="#B" n="7"/>expedite Rome Reges nostri nondum apprehenderant rite 
+          <lb ed="#B" n="8"/>aut recte illius orbis possessionem aut alicuius partis eius: 
+          <lb ed="#B" n="9"/>ita et nunc nulla possessio apprehensa est rite nec recte 
+          <lb ed="#B" n="10"/>ex parte regum nostrorum: nec aliquam iuridicam modo 
+          <lb ed="#B" n="11"/>habent possessionem.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e316">
+          <pc type="pilcrow">¶</pc> loquimur hic de possessione per res<lb ed="#B" break="no" n="12"/>pectum 
+          ad gentes illas habitatrices prememorati orbis de 
+          <lb ed="#B" n="13"/>quarum iure hic tractamus. Sed respectu aliorum regum
+          <lb ed="#B" n="14"/>mundi maxime christianorum aliud est. Quoniam uerum 
+          <lb ed="#B" n="15"/>est quod primus ad mirandus vel archimarinus qui primo
+          <lb ed="#B" n="16"/>detexit <!--[sepe]--> prefatum orbem et ceteri nuntii omnes regum 
+          <lb ed="#B" n="17"/>nostrorum in quolibet loco cui primo applicabant possessio<lb ed="#B" break="no" n="18"/>nem 
+          apprehendebant iuridicam corporalem. Unde nullus 
+          <lb ed="#B" n="19"/>principum mundi presertim christianorum habet aliquid 
+          <lb ed="#B" n="20"/>facere in toto illo indiarum orbe nisi castelle et legionis 
+          <lb ed="#B" n="21"/>Reges domini nostri propter dictam institutionem a Romano 
+          <lb ed="#B" n="22"/>pontifice factam de eisdem regibus nostris: et prohibitionem
+          <lb ed="#B" n="23"/>simul apostolicam ne alius quicumque ac cuiuscunque conditionis 
+          <lb ed="#B" n="24"/>vel dignitatis existat se intromittere audeat ut supra teti<lb ed="#B" break="no" n="25"/>gimus 
+          quacunque de causa de eundo vel mittendo absque licentia 
+          <lb ed="#B" n="26"/>et beneplacito regum nostrorum ad illum orbem.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e356">
+          <pc type="pilcrow">¶</pc> Quod 
+          <lb ed="#B" n="27"/>autem nulla possessio apprehensa fuerit rite aut recte 
+          <lb ed="#B" n="28"/>hactenus ex parte regum nostrorum in toto illo orbe: certe 
+          <lb ed="#B" n="29"/>per multa eorum. que supra disputata et declarata sunt 
+          <lb ed="#B" n="30"/>potest videri clara luce. 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e370">
+          Nihilominus denuo et specialiter 
+          <lb ed="#B" n="31"/>id probare volumus. Et primo, sic.
+          <pc type="pilcrow">¶</pc> Nemini est 
+          <lb ed="#B" n="32"/>auferenda possessio ante cause cognitionem: nec possessor
+          <pb ed="#B" n="89-r"/>
+          <lb ed="#B" n="1"/>debet expelli eo non vocato et audito: etiam si quis ha<lb ed="#B" break="no" n="2"/>beat
+          licentiam expellendi. Alias nihil valet quod 
+          <lb ed="#B" n="3"/>agitur: &amp; cadit a iure suo expellens si quod <del rend="strikethrough">agitur</del> 
+          <lb ed="#B" n="4"/>in ea habeat. 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e395">
+          Sed gentes uniuerse totius illius indiarum 
+          <lb ed="#B" n="5"/>orbis erant in possessione illius: quibus tamen ablata 
+          <lb ed="#B" n="6"/>est omnis possessio ab hispanis tam dominiorum iu<lb ed="#B" break="no" n="7"/>risdictionum 
+          et iurium (publice atque priuate) corpora<lb ed="#B" break="no" n="8"/>lium
+          &amp; incorporalium: quam terrarum nemorum mon<lb ed="#B" break="no" n="9"/>tium 
+          fluminum <pc type="virgula">/</pc> aquarum et omnium que in predictis 
+          <lb ed="#B" n="10"/>nascebantur: vt in mineralibus auri et argenti fodinis 
+          <lb ed="#B" n="11"/>salinarum: auri et argenti aliorumque metallorum <pc type="virgula">/</pc>  
+          <lb ed="#B" n="12"/>salis: margaritarum gemmarum unionum <pc type="virgula">/</pc> lapidum 
+          <lb ed="#B" n="13"/>preciosarum ceterarumque rerum precii et estimationis im<lb ed="#B" break="no" n="14"/>comparabilis:
+          et sic possessores et domini proprietarii tot 
+          <lb ed="#B" n="15"/>tantarumque rerum et immensi valoris quibus simi<lb ed="#B" break="no" n="16"/>les 
+          Salomon in omni gloria sua habuit: nec vidit nec 
+          <lb ed="#B" n="17"/>in rerum esse natura potuit somniare: fuerunt ex<del rend="strikethrough">pli</del>pulsi 
+          et spoliati ante cause cognitionem ipsis nec voca<lb ed="#B" break="no" n="18"/>tis 
+          nec auditis. 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e441">
+          Ergo apprehensio seu ablatio talis possessio<lb ed="#B" break="no" n="19"/>nis 
+          per hispanos immo violenta spoliatio et vsurpatio appre<lb ed="#B" break="no" n="20"/>hensa 
+          non fuit rite nec recte facta ex parte regum nostro<lb ed="#B" break="no" n="21"/>rum: 
+          et per consequens nihil valet aut valuit: et si quod ius in illo 
+          <lb ed="#B" n="22"/>orbe habuissent ab illo caderent. Quanto magis nihil iuris 
+          <lb ed="#B" n="23"/>quesitum habendo in orbe prefato.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e454">
+          <pc type="pilcrow">¶</pc> Est autem cause cogni<lb ed="#B" break="no" n="24"/>tio 
+          (secundum iuristas) deliberatio iudicis ex assertione actoris 
+          <lb ed="#B" n="25"/>et contradictione aduersarii solemniter facta ad investi<lb ed="#B" break="no" n="26"/>gandum 
+          veritatem causarum in quibus ius est depositum 
+          <lb ed="#B" n="27"/>ut in <ref xml:id="cy8th8-d1e492-Rd1e468" target="http://scta.info/resource/azsw2e-d1e924-Dd1e126">l. 3, <sic>ff.<!--Codex,--></sic> De restitutione in integrum</ref> <ref xml:id="cy8th8-d1e492-Rd1e475" target="http://scta.info/resource/bgy6gt-d1e965-d1e986">l. si ex plagis, $ in cliuo,
+          ff., Ad Legem Aquiliam.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e479">
+          <pc type="pilcrow">¶</pc> Minor per facti euidentiam toti mundo 
+          <lb ed="#B" n="28"/>est clara. <pc type="pilcrow">¶</pc> Consequentia vero cum maiore probatur primo per <ref xml:id="cy8th8-d1e492-Rd1e489">l.
+          <pb ed="#B" n="89-v"/>
+          <lb ed="#B" n="1"/>meminerint C. unde vi</ref> ubi apparet quod <quote xml:id="cy8th8-d1e492-Qd1e496">si papa vel im<lb ed="#B" break="no" n="2"/>perator 
+          concedit alicui castra non potest illa propria auto<lb ed="#B" break="no" n="3"/>ritate 
+          occupare nisi iuris ordine seruato. Quod si possessio<lb ed="#B" break="no" n="4"/>nem 
+          inuadit iure suo priuatur. Ítem si iudex alicui dat 
+          <lb ed="#B" n="5"/>licentiam non valet nisi iuris ordine seruato et abutentes 
+          <lb ed="#B" n="6"/>illa cadunt a iure suo. Ordo enim iudiciorum seruandus est. 
+          in quo iudicio debet citari possessor si inuenitur alias <unclear>citatur</unclear> 
+          procurator qui ei denuntiet</quote> <ref xml:id="cy8th8-d1e492-Rd1e513">hec Baldus in summario dicte 
+          <lb ed="#B" n="7"/>legis: meminerint</ref> et <ref xml:id="cy8th8-d1e492-Rd1e518" target="http://scta.info/resource/azsw2e-d1e5001-Dd1e170">l. si quis in tantam C. eo titulo</ref> 
+          <lb ed="#B" n="8"/>et <ref xml:id="cy8th8-d1e492-Rd1e523" target="http://scta.info/resource/azsw2e-d1e5013-Dd1e119">C. si per vim l. 2</ref> vbi dicitur quod possessor non conuentus 
+          <lb ed="#B" n="9"/>nec citatus non debet in sua possessione turbari etiam ex 
+          <lb ed="#B" n="10"/>rescripto principis vel interlocutione iudicis hec ex illo. 
+          <lb ed="#B" n="11"/>Et in <ref xml:id="cy8th8-d1e492-Rd1e533">capitulo conquerente de restitutione spoliatorum</ref> ubi possessio sine 
+          <lb ed="#B" n="12"/>ordine iudiciario <sic>aduocata <!--edition has "aduocanda"--></sic> est ante omnia restituenda
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e542">
+          <lb ed="#B" n="13"/><pc type="pilcrow">¶</pc> sed cum gentes ille uniuerse per tot violentias turbate 
+          <lb ed="#B" n="14"/>non vocate: non audite: atque iuris ordine non seruato
+          <lb ed="#B" n="15"/>fuerint per hyspanos omnium iurium suorum posse<lb ed="#B" break="no" n="16"/>ssione 
+          spoliate ergo <del rend="strikethrough">no</del> nulla possessio apprehensa 
+          <lb ed="#B" n="17"/>est rite nec recte usque modo ex parte regum nostrorum 
+          <lb ed="#B" n="18"/>nec aliquam iuridicam possessionem nunc in toto illo orbe 
+          <lb ed="#B" n="19"/>habent. et per consequens reges nostri in illo sunt statu hodie 
+          <lb ed="#B" n="20"/>quem conclusio 5a declarat.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e567">
+          <pc type="pilcrow">¶</pc> 2o idem probatur. quia si 
+          <lb ed="#B" n="21"/>hereticis non est auferenda possessio sine sententia de<lb ed="#B" break="no" n="22"/>claratoria 
+          licet <sic>perdat<!-- edition corrects to: "perdant"--></sic> dominium rerum suarum ipso
+          <lb ed="#B" n="23"/>iure ut expresse cauetur in <ref xml:id="cy8th8-d1e492-Rd1e583">c. cum secundum de hereticis libro 6</ref> 
+          <lb ed="#B" n="24"/>in verbo <mentioned>confiscationis</mentioned> Ubi <ref xml:id="cy8th8-d1e492-Rd1e589">petrus de ancharano</ref> et in 
+          <lb ed="#B" n="25"/><del rend="blackout">c</del> <ref xml:id="cy8th8-d1e492-Rd1e596">c. licet de prebendis eo libro</ref> ait quod <quote xml:id="cy8th8-d1e492-Qd1e598">licet in casu heresis et 
+          <lb ed="#B" n="26"/>similibus acquiratur dominium sine traditione vel perdat 
+          <lb ed="#B" n="27"/>hereticus ipso iure: non tamen perdit possessionem</quote> 
+          <lb ed="#B" n="28"/>ut est <ref xml:id="cy8th8-d1e492-Rd1e607">glossa notabilis in l. fi. C. de sacrosanctis ecclesiis</ref> Quanto 
+          <pb ed="#B" n="90-r"/>
+          <lb ed="#B" n="1"/>minus ergo auferenda est possessio eis qui iuste possident: 
+          <lb ed="#B" n="2"/>nec sunt priuati nec priuandi dominiis suis ut pre<lb ed="#B" break="no" n="3"/>fate 
+          nationes Unde addit Ancharanus in <sic>l. <!-- edition corrects to: d.--></sic> c. licet 
+          <lb ed="#B" n="4"/>quod <quote xml:id="cy8th8-d1e492-Qd1e624">nulla est turbatio vel violentia inferenda pacifice 
+          <lb ed="#B" n="5"/>possidenti quominus sua possessione utatur donec per 
+          <lb ed="#B" n="6"/>sententiam declaratur alius dominus etiam si prima 
+          <lb ed="#B" n="7"/>facie sit iniusta. Debet enim de tali iniustitia constare 
+          <lb ed="#B" n="8"/>iudici vt iudici. Quod non potest contingere nisi parte 
+          <lb ed="#B" n="9"/>vocata vt <ref xml:id="cy8th8-d1e492-Rd1e637">l. fi. C.</ref> si per vim vel alio modo</quote>. 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e642">
+          cuius ratio 
+          <lb ed="#B" n="10"/>est secundum eundem Ancharranum quia ex aliqua causa 
+          <lb ed="#B" n="11"/>potest sibi ius competere retinendi ex quo (inquit) <quote xml:id="cy8th8-d1e492-Qd1e648">nota 
+          <lb ed="#B" n="12"/>quod quantumcunque <!--contra --> possidentem faciat ius commune ut sua 
+          <lb ed="#B" n="13"/>possessio sit patenter improba. tamen non est auferenda 
+          <lb ed="#B" n="14"/>eo non vocato. Et hinc est quod in delictis notoriis requiritur 
+          <lb ed="#B" n="15"/>citatio iuxta notata in <ref xml:id="cy8th8-d1e492-Rd1e661">c. uestra de cohabitatione clericoram et mu<lb ed="#B" break="no" n="16"/>lierum</ref> 
+          nullum est enim delictum adeo notorium: quod non 
+          <lb ed="#B" n="17"/>habe<add place="above-line">a</add>t excusationem ad euasionem poene ut dicit singula<lb ed="#B" break="no" n="18"/>riter 
+          <ref xml:id="cy8th8-d1e492-Rd1e673">Innocentius in c. preterea de dilationibus</ref> ad hoc <ref xml:id="cy8th8-d1e492-Rd1e675">c. cum dilecti de accusationibus</ref> vbi dilapidatio rapina <pc type="virgula">/</pc> et Simonia 
+          <lb ed="#B" n="19"/>possunt excusari: licet per confessionem in <sic>iuditio</sic> sint 
+          <lb ed="#B" n="20"/>effecta notoria</quote> hec Ancharanus. Et baldus inquit in c. 
+          <lb ed="#B" n="21"/>inter quatuor de maioritate et obediendia quod possessio est legitimus 
+          <lb ed="#B" n="22"/>clipeus et ensis possessoris donec per iudicem euincatur 
+          <lb ed="#B" n="23"/>ut enim ff. de euictionibus l. habere licet et C. de iure fiscis l. prohibitum 
+          <lb ed="#B" n="24"/>lib. 10 C. de meta. l. deuotum. lib. et C. si per vim vel 
+          <lb ed="#B" n="25"/>alio modo l. fi. C. si propter publicam poenam l. si deserit. Et sine 
+          <lb ed="#B" n="26"/>citatione factum: debet sine citatione reuocari. Vt quem<lb ed="#B" break="no" n="27"/>admodum 
+          iudex fuit facilis in mittendo: ita sit promptus 
+          <lb ed="#B" n="28"/>in corrigendo <ref xml:id="cy8th8-d1e492-Rd1e706">l. 1, § 1, ff. <sic>simul ven. enim<!--De muneribus et honoribus,--></sic></ref> ubi est textus 
+          <lb ed="#B" n="29"/>singularis. hec baldus
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e715">
+          <pc type="pilcrow">¶</pc> Cum igitur etiam iniusti notorie possesso<lb ed="#B" break="no" n="30"/>res 
+          et contra quos facit ius commune: non sint turbandi aut moles<pb ed="#B" n="90-v"/><lb ed="#B" break="no" n="1"/>tia 
+          <lb ed="#B" n="2"/>aliqua eis inferenda quominus pacifice sua posses<lb ed="#B" break="no" n="3"/>sione 
+          vtantur et gaudeant. Quousque vocentur et audian<lb ed="#B" break="no" n="4"/>tur 
+          et his omnibus que iuris ordo requirit seruatis: et 
+          <lb ed="#B" n="5"/>tandem per sententiam declaretur et ipsis male possiden<lb ed="#B" break="no" n="6"/>tibus 
+          constet qualiter rite <subst><add place="above-line">ac</add> <del rend="strikethrough">ae</del></subst> recte spoliari habeant quanto 
+          <lb ed="#B" n="7"/>magis hec seruari deberent ac debuissent cum indianis 
+          <lb ed="#B" n="8"/>gentibus in quarum favorem totum ius commune, immo 
+          <lb ed="#B" n="9"/>iura omnia <sic>iura omnia</sic> naturale diuinum et humanum,
+          <lb ed="#B" n="10"/>faciunt. Cum autem nihil horum seruatum fuerit cum 
+          <lb ed="#B" n="11"/>eis: sed more latronum predonum compilatorum: inva<lb ed="#B" break="no" n="12"/>dentes 
+          orbem illum et quamlibet illius partem hyspani 
+          <lb ed="#B" n="13"/>nostri hactenus violenter ac terribiliter ingressi sunt: 
+          <lb ed="#B" n="14"/>vniuersa vastantes vsurpantes <pc type="virgula">/</pc> mactantes <pc type="virgula">/</pc> depopu<lb ed="#B" break="no" n="15"/>lantes 
+          ueluti si de coelo ignis demissus cuncta deuoraret: 
+          <lb ed="#B" n="16"/>sequitur apprehensionem siue <sic>oblationem<!--ablationem--></sic> talis possessionis 
+          <lb ed="#B" n="17"/>per hyspanos: non rite: non recte: non iuris ordine 
+          <lb ed="#B" n="18"/>seruato: sed omni iure uiolato esse factam usurpatam 
+          <lb ed="#B" n="19"/>tyrannicam et damnatam omni iure: ac proinde nullam
+          <lb ed="#B" n="20"/>iuridicam reges nostri possessionem hodie habent: unde 
+          <lb ed="#B" n="21"/>modo sunt in predicto primordio statu etc.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e789">
+          <lb ed="#B" n="22"/><pc type="pilcrow">¶</pc> <!-- edition has 3o --> Confirmantur omnia que circa hoc deduximus etiam potest esse 
+          <lb ed="#B" n="23"/>3a probatio per exemplum quod legimus in divina scriptura 
+          <lb ed="#B" n="24"/>de Rabrahan et eius posteritate. Nanque ut habetur Gene<lb ed="#B" break="no" n="25"/>sis
+          12 licet deus promisisset Abrahe et semini eius 
+          <lb ed="#B" n="26"/>post eum dare terram chanam et sic Habrahan haberet 
+          <lb ed="#B" n="27"/>titulum iustissimum et ius ad terram illam non tamen 
+          <lb ed="#B" n="28"/>decreuit quod Habrahan caperet possessionem terre illius 
+          <lb ed="#B" n="29"/>nec Isaac nec Iacob donec pars citaretur et audiretur 
+          <lb ed="#B" n="30"/>id est peccata illarum gentium complerentur que inter<lb ed="#B" break="no" n="31"/>pellabant 
+          iudicem Deum quasi actor contra illas et per 
+          <pb ed="#B" n="90-r"/>
+          <lb ed="#B" n="1"/>sententiam iudex decerneret vt actualiter filii Israel mitte<lb ed="#B" break="no" n="2"/>rentur 
+          in possessionem. Quod tunc factum est et sententia 
+          <lb ed="#B" n="3"/>pronunciata: quando completa fuerunt illorum scelera: tem<lb ed="#B" break="no" n="4"/>pore 
+          scilicet Iosue vt patet Iosue per totum unde in <ref xml:id="cy8th8-d1e492-Rd1e827">c. 11o 
+          <lb ed="#B" n="5"/>eiusdem libri</ref> dicitur <quote xml:id="cy8th8-d1e492-Qd1e833">domini enim sententia fuerat<del rend="strikethrough">c</del> vt indu<lb ed="#B" break="no" n="6"/>rarentur
+          corda eorum et pugnarent contra Israel et 
+          <lb ed="#B" n="7"/>caderent et non mererentur ullam clementiam ac peri<lb ed="#B" break="no" n="8"/>rent</quote> 
+          etc. <pc type="virgula">/</pc> Unde in toto <sic>illo <!-- non in edition --></sic> tempore currente scilicet antequam 
+          <lb ed="#B" n="9"/>Deus decreuisset tollere terram illam eiusmodi gentibus et ad 
+          <lb ed="#B" n="10"/>Israelitas transferre nihil iuris quesitum fuit Abrahe 
+          <lb ed="#B" n="11"/>nec successoribus eius nec dominium aliquod habuerunt 
+          <lb ed="#B" n="12"/>in tota terra illa: nisi titulum et ius ad illam: sed semper 
+          <lb ed="#B" n="13"/>fuerunt aduene et peregrini in terra aliena scilicet suo<lb ed="#B" break="no" n="14"/>rum 
+          naturalium possessorum et dominorum et ideo iuste 
+          <lb ed="#B" n="15"/>illam quantum ad proprietatem et possessionem gentes ille 
+          <lb ed="#B" n="16"/>tenebant. 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e870">
+          nisi forte obstaret quod aliqui sancti te<lb ed="#B" break="no" n="17"/>nent 
+          fuisse scilicet terram illam sem primogeniti <name xml:id="cy8th8-d1e492-Nd1e874">noae</name>: 
+          <lb ed="#B" n="18"/>quippe qui quando inter suos tres filios diuisit orbem <name xml:id="cy8th8-d1e492-Nd1e878">Sem</name> dedit 
+          <lb ed="#B" n="19"/>pro se et posteritate sua terram illam. Quam postea filii 
+          <lb ed="#B" n="20"/>Cham tyranice violenterque expulsis filiis <name xml:id="cy8th8-d1e492-Nd1e885">Sem</name> more 
+          <lb ed="#B" n="21"/>barbarico per multos annos possederunt. Dominus 
+          <lb ed="#B" n="22"/>autem quia iustus est restituere terram filiis Israel qui ex 
+          <lb ed="#B" n="23"/>Abrahan: Abrahan vero qui ex filiis noe processerant 
+          <lb ed="#B" n="24"/>post tot millia annorum decreuit et tamen de hac in<lb ed="#B" break="no" n="25"/>iustitia 
+          filiorum chanaam forte non constabat abrahae 
+          <lb ed="#B" n="26"/>nec filus Israel: quoniam scire non poterant nisi per revela<lb ed="#B" break="no" n="27"/>tionem
+          que non fit omnibus. Et licet scirent cum tamen 
+          <lb ed="#B" n="28"/>omnibus non constaret: ideo poterant homines iudicare 
+          <lb ed="#B" n="29"/>terram illam quantum ad proprietatem et legitimam possessio<pb ed="#B" n="91-v"/><lb ed="#B" break="no" n="1"/>nem 
+          fuisse Chananeorum Abrahan sequens huma<lb ed="#B" break="no" n="2"/>num 
+          iudicium et filii et posteri eorum: licet aliter sci<lb ed="#B" break="no" n="3"/>rent 
+          per reuelationem et reputantes ac si terra illa non 
+          <lb ed="#B" n="4"/>esset usurpata suis predecessoribus sed Chananei essent 
+          <lb ed="#B" n="5"/>veri et legitimi Domini: non edificauerunt sibi domos 
+          <lb ed="#B" n="6"/>firmas: sed manserunt in casulis et tabernaculis que sunt 
+          <lb ed="#B" n="7"/>domus mobiles et portatiles ut apparent ista <ref xml:id="cy8th8-d1e492-Rd1e923">ad Hebreos 11</ref> 
+          <lb ed="#B" n="8"/>ubi de Abrahan et filiis eius ait Apostolus. <quote xml:id="cy8th8-d1e492-Qd1e927" source="http://scta.info/resource/hebr11_9@2-19">Demoratus est 
+          <lb ed="#B" n="9"/>in terra repromissionis eiusdem</quote> hec ibi. Et actuum 7o
+          <lb ed="#B" n="10"/>dicitur de abrahan <quote xml:id="cy8th8-d1e492-Qd1e934" source="http://scta.info/resource/act7_4@11-26 http://scta.info/resource/act7_5@1-22">inde postquam mortuus est pater eius trans<lb ed="#B" break="no" n="11"/>tulit 
+          deus illum (scilicet) abrahan in terram istam in qua 
+          <lb ed="#B" n="12"/>nunc vos habitatis. Et non dedit illi hereditatem in 
+          <lb ed="#B" n="13"/>ea nec passum pedis sed repromisit dare illi eam in <sic>posse<lb ed="#B" break="no" n="14"/>ssiones <!-- edition has: possessionem --></sic> et semini eius post ipsum</quote> hec ibi. 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e950">
+          Promissio autem 
+          <lb ed="#B" n="15"/>alicuius gratiae: non confert ius aliquod illi cui promittitur 
+          <lb ed="#B" n="16"/>ut Patet in habrahamo et propterea nunquam fuit au<lb ed="#B" break="no" n="17"/>sus 
+          Abrahan usurpare aliquid tanquam proprium 
+          <lb ed="#B" n="18"/>in terra illa donec promissio illa implenda per iudicem 
+          <lb ed="#B" n="19"/>ipsum Deum decerneretur cum effectu. hoc patet: quando in<lb ed="#B" break="no" n="20"/>digens
+          loco ad sepelliendum Saram vxorem suam emit 
+          <lb ed="#B" n="21"/>ab incolis terre illius scilicet ab Ephron filio seor agrum 
+          <lb ed="#B" n="22"/>in quo erat spelunca duplex: nec voluit gratis eam 
+          <lb ed="#B" n="23"/>accipere: sed dedit quadrigentos siclos argenti pro<lb ed="#B" break="no" n="24"/>bate 
+          monete publice vt apparet Genesis 23 et ibi di<lb ed="#B" break="no" n="25"/>xit 
+          <quote xml:id="cy8th8-d1e492-Qd1e976" source="http://scta.info/resource/gen23_4@1-15">aduena sum et peregrinus apud vos date mihi ius 
+          <lb ed="#B" n="26"/>sepulchri vobiscum vt sepeliam mortuum meum</quote> etc <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e985">
+          <lb ed="#B" n="27"/>Si ergo <sic>terre promisse<!-- edition has "terra promissa" --></sic> a deo filiis Israel in qua ille gentes 
+          <lb ed="#B" n="28"/><del rend="strikethrough">possidebant</del> peccatrices habitabant: et que priuande omnino 
+          <lb ed="#B" n="29"/>erant dominio et possessione <!--edition has "illius"--> ac omni iure diuinitus: immo 
+          <pb ed="#B" n="92-r"/>
+          <lb ed="#B" n="1"/>ex sententia Domini erant delende: noluit ut possessio<lb ed="#B" break="no" n="2"/>nem 
+          caperent Israelite qui domini erant futuri concessione 
+          <lb ed="#B" n="3"/>diuina donec per sententiam iudicis que constaret eis sci<lb ed="#B" break="no" n="4"/>licet 
+          hebreis id fieri <sic>de<!--edition has "ac"--></sic> voluntate et iussu dei<sic>)</sic> decerneretur: 
+          quia pro toto illo tempore iuste saltem quantum ad iudicium 
+          <lb ed="#B" n="5"/>humanum ille gentes possidebant: quanto magis in <unclear>illis<!-- looks like indis but edition has "illis" --></unclear> 
+          <lb ed="#B" n="6"/>hec obseruanda erant videlicet non spolliare illos: sed ser<lb ed="#B" break="no" n="7"/>uatis 
+          ordine iuris et debitis circunstantiis atrahere dulci<lb ed="#B" break="no" n="8"/>ter 
+          et persuadere suauiter quatenus sua sponte ipsam posse<lb ed="#B" break="no" n="9"/>ssionem
+          ipsimet traderent. Quippe qui non solum ex sententia 
+          <lb ed="#B" n="10"/>Domini delendi aut spoliandi non sunt sed potius cognitio<lb ed="#B" break="no" n="11"/>ne 
+          veri dei vivificandi: et fide atque doctrina salutis vestiendi 
+          <lb ed="#B" n="12"/>et informandi ex arcto diuine legis precepto. 
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e1042">
+          Ergo appre<lb ed="#B" break="no" n="13"/>hensio 
+          possessionis illius orbis et cuiuslibet eius partis ex 
+          <lb ed="#B" n="14"/>parte regum nostrorum rite aut recte nunquam fuit per 
+          <lb ed="#B" n="15"/>hispanos hactenus habita sed iniuste talis possessio sem<lb ed="#B" break="no" n="16"/>per 
+          apprehensa.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e1053">
+          <pc type="pilcrow">¶</pc> et cum nullam iuridicam reges nostri 
+          <lb ed="#B" n="17"/>habeant illius orbis possessionem: manifestum est esse in illo 
+          <lb ed="#B" n="18"/>statu quantum ad dominium et iurisdictionem actualem et regie 
+          <lb ed="#B" n="19"/>potestatis exercitium: quo erant quando Rome per Romanum 
+          <lb ed="#B" n="20"/>pontificem facta fuit eorum de illo orbe institutio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
