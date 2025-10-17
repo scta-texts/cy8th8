@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 34</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 34</title>
+          <date when="2025-10-14">October 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="92-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e506">
+        <head xml:id="cy8th8-d1e506-Hd1e97">Sectio 34</head>
+        <p xml:id="cy8th8-d1e506-d1e99">
+          <lb ed="#B" n="22"/>§ 34
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e104">
+          <lb ed="#B" n="23"/><pc type="pilcrow">¶</pc> Conclusio probatur quia nihil de iure post predicte institu<lb ed="#B" break="no" n="24"/>tionis 
+          expeditionem Rome factam, actum est usque hodie 
+          <lb ed="#B" n="25"/>quantum ad ingressum et progressum hyspanorum per totum 
+          <lb ed="#B" n="26"/>illum orbem: sed omnia fuerunt et sunt modo nulla de iure 
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e117">
+          <lb ed="#B" n="27"/>ergo Reges nostri modo sunt in illo statu perinde ac si nunc 
+          <lb ed="#B" n="28"/>institutio papalis Rome expediretur etc.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e124">
+          consequentia patet. Antecedens 
+          <pb ed="#B" n="92-v"/>
+          <lb ed="#B" n="1"/>probatur multipliciter. tum 1o quia hispani nuncii re<lb ed="#B" break="no" n="2"/>gum 
+          nostrorum contra iura gentium et naturalia diuinaque 
+          <lb ed="#B" n="3"/>sine causa et ratione more pre donum primum opus a quo 
+          <lb ed="#B" n="4"/>legationem suam inceperunt fuit hostiliter atque impie in<lb ed="#B" break="no" n="5"/>vadere 
+          regna illa pacifice viuentia: cedibus in manibus 
+          <lb ed="#B" n="6"/>campos madidare cruore humano. Ubi non erat nume<lb ed="#B" break="no" n="7"/>rus 
+          trucidatorum utriusque sexus et etatis et dignitatis 
+          <lb ed="#B" n="8"/>nec non eorum qui captiui ad seruitutem truculen<add place="above-line">t</add>am 
+          <lb ed="#B" n="9"/><sic>seculi <!-- edition has "sicuti"--></sic> ad macellum ducebantur
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e156">
+          <pc type="pilcrow">¶</pc> Prout iam pridem vniuer<lb ed="#B" break="no" n="10"/>so 
+          orbe compertum est.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e164">
+          <pc type="pilcrow">¶</pc> <del rend="strikethrough">2a</del> Tum 2o quoniam ordo iuris et ea 
+          <lb ed="#B" n="11"/>que sub illo continentur necessario seruanda videlicet duode<lb ed="#B" break="no" n="12"/>cima 
+          illa que in conclusione 2a numerantur nunquam fuerunt 
+          <lb ed="#B" n="13"/>obseruata.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e179">
+          <pc type="pilcrow">¶</pc> Tum quia cum omnia que isti patrauerunt 
+          <lb ed="#B" n="14"/>in ingressu et progressu in toto illo orbe fuerint opera 
+          <lb ed="#B" n="15"/>crudelium tyrannorum: manifestum est cuncta esse nulla 
+          <lb ed="#B" n="16"/>de quo nullus qui sit sani capitis dubitat.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e191">
+          <pc type="pilcrow">¶</pc> Tum 4o quia 
+          <lb ed="#B" n="17"/>nunquam institutioni prefate de regibus nostris gentes ille 
+          <lb ed="#B" n="18"/>consenserunt nec consensum alicui rei que ad ius aliquod 
+          <lb ed="#B" n="19"/>tribuendum hispanis aut hispaniarum regibus prebuerunt.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e203">
+          <lb ed="#B" n="20"/><pc type="pilcrow">¶</pc> Tum 5o quia nullus rex aut populus totius illius orbis re<lb ed="#B" break="no" n="21"/>cognouerunt
+          Reges hispaniarum in dominos aut suppre<lb ed="#B" break="no" n="22"/>mos 
+          principes.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e214">
+          Tum 6o quia possessiones nec illius orbis 
+          <lb ed="#B" n="23"/>nec alicuius illius partis cum tamen veri domini et propri<lb ed="#B" break="no" n="24"/>etari 
+          essent nunquam voluntarie tradiderunt. Sed violenter 
+          <lb ed="#B" n="25"/>et contra ordinem iuris naturalis et divini ea spoliati 
+          <lb ed="#B" n="26"/>fuerunt.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e226">
+          <pc type="pilcrow">¶</pc> Tum 7o quia regna et prouintias que 
+          <lb ed="#B" n="27"/>consueuerant regi per suos naturales reges et princi<lb ed="#B" break="no" n="28"/>pes 
+          et sub naturali eorum dominio erant id est de iure 
+          <lb ed="#B" n="29"/>gentium: contra voluntatem regum et dominorum 
+          <lb ed="#B" n="30"/>naturalium eorum occupauerunt et hyspani vsur<lb ed="#B" break="no" n="31"/>pauerunt 
+          quod proprie tyranorum est quia usurpata 
+          <pb ed="#B" n="93-r"/>
+          <lb ed="#B" n="1"/>dominia appellantur tyranides ergo nulla omnia de iure 
+          <lb ed="#B" n="2"/>permanserunt. Ut patet per notata in <ref xml:id="cy8th8-d1e506-Rd1e248">l. decernimus C. 
+          <lb ed="#B" n="3"/>de sacrosanctis ecclesiis</ref> et supra omnia late probata existunt
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e254">
+          <lb ed="#B" n="4"/><pc type="pilcrow">¶</pc> Tum 8o demum: quia omnia que a principio detectio<lb ed="#B" break="no" n="5"/>nis 
+          illius orbis usque adhuc hispani patrauerunt in 
+          <lb ed="#B" n="6"/>illo: et gentes ille sustinuerunt ab eis semper fuit incutien<lb ed="#B" break="no" n="7"/>do 
+          <lb ed="#B" n="8"/>eis terribilem timorem in constantissimos viros 
+          <lb ed="#B" n="9"/>cadentem vt ex quamplurimis dictis apparet et est notissi<lb ed="#B" break="no" n="10"/>mum 
+          ergo omnia nullius momenti fuerunt.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e274">
+          <pc type="pilcrow">¶</pc> Omnium 
+          <lb ed="#B" n="11"/>predictorum nullitatis ratio est quia carent fundamento
+          <lb ed="#B" n="12"/>potestatis et iurisdictionis etiam si reges et mundi potentes 
+          <lb ed="#B" n="13"/>sint in suis regnis habentes omnimodam potestatem: quia 
+          <lb ed="#B" n="14"/>in malis et iniustis actibus redducuntur ad statum perso<lb ed="#B" break="no" n="15"/>ne 
+          priuate vt <ref xml:id="cy8th8-d1e506-Rd1e290">l. 3 de officio presidis</ref> et in regula ea que 
+          <lb ed="#B" n="16"/>Cum ibi notatis <ref xml:id="cy8th8-d1e506-Rd1e294">de regulis iuris lib. 6</ref>
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e297">
+          iurisdictio enim est substan<lb ed="#B" break="no" n="17"/>tia 
+          et fundamentum omnium que Rex vel rector aut qui<lb ed="#B" break="no" n="18"/>libet 
+          iudex in tota republica facit que debet precedere 
+          <lb ed="#B" n="19"/>officium ius dicents. nam prius nascitur quam exerceatur
+          <lb ed="#B" n="20"/>ad actum vt patet <ref xml:id="cy8th8-d1e506-Rd1e307">C. qui pro sua iurisdictione l. 1</ref> et nota in <ref xml:id="cy8th8-d1e506-Rd1e310">l. instar 
+          C. de iure fisci lib. 10</ref> 
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e313">
+          ergo vbi non est iurisdictio vel cuius iuris<lb ed="#B" break="no" n="21"/>dictio 
+          propter iniustitiam quam facit abutens iurisdictione susp<add place="above-line">en</add>sa 
+          <lb ed="#B" n="22"/>est gesta viribus non subsistunt: quia priuatus est <ref xml:id="cy8th8-d1e506-Rd1e322">D. l. 3 ff. 
+          <lb ed="#B" n="23"/>de officio presidis</ref>
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e328">
+          <pc type="pilcrow">¶</pc> Cum igitur Nuncii regum nostrorum nullam 
+          <lb ed="#B" n="24"/>habuerint iurisdictionem quam si habuissent suspensa esset 
+          <lb ed="#B" n="25"/>propter ho<add place="above-line">r</add>renda eorum opera: sed fuerint persone priuate et vere 
+          <lb ed="#B" n="26"/>tyrani existerent atque proprissimi predones quis audebit 
+          <lb ed="#B" n="27"/>dubitare gesta per eos omnia quecumque sint fore: nulla et 
+          <lb ed="#B" n="28"/>nullius roboris aut momenti
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e349">
+          <pc type="pilcrow">¶</pc> Est nanque nullitas si in 
+          <lb ed="#B" n="29"/>concreto capiatur uicium seu defectus rei geste <sic>obligis <!--edition has "ob legis"--></sic> trans<lb ed="#B" break="no" n="30"/>gressionem 
+          proueniens. Si autem sumatur ut in abstracto et 
+          <lb ed="#B" n="31"/>in facultate agendi iurisque remedio et legali subiecto: sic des<pb ed="#B" n="93-v"/><lb ed="#B" break="no" n="1"/>cribitur 
+          (secundum <ref xml:id="cy8th8-d1e506-Rd1e368">Sebastianum Vantium in suo tracta<lb ed="#B" break="no" n="2"/>tu 
+          <lb ed="#B" n="3"/>de nullitatibus</ref>) est ius et comune auxilium ad irritandum 
+          <lb ed="#B" n="4"/>seu irritum nuntiandum actum de quo queritur compe<lb ed="#B" break="no" n="5"/>tens
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e380">
+          <pc type="pilcrow">¶</pc> Post positionem legis insurrexit cognitio et re<lb ed="#B" break="no" n="6"/>medium 
+          <lb ed="#B" n="7"/>nullitatis. Nam lex frustra fuisset posita si contra 
+          <lb ed="#B" n="8"/>eius transgressores ac in fauorem publici iuris et oppresso<lb ed="#B" break="no" n="9"/>rum 
+          aliquod salubre remedium non aduenisset. Po<lb ed="#B" break="no" n="10"/>tuisset 
+          nanque unusquisque inauditus: ac nulla preceden<lb ed="#B" break="no" n="11"/>te 
+          causa et cognitione etiam per non iudicem rebus ac pro<lb ed="#B" break="no" n="12"/>prio 
+          patrimonio priuari et spoliari contra naturalem 
+          <lb ed="#B" n="13"/>iustitiam ac propriam substantiam legis secundum ea que po<lb ed="#B" break="no" n="14"/>suit 
+          <ref xml:id="cy8th8-d1e506-Rd1e404" target="http://scta.info/resource/inleiv-d1e71-Dd1e781">Innocentius in c. que in ecclesiarum de constitutionibus</ref>. Et taliter 
+          <lb ed="#B" n="15"/>priuatus et spoliatus quasi nudus et inermis sine auxilio 
+          <lb ed="#B" n="16"/>et legis adminiculo remansisset. Per hoc igitur remedium 
+          <lb ed="#B" n="17"/>uocabuntur <pc type="virgula">/</pc> audientur <pc type="virgula">/</pc> et defensabuntur non vocati <pc type="virgula">/</pc> 
+          <lb ed="#B" n="18"/>non auditi <pc type="virgula">/</pc> non defensati merita causarum discutientur 
+          <lb ed="#B" n="19"/>omnisque dolus fraus et machinatio excludetur: et tuta 
+          <lb ed="#B" n="20"/>remanebit inter improbos innocentia. Et propterea 
+          <lb ed="#B" n="21"/>non inmerito lex vocat remedium istud auxilium com<lb ed="#B" break="no" n="22"/>mune 
+          et meram esse defensionem secundum doctores. 
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e438">
+          Est igitur 
+          <lb ed="#B" n="23"/>nullitas iuris remedium legum tutamen <pc type="virgula">/</pc> pena teme<lb ed="#B" break="no" n="24"/>rariorum
+          auxilium commune et vera defensio oppre<lb ed="#B" break="no" n="25"/>ssorum 
+          et ob publicam causam introductum. Et cum nullam 
+          <lb ed="#B" n="26"/>potestatem dederit deus hominibus etiam regibus vel princi<lb ed="#B" break="no" n="27"/>pibus
+          <sic>qua taliter <!-- edition has: quantalibet--></sic> dignitate refulgeant faciendi iniustitiam 
+          <lb ed="#B" n="28"/>et iniquitatem ad pernitiem vel damnum aut preiu<lb ed="#B" break="no" n="29"/>dicium
+          hominum. Ideo contra mala que abutendo po<lb ed="#B" break="no" n="30"/>testate 
+          sibi a deo tradita presertim principes et magni 
+          <lb ed="#B" n="31"/>operantur: nullum aliud remedium potest imaginari nisi 
+          <lb ed="#B" n="32"/>quod non subsistat <sic><!-- possible accidental repeat in text -->nisi quod non subsistat</sic> de iure quicquid in<lb ed="#B" break="no" n="33"/>iustum 
+          et contra ius naturale vel diuinum fecerint: vt notabi<pb ed="#B" n="94-r"/><lb ed="#B" break="no" n="1"/>liter 
+          dicit <ref xml:id="cy8th8-d1e506-Rd1e478"><name xml:id="cy8th8-d1e506-Nd1e479">Prepositus</name> in c. si dominus 11 q. 3<!-- edition has changed this a different reference --></ref> ubi inquit 
+          <lb ed="#B" n="2"/>Quod si iniquitas et <sic>iustitia<!--edition has corrected to: iniustitia--></sic> quam facit princeps suppre<lb ed="#B" break="no" n="3"/>mus 
+          dependet a talia iure quo princeps astringitur pu<lb ed="#B" break="no" n="4"/>ta 
+          a iure gentium vel naturali seu diuino: et tunc quia 
+          <lb ed="#B" n="5"/>papa <pc type="virgula">/</pc> imperator vel quilibet alius princeps: illud non 
+          <lb ed="#B" n="6"/>potest tollere: tunc si tale peccatum est notorium vel 
+          <lb ed="#B" n="7"/>clarum et euidens et maxime si est graue: non est obe<lb ed="#B" break="no" n="8"/>diendum 
+          vt <ref xml:id="cy8th8-d1e506-Rd1e506">d. c. si Dominus</ref> et <ref xml:id="cy8th8-d1e506-Rd1e508">c. non, el. 2 ea causa</ref> 
+          <lb ed="#B" n="9"/>et questione <!-- gap here --> et <ref xml:id="cy8th8-d1e506-Rd1e515">c. iulianus</ref> et nota per <ref xml:id="cy8th8-d1e506-Rd1e517">hostiensem in c. propo<lb ed="#B" break="no" n="10"/>suit 
+          de concessione prebendarum</ref>. et ratio est quia sententia <pc type="virgula">/</pc> non potest
+          <lb ed="#B" n="11"/>illud ius tollere quia in hoc nullam habet potestatem quo<lb ed="#B" break="no" n="12"/>ad 
+          hoc priuatus est: Et ideo sibi extra forum suum sic 
+          <lb ed="#B" n="13"/>mandanti obedire non debet: presertim in casu quo hoc 
+          <lb ed="#B" n="14"/>notorium seu euidens est ut ff. de officio presidis. l. 3 et <sic>ff. <!-- edition has: Codex--></sic> 
+          <lb ed="#B" n="15"/>de iurisdictione omnium iudicum et est argumentum optimum <ref xml:id="cy8th8-d1e506-Rd1e540">de privilegiis c. cum 
+          <lb ed="#B" n="16"/>olim</ref> Et maxime quia supponitur ille casus quod est talis: 
+          <lb ed="#B" n="17"/>qui per superiorem in modum appellationis vel restitutionis 
+          <lb ed="#B" n="18"/>aut que rele simplicis reparari non potest pro eo quod ille qui 
+          <lb ed="#B" n="19"/>gessit talem actum non habet ad quem recurri possit.
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e553">
+          <lb ed="#B" n="20"/>Et est ratio huius quia dum cessat suffragium iuris possi<lb ed="#B" break="no" n="21"/>tivi: 
+          ad suffragium iuris gentium seu naturalis recurren<lb ed="#B" break="no" n="22"/>dum 
+          est vt patet in indictione bellorum recurren<lb ed="#B" break="no" n="23"/>dum 
+          est. vt patet in indictione bellorum et represaliarum
+          <lb ed="#B" n="24"/>vt patet ff. de iustitia et iure l. ex hoc iure et <ref xml:id="cy8th8-d1e506-Rd1e566">23. q. 2. c. 
+          <lb ed="#B" n="25"/>dominus noster</ref> Equitas autem naturalis iuris exigit et requi<lb ed="#B" break="no" n="26"/>rit 
+          quod unus non ditetur cum iactura aliena <ref xml:id="cy8th8-d1e506-Rd1e573">l. nam hoc natura 
+          <lb ed="#B" n="27"/>ff. de conditione indebiti</ref> et inferior per superiorem euidenter 
+          <lb ed="#B" n="28"/>indebite non grauetur: neque opprimatur <ref xml:id="cy8th8-d1e506-Rd1e580">ff. de his qui sunt sui 
+          <lb ed="#B" n="29"/>vel alieni iuris l. 2 § dominorum</ref> et <ref xml:id="cy8th8-d1e506-Rd1e585">C. unde vi, l. 1.</ref> Re<lb ed="#B" break="no" n="30"/>medium 
+          autem iuris gentium seu naturalis est istud quod si non sit 
+          <lb ed="#B" n="31"/>superior qui actum iniustum retractare possit: quod sit nullus
+          <pb ed="#B" n="94-v"/>
+          <lb ed="#B" n="1"/>et habetur pro non facto. Qui<add place="above-line">a</add> aliud remedium imaginari 
+          <lb ed="#B" n="2"/>non potest. Et per hoc optime facit <ref xml:id="cy8th8-d1e506-Rd1e602">ff. quibus ad libertatem proclamare 
+          <lb ed="#B" n="3"/>non licet l. 2</ref>. In his enim ex quo non superest aliud re<lb ed="#B" break="no" n="4"/>medium 
+          licitum est propria autoritate contra facere: et 
+          <lb ed="#B" n="5"/>non obedire superiori: quinimo sibi ius dicere. hec omnia 
+          <lb ed="#B" n="6"/>prepositus in forma. 
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e614">
+          facit bene sententia <ref xml:id="cy8th8-d1e506-Rd1e616">baldi in de pace 
+          <lb ed="#B" n="7"/>constantie, c. in nomine Christi</ref> quam posuimus supra 
+          <lb ed="#B" n="8"/>§ 9. <quote xml:id="cy8th8-d1e506-Qd1e623">Exprimitur autem nullitas his terminis scilicet: 
+          <lb ed="#B" n="9"/>nullum: irritum: inane: inutile: nullius roboris aut 
+          <lb ed="#B" n="10"/>momenti existere: non ualere: non tenere: nullas ha<lb ed="#B" break="no" n="11"/>bere 
+          vires: viribusque non subsistere: et non iure: non 
+          <lb ed="#B" n="12"/>rite vel recte aut male vel perperam et ineffica<lb ed="#B" break="no" n="13"/>citer 
+          factum: infirmum esse: firmitatem non habere:
+          <lb ed="#B" n="14"/>et pro non iudicato infecto: casso: irrito: nullo et 
+          <lb ed="#B" n="15"/>non rato haberi et similibus</quote>
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e642">
+          <pc type="pilcrow">¶</pc> Cum ergo gentes occi<lb ed="#B" break="no" n="16"/>dentales 
+          ille in regnis et terris suis propriis absque <sic>illius<!-- edition has: ullius--></sic> 
+          <lb ed="#B" n="17"/>alterius gentis vel nationis iniuria viventes non fuerint vo<lb ed="#B" break="no" n="18"/>cate 
+          nec audite: Imo sine precedente causa et cognitione
+          <lb ed="#B" n="19"/>per hyspanos non iudices non solum rebus et propriis pa<lb ed="#B" break="no" n="20"/>trimoniis
+          verum etiam dignitatibus regalibus principa<lb ed="#B" break="no" n="21"/>tibus 
+          libertate uxoribus <pc type="virgula">/</pc> filiis cum bonis omnibus aliis 
+          <lb ed="#B" n="22"/>etiam vita ipsa cum maximis cruciatibus fuerint pri<lb ed="#B" break="no" n="23"/>vati 
+          et spoliati nec sit superior hodie in mundo saltem 
+          <lb ed="#B" n="24"/>de facto ad quem occurratur: et sic maneant miseri et
+          <lb ed="#B" n="25"/>miserandi nudi priuati spoliati inermes <pc type="virgula">/</pc> sine auxilio 
+          <lb ed="#B" n="26"/>et omnimode indefensati ergo nullum remedium 
+          <lb ed="#B" n="27"/>superest eis nec potest aliud excogitari: nisi (quod in 
+          <lb ed="#B" n="28"/>rei veritate est) omnia facta circa et contra <sic>eos<!--eas--></sic> pro in<lb ed="#B" break="no" n="29"/>fectis 
+          scilicet habeantur. 
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e694">
+          Non quidem quod huiusmodi remedium eis 
+          <lb ed="#B" n="30"/>proderit aliquid: tum iam occisis et in inferno damnatis 
+          <pb ed="#B" n="95-r"/>
+          <lb ed="#B" n="1"/>cum millia millium decesserint absque fide et sacramentis: 
+          <lb ed="#B" n="2"/>tum viuis et oppressis omni spe redemptionis destitu<lb ed="#B" break="no" n="3"/>tis 
+          propter ingluuiem auaritie insatiabilem adimplendam 
+          <lb ed="#B" n="4"/>Solum hoc remedii et solatii videor arbitrari posse aliquando
+          <lb ed="#B" n="5"/>fore habituros: videndo scilicet in die iudicii quando vocabuntur 
+          <lb ed="#B" n="6"/>et audientur omnes et merita cause sue discutientur 
+          <lb ed="#B" n="7"/>sicut ceterorum omnium et omnis dolus et machinatio 
+          <lb ed="#B" n="8"/>tyranorum et nullitas operum suorum reserabuntur et 
+          <lb ed="#B" n="9"/>ad penas eternas per sententiam iusti iudicis destinabuntur 
+          <lb ed="#B" n="10"/>Ipsorum autem qui ab eis hic mala passi sunt Innocentia 
+          <lb ed="#B" n="11"/>(nisi alias peccata aliunde impediant) permanebit ma<lb ed="#B" break="no" n="12"/>nifesta 
+          defensa et tuta. 
+        </p>
+        <p xml:id="cy8th8-d1e506-d1e727">
+          Sunt igitur omnia que per hyspanos 
+          <lb ed="#B" n="13"/>a principio detectionis illius orbis usque adhuc gesta fuerunt 
+          <lb ed="#B" n="14"/>nulla de iure ac per consequens Reges nostri catholici sunt illo sta<lb ed="#B" break="no" n="15"/>tu 
+          quo erant quando litere apostolice Rome conficiebantur <pc type="virgula">/</pc>.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
