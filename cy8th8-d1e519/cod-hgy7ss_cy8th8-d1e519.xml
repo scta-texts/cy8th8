@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 35</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 35</title>
+          <date when="2025-10-17">October 17, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="95-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e519">
+        <head xml:id="cy8th8-d1e519-Hd1e97">Sectio 35</head>
+        <p xml:id="cy8th8-d1e519-d1e99">
+          <lb ed="#B" n="16"/>§ 35
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e104">
+          <lb ed="#B" n="17"/>Corrolarium 
+          <lb ed="#B" n="18"/>Ex dictis et probatis pro verificatione 5e <unclear>conclusionis</unclear> patet: 
+          <lb ed="#B" n="19"/>dictam papalem de regibus nostris institutionem vel concessio<lb ed="#B" break="no" n="20"/>nem,
+          a tempore quo hyspani nostri terras illas perperam in<lb ed="#B" break="no" n="21"/>gressi 
+          sunt <sic>adhuc<!--ad Tunc--></sic> usque suspensam esse et in pendenti per<lb ed="#B" break="no" n="22"/>mansisse:
+          perinde ac si hodie Rome fuerat concessa et ex<lb ed="#B" break="no" n="23"/>dita.
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e128">
+          <lb ed="#B" n="24"/><pc type="pilcrow">¶</pc> Dicitur aliqua iurisdictio vel facultas <pc type="virgula">/</pc> siue potestas esse 
+          <lb ed="#B" n="25"/>suspensa vel in pendenti aut etiam quod dormit: quando deest 
+          <lb ed="#B" n="26"/>subiectum uel materia circa quam exerceatur aut aliquid 
+          <lb ed="#B" n="27"/>addendum sit necessarium. Quod nihil aliud est in re nisi 
+          <lb ed="#B" n="28"/>habere illam in habitu. ut patet per ea que leguntur et no<lb ed="#B" break="no" n="29"/>tantur 
+          in <ref xml:id="cy8th8-d1e519-Rd1e148">c. ex tenore, per Glossam</ref> et <ref xml:id="cy8th8-d1e519-Rd1e150">Doctores, in c. licet ex
+          <pb ed="#B" n="95-v"/>
+          <lb ed="#B" n="1"/>suscepto de foro <sic>competere<!--omnipotenti--></sic></ref> et in <ref xml:id="cy8th8-d1e519-Rd1e160">c. Pastoralis in fi. de 
+          <lb ed="#B" n="2"/>rescriptis</ref> et per <ref xml:id="cy8th8-d1e519-Rd1e165">doctores in c. si confirmationem de electione 
+          <lb ed="#B" n="3"/>lib. 6</ref> et in <ref xml:id="cy8th8-d1e519-Rd1e171">c. Romana de officio ordinarii</ref> et in <ref xml:id="cy8th8-d1e519-Rd1e173">c. Romana 
+          <lb ed="#B" n="4"/>de appellationibus eo libro</ref> omitto alios modos quibus iurisdictio 
+          <lb ed="#B" n="5"/>alicuius iudicis solet suspensa esse quia incidit in ex<lb ed="#B" break="no" n="6"/>communicationem 
+          aut suspensionem a iure vel ab ho<lb ed="#B" break="no" n="7"/>mine 
+          illatam: quia non faciunt ad propositum nostrum.
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e185">
+          <pc type="pilcrow">¶</pc> Probatur corrolarium 1o quia existens Rome dicta promo<lb ed="#B" break="no" n="8"/>tio 
+          vel institutio de regibus nostris ad hoc quod suum sorti<lb ed="#B" break="no" n="9"/>retur 
+          effectum (hoc est vt eius virtute reges nostri rite 
+          <lb ed="#B" n="10"/>ac recte actu assumerent illius orbis indiarum prin<lb ed="#B" break="no" n="11"/>cipatum 
+          et sic iurisdictionis et regie potestatis exercende plenam haberent facultatem) deerat principalius 
+          <lb ed="#B" n="12"/>et necessario addendum vel supplendum scilicet seruare illa 
+          <lb ed="#B" n="13"/>duodecim que ordo naturalis iuris continet vt in 2a conclusione 
+          <lb ed="#B" n="14"/>ostendimus potissime undecimam particulam eiusdem 
+          <lb ed="#B" n="15"/>conclusionis consensus videlicet liber regum et populorum 
+          <lb ed="#B" n="16"/>illarum gentium quo prefatam promotionem approba<lb ed="#B" break="no" n="17"/>rent 
+          et ratam haberent ac voluntate libera in vniuersales do<lb ed="#B" break="no" n="18"/>minos 
+          reges nostros susciperent: sine quo impossibile erit iure 
+          <lb ed="#B" n="19"/>principatum illum possidere: prout plenissime probatum 
+          <lb ed="#B" n="20"/>est: 
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e220">
+          ita ab ingressu hyspanorum per totum continuum tempus 
+          <lb ed="#B" n="21"/>vsque adhuc semper defuit et modo deest illud principa<lb ed="#B" break="no" n="22"/>lius 
+          et necessario addendum vel supplendum: scilicet: illa duo<lb ed="#B" break="no" n="23"/>decim 
+          quemadmodum ex quam plurimis relatis et decisis liquet. 
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e229">
+          <lb ed="#B" n="24"/>ergo eius modi promotio uel institutio papalis mansit 
+          <lb ed="#B" n="25"/>et manet modo suspensa uel impedita.
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e236">
+          <pc type="pilcrow">¶</pc> Probatur corrolarie 
+          <lb ed="#B" n="26"/>2o quia per totum tempus illud fuerunt quedam <seg type="correction">iuridica<del rend="strikethrough">m</del></seg> 
+          <lb ed="#B" n="27"/>impedimenta ne dicta papalis promotio vel institutio suum 
+          <lb ed="#B" n="28"/>sortiretur effectum que impedimenta quandiu durauerint prefata 
+          <lb ed="#B" n="29"/>institutio semper dormiet et impendenti atque suspensa erit.
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e256">
+          <pb ed="#B" n="96-r"/>
+          <lb ed="#B" n="1"/><pc type="pilcrow">¶</pc> Primum impedimentum est: quia propter nostras iniquita<lb ed="#B" break="no" n="2"/>tes 
+          impietates invasiones tyranicas violentias accessionem 
+          <lb ed="#B" n="3"/>ingressumque omni iure damnatum in terras illas et regna 
+          <lb ed="#B" n="4"/>aliena quibus tam ingentes clades Iacturas et irreparabilia 
+          <lb ed="#B" n="5"/>damna habitatoribus earum sine causa intulimus: et propter 
+          <lb ed="#B" n="6"/>continuam duram et atrocissimam seruitutem qua inces<lb ed="#B" break="no" n="7"/>santer 
+          quotidie macerantur premuntur in qua irremedia<lb ed="#B" break="no" n="8"/>biliter 
+          diminuuntur et pereunt: cui omnes indifferenter, 
+          <lb ed="#B" n="9"/>magni et parvi reges et subditi adducti sunt: illam scilicet 
+          <lb ed="#B" n="10"/>quam <mentioned>repartimiento</mentioned> vel <mentioned>comenda</mentioned> vocauerunt: que reuera to<lb ed="#B" break="no" n="11"/>tum 
+          fere orbem illum populata est: nacti sunt vniuersi 
+          <lb ed="#B" n="12"/>in cole habitatoresque totius illius orbis ius movendi bellum 
+          <lb ed="#B" n="13"/>publicum aduersus nos tanquam contra publicos hostes teterri<lb ed="#B" break="no" n="14"/>mos 
+          et totius generis sui deletores et crudeles inimicos. Bel<lb ed="#B" break="no" n="15"/>lum,
+          (inquam) non defensionis modo: verum <sic>entiam<!--etiam--></sic> vltio<lb ed="#B" break="no" n="16"/>nis:
+          vlciscendo (videlicet) et vindicando iniurias et damna a 
+          <lb ed="#B" n="17"/>nobis receptas: occupando bona nostra si que haberemus 
+          <lb ed="#B" n="18"/>et personas capiendo <pc type="virgula">/</pc> et trucidando: nec non in seruitu<lb ed="#B" break="no" n="19"/>tem 
+          redigendo et cetera omnia que summo principi ha<lb ed="#B" break="no" n="20"/>benti 
+          iustum bellum licent. habent enim iustum merum 
+          <lb ed="#B" n="21"/>mixtum imperium et iurisdictionem omnimodam et iura 
+          <lb ed="#B" n="22"/>principis non recognoscentis superiorem. Itaque eorum princi<lb ed="#B" break="no" n="23"/>pes 
+          seu reges tantam habent potestatem in regnis suis <pc type="virgula">/</pc>  
+          <lb ed="#B" n="24"/>quantam apud populum christianum imperator vt supra probatum est 
+          <lb ed="#B" n="25"/>§ 5o et sequentibus et in multis nostris tractatibus pre<lb ed="#B" break="no" n="26"/>sertim 
+          in de bello Xalisquino
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e334">
+          <pc type="pilcrow">¶</pc> Et ad propositum nostrum 
+          <lb ed="#B" n="27"/>facit notabilis textus in <ref xml:id="cy8th8-d1e519-Rd1e341">c. si quis episcopus de supplenda negligentia 
+          <lb ed="#B" n="28"/>prelatorum<!-- edition says X 1.9.13, but that ref doesn't make sense --></ref> et <ref xml:id="cy8th8-d1e519-Rd1e347">ibi glossa in verbo <mentioned>libertati</mentioned></ref> ubi habetur quod si episcopus 
+          <lb ed="#B" n="29"/>a paganis vel schismaticis capiatur: factus est eorum 
+          <lb ed="#B" n="30"/>seruus <ref xml:id="cy8th8-d1e519-Rd1e356">insti. de iure personarum § ultimo</ref> et <ref xml:id="cy8th8-d1e519-Rd1e358">ff. de captiuis et postliminio 
+          <lb ed="#B" n="31"/>lib. l. 5</ref> et <ref xml:id="cy8th8-d1e519-Rd1e363">ff. de regulis iuris, l. seruus</ref>. unde taliter captis chris<pb ed="#B" n="96-v"/><lb ed="#B" break="no" n="1"/>tianis 
+          ab illis indianis nationibus vel a quibuscunque in<lb ed="#B" break="no" n="2"/>fidelibus 
+          iustum bellum gerentibus vt in casu isto non 
+          <lb ed="#B" n="3"/>licet fugere seu recedere a dominis suis infidelibus 
+          <lb ed="#B" n="4"/>nec bona eorum furari nec alios christianos captos ab eis
+          <lb ed="#B" n="5"/>eximere: alioquin restituere in foro conscientie tenentur: 
+          <lb ed="#B" n="6"/>nisi periculum immineret ipsius capti relinquendi fidem 
+          <lb ed="#B" n="7"/>secundum <ref xml:id="cy8th8-d1e519-Rd1e382">hostiensem in summa de penitentis et remissionibus §  qui<lb ed="#B" break="no" n="8"/>bus 
+          et qualiter. 12. columna verbis <mentioned>Quid ergo</mentioned></ref> 
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e389">
+          <pc type="pilcrow">¶</pc> Cum igitur 
+          <lb ed="#B" n="9"/>bellum foueant contra nos iustissimum manifestum 
+          <lb ed="#B" n="10"/>est iure optimo posse dicte papali promotioni vel insti<lb ed="#B" break="no" n="11"/>tutioni 
+          resistere atque de ipsa egerime conqueri quin im<lb ed="#B" break="no" n="12"/>mo 
+          ipsum christi vicarium instituentem iniustum et 
+          <lb ed="#B" n="13"/>publicum hostem totius generis humani existimabunt 
+          <lb ed="#B" n="14"/>quando quidem freti autoritate institutionis prefate 
+          <lb ed="#B" n="15"/>ab ipso emanate hispani <subst><add place="above-line">ea</add> <del rend="strikethrough">et</del></subst> fecerunt eis et tanta 
+          <lb ed="#B" n="16"/>et talia mala se ab illis pati vident ergo dum ista con<lb ed="#B" break="no" n="17"/>questio 
+          durauerit et bellum ipsum terminetur (quod 
+          <lb ed="#B" n="18"/>tamen ius indicendi contra nos bellum nisi tregua 
+          <lb ed="#B" n="19"/>vel pace <pc type="virgula">/</pc> aut satisfactione ledentium <pc type="virgula">/</pc> siue remissione le<lb ed="#B" break="no" n="20"/>sorum 
+          voluntaria interrumpatur terminum non ha<lb ed="#B" break="no" n="21"/>bebit) 
+          dicta institutio suspensa dormiens <pc type="virgula">/</pc> et <unclear>in pen<lb ed="#B" break="no" n="22"/>denti</unclear> 
+          erit.
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e446">
+          <pc type="pilcrow">¶</pc> Aliud impedimentum iuridicum exinde 
+          <lb ed="#B" n="23"/>cognoscitur verum esse: quia cum de malis et damnis que 
+          <lb ed="#B" n="24"/>per nepharia bella et de oppressionibus per seruitutem 
+          <lb ed="#B" n="25"/>eiusmodi gentibus intulimus: nunquam satisfecimus nec 
+          <lb ed="#B" n="26"/>spes vlla est apud illas quod aliquo futuro tempore satis<lb ed="#B" break="no" n="27"/>factionem
+          faciemus nec etiam ipsi voluntarie remittent: 
+          <lb ed="#B" n="28"/>quia non cessamus eos offendere vt statim dicetur ergo 
+          <pb ed="#B" n="97-r"/>
+          <lb ed="#B" n="1"/>perpetuo habebunt ius nos bello impetendi ergo perpetuo 
+          <lb ed="#B" n="2"/>etiam prefata institutio dormiet et in pendenti atque sus<lb ed="#B" break="no" n="3"/>pensa 
+          permanebit.
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e473">
+          <pc type="pilcrow">¶</pc> Est impedimentum 3m et quidem 
+          <lb ed="#B" n="4"/>iure naturali roboratissimum et manifestum: vide<lb ed="#B" break="no" n="5"/>licet: 
+          quia vis et iniuria personalis continue ac incessan<lb ed="#B" break="no" n="6"/>ter
+          eis (vt predictum est infertur: cum semper eadem 
+          <lb ed="#B" n="7"/>seruitute <sic>accerrima</sic> (scilicet) <mentioned>repartimiento</mentioned> vel <mentioned>comen<lb ed="#B" break="no" n="8"/>da</mentioned> 
+          detineantur qua <pc type="virgula">/</pc> tam reges et domini naturales 
+          <lb ed="#B" n="9"/>magistratus nobiles et ignobiles eorum: quam subditi 
+          <lb ed="#B" n="10"/>vniuersi priuentur sua naturali libertate dominio iu<lb ed="#B" break="no" n="11"/>risdictionibus 
+          dignitatibus nobilitate iuribus et privi<lb ed="#B" break="no" n="12"/>legiis 
+          suis: ac omnes populi subcumbentes rigide et inhu<lb ed="#B" break="no" n="13"/>maniter 
+          perpetuo opprimantur. Unde vis seu violentia quoti<lb ed="#B" break="no" n="14"/>die 
+          continueque in eos committitur et semper nascitur estque 
+          <lb ed="#B" n="15"/>in fieri et in actu permanenti siue in fluenti: per quam non 
+          <lb ed="#B" n="16"/>solum infertur vis continua subditis et popularibus: com<lb ed="#B" break="no" n="17"/>pellendo 
+          eos per metum obedire tyranis et dominis violentis 
+          vt sunt singuli nostratum: verum etiam legitimis dominis 
+          <lb ed="#B" n="18"/>et regibus eorum vis infertur. Illis quidem compulsiua: 
+          <lb ed="#B" n="19"/>istis autem expulsiua: ergo semper ac perpetuo continueque 
+          <lb ed="#B" n="20"/>potest de iure resisti et propulsari. Tum ad propulsandam
+          <lb ed="#B" n="21"/>presentem violentiam seu tyranidem: tum pro tuenda sua
+          <lb ed="#B" n="22"/>libertate: tum pro recuperanda possessione qua iniuste 
+          <lb ed="#B" n="23"/>fuerint spoliati: tum pro rebus repetendis sibi ablatis: 
+          <lb ed="#B" n="24"/>tum demum pro vlciscendis iniuriis et offensis sibi factis 
+          <lb ed="#B" n="25"/>Vt satis probatur in <ref xml:id="cy8th8-d1e519-Rd1e536">c. dominus noster. 23. q. 2</ref> et <ref xml:id="cy8th8-d1e519-Rd1e538">C. 
+          de probationibus l. vis eius</ref> et <ref xml:id="cy8th8-d1e519-Rd1e540">C. de sacrosanctis ecclesiis</ref> l. decernimus 
+          <lb ed="#B" n="26"/>et notabiliter <ref xml:id="cy8th8-d1e519-Rd1e545">Baldus in l. data opera C. Qui ac<add place="above-line">c</add>usare 
+          <lb ed="#B" n="27"/>non possunt penultima columna</ref> et in <ref xml:id="cy8th8-d1e519-Rd1e553">repetitione l. 1. C. vnde vi.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e556">
+          <lb ed="#B" n="28"/><pc type="pilcrow">¶</pc> Regulare enim est quod cuique liceat defendere suam possessio<lb ed="#B" break="no" n="29"/>nem
+          quam pacifice possidet: et contra aggredientem et se 
+          <lb ed="#B" n="30"/>deiicere molientem armis se tueri: et longe fortius iurisdic<pb ed="#B" n="97-v"/><lb ed="#B" break="no" n="1"/>tionem 
+          habens in loco potest ad remouendum omne 
+          <lb ed="#B" n="2"/>obstaculum sibi paratum irruere tam in personas turban<lb ed="#B" break="no" n="3"/>tes 
+          <sic>vel<!--et--></sic> impedientes: quam in ostia et muros loci et alia 
+          <lb ed="#B" n="4"/>impedimenta ita rumpendo vt libere uti re sua vel 
+          <lb ed="#B" n="5"/>iure suo valeat. Et si deiectus est propria autoritate etiam 
+          <lb ed="#B" n="6"/>si priuata persona existat potest recuperare post multos annos 
+          <lb ed="#B" n="7"/>presertim vbi superior non est qui ei administret ius<lb ed="#B" break="no" n="8"/>titiam. 
+          Quod probatur per <ref xml:id="cy8th8-d1e519-Rd1e589">capitulum olim el. 1o de restitutione spoliatorum</ref> 
+          <lb ed="#B" n="9"/>et <ref xml:id="cy8th8-d1e519-Rd1e593">ibi Innocentius et doctores</ref> et in <ref xml:id="cy8th8-d1e519-Rd1e595">c. dilecto de sententia excomunicationis lib. 6</ref> 
+          <lb ed="#B" n="10"/>et <ref xml:id="cy8th8-d1e519-Rd1e600">c. significasti de homicidio</ref> et in multis aliis iuribus <ref xml:id="cy8th8-d1e519-Rd1e602">Baldus 
+          <lb ed="#B" n="11"/>in l. 1 C. vnde vi, 9 columna</ref>
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e608">
+          <pc type="pilcrow">¶</pc> Cum igitur non cessemus 
+          <lb ed="#B" n="12"/>illas gentes offendere in tyrannide illa omnes detinendo 
+          <lb ed="#B" n="13"/>(repartimiento vel comendam dico) non restituendo reges 
+          <lb ed="#B" n="14"/>et nobiles siue regulos suis dominiis et dignitatibus 
+          <lb ed="#B" n="15"/>et aliis iuribus: ceterosque incolas pristine libertati: qua<lb ed="#B" break="no" n="16"/>tenus 
+          sic cesset omnis <sic>tyranidis</sic>: sed potius super addendo 
+          <lb ed="#B" n="17"/>iniurias iniuriis mala malis gravamina grauamini<lb ed="#B" break="no" n="18"/>bus: 
+          <unclear>peiora</unclear> <sic>prioribus<!--peioribus--></sic> et pessima pessimis in dies magis
+          <lb ed="#B" n="19"/>ac magis: sequitur quod nunquam erunt placati qui extant 
+          <lb ed="#B" n="20"/>nec voluntarie consentient institutioni papali et mi<lb ed="#B" break="no" n="21"/>nus 
+          remittent res et bona sibi rapta iniurias et damna 
+          <lb ed="#B" n="22"/>irreparabilia eis illata. Et proinde <sic>habitum<!--habitus--></sic> quem re<lb ed="#B" break="no" n="23"/>ges 
+          nostri virtute prenominate institutionis papalis
+          <lb ed="#B" n="24"/>sunt consequuti: non poterit in sempiternum deuenire 
+          <lb ed="#B" n="25"/>ad actum: tum ex permanentia et diuturnitate tyra<lb ed="#B" break="no" n="26"/>nidis: 
+          tum ex restitutionis et satisfactionis impossibilitate 
+          <lb ed="#B" n="27"/>ut de se patet ergo interim prefata institutio suspensa 
+          <lb ed="#B" n="28"/>et impendenti durabit. 
+        </p>
+        <p xml:id="cy8th8-d1e519-d1e663">
+          Et per consequens catholici 
+          <lb ed="#B" n="29"/>reges nostri nullam habent potestatem (si fateri ve<lb ed="#B" break="no" n="30"/>rum 
+          licet) exercendi iurisdictionem aut regie po<lb ed="#B" break="no" n="31"/>testatis
+          nec de capienda possessione aut de dominio 
+          <pb ed="#B" n="98-r"/>
+          <lb ed="#B" n="1"/>vel regimine ordinando siue disponendo per totum illum 
+          <lb ed="#B" n="2"/>orbem debent vel possunt (salua iustitia) contra volun<lb ed="#B" break="no" n="3"/>tatem 
+          illarum gentium sollicitari.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
