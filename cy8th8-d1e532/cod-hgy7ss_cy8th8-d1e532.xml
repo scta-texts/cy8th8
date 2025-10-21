@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 36</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 36</title>
+          <date when="2025-10-20">October 20, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="98-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e532">
+        <head xml:id="cy8th8-d1e532-Hd1e97">Sectio 36</head>
+        <p xml:id="cy8th8-d1e532-d1e99">
+          <lb ed="#B" n="4"/>§ 36
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e104">
+          <lb ed="#B" n="5"/><pc type="pilcrow">¶</pc> Circa primum impedimentum (scilicet) bellum non<lb ed="#B" break="no" n="6"/>nihil 
+          considerandum, ne quidem consideratione leui occu<lb ed="#B" break="no" n="7"/>rit 
+          (videlicet) quod cum indigene illius indiani orbis, et quidem 
+          <lb ed="#B" n="8"/>universi propter nostras iniquitates (vt dixi) et mala que a 
+          <lb ed="#B" n="9"/>nobis innocentes perpessi sunt <!--ius--> indicendi bellum aduersus 
+          <lb ed="#B" n="10"/>nos habeant, non solum defensiuum, et recuperatiuum li<lb ed="#B" break="no" n="11"/>bertatis: 
+          et dominiorum, ac rerum: verum etiam ulciscendi 
+          <lb ed="#B" n="12"/>usque ad delendum nomen eorum de terra inclusiue: bellum 
+          <lb ed="#B" n="13"/>inquam perpetuum) prout in precedenti § tactum est, 
+          <lb ed="#B" n="14"/>et latissime in quodam tractatu nostro cui titulus est de bello 
+          <lb ed="#B" n="15"/>Xalisquino. nos vero ad nocendum eis quoquo modo iure 
+          <lb ed="#B" n="16"/>omni careamus 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e137">
+          inde fit consequens necessarium, quod ab<lb ed="#B" break="no" n="17"/>solute 
+          loquendo hyspani contra gentes illas per bellum volen<lb ed="#B" break="no" n="18"/>tes 
+          eos interficere, vel de terris suis expellere, non poterant 
+          <lb ed="#B" n="19"/>adversus eas se bello defendere. Poterant tamen fugere, ac 
+          <lb ed="#B" n="20"/>meliori modo quo possint absque damno vel lesione indorum, 
+          <lb ed="#B" n="21"/>eos insequentium subtrahere se, ac terram exire, ac re<lb ed="#B" break="no" n="22"/>linquere 
+          alienam. 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e153">
+          Primum (scilicet) quod non poterant se de<lb ed="#B" break="no" n="23"/>fendere 
+          patet: 1o quia iure nature gentes ille iustum bellum 
+          <lb ed="#B" n="24"/>fouentes contra nos hispanos erant: immo sunt iudices 
+          <lb ed="#B" n="25"/>legitimi nostri propter nostra: <!--scelera--> cum reges et domini naturales 
+          <lb ed="#B" n="26"/>et <del rend="strikethrough">populi ipsi habeant omnimoda</del> iurisdictionem, non 
+          <lb ed="#B" n="27"/>recognoscentes superiorem ut supra § 5 et 6 probatum est. 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e173">
+          <pc type="pilcrow">¶</pc> Contra iudicem autem proprium, non licet se defendere 
+          <pb ed="#B" n="98-v"/>
+          <lb ed="#B" n="1"/>delinquenti: sicut fur uel male factor quamuis possit fuge<lb ed="#B" break="no" n="2"/>re, 
+          sine tamen lesione aut <sic>domino<!--damno--></sic> alterius. Dixit namque 
+          <lb ed="#B" n="3"/>Sanctus Thomas, 2a 2e quaestione 69 articulo 4o quod lex diuina naturalis et hu<lb ed="#B" break="no" n="4"/>mana 
+          obligat quemquam ad non repugnandum iudici iuste 
+          <lb ed="#B" n="5"/>procedenti. Unde peccat mortaliter legitime potestati re<lb ed="#B" break="no" n="6"/>sistendo 
+          <ref xml:id="cy8th8-d1e532-Rd1e197">ad Romanos 13</ref>: <quote xml:id="cy8th8-d1e532-Qd1e199" source="http://scta.info/resource/rom13_2@2-14">qui potestati resistit, Dei ordina<lb ed="#B" break="no" n="7"/>tioni 
+          resistit, et sibi damnationem acquirit</quote>
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e205">
+          <pc type="pilcrow">¶</pc> 2o pro<lb ed="#B" break="no" n="8"/>batur, 
+          quoniam regula communis legistarum est in l. 
+          <lb ed="#B" n="9"/>vt vim ff. de iustitia et iure quod ubicunque offensa est de iure 
+          <lb ed="#B" n="10"/>permissa et licita: ibi denegata est defensio. Sicut e contra<lb ed="#B" break="no" n="11"/>rio 
+          vbi est prohibita offensio <!--defensio--> est permissa, et licita per ar<lb ed="#B" break="no" n="12"/>gumentum 
+          ab oppositis.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e224">
+          <pc type="pilcrow">¶</pc> Cum ergo criminosus offendit 
+          <lb ed="#B" n="13"/>aliquem, et iudex, iure nature, et gentium immo iure 
+          <lb ed="#B" n="14"/>diuino sit vindex illius criminis, <ref xml:id="cy8th8-d1e532-Rd1e233" target="http://scta.info/resource/rom13_2 http://scta.info/resource/rom13_3">ad romanos 13</ref> consequens 
+          <lb ed="#B" n="15"/>est quod a iudice volente illum punire, non se possit defendere.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e239">
+          <pc type="pilcrow">¶</pc> Secundum <del rend="strikethrough">isus</del> (scilicet) quod possit fugere talis delinquens 
+          <lb ed="#B" n="16"/>probatur, quia secundum s. Thomam cuilibet licet agere 
+          <lb ed="#B" n="17"/>ad tutelam corporis sui: quicquid rationabiliter potuerit 
+          <lb ed="#B" n="18"/>dum tamen sit absque preiudicio alterius. Cum autem male<lb ed="#B" break="no" n="19"/>factor 
+          inquiritur ad mortem, si fugiat, vt non inueniatur, 
+          <lb ed="#B" n="20"/>vel se occultat: non preiudicat iudici, quia nihil tollit de iure 
+          <lb ed="#B" n="21"/>eius, nec offendit etiam cum tenetur ab eo, et fugit 
+          <lb ed="#B" n="22"/>non percutiendo eum non peccat: quia non offendit 
+          <lb ed="#B" n="23"/>eum, quia agit animo utendi ea defensione, que naturaliter 
+          <lb ed="#B" n="24"/>permittitur, cum <sic>naturale<!--naturali--></sic> desiderio insit homini con<lb ed="#B" break="no" n="25"/>seruare 
+          vitam. Quicumque enim agit per naturae inclina<lb ed="#B" break="no" n="26"/>tionem: 
+          si non agit contra aliquam legem non peccat. 
+          <lb ed="#B" n="27"/>Unde semper licita est defensio, quando sine alicuius 
+          <lb ed="#B" n="28"/>preiudicio vel offensa fit, vel exercetur: et sic faciendo 
+          <lb ed="#B" n="29"/>non resistit potestati vt apparet ex dictis ergo potest
+          <lb ed="#B" n="30"/>fugere talis criminosus absque peccato.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e285">
+          Sic est de omnibus 
+          <lb ed="#B" n="31"/>hyspanis, qui sunt in regionibus illis indorum, quia cum 
+          <pb ed="#B" n="99-r"/>
+          <lb ed="#B" n="1"/>vere aggressores siue inuasores alienorum regnorum in<lb ed="#B" break="no" n="2"/>iusti,
+          et proprie tyrani existant et indi contra eos bellum 
+          <lb ed="#B" n="3"/>iuste, et naturalis defensionis foueant, et proinde gerant 
+          <lb ed="#B" n="4"/>personam iudicis criminaliter procedentis non licet hispa<lb ed="#B" break="no" n="5"/>nis 
+          ab eis se defendere, pugnando, repercutiendo, aut occi<lb ed="#B" break="no" n="6"/>dendo 
+          seu quoquo modo nocendo illis: sed tenentur melio<lb ed="#B" break="no" n="7"/>ri 
+          modo, quo possint fugere, aut se abscondere, ut saluent 
+          <lb ed="#B" n="8"/>propriam vitam immo a terris indorum omnino rece<lb ed="#B" break="no" n="9"/>dere:
+          nisi aliud obstaret, de quo statim dicam. Et hoc ideo 
+          <lb ed="#B" n="10"/>ne adderent peccata peccatis, quibus status eorum semper in ma<lb ed="#B" break="no" n="11"/>licia 
+          fuit deterior: impugnando <pc type="virgula">/</pc> subiugando, et prorsus 
+          <lb ed="#B" n="12"/>innocentes delendo, et sepe sepius de se optime meritos. ergo 
+          <lb ed="#B" n="13"/>peccarunt grauissime quotiens cum lesione aut preiudicio 
+          <lb ed="#B" n="14"/>indorum se defenderunt.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e325">
+          <pc type="pilcrow">¶</pc> Dixi, nisi aliud obstaret: quantum 
+          <lb ed="#B" n="15"/>scilicet ad recedere a terra quia in casu aliquo non tenerentur 
+          <lb ed="#B" n="16"/>(scilicet) propter fauorem fidei.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e336">
+          <pc type="pilcrow">¶</pc> Nempe si in aliqua 
+          <lb ed="#B" n="17"/>regione<del rend="strikethrough">m</del> iam essent indigenarum aliqui ad deum con<lb ed="#B" break="no" n="18"/>uersi 
+          non tenerentur terram illam omnino relinquere: 
+          <lb ed="#B" n="19"/>sed tenerentur permanere cum periculo etiam proprie 
+          <lb ed="#B" n="20"/>vite, propter conseruandam fidem in illis defendendo se, 
+          <lb ed="#B" n="21"/>cum moderamine <sic>tamen</sic> inculpate tutele. 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e358">
+          Patet hoc, 
+          <lb ed="#B" n="22"/>quia christianus quilibet, tenetur de necessitate salutis fidem 
+          <lb ed="#B" n="23"/>christi, quantum in se fuerit defensare et conseruare, scilicet,
+          <lb ed="#B" n="24"/>cum periclitaretur honor diuinus, vel utilitas proximi, 
+          <lb ed="#B" n="25"/>prout <ref xml:id="cy8th8-d1e532-Rd1e368">S. Thomas docet 2a 2e q. 3, articulo 3</ref> et alibi. Et in <ref xml:id="cy8th8-d1e532-Rd1e371">de<lb ed="#B" break="no" n="26"/>cretis 
+          96. distinctione c. nos ad fidem</ref> et <ref xml:id="cy8th8-d1e532-Rd1e376">c. vbi nam legisti</ref>. 
+          <lb ed="#B" n="27"/>sed si hyspani relinquerent omnino eiusmodi regionem: 
+          <lb ed="#B" n="28"/>indubitanter fides, et honor diuinus periclitaretur, et de<lb ed="#B" break="no" n="29"/>inde 
+          vtilitas et salus animarum ipsorum indorum periret, 
+          <lb ed="#B" n="30"/>quia forte et sine forte ille nationes non essent bene fundate 
+          <lb ed="#B" n="31"/>in his, que sunt fidei et prenimia detestatione, atque impla<lb ed="#B" break="no" n="32"/>cabili 
+          odio, que gerunt aduersus hispanos: putantes, quod 
+          <lb ed="#B" n="33"/>religiosi, seu fidei predicatores complices sunt eorun<del rend="blackout">dum</del>dem 
+          <pb ed="#B" n="99-v"/>
+          <lb ed="#B" n="1"/>in malis que ab eis passi sunt, occiderent illos. Unde 
+          <lb ed="#B" n="2"/>probabile videtur, quod fidem receptam contemnant, et 
+          <lb ed="#B" n="3"/>abiiciant, vel paulatim fides in eis totaliter deficiat 
+          <lb ed="#B" n="4"/>defectu doctrine et exercitii sacramentorum 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e408">
+          ergo illi<lb ed="#B" break="no" n="5"/>citum 
+          esset hyspanis, et peccarent mortaliter talem 
+          <lb ed="#B" n="6"/>regionem deserendo: ad quod alias cessante fidei causa, 
+          <lb ed="#B" n="7"/>de necessitate etiam salutis obligati erant, vt dictum est. 
+          <lb ed="#B" n="8"/>Nam favor fidei cunctis vtilitatibus, et favoribus ante<lb ed="#B" break="no" n="9"/>fertur, 
+          <lb ed="#B" n="10"/>ob quem multa singularia inducta sunt: ut in <ref xml:id="cy8th8-d1e532-Rd1e423">c. 
+          <lb ed="#B" n="11"/>in fidei. favorem de hereticis lib. 6</ref> et <ref xml:id="cy8th8-d1e532-Rd1e428">2, quaestione 7, c. si hereticus</ref>. Et que 
+          <lb ed="#B" n="12"/>notantur in c. Magne de voto similiter vtilitas ecclesie Dei, 
+          <lb ed="#B" n="13"/>et salutis animarum. Nulla enim maior ratio, aut 
+          <lb ed="#B" n="14"/>fauorabilior, quam que pro religione facit ut in <ref xml:id="cy8th8-d1e532-Rd1e437" type="http://scta.info/resource/bgy6gt-d1e1121-Dd1e686">l. sunt persone 
+          <lb ed="#B" n="15"/>ff. de religiosis et sumptibus funerum.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e443">
+          <pc type="pilcrow">¶</pc> Nec tamen iste fidei, 
+          <lb ed="#B" n="16"/>et religionis fauor adeo se extendit, quod propter conser<lb ed="#B" break="no" n="17"/>uandam 
+          fidem, et ministros eius, atque ne fides periclite<lb ed="#B" break="no" n="18"/>tur: 
+          possint christiani inuadere, aut aggressores per bellum 
+          <lb ed="#B" n="19"/>fieri regnorum terrarumque gentium, in pace degentium, et que 
+          <lb ed="#B" n="20"/>nunquam nos infestarunt, aut malum, vel minimum ali<lb ed="#B" break="no" n="21"/>quod 
+          nobis intulerunt: presertim cum ille potius iustum 
+          <lb ed="#B" n="22"/>bellum contra nos (ut probatum est gerant) et quidem robo<lb ed="#B" break="no" n="23"/>ratum 
+          tam multiplici iure, atque plena iustitia. 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e466">
+          Probatur hoc, 
+          <lb ed="#B" n="24"/>quia non sunt facienda mala: vt eueniant quecumque bona: 
+          quorum (scilicet) contrarium facientium damnatio iusta est. 
+          <lb ed="#B" n="25"/>ut docet <ref xml:id="cy8th8-d1e532-Rd1e472" target="http://scta.info/resource/rom3_8">apostolus ad Romanos 3</ref> et <ref xml:id="cy8th8-d1e532-Rd1e475" target="http://scta.info/resource/gd-p2c30q1-Dd1e146"><sic>3</sic> quaestione 1, c. nosse</ref>, et <ref xml:id="cy8th8-d1e532-Rd1e479" target="http://scta.info/resource/gd-p2c23q4-Dd1e270"><sic>32<!-- edition says 22, but I think it is 23 --></sic>. q. 4 
+          c. forte</ref> et <ref xml:id="cy8th8-d1e532-Rd1e486" target="http://scta.info/resource/gd-p2c33q5-Dd1e112">33, q. 5, c. si dicat</ref> Nunquam enim placet deo, vt 
+          <lb ed="#B" n="26"/>aliquis peccet mortaliter, immo, nec venialiter, propter 
+          <lb ed="#B" n="27"/>quodcumque bonum, quod inde possit procedere, quantumcumque 
+          <lb ed="#B" n="28"/>cedat in gloriam Dei. Quinimmo valde displicet deo quia deus 
+          <lb ed="#B" n="29"/>non vult tale lucrum, cum tali damno compensari. <ref xml:id="cy8th8-d1e532-Rd1e497" target="http://scta.info/resource/gd-p2c33q5-Dd1e112">d. c. 
+          <lb ed="#B" n="30"/>si dicat</ref> et <ref xml:id="cy8th8-d1e532-Rd1e503" target="http://scta.info/resource/gd-p1d14-Dd1e115"><sic>13<!-- actually 14 --></sic> dist., c. quod ait</ref>. Et nullus perducendus est ad 
+          <lb ed="#B" n="31"/>salutem, opitulante mendacio veniali: quanto minus cum pec<pb ed="#B" n="100-r"/><lb ed="#B" break="no" n="1"/>cato mortali 
+          <lb ed="#B" n="2"/>vt <ref xml:id="cy8th8-d1e532-Rd1e516" target="http://scta.info/resource/gd-p2c22q2-Dd1e248">22, q. 2, c. Primum est</ref>; et <ref xml:id="cy8th8-d1e532-Rd1e520" target="http://scta.info/resource/gd-p2c22q2-Dd1e352">c. faciat homo</ref>
+          <lb ed="#B" n="3"/>Et <ref xml:id="cy8th8-d1e532-Rd1e525"><!-- can't find, edition suggestion of Causa 22, q. 5, c. 1, sect 15 doesn't make a lot of sense -->23, q. 5, c. cum nemo.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e530">
+          <pc type="pilcrow">¶</pc> Solum igitur favore fidei eius<lb ed="#B" break="no" n="4"/>modi 
+          hominibus (id est) hyspanis in tali necessitatis articulo 
+          <lb ed="#B" n="5"/>constitutis licitum est iure diuino et humano se contra indos 
+          <lb ed="#B" n="6"/>tueri non qualitercunque: sed cum stricto moderamine incul<lb ed="#B" break="no" n="7"/>pate 
+          tutele, et illud ad hoc duntaxat facere, quod in terminis
+          <lb ed="#B" n="8"/>mere naturalis defensionis continetur, ad se ipsos et episcopos, 
+          <lb ed="#B" n="9"/><sic>ac<!--et--></sic> religiosos, seu predicatores fidei, et alios ministros ecclesiae 
+          <lb ed="#B" n="10"/>conseruandum absque lesione iniuria, vel damno indis vo<lb ed="#B" break="no" n="11"/>luntarie 
+          illatis. Quod alias extra casum istum utroque iure 
+          <lb ed="#B" n="12"/>prorsus eis esset denegatum: cum vniuerse indiane nationes 
+          <lb ed="#B" n="13"/>totius illius orbis, semper ius habeant bellandi, et iustum 
+          <lb ed="#B" n="14"/>bellum foueant aduersus nos hyspanos prout ex dictis
+          <lb ed="#B" n="15"/>satis apparet <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e569">
+          <lb ed="#B" n="16"/><pc type="pilcrow">¶</pc> Ex quibus omnibus potest colligi claritas illius veritatis, 
+          <lb ed="#B" n="17"/>quam <sic>nonulli<!--non nulli--></sic> vertunt in dubium (scilicet) utrum reges hys<lb ed="#B" break="no" n="18"/>panie 
+          teneantur relinquere orbem illum &amp; hyspani 
+          <lb ed="#B" n="19"/>ab eo prorsus recedere: quando quidem tam male eo usi sunt: 
+          <lb ed="#B" n="20"/>tum ingressu<del rend="strikethrough">m</del>, et tyranicis inuasionibus: tum progressu (id est) 
+          <lb ed="#B" n="21"/>iniqua, immo impia gubernatione, et pro parte affirmatiua 
+          <lb ed="#B" n="22"/>possunt adduci plures rationes. Sed dicendum, quod non tenen<lb ed="#B" break="no" n="23"/>tur
+          reges nostri omnino relinquere prefatum orbem nisi 
+          <lb ed="#B" n="24"/>certo modo, nec hispani ab eo recedere: quin precepto diui<lb ed="#B" break="no" n="25"/>no
+          tenentur regna illa reges nostri perpetuo retinere: 
+          <lb ed="#B" n="26"/>hyspani quoque obligantur eodem precepto permanere. 
+          <lb ed="#B" n="27"/>nisi aliqui sint ita facinerosi, atque indis nociui, quod per 
+          <lb ed="#B" n="28"/>edictum publicum merito debeant perpetuo exilio a terris 
+          <lb ed="#B" n="29"/>illis damnari.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e611">
+          <pc type="pilcrow">¶</pc> De regibus et communiter de omnibus 
+          <lb ed="#B" n="30"/>hyspanis quidem, <del rend="strikethrough">quia omnis christianus</del> patet ratione 
+          <lb ed="#B" n="31"/>communi superius assignata (scilicet) quia omnis christia<lb ed="#B" break="no" n="32"/>nus 
+          tenetur fidem iuuare defendere, et conseruare. Parti<lb ed="#B" break="no" n="33"/>culari 
+          etiam ratione quantum ad illos, qui mala intulerunt
+          <lb ed="#B" n="34"/>gentibus illis infra § 38 probabitur corrolario 2o 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e631">
+          de regibus 
+          <pb ed="#B" n="100-v"/>
+          <lb ed="#B" n="1"/>autem nostris in particulari manifestum esse obligatos. 
+          <lb ed="#B" n="2"/>Tum quia illius orbis vniuersalis cura imposita fuit <!-- some divergence with edition here -->
+          <lb ed="#B" n="3"/>eis a christi vicario, tum vi necessarie restitutionis
+          <lb ed="#B" n="4"/>et satisfactionis ex eo, quod tot in audita iniusta mala
+          <lb ed="#B" n="5"/>per miserunt inferre nationibus innocentibus in terris 
+          <lb ed="#B" n="6"/>et domibus propriis in pace degentibus. Vel quia non 
+          <lb ed="#B" n="7"/>impedierunt ea cum possint, quibus <sic>tandem<!--tamen--></sic> totus ille 
+          <lb ed="#B" n="8"/>orbis Iacet uastatus. Tum propter infinita pondera auri 
+          <lb ed="#B" n="9"/>et argenti resque preciosas, que regibus nostris, <sic>et<!--ex--></sic> orbe illo 
+          <lb ed="#B" n="10"/>per <sic>suaptuaginta<!--septuaginta--></sic> fere annos obuenerunt, incomparabilis 
+          <lb ed="#B" n="11"/>quidem precii. De hoc iterum inferius aliquid dicam.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e674">
+          <lb ed="#B" n="12"/>Dixi nisi certo modo pro eo quod re vera Rex hyspaniarum 
+          <lb ed="#B" n="13"/>perpetuo in hyspania existens: nullo modo potest orbem 
+          <lb ed="#B" n="14"/>illum vtiliter gubernare quin eat in uastationem, vt satis 
+          <lb ed="#B" n="15"/>euidentia facti cernimus. Cum inter illum, et populos 
+          <lb ed="#B" n="16"/>illarum gentium, et propter magnitudinem regionum re<lb ed="#B" break="no" n="17"/>gnorum 
+          et prouintiarum tam magna noscatur esse dis<lb ed="#B" break="no" n="18"/>tantia 
+          marium atque terrarum, prout quam plurimis, et 
+          <lb ed="#B" n="19"/>vrgentibus rationibus in quodam nostro opere, de non alie<lb ed="#B" break="no" n="20"/>nandis 
+          oppibus a regia corona, nec vendendis publicis offi<lb ed="#B" break="no" n="21"/>ciis 
+          probavimus. 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e698">
+          Et ideo tenetur Rex noster, et quidem de 
+          <lb ed="#B" n="22"/>necessitate salutis relinquere illum orbem hoc modo (scilicet) 
+          <lb ed="#B" n="23"/>constituendo in qualibet provintia, vel regno, aliquem in 
+          <lb ed="#B" n="24"/>regem de regio sanguine: qui presens recte gubernationi, et 
+          <lb ed="#B" n="25"/>vtilitati illorum regnorum, et gentium prospitiat et fidem 
+          <lb ed="#B" n="26"/>conseruet defendat, et pro viribus exaltet, et ampliet quem<lb ed="#B" break="no" n="27"/>admodum
+          decet, ac tenetur Rex vere christianus. Habito 
+          <lb ed="#B" n="28"/>igitur <!--[hoc]--> ex predeterminatis licere aliquibus hyspanis ha<lb ed="#B" break="no" n="29"/>bitare, 
+          immo et teneri ad habitandum et eligendum per<lb ed="#B" break="no" n="30"/>petuum 
+          incolatum in indianis regionibus, in quibus 
+          <lb ed="#B" n="31"/>(scilicet) iam fuerint de indigenis terris ad fidem con<lb ed="#B" break="no" n="32"/>versi 
+          aliqui, sine tamen preiudicio, aut lesione illorum, 
+          <lb ed="#B" n="33"/>voluntarie procuratis: 
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e729">
+          consequens est licere quoque eisdem in 
+          <lb ed="#B" n="34"/>aliqua terre parte, seu talis prouincie se omnes recipere, 
+          <pb ed="#B" n="101-r"/>
+          <lb ed="#B" n="1"/>in qua indigene minus noscantur gravari, et turrim in pri<lb ed="#B" break="no" n="2"/>mis 
+          cum aliqua dissimulatione ad tuitionem sui, et coloniam 
+          <lb ed="#B" n="3"/>siue loca edificare. Et ibidem huiusmodi debent sibi cibum 
+          <lb ed="#B" n="4"/>querere, vel propriis manibus laborando, vel commutatione 
+          <lb ed="#B" n="5"/>cum ipsis indigenis: quod erit perfacile, si pace oblata, 
+          <lb ed="#B" n="6"/>et seruata inuiolabiliter bonis operibus et christianis exem<lb ed="#B" break="no" n="7"/>plis, 
+          ac nonnullis munusculis ex hyspania omni indus<lb ed="#B" break="no" n="8"/>tria 
+          studuerint illos placare, animosque sibi conciliare eorum.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e754">
+          <lb ed="#B" n="9"/>Quibus quidem integraliter seruatis, indigene quidem 
+          <lb ed="#B" n="10"/>talis prouintie paulatim incipient obliuioni tradere 
+          <lb ed="#B" n="11"/>multitudinem iniuriarum, quas ab eis receperunt, et 
+          <lb ed="#B" n="12"/>boni, ac placati animi esse: atque proinde licet tacite illam 
+          <lb ed="#B" n="13"/>partem terre, in qua se receperunt illis donare: nec non
+          <lb ed="#B" n="14"/>incolatum eorum etiam perpetuum approbare. Et haec 
+          <lb ed="#B" n="15"/>quidem rationabiliter debemus presumere ex eo, quod gentes 
+          <lb ed="#B" n="16"/>ille a toto genere naturaliter sunt pacifice, et mansuete boneque 
+          <lb ed="#B" n="17"/>voluntatis nemini (nisi prius receperit) inferentes malum. 
+          <lb ed="#B" n="18"/>Unde cum experientia cognouerint <sic>hyspanos<!--hyspani--></sic>, cum eis pacifi<lb ed="#B" break="no" n="19"/>ce 
+          et humiliter conuersari<del rend="strikethrough">i</del> procul dubio non minus eos dili<lb ed="#B" break="no" n="20"/>gent,
+          ac si essent proprii fratres, et patres, hyspanis autem 
+          <lb ed="#B" n="21"/>deinceps acquiritur ius communicandi, et acquirendi et fruen<lb ed="#B" break="no" n="22"/>di 
+          acquisitis: quecunque bona temporalia in terra reperiantur. 
+          <lb ed="#B" n="23"/>Quod ius minime acquisitum eis hactenus fuit in toto illo 
+          <lb ed="#B" n="24"/>orbe, prout ex dictis, et dicendis claret.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e799">
+          <pc type="pilcrow">¶</pc> Rex vero noster 
+          <lb ed="#B" n="25"/>ex tunc potest censeri habere subditos in eiusmodi prouin<lb ed="#B" break="no" n="26"/>tia, 
+          et non ante, quibus potest ea, que habet in habitu dele<lb ed="#B" break="no" n="27"/>gare 
+          iuxta ea, que dicentur <ref xml:id="cy8th8-d1e532-Rd1e810">infra § 40</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
