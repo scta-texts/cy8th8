@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 37</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 37</title>
+          <date when="2025-10-21">October 21, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="101-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e545">
+        <head xml:id="cy8th8-d1e545-Hd1e97">Sectio 37</head>
+        <p xml:id="cy8th8-d1e545-d1e99">
+          <lb ed="#B" n="28"/>§ 37
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e104">
+          <lb ed="#B" n="29"/><pc type="pilcrow">¶</pc> Ex conclusis, et determinatis per conclusiones earumque
+          <pb ed="#B" n="101-v"/>
+          <lb ed="#B" n="1"/>corrolaria, cum probationibus suis sequuntur alia pro res<lb ed="#B" break="no" n="2"/>ponsione 
+          ad dubium supra § 5 <sic>tactum<!--factum.--></sic>.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e121">
+          <lb ed="#B" n="3"/>Primum corrollarium
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e126">
+          <lb ed="#B" n="4"/><pc type="pilcrow">¶</pc> Regibus nostris castelle, et legionis dominis nostris non 
+          <lb ed="#B" n="5"/>licet (salua iustitia) sicut nec aliis regibus de mundo absque 
+          <lb ed="#B" n="6"/>licentia <pc type="virgula">/</pc> et beneplacito regis Ynga, vel successorum eius et sic 
+          <lb ed="#B" n="7"/>de aliis regibus illius orbis: se intromittere aut inquirere 
+          <lb ed="#B" n="8"/>mandare de thesauris que in regnis illis sunt vel aliis rebus 
+          <lb ed="#B" n="9"/>preciosis aut ea inde tollere.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e148">
+          <pc type="pilcrow">¶</pc> Probatur corrolarium multipliciter 1o quia quantum ad ingressum 
+          <lb ed="#B" n="10"/>in illas regiones sine licentia regum et dominorum natura<lb ed="#B" break="no" n="11"/>lium 
+          seu populorum: non magis licebat regibus nostris 
+          <lb ed="#B" n="12"/>(salua iustitia) quam aliis regibus de mundo: cum toto eo 
+          <lb ed="#B" n="13"/>tempore quo nationes ille cum regibus suis dicte institutio<lb ed="#B" break="no" n="14"/>ni 
+          non consentirent et sponte sua reges nostros in vniuersales do<lb ed="#B" break="no" n="15"/>minos 
+          seu principes non suscepissent: nullum ius quesi<lb ed="#B" break="no" n="16"/>tum 
+          haberent immo nec habent in re <pc type="virgula">/</pc> sed solum ad rem 
+          <lb ed="#B" n="17"/>nihil aliud nisi titulum habent: non actum sed habitum 
+          <lb ed="#B" n="18"/>et adhuc non plene habitum: nullam etiam iuridicam
+          <lb ed="#B" n="19"/>sed occupatam possessionem: vt plenissime supra proba<lb ed="#B" break="no" n="20"/>tum 
+          est in multis locis: presertim conclusione 2a per omnes 
+          <lb ed="#B" n="21"/>illius particulas potissime per undecimam. Et conclusione 3a 
+          <lb ed="#B" n="22"/>et corrolario sequenti et 5a conclusione cum suis probationibus
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e185">
+          <lb ed="#B" n="23"/>ergo non magis licet regibus nostris (salua iustitia) sine licentia
+          <lb ed="#B" n="24"/>regis ynga vel successorum eius se intromittere de in<lb ed="#B" break="no" n="25"/>quirendis 
+          vel tollendis thesauris per iussionem aut manda<lb ed="#B" break="no" n="26"/>tum 
+          suum quam ceteris regibus de mundo. 
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e196">
+          Patet consequentia quia 
+          <lb ed="#B" n="27"/>seclusis institutione papali et aliis qualitatibus que ex illa
+          <pb ed="#B" n="102-r"/>
+          <lb ed="#B" n="1"/>procedunt: et que tamen nihil iuuant ad rite et recte 
+          <lb ed="#B" n="2"/>principatum illius orbis actu suscipiendum et regie po<lb ed="#B" break="no" n="3"/>testatis
+          exercende: sine his que ad ordinem iuris obseruan<lb ed="#B" break="no" n="4"/>dum 
+          necessario requiruntur vt in conclusione 2a continentur 
+          <lb ed="#B" n="5"/>manifestum est de regibus nostris eandem rationem esse <sic>quae<!--quam--></sic> 
+          de ceteris mundi regibus. Et sic non obstat institutio 
+          <lb ed="#B" n="6"/>papalis sepe dicta que supra § 5 obstare opponebatur ergo 
+          <lb ed="#B" n="7"/>non magis licet regibus nostris salva iustitia illa facere etc.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e222">
+          <pc type="pilcrow">¶</pc> 2o probatur corrolarium quia si aliquis Rex de mundo 
+          <lb ed="#B" n="8"/>vel gens illius ingredi ad scrutandum et tollendum 
+          <lb ed="#B" n="9"/>thesauros et res alias preciosas sine regis Ynga et alio<lb ed="#B" break="no" n="10"/>rum 
+          regum successorum eius licentia: et fortius si contra 
+          <lb ed="#B" n="11"/>eius vel eorum voluntatem contenderent: faceret eis 
+          <lb ed="#B" n="12"/>iniuriam et grauiter turbaret eos committens violen<lb ed="#B" break="no" n="13"/>tiam 
+          furtum vel rapinam vt supra § 5 fuit deductum. 
+          <lb ed="#B" n="14"/>ergo similiter si reges nostri eadem facere conarentur 
+          <lb ed="#B" n="15"/>iniuriam irrogarent regi Ynga violentiam furtum <pc type="virgula">/</pc> 
+          <lb ed="#B" n="16"/>et rapinam committerent (salua celsitudinis sui re<lb ed="#B" break="no" n="17"/>verentia) 
+          <lb ed="#B" n="18"/>quoniam ipsi catholici reges nostri subiecti 
+          <lb ed="#B" n="19"/>sunt legi et rationi naturali et eterne vel diuine: quam 
+          <lb ed="#B" n="20"/>ceteri vt apparet in consideratione 2a ergo etc. <pc type="virgula">/</pc>  Nec enim 
+          <lb ed="#B" n="21"/>vicarius christi per dictam institutionem concedit licentiam 
+          <lb ed="#B" n="22"/>regibus nostris vel nunciis eorum totum illum orbem 
+          <lb ed="#B" n="23"/>turbandi scandalizandi spoliandi et ponendi illum 
+          <lb ed="#B" n="24"/>in odio contra religionem christianam et Christi no<lb ed="#B" break="no" n="25"/>mini 
+          implacabili Vt apparet in 3a et 4a consideratio<lb ed="#B" break="no" n="26"/>nibus 
+          ergo reges nostri nullo modo (salua iustitia) sicut nec 
+          <lb ed="#B" n="27"/>alii reges de mundo possunt mandare ingredi ad scrutan<lb ed="#B" break="no" n="28"/>dum 
+          <lb ed="#B" n="29"/>vel requirendum thesauros etc <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e285">
+          <pc type="pilcrow">¶</pc> Quinimo et nuncii 
+          <lb ed="#B" n="30"/>et a regibus nostris <sic>spani<!-- hyspani--></sic> missi: valde turbauerunt omnes na<lb ed="#B" break="no" n="31"/>tiones 
+          illas licet certe contra regum nostrorum volunta<lb ed="#B" break="no" n="32"/>tem 
+          vt dictum est.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e301">
+          <pc type="pilcrow">¶</pc> Visum enim est supra § 21 quod turbat 
+          <pb ed="#B" n="102-v"/>
+          <lb ed="#B" n="1"/>quis alium per simplicem introitum in sua possessione eo 
+          <lb ed="#B" n="2"/>inuito. Illi reuera inuitis omnibus regibus et populis vni<lb ed="#B" break="no" n="3"/>versis
+          <sic>et<!--ut--></sic> ventus turbulentissimus terras et possessiones alie<lb ed="#B" break="no" n="4"/>nas
+          introierunt.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e323">
+          <pc type="pilcrow">¶</pc> Turbat quis per asportationem fructum. 
+          <lb ed="#B" n="5"/>Sic nostri turbarunt gentes illas asportando vniuersos fructus 
+          <lb ed="#B" n="6"/>terrarum illarum nemorum montium fluminum aquarum 
+          <lb ed="#B" n="7"/>auri <pc type="virgula">/</pc> argenti <pc type="virgula">/</pc> methalorum ceterorumque etc <pc type="virgula">/</pc>. prout supra. 
+          <lb ed="#B" n="8"/><ref xml:id="cy8th8-d1e545-Rd1e345">§ 33 in probatione 5 conclusionis</ref> apparuit.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e348">
+          <pc type="pilcrow">¶</pc> Rursus tur<lb ed="#B" break="no" n="9"/>bat 
+          quis per arationem et seminationem etc <pc type="virgula">/</pc>. sic nostri tur<lb ed="#B" break="no" n="10"/>barunt 
+          et turbant vsurpando omnes terras illas non 
+          <lb ed="#B" n="11"/>suas de quibus ad libitum quicquid placet faciunt et disponunt.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e363">
+          <lb ed="#B" n="12"/> <pc type="pilcrow">¶</pc> Turbat preterea quis per resistentiam: ecce isti turbant 
+          <lb ed="#B" n="13"/>et turbarunt per bella iniquissima sanguinolenta vni<lb ed="#B" break="no" n="14"/>uersos 
+          habitatores impie trucidando et quos viuos relin<lb ed="#B" break="no" n="15"/>quunt 
+          in seruitutem redigendo.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e377">
+          <pc type="pilcrow">¶</pc> Turbat etiam quis ven<lb ed="#B" break="no" n="16"/>dendo 
+          rem alienam et tradendo emptori. Ecce omnia que 
+          <lb ed="#B" n="17"/>isti perperam rapuerunt ac si optimo iure possiderent pro<lb ed="#B" break="no" n="18"/>prietariique 
+          essent vendunt distrahunt donant et quicquid
+          <lb ed="#B" n="19"/>volunt faciunt de eis.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e391">
+          <pc type="pilcrow">¶</pc> Turbat insuper qui asserit habere 
+          <lb ed="#B" n="20"/>seruitutem in re aliena. Isti autem non solum asserunt: sed ca<lb ed="#B" break="no" n="21"/>piunt 
+          et vsurpant violenter: nec modo in rebus alienis sed 
+          <lb ed="#B" n="22"/>ipsas <sic>in rebus alienis: sed ipsas<!-- might not be in edition --></sic> innumeras personas veluti 
+          <lb ed="#B" n="23"/>insignes plagiarii in amarissimam seruitutem redigendo.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e410">
+          <lb ed="#B" n="24"/><pc type="pilcrow">¶</pc> Turbat denique ille qui molestias infert et in iure alieno pres<lb ed="#B" break="no" n="25"/>tat
+          impedimentum. Sed quis vnquam precor molestias tam 
+          <lb ed="#B" n="26"/>acerbas hominibus intulit et impedimenta <sic>prestitit</sic> alie<lb ed="#B" break="no" n="27"/>nis 
+          iuribus sicut isti. Et per bella <pc type="virgula">/</pc> per captiuitates <pc type="virgula">/</pc> per in<lb ed="#B" break="no" n="28"/>sultus 
+          <pc type="virgula">/</pc> per orbationes <pc type="virgula">/</pc> per priuation<add place="above-line">e</add>s dignitatum etiam re<lb ed="#B" break="no" n="29"/>galium 
+          honorum dominiorum iurisdiction<subst><add place="above-line">u</add><del rend="strikethrough">o</del></subst>m et omnium 
+          <lb ed="#B" n="30"/>prorsus bonorum: per violationes uxorum filiarum et per 
+          <lb ed="#B" n="31"/>immensas alias calamitates nostri turbarunt et hodie turbant 
+          <lb ed="#B" n="32"/>(vt probatum est) et testis est totus mundus: et consequenter 
+          <lb ed="#B" n="33"/>efficacissimum impedimentum prebuerunt <pc type="virgula">/</pc> negentes ille 
+          <pb ed="#B" n="103-r"/>
+          <lb ed="#B" n="1"/>uterentur pacifice omni iure quod ad se vel publice vel priuatim 
+          <lb ed="#B" n="2"/>pertinebat ut ex dictis est manifestum ergo iniurias irrogaue<lb ed="#B" break="no" n="3"/>runt 
+          maximas hispani nuncii regum nostrorum Regi inga 
+          <lb ed="#B" n="4"/>et aliis regibus et maxime turbauerunt ingrediendo terras illas 
+          <lb ed="#B" n="5"/>siue regna et loca eorum ad scrutandum vel inquirendum 
+          <lb ed="#B" n="6"/>thesauros vel alias res preciosas sine illorum licentia: potissime 
+          <lb ed="#B" n="7"/>inuitis eisdem uiolentiam furta et rapinas execrabiles com<lb ed="#B" break="no" n="8"/>mittentes.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e484">
+          <pc type="pilcrow">¶</pc> 3o probatur corrolarium: Reges nostri hispaniarum 
+          <lb ed="#B" n="9"/>de necessitate iustitie et salutis obligantur vitare omnia que habita<lb ed="#B" break="no" n="10"/>tores 
+          prefatos possunt irritare vel scandalizare turbare <pc type="virgula">/</pc> atque ad 
+          <lb ed="#B" n="11"/>recipiendum fidem impedire sive retardare omnemque inordina<lb ed="#B" break="no" n="12"/>tionem 
+          iniustitiam <pc type="virgula">/</pc> scandalum vel aliud opus indebitum et non 
+          <lb ed="#B" n="13"/>secundum rationem aut contra iuris ordinem factum: quod 
+          <lb ed="#B" n="14"/>de se natum sit de fide aut christiana religione infide<lb ed="#B" break="no" n="15"/>libus 
+          eius modi sinistram vel prauam opinionem generare. 
+          <lb ed="#B" n="16"/>etc <pc type="virgula">/</pc>. ut in 5a consideratione late fuit probatum. Sed in<lb ed="#B" break="no" n="17"/>trare
+          in terras et regna illa et inquirere aut scrutari de 
+          <lb ed="#B" n="18"/>thesauris et ceteris preciosis rebus et ea tollere absque licentia 
+          <lb ed="#B" n="19"/>et bene placito regum et dominorum: esset <!--[immo fuit]--> contra iuris 
+          <lb ed="#B" n="20"/>ordinem iniustum scandalosum <pc type="virgula">/</pc> inordinatum <pc type="virgula">/</pc> <sic>turba<lb ed="#B" break="no" n="21"/>tium<!--turbatiuum--></sic> 
+          <pc type="virgula">/</pc> <sic>irritatium<!--irritatiuum--></sic> <pc type="virgula">/</pc> infamatorium fidei catholice <pc type="virgula">/</pc> et re<lb ed="#B" break="no" n="22"/>ligionis 
+          christiane <sic>impeditium<!--impeditiuum--></sic> ne infideles convertantur <pc type="virgula">/</pc> 
+          <lb ed="#B" n="23"/>et <sic>generatium<!--generatiuum--></sic> sinistre ac praue opinionis de christiana 
+          <lb ed="#B" n="24"/>fide etc <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e575">
+          Ergo Reges nostri de necessitate iustitie et salutis 
+          <lb ed="#B" n="25"/>tenentur talia vitare. 
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e580">
+          ergo non minus est regibus nostris illicitum 
+          <lb ed="#B" n="26"/>illa mandare aut procurare quam aliis dominatoribus de 
+          <lb ed="#B" n="27"/>mundo: et sic idem <sic>quod<!--quam--></sic> prius. 
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e591">
+          Et hoc intelligitur etiam si gentes 
+          <lb ed="#B" n="28"/>et populi eiusmodi fidem suscepissent et sacramentis ini<lb ed="#B" break="no" n="29"/>tiati 
+          essent: dummodo consensum liberum non prestassent 
+          <lb ed="#B" n="30"/>tradendo regibus nostris illius orbis summum princi<lb ed="#B" break="no" n="31"/>patum
+          quoniam ante consensum <del>lberum non</del> illorum nullam reges nostri 
+          <lb ed="#B" n="32"/>habent intrandi per se vel per suos in orbem illum potestatem
+          <pb ed="#B" n="103-v"/>
+          <lb ed="#B" n="1"/>etiam si gentes ille interim ad christum suscipiendo 
+          <lb ed="#B" n="2"/>fidei sacramentum conuertantur.<!-- ut dixi.--> Et hec omnia satis per 
+          <lb ed="#B" n="3"/>superiora sunt plana.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e617">
+          <pc type="pilcrow">¶</pc> 4o Denique probatur corrolarium 
+          <lb ed="#B" n="4"/>vel probata confirmantur primo quoniam reges nostri 
+          <lb ed="#B" n="5"/>nullum subditum in toto illo orbe de indigenis habent 
+          <lb ed="#B" n="6"/>voluntarium.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e629">
+          <pc type="pilcrow">¶</pc> 2o quia tota eorum potestas est in ha<lb ed="#B" break="no" n="7"/>bitu 
+          immo nondum plene in habitu.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e638">
+          <pc type="pilcrow">¶</pc> 3o quia sunt 
+          <lb ed="#B" n="8"/>in statu illo in quo erant quando Rome apostolice prefate 
+          <lb ed="#B" n="9"/>institutionis littere expediebantur.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e648">
+          <pc type="pilcrow">¶</pc> 4o quia institutio 
+          <lb ed="#B" n="10"/>papalis dormit modo et suspensa est siue <sic>impendenti<!--in pendenti--></sic> per<lb ed="#B" break="no" n="11"/>manet.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e662">
+          <pc type="pilcrow">¶</pc> 5o quia uiciose ac improbe ac proinde nulli<lb ed="#B" break="no" n="12"/>ter 
+          tribuerunt hispani regibus nostris possessionem 
+          <lb ed="#B" n="13"/>illius orbis vsurpatam.
+        </p>
+        <p xml:id="cy8th8-d1e545-d1e672">
+          <pc type="pilcrow">¶</pc> 6o demum quia omnia que 
+          <lb ed="#B" n="14"/>a principio per hyspanos per totum illum orbem gesta 
+          <lb ed="#B" n="15"/>sunt vsque in hodiernum diem inclusive viribus caruere 
+          <lb ed="#B" n="16"/>atque sic remanserunt prorsus inania <pc type="virgula">/</pc>.
+        </p> 
+      </div>
+    </body>
+  </text>
+</TEI>
