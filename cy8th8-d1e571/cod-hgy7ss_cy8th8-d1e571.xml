@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 39</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 39</title>
+          <date when="2025-10-27">October 27, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="108-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e571">
+        <head xml:id="cy8th8-d1e571-Hd1e97">Sectio 39</head>
+        <p xml:id="cy8th8-d1e571-d1e99">
+          <lb ed="#B" n="2"/>§ <sic>38<!-- but actual 39 --></sic>
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e108">
+          <lb ed="#B" n="3"/>Corrolarium. Quartum.
+          <lb ed="#B" n="4"/><pc type="pilcrow">¶</pc> Reges nostri catholici non potuerunt constituere hispanos 
+          <lb ed="#B" n="5"/>barones <pc type="virgula">/</pc> duces <pc type="virgula">/</pc> vel marchiones submittendo eis ciuitates <!--[prouincias]--> vel 
+          <lb ed="#B" n="6"/>in feudatarios aut aliquo aliocunque subiectionis modo: et 
+          <lb ed="#B" n="7"/>quecunque provisiones huiusmodi ante hac facte: fuerunt nulle 
+          <lb ed="#B" n="8"/>et inualide. Titulis autem duntaxat nudis bene poterant quos 
+          <lb ed="#B" n="9"/>voluissent hyspanos honorare: quoniam per nudos titulos non 
+          <lb ed="#B" n="10"/>videntur indigenis fieri nec eorum regibus aliquod preiu<lb ed="#B" break="no" n="11"/>diciale <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e144">
+          <pc type="pilcrow">¶</pc> Probatur corrolarium ex rationibus inductis ad probationem vtriusque 
+          <lb ed="#B" n="12"/>partis precedentis corrolarii. Et adduntur alique alie. Tum 
+          <lb ed="#B" n="13"/>1o quia reges nostri nondum habent regna et populos illos
+          <lb ed="#B" n="14"/>actu in sua potestate ergo non possunt hyspanis donare; quia ne<lb ed="#B" break="no" n="15"/>mo 
+          dat vel potest dare quod non habet. <ref xml:id="cy8th8-d1e571-Rd1e158">l. si filius C. de donabus</ref>: 
+          <lb ed="#B" n="16"/>secundum <ref xml:id="cy8th8-d1e571-Rd1e162">bartholum in l. obseruare</ref>, et <ref xml:id="cy8th8-d1e571-Rd1e164">baldum ff. de officio proconsulis</ref> 
+          <lb ed="#B" n="17"/>vel nemo potest plus iuris in alium transferre quam ipse habet 
+          <lb ed="#B" n="18"/>ff. de regulis iuris l. nemo et ff. de acquirendo rerum dominio l. traditio, et 
+          <lb ed="#B" n="19"/>de dote post diuortium C. nuper. Et pro non dato habetur quod 
+          <lb ed="#B" n="20"/>ab illo datur <pc type="virgula">/</pc> qui non potest de iure donare. vt in c. quod autem 
+          <lb ed="#B" n="21"/>de iure patronatus. et C. qui pro sua iurisdictione l. vna. non obstat d. l. 
+          <lb ed="#B" n="22"/>obseruare. vbi proconsul antequam intret prouintiam committit 
+          <lb ed="#B" n="23"/>causas ex iurisdictione quam habet in habitu subdito existenti 
+          <lb ed="#B" n="24"/>in eadem prouintia quod est actus iurisdictionis voluntarie:
+          <pb ed="#B" n="108-v"/>
+          <lb ed="#B" n="1"/>tum quia reges nostri iurisdictionem non habent in 
+          <lb ed="#B" n="2"/>habitu plene purificato et ideo nec iurisdictione vti possunt 
+          <lb ed="#B" n="3"/>voluntaria vt § 30 et 29 et sepe dictum est. Tum quia 
+          <lb ed="#B" n="4"/>nec territorium nec subditum in toto illo orbe habent vt 
+          <lb ed="#B" n="5"/>supponimus et supra demonstratum est.
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e201">
+          <pc type="pilcrow">¶</pc> Tum 2o probatur 
+          <lb ed="#B" n="6"/>corrolarium quia fecerunt maximam iniuriam et iniustitiam 
+          <lb ed="#B" n="7"/>et damnum <del rend="strikethrough">comissi</del> enormissimum reges nostri regibus 
+          <lb ed="#B" n="8"/>et principibus illarum gentium: spoliando eos suis statibus 
+          <lb ed="#B" n="9"/>et dignitatibus iurisdictionibus et suis hominibus siue 
+          <lb ed="#B" n="10"/>subditis populis: et subigendo eos quibusdam hyspanis preci<lb ed="#B" break="no" n="11"/>puis 
+          tyrannis humilis conditionis immo vilibus hominibus <pc type="virgula">/</pc> et 
+          <lb ed="#B" n="12"/>sic eorum ditioni: quos propter scelera sua in gentes illas 
+          <lb ed="#B" n="13"/>innocentissimas commissa: sub specie fortitudinis et grandium 
+          <lb ed="#B" n="14"/>et preclarissimorum facinorum sibi oblata: ad marchio<lb ed="#B" break="no" n="15"/>natus
+          vel presulatus dignitatem sublimarunt: cum potius 
+          <lb ed="#B" n="16"/>et digni<subst><add place="above-line">us</add><del rend="strikethrough">tatis</del></subst> mererentur quod iussu regum nostrorum in foro 
+          <lb ed="#B" n="17"/>apparerent per frustra trucidati ad quod etiam iubendum ipsi 
+          <lb ed="#B" n="18"/>reges nostri de necessitate salutis tenebantur.
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e248">
+          <pc type="pilcrow">¶</pc> Tum 3o quia 
+          <lb ed="#B" n="19"/>ipsos populares etiam seruitute pessima damnarunt Reges nostri 
+          <lb ed="#B" n="20"/>cum essent liberi contra rationem naturalem marchionibus 
+          <lb ed="#B" n="21"/>et presulibus donando predictis.
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e260">
+          <pc type="pilcrow">¶</pc> Tum 4o quia secun<lb ed="#B" break="no" n="22"/>dum 
+          bartholum <pc type="virgula">/</pc> violento occupatori ciuitatis vel prouintie 
+          <lb ed="#B" n="23"/>si princeps concesserit ciuitatem vel provinciam violenter 
+          <lb ed="#B" n="24"/>occupatam: non valet concessio vel confirmatio vt <ref xml:id="cy8th8-d1e571-Rd1e275">l. 
+          <lb ed="#B" n="25"/>meminerim C. Unde vi.</ref> et <ref xml:id="cy8th8-d1e571-Rd1e280">ibi Bartholus</ref> et <ref xml:id="cy8th8-d1e571-Rd1e282">baldus in l. 
+          <lb ed="#B" n="26"/>decernimus C. de sacrosanctis ecclesiis</ref> etiam confirmat 
+          <lb ed="#B" n="27"/>idem dicens: quod inuadentibus castra pertinentia ad iustos 
+          <lb ed="#B" n="28"/>dominos non possunt illa castra concedi per principem: 
+          <lb ed="#B" n="29"/>siue inuadentes sint priuate persone siue singulares: 
+          <lb ed="#B" n="30"/>siue sint communitates vt l. 2 C. de fundis et saltibus lib. 11o 
+          <lb ed="#B" n="31"/>vbi hoc notatur. hec baldus Ecce quam clare omnes impugnant 
+          <lb ed="#B" n="32"/>hanc tyrannidem. Manifestum enim est illa castra illas ciui<pb ed="#B" n="109-r"/><lb ed="#B" break="no" n="1"/>tates 
+          illas prouintias et loca alia pertinere ad iustos dominos 
+          <lb ed="#B" n="2"/>et tamen inuasa et occupata iniquissime fuisse per illos 
+          <lb ed="#B" n="3"/>violentos tyranos ergo non potuerunt reges nostri eisdem 
+          <lb ed="#B" n="4"/>nec aliis concedere nec concessio facta aliquid valuit.
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e311">
+          <lb ed="#B" n="5"/><pc type="pilcrow">¶</pc> Tum 5o quia si Saul et Dauid electi et uncti a deo re<lb ed="#B" break="no" n="6"/>ges 
+          <lb ed="#B" n="7"/>non sunt ausi eo toto tempore quo principatum illius 
+          <lb ed="#B" n="8"/>regni habebant in habitu (quia certe sciebant esse de Dei 
+          <lb ed="#B" n="9"/>voluntate) nec sibi tribuere aliquid regie potestatis in 
+          <lb ed="#B" n="10"/>actu: nec committere aut donare quicquam alteri: procul 
+          <lb ed="#B" n="11"/>dubio reges nostri electi et instituti a summo Christi vicario:
+          <lb ed="#B" n="12"/>nec pro se nec pro alio de huius modo exercitio in actu nullo 
+          <lb ed="#B" n="13"/>modo debuerunt <pc type="virgula">/</pc> nec potuerant (nisi vt supra decisum 
+          <lb ed="#B" n="14"/>est) se occupare. Sed nimirum regie persone quam plurimi 
+          <lb ed="#B" n="15"/>errores qui passim circa indianum hoc negocium contin<lb ed="#B" break="no" n="16"/>gerunt
+          non sunt imputandi: Sed regali senatui qui rem 
+          <lb ed="#B" n="17"/>hanc importantissimam et periculosissimam tenebatur
+          <lb ed="#B" n="18"/>scrutari cui non licet ius ignorare: Ideo eos non excusa<lb ed="#B" break="no" n="19"/>uit 
+          nec excusabit ignorantia <del rend="strikethrough">etc <pc type="virgula">/</pc>.</del> Paria enim sunt quo<lb ed="#B" break="no" n="20"/>ad 
+          reatum culpe et penam scire vel debere scire. 
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e360">
+          <pb ed="#B" n="109v"/>
+          <lb ed="#B" n="1"/><del rend="strikethrough">in C. si culpa de in iur</del> Corrollarium 5m
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e369">
+          <lb ed="#B" n="2"/><pc type="pilcrow">¶</pc> Non potuerunt reges nostri mittere gubernatores aut 
+          <lb ed="#B" n="3"/>vice Reges siue magistratus nec curias (siue vt vulgo dicitur 
+          <lb ed="#B" n="4"/>audiencias reales) aut iudices alios vel ministros ad iusti<lb ed="#B" break="no" n="5"/>tiam 
+          administrandam. Unde quos hactenus miserunt 
+          <lb ed="#B" n="6"/>iudicium habuerunt vsurpatum et quicquid iudicatum 
+          <lb ed="#B" n="7"/>aut gestum fuit per eos de iure non ualuit
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e387">
+          <lb ed="#B" n="8"/><pc type="pilcrow">¶</pc> Probatur corrolarium quantum ad 1am partem per rationes adductas 
+          <lb ed="#B" n="9"/>ad probationem precedentis corrolarii presertim per primam 
+          <lb ed="#B" n="10"/>et latius per corrolarium 3e conclusionis et illius probationem § 
+          <lb ed="#B" n="11"/>29 et 30 videlicet quia reges nostri nullam habent iuris<lb ed="#B" break="no" n="12"/>dictionem 
+          in actu nisi in habitu non plene de presenti 
+          <lb ed="#B" n="13"/><sic>ad<!--sed--></sic> purificando ex actibus futuris scilicet consensu et 
+          <lb ed="#B" n="14"/>acceptatione voluntaria regum et populorum illius orbis 
+          <lb ed="#B" n="15"/>et ideo non possunt etiam illud quod in habitu habent committe<lb ed="#B" break="no" n="16"/>re 
+          exercendum intra territoria et districta indorum quia 
+          <lb ed="#B" n="17"/>nec territorium habent nec subditos vt pluries probatum 
+          <lb ed="#B" n="18"/>est: licet potuissent committere habitum iurisdictionis si 
+          <lb ed="#B" n="19"/>plene purum habitum habuissent existentes extra territorium 
+          subdito existenti in eodem non tamen exer<lb ed="#B" break="no" n="20"/>citium 
+          actus iurisdictionalis quia nec ipsi exercere va<lb ed="#B" break="no" n="21"/>luissent
+          ergo non potuerunt nec possunt reges nostri 
+          <lb ed="#B" n="22"/>mittere vel ponere vice reges gubernatores presides <pc type="virgula">/</pc> iudi<lb ed="#B" break="no" n="23"/>ces 
+          magistratus siue audientias regales etc. patet consequentia 
+          <lb ed="#B" n="24"/>per l. obseruare in fin. ff. de officio proconsulis et legati ubi dicitur 
+          <lb ed="#B" n="25"/><ref xml:id="cy8th8-d1e571-Rd1e435">est enim perquam absurdum: antequam ipsis iurisdictionem nan<lb ed="#B" break="no" n="26"/>ciscantur 
+          alii demandare</ref> Et proprius et districtius pro<lb ed="#B" break="no" n="27"/>batur 
+          per capitulum Romana de appellationibus lib. 6 vbi per textum 
+          <lb ed="#B" n="28"/>illum in § cum autem. Patet archiepiscopum qui iurisdictio<pb ed="#B" n="110-r"/><lb ed="#B" break="no" n="1"/>nem 
+          habebat non plene in habitu non posse deputare offi<lb ed="#B" break="no" n="2"/>tialem 
+          in decisionem sui suffraganei super appellationibus inter<lb ed="#B" break="no" n="3"/>ponendis
+          ad eum. Quia iurisdictio etiam in habitu adhuc 
+          <lb ed="#B" n="4"/>ei non competebat ante interpositam appellationem quod 
+          <lb ed="#B" n="5"/>erat actus qui deerat ad hoc quod haberet iurisdictionem 
+          <lb ed="#B" n="6"/><del rend="strikethrough">quod erat</del> in habitu plene de presenti purificato. ergo eius<lb ed="#B" break="no" n="7"/>modi 
+          modi iudices vel vices reges etc <pc type="virgula">/</pc>. Ergo eius modi vice reges 
+          <lb ed="#B" n="8"/><del rend="strikethrough">iudices</del> presides <pc type="virgula">/</pc> gubernatores audientie regales etc <pc type="virgula">/</pc>. Iudi<lb ed="#B" break="no" n="9"/>cium 
+          habuerunt et modo habent usurpatum. que est 2a pars 
+          <lb ed="#B" n="10"/>corrolarii. Que probatur quia deputati sunt vel positi a 
+          <lb ed="#B" n="11"/>non habente iurisdictionem vel potestatem: et in iniuriam 
+          <lb ed="#B" n="12"/>vel offensam regum et dominorum naturalium in quorum 
+          <lb ed="#B" n="13"/>ossibus iurisdictio illius orbis est complantata. Nam qui<lb ed="#B" break="no" n="14"/>cunque 
+          in alieno regno vel prouincia contra voluntatem 
+          <lb ed="#B" n="15"/>principis vel magistratus illius presumeret iurisdictio<lb ed="#B" break="no" n="16"/>nem 
+          exercere: inuasor est iuris alieni et iniuriam fa<lb ed="#B" break="no" n="17"/>cit 
+          regi aut principi talis regni maiestatem illius 
+          <lb ed="#B" n="18"/>contemnens: ac per consequens contra eum manu armata vsque 
+          <lb ed="#B" n="19"/>ad internicionem potest occurri et ei tanquam hosti alieni 
+          <lb ed="#B" n="20"/>regni violatori et inuasori vsurpatori atque tyrano 
+          <lb ed="#B" n="21"/>resisti argumentum <ref xml:id="cy8th8-d1e571-Rd1e505">l. decernimus C. de sacrosanctis ecclesiis</ref> 
+          <lb ed="#B" n="22"/>et <ref xml:id="cy8th8-d1e571-Rd1e509">l. mercatores C. de <sic>conuer.<!--commerciis--></sic> et mercatoribus</ref> et <ref xml:id="cy8th8-d1e571-Rd1e516">9 q. 2 
+          <lb ed="#B" n="23"/>c. 1o 2o et 3o</ref>. Sicut enim dominia rerum de iure gentium 
+          <lb ed="#B" n="24"/>sunt distincta <ref xml:id="cy8th8-d1e571-Rd1e524">1. dist. c. ius gentium</ref>, et <ref xml:id="cy8th8-d1e571-Rd1e526">ff. de iustitia 
+          <lb ed="#B" n="25"/>et iure c. ex hoc iure</ref> ita et iurisdictiones per re<lb ed="#B" break="no" n="26"/>gna 
+          principatus prouintias sunt distincte singulis 
+          <sic>ipse<!--[imperatoribus], --></sic> regibus <pc type="virgula">/</pc> ducibus <pc type="virgula">/</pc> siue magistratibus super minis<lb ed="#B" break="no" n="27"/>tranda 
+          iustitia deputate per quos iura reguntur <ref xml:id="cy8th8-d1e571-Rd1e546">ff. 
+          <lb ed="#B" n="28"/>de origine iuris, l. post originem, § 2</ref>
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e553">
+          Istis scilicet regibus ducibus etc. specialiter prohibetur ipso naturali 
+          <lb ed="#B" n="29"/>iure vetante: nec alterius iurisdictionem usurpent 
+          <pb ed="#B" n="110-v"/>
+          <lb ed="#B" n="1"/>vel violent: sed suis terminis sint contenti vt <ref xml:id="cy8th8-d1e571-Rd1e561">6. q. 3 c. scrip<lb ed="#B" break="no" n="2"/>tum</ref> 
+          et <ref xml:id="cy8th8-d1e571-Rd1e566">c. sequens</ref> et <ref xml:id="cy8th8-d1e571-Rd1e569">Deuteronomii 19</ref>: <quote xml:id="cy8th8-d1e571-Qd1e571">Non assumes et transferres ter<lb ed="#B" break="no" n="3"/>minos 
+          proximi tui quos posuerunt priores</quote> et <ref xml:id="cy8th8-d1e571-Rd1e576">prouerb. 22</ref> 
+          <lb ed="#B" n="4"/>et <ref xml:id="cy8th8-d1e571-Rd1e580">de officio legati, c. nouit</ref> et in <ref xml:id="cy8th8-d1e571-Rd1e582">Clement. 1. de foro competenti</ref> 
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e585">
+          <lb ed="#B" n="5"/><pc type="pilcrow">¶</pc> Et iura per principatus et regna iurisdictiones hac 
+          <lb ed="#B" n="6"/>ratione diuiserunt vt publicum bonum promoueretur <!--et--> 
+          <lb ed="#B" n="7"/>per rectores officiorum gereretur administratio singu<lb ed="#B" break="no" n="8"/>lorum. 
+          Neque enim aliter (dicit textus) <quote xml:id="cy8th8-d1e571-Qd1e600">humani gene<lb ed="#B" break="no" n="9"/>ris 
+          conseruatio alia poterit ratione subsistere: nisi 
+          <lb ed="#B" n="10"/>huius magna causa differentie ordo seruaret vt legitur et notatur 
+          <lb ed="#B" n="11"/>89 dist., c. ad hoc.</quote>. Si enim quilibet rex vel iudex de 
+          <lb ed="#B" n="12"/>omnibus regnis et gentibus causis et personis <sic>possit<!--posset--></sic> cognos<lb ed="#B" break="no" n="13"/>cere 
+          non habita distinctione propriorum regnorum 
+          <lb ed="#B" n="14"/>et alienorum personarum vel locorum: resultaret
+          <lb ed="#B" n="15"/>ex hoc non solum iurisdictionum confusio verum etiam 
+          <lb ed="#B" n="16"/>mundus totus scandalis et dissenssionibus et bellis con<lb ed="#B" break="no" n="17"/>sumeretur: 
+          <ref xml:id="cy8th8-d1e571-Rd1e626">3, q. 6, c. ultra <sic>prouintiam<!--prouiniarum--></sic></ref>, et <ref xml:id="cy8th8-d1e571-Rd1e632">c. <sic>unaqueque<!--unaque--></sic></ref> 
+          <lb ed="#B" n="18"/>et <ref xml:id="cy8th8-d1e571-Rd1e640">6, q. <subst><add place="above-line">3<!-- edition has: 6 --></add> <del rend="strikethrough">8</del></subst>, c. scriptum.</ref> et <ref xml:id="cy8th8-d1e571-Rd1e652">11, q. 1, c. peruenit</ref> Quelibet enim 
+          <lb ed="#B" n="19"/>prouintia et regnum mundi naturaliter desiderat suam 
+          <lb ed="#B" n="20"/>iurisdictionem qua tuentur se communitates hominum 
+          <lb ed="#B" n="21"/>in suo esse formali politico. Et iurisdictio suum et pro<lb ed="#B" break="no" n="22"/>prium 
+          desiderat territorium: <ref xml:id="cy8th8-d1e571-Rd1e662">l. fi. C.</ref> ubi et apud quem 
+          <lb ed="#B" n="23"/>secundum <ref xml:id="cy8th8-d1e571-Rd1e667">baldum in l. 3 ff. de officio presidi.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e670">
+          <pc type="pilcrow">¶</pc> Terminatur nanque 
+          <lb ed="#B" n="24"/>iurisdictio territorio id est terminis vel limitibus ciuita<lb ed="#B" break="no" n="25"/>tis 
+          <pc type="virgula">/</pc> prouintie vel regni ut in <ref xml:id="cy8th8-d1e571-Rd1e682">l. fin. Digest., de iurisdictione omnium iudicum</ref> 
+          <lb ed="#B" n="26"/>ergo extra territorium siue extra terminos uniuscuiusque 
+          <lb ed="#B" n="27"/>prouintie <pc type="virgula">/</pc> ciuitatis vel: regni: quicunque rex magistra<lb ed="#B" break="no" n="28"/>tus 
+          rector vel iudex spiritualis vel temporalis aut secula<lb ed="#B" break="no" n="29"/>ris 
+          persone sunt priuate <pc type="virgula">/</pc>  non publice (id est) nullum
+          <lb ed="#B" n="30"/>habentes iurisdictionis exercitium. perinde ac si essent 
+          <pb ed="#B" n="111-r"/>
+          <lb ed="#B" n="1"/>mortui vt in <ref xml:id="cy8th8-d1e571-Rd1e706">d. c. nouit de officio legati</ref> et <ref xml:id="cy8th8-d1e571-Rd1e708">c. fi. ibidem</ref> 
+          <lb ed="#B" n="2"/>et <ref xml:id="cy8th8-d1e571-Rd1e713">d. l. fi. ff. de iurisdictione omnium indicum</ref> et <ref xml:id="cy8th8-d1e571-Rd1e715">c. licet</ref> et <ref xml:id="cy8th8-d1e571-Rd1e717">c. gratum</ref> et <ref xml:id="cy8th8-d1e571-Rd1e719">c.
+          in litteris de officio delegati</ref> et propterea dicitur in <ref xml:id="cy8th8-d1e571-Rd1e721">d. l. fi.</ref> quod 
+          <lb ed="#B" n="3"/><quote xml:id="cy8th8-d1e571-Qd1e725">extra territorium cuilibet excedenti metam sue iurisdi<lb ed="#B" break="no" n="4"/>ctionis 
+          impune non paretur: id est nemo incurrit penam 
+          <lb ed="#B" n="5"/>si tali iudici non obediat</quote> Idem habetur in cap. 2 de constitutionibus lib. 6
+        </p>
+        <p xml:id="cy8th8-d1e571-d1e733">
+          <pc type="pilcrow">¶</pc> <lb ed="#B" n="6"/>Quod autem nihil valeat de iure quicquid gestum aut iudica<lb ed="#B" break="no" n="7"/>tum
+          per illos fuit est aut in futurum factum fuerit: non solum 
+          <lb ed="#B" n="8"/>quantum ad ea que incolas concernunt (de quo dubitabit nemo 
+          <lb ed="#B" n="9"/>nisi luminis naturalis expers) verum <sic>entia<!--etiam--></sic> iudicia vel sententiae
+          <lb ed="#B" n="10"/>late per ipsos inter hyspanos et omnia quecunque fecerint: 
+          <lb ed="#B" n="11"/>nulla procul dubio erunt vt euidenter probatur per l. decer<lb ed="#B" break="no" n="12"/>nimus 
+          <lb ed="#B" n="13"/>cum ibi notatis. <ref xml:id="cy8th8-d1e571-Rd1e759">C. de sacrosanctis ecclesiis</ref> et <ref xml:id="cy8th8-d1e571-Rd1e762">C. si a non competente 
+          <lb ed="#B" n="14"/>iudice per totum</ref> et in <ref xml:id="cy8th8-d1e571-Rd1e767">c. at si clerici de iudiciis</ref> et <ref xml:id="cy8th8-d1e571-Rd1e769">9, q. 2, c. Episcopum</ref> 
+          <lb ed="#B" n="15"/><!--et--> duo, <ref xml:id="cy8th8-d1e571-Rd1e774">l. 9, c. sequenti</ref> nec aliqua temporis longinquitate con<lb ed="#B" break="no" n="16"/>firmantur 
+          nam longinqua vsurpatio non facit ius: <ref xml:id="cy8th8-d1e571-Rd1e779">93 dist. 
+          <lb ed="#B" n="17"/>c. illud</ref> et <ref xml:id="cy8th8-d1e571-Rd1e784">100 dist. c. contra morem</ref> et <ref xml:id="cy8th8-d1e571-Rd1e786">24, q. 1, c. schisma</ref> 
+          <lb ed="#B" n="18"/><ref xml:id="cy8th8-d1e571-Rd1e789">de simonia, c. cum in ecclesia</ref> et <ref xml:id="cy8th8-d1e571-Rd1e792">1, q. 1, c. principatus</ref>. Et ratio 
+          <lb ed="#B" n="19"/>communis est: quia sine licentia et beneplacito regum et magis<lb ed="#B" break="no" n="20"/>tratuum 
+          illius orbis: non potuerunt nec poterunt citra iniuriam 
+          <lb ed="#B" n="21"/>ius dicere etiam inter hyspanos regibus nostris subditos: cum 
+          <lb ed="#B" n="22"/>sint in territorio alieno et sic priuate persone. Nisi actus 
+          <lb ed="#B" n="23"/>illi iurisdictionales ad defensionem indorum et pro eis 
+          <lb ed="#B" n="24"/>iustitia administranda super iniuriis et grauaminibus ab hyspa<lb ed="#B" break="no" n="25"/>nis 
+          receptis <sic>fuerit<!--fuerint--></sic> ordinatus. Tunc enim tales actus erunt 
+          <lb ed="#B" n="26"/>validi: quia rationabiliter debemus credere, quod reges et ma<lb ed="#B" break="no" n="27"/>gistratus 
+          indorum libenter prestarent ad efficiendos tales actus 
+          <lb ed="#B" n="28"/>in suum fauorem totam iurisdictionem suam: et authorita<lb ed="#B" break="no" n="29"/>tem. 
+          facit in argumentum <ref xml:id="cy8th8-d1e571-Rd1e822">presidentis de sententia excomunicationis lib. 6</ref> vide 
+          <lb ed="#B" n="30"/>in <ref xml:id="cy8th8-d1e571-Rd1e826">sequenti § hec omnia</ref> <sic>etc.<!-- etiam --></sic> hec omnia satis dilucide apparent 
+          <pb ed="#B" n=""/>
+          <lb ed="#B" n="1"/><ref xml:id="cy8th8-d1e571-Rd1e836">supra § 34 in 9a probatione 5e conclusionis</ref> et in aliis locis 
+          <lb ed="#B" n="2"/>huius tractatuli nostri.
+        </p> 
+      </div>
+    </body>
+  </text>
+</TEI>
