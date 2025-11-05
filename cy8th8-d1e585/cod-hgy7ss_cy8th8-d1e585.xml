@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 40</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 40</title>
+          <date when="2025-11-02">November 02, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="111-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e585">
+        <head xml:id="cy8th8-d1e585-Hd1e97">Sectio 40</head>
+        <p xml:id="cy8th8-d1e585-d1e99">
+          <lb ed="#B" n="3"/>§ <sic>39<!-- but actual 40 --></sic>
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e108">
+          <lb ed="#B" n="4"/>Sane circa predeterminata est adhuc nobis conside<lb ed="#B" break="no" n="5"/>randum 
+          quod dum reges nostri sunt et fuerint in statu de quo 
+          <lb ed="#B" n="6"/>conclusio 5a cum suis probationibus tractat: dupliciter se possunt 
+          <lb ed="#B" n="7"/>habere de iure (quicquid hodie de facto fiat) circa habitum 
+          <lb ed="#B" n="8"/>potestatis et iurisdictionis <sic>que<!--quem--></sic> (vt diximus) habent. 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e126">
+          Vno 
+          <lb ed="#B" n="9"/>modo quantum ad incolas prefati orbis qui modo sunt iam 
+          <lb ed="#B" n="10"/>sacris misteriis initiati et alio modo respectu eorum qui 
+          <lb ed="#B" n="11"/>nondum effecti sunt christiani. 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e135">
+          Et quidem respectu incolarum 
+          <lb ed="#B" n="12"/>qui iam receperunt fidem et sunt baptizati qui<subst><add place="above-line">a</add><del rend="strikethrough">e</del></subst> Iam sunt intra 
+          <lb ed="#B" n="13"/>ecclesiam et subditi Romano pontifici quantum ad spiritualia: 
+          <lb ed="#B" n="14"/>ita quod habet in eos iurisdictionem plene in habitu: et per consequens 
+          <lb ed="#B" n="15"/>habitum illum videtur christi vicarius per dictam institutio<lb ed="#B" break="no" n="16"/>nem 
+          transtulisse in quantum huius modi in reges nostros qua ipsos 
+          <lb ed="#B" n="17"/>constituit suos delegatos quia potuit eis concedere quod habuit 
+          <lb ed="#B" n="18"/><sic>cuius<!--de quo--></sic> ipsi sunt capaces <pc type="virgula">/</pc> et omnia que necessaria erant ad expe<lb ed="#B" break="no" n="19"/>ditionem 
+          aut explicationem predicationis euangelice et conuersio<lb ed="#B" break="no" n="20"/>nem 
+          ac manutentionem in fide suscepta incolarum: ut pro<lb ed="#B" break="no" n="21"/>batur 
+          per c. preterea de officio delegati cum sua materia et l. 
+          <lb ed="#B" n="22"/>2 ff. de iurisdictione omnium et l. qui procuratorem dat ff. de pro<lb ed="#B" break="no" n="23"/>curatoribus 
+          Ideo reges nostri habent habitum illum plene puri<lb ed="#B" break="no" n="24"/>ficatum 
+          de presenti quantum ad explicationem prefatam. Unde 
+          <lb ed="#B" n="25"/>imminet regibus nostris cura per provisionem presenta<lb ed="#B" break="no" n="26"/>tionem 
+          missionemque prelatorum predicatorum et ministro<lb ed="#B" break="no" n="27"/>rum
+          ceterorum ecclesie illos in fide suscepta conseruandi 
+          <lb ed="#B" n="28"/>et cetera faciendi que sunt iurisdictionis voluntarie id est 
+          <pb ed="#B" n="112-r"/>
+          <lb ed="#B" n="1"/>fori voluntarii absque aliqua coertione. 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e192">
+          Et quoniam iam ha<lb ed="#B" break="no" n="2"/>bent 
+          ibi subditos in habitu ratione predicta: possunt 
+          <lb ed="#B" n="3"/>subdelegare illaque ipsi reges nostri habent in habitu 
+          <lb ed="#B" n="4"/>eorum alicui qui sunt de illis nouiter effecti christiani 
+          <lb ed="#B" n="5"/>scilicet vt sui generis alios qui nondum christum per 
+          <lb ed="#B" n="6"/>fidem et baptismum induerunt exhortentur ad ipsam 
+          <lb ed="#B" n="7"/>fidem suscipiendam christianam. Ceteros vero perseue<lb ed="#B" break="no" n="8"/>rent 
+          in bono incepto et similia alia que sunt iurisdictio<lb ed="#B" break="no" n="9"/>nis 
+          voluntarie. Possunt enim Reges nostri eas subdelegare 
+          <lb ed="#B" n="10"/>tanquam principis id est summi Christi vicarii delega<lb ed="#B" break="no" n="11"/>ti 
+          quia simpliciter habent a lege quod possint delegare vt 
+          <lb ed="#B" n="12"/>in <ref xml:id="cy8th8-d1e585-Rd1e218">c. Pastoralis</ref> et <ref xml:id="cy8th8-d1e585-Rd1e220">c. fi. de officio delegati</ref> et <ref xml:id="cy8th8-d1e585-Rd1e222">c. cum causam 
+          <lb ed="#B" n="13"/>que de appellationibus</ref> et <ref xml:id="cy8th8-d1e585-Rd1e227">C. de indiciis l. a iudice</ref>, et <ref xml:id="cy8th8-d1e585-Rd1e229">C. qui pro sua 
+          <lb ed="#B" n="14"/>iurisdictione l. unica.</ref> 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e235">
+          <pc type="pilcrow">¶</pc> Quod si reges vel domini naturales per<lb ed="#B" break="no" n="15"/>misissent 
+          proprio beneplacito aliquem vel aliquos hyspa<lb ed="#B" break="no" n="16"/>norum 
+          in teritorio sue iurisdictionis et dominii demorari: 
+          <lb ed="#B" n="17"/>poterunt catholici reges nostri comittere vel delegare eis<lb ed="#B" break="no" n="18"/>dem 
+          eadem.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e249">
+          de peccatis autem iam conuersorum ad 
+          <lb ed="#B" n="19"/>fidem puniendis quecunque et quantacunque sint grauia vel 
+          <lb ed="#B" n="20"/>contra ipsas suas respublicas comissa vel in personas par<lb ed="#B" break="no" n="21"/>ticulares 
+          seu priuatas non pertinet ad reges nostros cu<lb ed="#B" break="no" n="22"/>rare 
+          nec comittere aut delegare possunt ex defectu iuris<lb ed="#B" break="no" n="23"/>dictionis 
+          coercitiue aut contentiose id est fori contentiosi: 
+          cum exercitium regie potestatis non habeant: quovsque 
+          <lb ed="#B" n="24"/>gentes et populi illi per proprium et liberum consensum 
+          <lb ed="#B" n="25"/>ditioni sue se submittant predictam institutionem papalem 
+          <lb ed="#B" n="26"/>approbando et acceptando prout abunde in superioribus 
+          <lb ed="#B" n="27"/>manet probatum. Habent enim nationes ille suos et pro<lb ed="#B" break="no" n="28"/>prios 
+          iudices, reges et magistratus, cum plena iurisdictione 
+          <lb ed="#B" n="29"/>et regia potestate: quibus stant vel cadunt. <quote xml:id="cy8th8-d1e585-Qd1e275" source="http://scta.info/resource/rom14_4@1-12">Tu (inquit 
+          <lb ed="#B" n="30"/>apostolus) quis es qui iudicas seruum alienum. domino suo 
+          <lb ed="#B" n="31"/>stat vel cadit</quote> <ref xml:id="cy8th8-d1e585-Rd1e282">ad romanos 14</ref>. Illi enim de illis habent iudicare 
+          <pb ed="#B" n="112-v"/>
+          <lb ed="#B" n="1"/>nisi per hyspanos de facto impediantur. Quia vero sum<lb ed="#B" break="no" n="2"/>mus 
+          Christi vicarius autoritate apostolatus sui potest de 
+          <lb ed="#B" n="3"/>quolibet peccato mortali corrigere ac punire quemlibet 
+          <lb ed="#B" n="4"/>christianum vt in <ref xml:id="cy8th8-d1e585-Rd1e295">c. nouit de iudiciis</ref> cum sua materia.
+          <lb ed="#B" n="5"/>Ideo putarem non absurde posse dici quod in casu quo reges 
+          <lb ed="#B" n="6"/>et magistratus indorum negligerent punitionem publi<lb ed="#B" break="no" n="7"/>corum 
+          criminum in suis communitatibus: possent re<lb ed="#B" break="no" n="8"/>ges 
+          nostri habitum illum ad actum reducere non sua 
+          <lb ed="#B" n="9"/>sed autoritate apostolica puniendo illa crimina preuia 
+          <lb ed="#B" n="10"/>tamen rationabili et pia exhortatione ad Reges illorum 
+          <lb ed="#B" n="11"/>vt illa puniant. Veruntamen quia supponimus re<lb ed="#B" break="no" n="12"/>ges 
+          nostros esse de iure per nuncios suos extra proprium 
+          <lb ed="#B" n="13"/>territorium immo existere in alieno scilicet illarum gentium 
+          <lb ed="#B" n="14"/>(ut pluries ostensum est) ideo possunt habitum illum 
+          <lb ed="#B" n="15"/>temporalem ad papam in tali casu spectantem alicui de iam 
+          <lb ed="#B" n="16"/>conuersis vel de hyspanis modo et ratione dictis iuxta 
+          <lb ed="#B" n="17"/>ea que <ref xml:id="cy8th8-d1e585-Rd1e325">§ 30</ref> determinata fuerunt delegare sed in articulo 
+          <lb ed="#B" n="18"/>hoc maxime cauendum est scandalum quod facile oriri 
+          <lb ed="#B" n="19"/>poterit ex hac licentia <ref xml:id="cy8th8-d1e585-Rd1e332">1 ad Corinthios 8</ref> et <ref xml:id="cy8th8-d1e585-Rd1e334">ad Romanos 14</ref> 
+          <lb ed="#B" n="20"/>sed ponderanda sunt omnia secundum ea que statim dicentur.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e339">
+          <lb ed="#B" n="21"/><pc type="pilcrow">¶</pc> Est autem iurisdictio voluntaria que inter volentes 
+          <lb ed="#B" n="22"/>redditur tantum quia per eam non possunt coerceri nisi 
+          <lb ed="#B" n="23"/>velint vt in <ref xml:id="cy8th8-d1e585-Rd1e349">l. omnes, ff. de officio proconsulis</ref> et notata in <ref xml:id="cy8th8-d1e585-Rd1e351">c. 
+          <lb ed="#B" n="24"/>per venerabilem extra qui filii sint legitimi</ref> et <ref xml:id="cy8th8-d1e585-Rd1e357">c. sicut extra ne clerici 
+          <lb ed="#B" n="25"/>vel monachi</ref> et in <ref xml:id="cy8th8-d1e585-Rd1e362">c. nouit. de officio legati</ref> et extendit se <!--[ad subditos] et--> 
+          <lb ed="#B" n="26"/>ad forenses dummodo consentiant ut <ref xml:id="cy8th8-d1e585-Rd1e368">C. De emancipationibus 
+          <lb ed="#B" n="27"/>liberorum l. 1</ref> et in <ref xml:id="cy8th8-d1e585-Rd1e373">c. fi. de feriis</ref> et <ref xml:id="cy8th8-d1e585-Rd1e376">bartholus et baldus et alii super 
+          <lb ed="#B" n="28"/>d. l. omnes</ref>, Cuius actus sunt adoptare emancipare con<lb ed="#B" break="no" n="29"/>tractus 
+          inire etc. in quibus cause cognitio non requiritur 
+          <lb ed="#B" n="30"/>vt <ref xml:id="cy8th8-d1e585-Rd1e385">C. de feriis l. actus</ref>
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e388">
+          <pc type="pilcrow">¶</pc> Quod si a fide suscepta (quod 
+          <lb ed="#B" n="31"/>absit) contingat istos nonnunquam declinare iudicibus 
+          <lb ed="#B" n="32"/>ecclesiasticis auxilium brachii secularis petentibus: pos<pb ed="#B" n="113-r"/><lb ed="#B" break="no" n="1"/>sunt 
+          et debent Reges nostri habitum illum deducere quo<lb ed="#B" break="no" n="2"/>dam 
+          modo ad actum immo tenentur opem scilicet ferendo: 
+          <lb ed="#B" n="3"/>non quidem tanquam iudices iurisdictionem in actu habentes 
+          <lb ed="#B" n="4"/>sed tanquam ministri ecclesie catholice in fidei favorem. vt 
+          <lb ed="#B" n="5"/>in <ref xml:id="cy8th8-d1e585-Rd1e409">c. excommunicamus el. 2o § <sic>moneam<!--moneantur,--></sic> de hereticis</ref> et in <ref xml:id="cy8th8-d1e585-Rd1e416">c. pre<lb ed="#B" break="no" n="6"/>sidentes 
+          eo titulo lib. 6</ref> cum ibi notatis ubi patet quod potestas secu<lb ed="#B" break="no" n="7"/>laris 
+          etiam si non habeat iurisdictionem nisi de facto: tenetur 
+          <lb ed="#B" n="8"/>ad requisitionem iudicum ecclesiasticorum contra hereticos suam 
+          <lb ed="#B" n="9"/>prestare potestatem. 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e429">
+          <pc type="pilcrow">¶</pc> Quantum vero ad eos incolas illius orbis 
+          <lb ed="#B" n="10"/>qui nondum nomen christi sunt professi ex huiusmodi habitu 
+          <lb ed="#B" n="11"/>cum non habeant illum reges nostri de presenti purificatum 
+          <lb ed="#B" n="12"/>id est perficionatum: nihil penitus incumbit regie celsitudin<subst><del rend="strikethrough">e</del><add place="in-line">i</add></subst> 
+          <lb ed="#B" n="13"/>agere circa eorum peccata quantumcunque gravia vel idolatrie 
+          <lb ed="#B" n="14"/>vel innaturalia que intra terminos sue infidelitatis districti 
+          <lb ed="#B" n="15"/>aut iurisdictionis committere vel commisisse reperiantur: nisi 
+          <lb ed="#B" n="16"/>prouidere quam diligentissime vt per doctrinam et exempla pro<lb ed="#B" break="no" n="17"/>borum 
+          virorum qui prius faciant quam doceant: illuminentur 
+          <lb ed="#B" n="18"/>quatenus assistente diuina gratia ad Christum ducantur: 
+          <lb ed="#B" n="19"/>si tamen velint audire verbum vite voluntarie. Quod si 
+          <lb ed="#B" n="20"/>nolint non possunt ad audiendum compelli: sed excuti pul<lb ed="#B" break="no" n="21"/>uerem 
+          de pedibus super illos iuxta formam quam Christus 
+          <lb ed="#B" n="22"/>ordinauit et mandauit in suo euangelio predicando.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e470">
+          <pc type="pilcrow">¶</pc> 
+          <lb ed="#B" n="23"/>Hac enim via qua Christus incessit et forma qua usus est 
+          <lb ed="#B" n="24"/>et quicunque veri eius discipuli fuerunt totus mundus qui 
+          <lb ed="#B" n="25"/>in tenebris et in sordibus omnium malorum et quidem pessi<lb ed="#B" break="no" n="26"/>morum 
+          erat: lucem magnam vidit et scelera sua reliquit.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e484">
+          <lb ed="#B" n="27"/><pc type="pilcrow">¶</pc> Si autem forte interim ad notitiam regum nostrorum ve<lb ed="#B" break="no" n="28"/>niret 
+          aliquos horum infidelium occidere innocentes vel ad 
+          <lb ed="#B" n="29"/>immolandum diis suis vel Anthropophagi (id est) vescen<lb ed="#B" break="no" n="30"/>tes 
+          cadaueribus humanis vescendi causa eos occidere (nam si 
+          <lb ed="#B" n="31"/>mortuis iam vel peste aut captis in bello vel alias vescerentur: 
+          <lb ed="#B" n="32"/>nihil ad regiam celsitudinem de his qui foris sunt) sane in 
+          <pb ed="#B" n="113-v"/>
+          <lb ed="#B" n="1"/>casu huiusmodi: Reges nostri omnibus viis pacificis possi<lb ed="#B" break="no" n="2"/>bilibus
+          conari debent vt ostendatur illis quam graue malum 
+          <lb ed="#B" n="3"/>committunt suadereque gratiosis verbis et exemplis pluries et 
+          <lb ed="#B" n="4"/>iterum vt vel paulatim talia relinquant. Quod si pertinaci<lb ed="#B" break="no" n="5"/>ter 
+          ab huius modi cessare noluerint vis moderata eis potest 
+          <lb ed="#B" n="6"/>inferri. Non quidem vt eos propter illa crimina puniant 
+          <lb ed="#B" n="7"/>nec sibi subiiciant seruos: quod hic non sit proprie bellum sed 
+          <lb ed="#B" n="8"/>quedam defensio: sicut priuate persone et sibi auxilium
+          <lb ed="#B" n="9"/>ferentes: possunt adversus se opprimentes. Quoniam ex de<lb ed="#B" break="no" n="10"/>fectu
+          potestatis et iurisdictionis quam reges nostri non habent 
+          <lb ed="#B" n="11"/>nisi in habitu <pc type="virgula">/</pc> adhuc non plene quoad illos infideles qui non 
+          <lb ed="#B" n="12"/>receperunt fidem vt probatum est sepe: non possunt illa pu<lb ed="#B" break="no" n="13"/>nire: 
+          quia iterum nihil ad nos de infidelium criminibus intra 
+          <lb ed="#B" n="14"/>suam infidelitatem et districtum commissis: <ref xml:id="cy8th8-d1e585-Rd1e536">1 Ad Corinthios 5</ref> 
+          <lb ed="#B" n="15"/>Sed quatenus oppressis auxilium ferant et eos qui iniuriam 
+          <lb ed="#B" n="16"/>patiuntur dumtaxat liberent. Prout latissime probauimus 
+          <lb ed="#B" n="17"/>in libro 2o de vnico vocationis modo omnium gentium ad 
+          <lb ed="#B" n="18"/>veram religionem et in prima parte apologie tum hyspano
+          <lb ed="#B" n="19"/>idiomate tum latine scripsimus.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e550">
+          <pc type="pilcrow">¶</pc> Veruntamen circa <sic>hunc<!--hoc--></sic> 
+          <lb ed="#B" n="20"/>casum duo sunt multum regibus nostris animaduertenda:
+          <lb ed="#B" n="21"/>Alterum ne scilicet pretextu eius modi criminum excusando<lb ed="#B" break="no" n="22"/>rum
+          seu innocentium ab iniusta morte liberandorum: hominum 
+          <lb ed="#B" n="23"/>iniquorum (qui semper occasiones querunt) inexplicabilis habendi 
+          <lb ed="#B" n="24"/>cupiditas falso fingat quod in rei veritate verum non est: quate<lb ed="#B" break="no" n="25"/>nus 
+          bona indorum rapiendi et personas sibi subiicendi querant 
+          <lb ed="#B" n="26"/>oportunitatem. Quod tyranni et predones toto conamine conten<lb ed="#B" break="no" n="27"/>dunt; 
+          et fuit hac tenus in terris illis occiduis frequentissimum.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e577">
+          <lb ed="#B" n="28"/><pc type="pilcrow">¶</pc> Alterum est ut prius quam uis illa inferatur exactissime ponderan<lb ed="#B" break="no" n="29"/>dum 
+          sit: an plures innocentes qui nihil tale commiserunt interfi<lb ed="#B" break="no" n="30"/>ciendi 
+          sint in bello si contra illos moueatur: quam quos a pernitie 
+          <lb ed="#B" n="31"/>liberare satagunt. Aut etiam si preponderat scandalum quod ex 
+          <lb ed="#B" n="32"/>tali pugna necessum est oriri ut fides gentibus odiosa reddatur 
+          <lb ed="#B" n="33"/>et predicationi obstaculum fiat liberatione paucorum qui ex ma<pb ed="#B" n="114-r"/><lb ed="#B" break="no" n="1"/>nu 
+          crudelium possint tandem liberari. Tunc enim a tali modo in<lb ed="#B" break="no" n="2"/>nocentes 
+          liberandi profecto cessandum esset ex precepto diuino et 
+          <lb ed="#B" n="3"/>dissimulandum cum eis: quoniam talis actus uitiosus foret contra 
+          <lb ed="#B" n="4"/>regulam rationis existens que dicta minus malum eligendum 
+          <lb ed="#B" n="5"/>esse tam in vna eademque persona quam in multis et diversis: tam 
+          <lb ed="#B" n="6"/>in malis culpe quam poene ut patet per <ref xml:id="cy8th8-d1e585-Rd1e608">philosophum 2 Ethicorum c. 9</ref> ex <ref xml:id="cy8th8-d1e585-Rd1e610">3o 
+          <lb ed="#B" n="7"/>ethicorum c. 5</ref> et <ref xml:id="cy8th8-d1e585-Rd1e615">5o c. 6</ref> et alibi patet etiam per <ref xml:id="cy8th8-d1e585-Rd1e617">c. duo mala</ref> 
+          <lb ed="#B" n="8"/>et in <ref xml:id="cy8th8-d1e585-Rd1e622">c. sequenti nota. 13 dist.</ref> et <ref xml:id="cy8th8-d1e585-Rd1e624">14 dist. c. 1o</ref> et <ref xml:id="cy8th8-d1e585-Rd1e626">22, q. 4, c. 
+          <lb ed="#B" n="9"/>non solum</ref> et in <ref xml:id="cy8th8-d1e585-Rd1e631">l. 1 § penultimo ff. de periculo et commodo rei uendite</ref>
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e634">
+          <pc type="pilcrow">¶</pc> 
+          <lb ed="#B" n="10"/>Minus enim re vera malum est sine comparatione permittere 
+          <lb ed="#B" n="11"/>aliquos innocenter pati et iniuste occidi ab idolatris et An<lb ed="#B" break="no" n="12"/>thropophaxis
+          quam quod nos pro illis ab iniusta morte eruendis 
+          <lb ed="#B" n="13"/>per crudelia bella (que calamitas dicuntur et sunt generis hu<lb ed="#B" break="no" n="14"/>mani) 
+          <sic>maximas<!--maxime--></sic> perficere hominum strages inter quos quidem 
+          <lb ed="#B" n="15"/>millia millium innocentum necessario etiam oportet trucidari.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e657">
+          <lb ed="#B" n="16"/><pc type="pilcrow">¶</pc> Non enim omnes sunt qui humanis carnibus uescuntur: etiam 
+          <lb ed="#B" n="17"/>ubi huius modi vicio homines sunt infecti nec omnes aut 
+          <lb ed="#B" n="18"/>semper idolis victimas humanas immolabant: sed per pauci 
+          <lb ed="#B" n="19"/>respectu eorum qui talia non agebant vel agunt. Ex quo indubie 
+          <lb ed="#B" n="20"/>sequeretur aliud maximum malum videlicet christi nomen fore 
+          <lb ed="#B" n="21"/>uniuerso orbi illi auditu horribile et odiosissimum: nec non 
+          <lb ed="#B" n="22"/>crudelis et iniusta <sic>stimabitur</sic> christiana religio ergo me<lb ed="#B" break="no" n="23"/>lius 
+          et sanctius et sic eligibilius erit permittere paucos peri<lb ed="#B" break="no" n="24"/>re 
+          innocentes occidentium scelera dissimulando quam quod pro illis 
+          <lb ed="#B" n="25"/>liberandis innocentium millium millia occidamus. 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e686">
+          <pc type="pilcrow">¶</pc> Hec con<lb ed="#B" break="no" n="26"/>sequentia 
+          probatur ex regula quam ipse redemptor mundi nobis 
+          <lb ed="#B" n="27"/>statuit: Matthei 13 in parabola de zizaniis exhortas in medio tri<lb ed="#B" break="no" n="28"/>tici. 
+          Unde Sanctus Thomas in locis diuersis de huiusmodi loquens ait: 
+          <lb ed="#B" n="29"/>quod: dominus abstinendum mandauit ab eradicatione zizaniorum 
+          <lb ed="#B" n="30"/>tritico parceret id est bonis. Quod quidem fit quando non possunt 
+          <lb ed="#B" n="31"/>occidi mali quin simul occidantur et boni vel quia latent inter 
+          <lb ed="#B" n="32"/>bonos: vel quia habent multos sequaces: itaque sine bonorum periculo 
+          <pb ed="#B" n="114-v"/>
+          <lb ed="#B" n="1"/>interfici non possunt ut Augustinus dicit contra perminia<lb ed="#B" break="no" n="2"/>num. 
+          Unde dominus docet magis esse sinendum malos viuere 
+          et ultionem seruandam usque ad extremum iudicium: quam quod 
+          <lb ed="#B" n="3"/>boni simul occidantur etc. hec Sanctus Thomas super dicta parabola 
+          <lb ed="#B" n="4"/>et 2. 2o q. 1o articulo 8, ad 1m et 22. q. 64. articulo 2 ad primum et in 4 
+          <lb ed="#B" n="5"/>distinctione 13 quaestione 2 articulo 3o ad 3 et 3 contra gen c. 146 et quolibet 10 articulo 15 ad 1m 
+          <lb ed="#B" n="6"/>et in multis locis aliis. Patiocinantur praedictis plurima iura 
+          <lb ed="#B" n="7"/>c. denique, 14, q. 5, ubi Ambrosius inquit: <quote xml:id="cy8th8-d1e585-Qd1e723">si non potest sub<lb ed="#B" break="no" n="8"/>ueniri 
+          alteri nisi alter ledatur, commodius est neutrum iuuari 
+          <lb ed="#B" n="9"/>quam grauari alterum etc</quote> <pc type="virgula">/</pc>. 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e735">
+          Et pro hoc facit quod perplura iura 
+          <lb ed="#B" n="10"/>habent. Prohibent nanque rigorem aut vindictam exercere 
+          <lb ed="#B" n="11"/>quando non possunt precise distingui delinquentes ab illis qui 
+          <lb ed="#B" n="12"/>non sunt culpabiles <pc type="virgula">/</pc> ne innocentes iniuste patientur. Et 
+          <lb ed="#B" n="13"/>quotiens pluries rationabiliter. perituri creduntur quam sint 
+          <lb ed="#B" n="14"/>quibus opem ferre conamur. quod in bello accidere semper mi<lb ed="#B" break="no" n="15"/>nime 
+          dubitatur. hec patent. 23, q. 4, c. non potest et 1. q. 
+          <lb ed="#B" n="16"/>7. c. Quotiens, el. 2o et de temporibus ordinatio c. 2, et 23, q. 5, c. 
+          <lb ed="#B" n="17"/>ipsa pietas et 9, q. 1 c. ordinationes et 50 dist. c. ut consti<lb ed="#B" break="no" n="18"/>tuerentur
+          et 44 dist. c. comensationes et 4 dist. c. denique
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e760">
+          <pc type="pilcrow">¶</pc> Extra casum huiusmodi nihil incumbit regibus nostris (vt 
+          <lb ed="#B" n="19"/>diximus nisi occupari se circa illa que in 2a conclusione in<lb ed="#B" break="no" n="20"/>cluduntur: 
+          et sunt principatus sui vel ad principatum 
+          <lb ed="#B" n="21"/>actu habendum preparatoria vt <ref xml:id="cy8th8-d1e585-Rd1e771">supra § 30</ref> probatum fuit.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e774">
+          <lb ed="#B" n="22"/><pc type="pilcrow">¶</pc> Et licet dicatur in superioribus quod habens potestatem vel 
+          <lb ed="#B" n="23"/>iurisdictionem in habitu possit eam subdelegare: cum istis 
+          <lb ed="#B" n="24"/>tamen infidelibus qui nunquam fidem susceperunt nec audie<lb ed="#B" break="no" n="25"/>runt 
+          aut culpam aliquam contra ecclesiam non commiserunt 
+          <lb ed="#B" n="26"/>reges nostri subdelegare non valent per supra dicta scilicet 
+          <lb ed="#B" n="27"/>quia nec ecclesia uel summus pontifex non habent potestatem 
+          <lb ed="#B" n="28"/>vel iurisdictionem in habitu de presenti purificato id est 
+          <lb ed="#B" n="29"/>perfecionato quandiu ad fidem voluntarie non veniunt: et 
+          <lb ed="#B" n="30"/>per consequens ibi non habent subditos quibus possit committere causam 
+          <lb ed="#B" n="31"/>seu delegare. Iuxta ea que leguntur et notantur in <ref xml:id="cy8th8-d1e585-Rd1e799">c. pasto<pb ed="#B" n="115-r"/><lb ed="#B" break="no" n="1"/>ralis, 
+          § quoniam autem de rescriptis</ref> et multis iuribus in precedentibus 
+          <lb ed="#B" n="2"/>allegatis ergo nec etiam reges nostri possunt ea facere vel dele<lb ed="#B" break="no" n="3"/>gare. 
+          Quod enim non potest causa prima que habet influere in se<lb ed="#B" break="no" n="4"/>cunda 
+          multo minus potest secunda sumpto argumento a maiori 
+          <lb ed="#B" n="5"/>potentia cause efficientis. Et sumpto <!--[alio]--> argumento ab effectu 
+          <lb ed="#B" n="6"/>cause efficientis vt in simili argumentatur baldus in <ref xml:id="cy8th8-d1e585-Rd1e819">l. cunctos 
+          <lb ed="#B" n="7"/>populos C. de summa trinitate</ref>
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e825">
+          <pc type="pilcrow">¶</pc> Porro circa huiusmodi speciem 
+          <lb ed="#B" n="8"/>infidelium solum nanciscitur summus Christi vicarius po<lb ed="#B" break="no" n="9"/>testatem 
+          vel iurisdictionem quam dicunt iuriste voluntariam 
+          <lb ed="#B" n="10"/>vel similem voluntarie.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e837">
+          Quod patet primo sic. quia cum 
+          <lb ed="#B" n="11"/>principaliter potestas ecclesie et eius capitis ac potestatis actus 
+          <lb ed="#B" n="12"/>precipuus per quem ecclesie incepit edificatio vel constructio 
+          <lb ed="#B" n="13"/>illus: consistat in fidei predicatione et adunatione fidelium 
+          <lb ed="#B" n="14"/>ex infidelibus. <ref xml:id="cy8th8-d1e585-Rd1e847">Ad Ephesios 2</ref> et <ref xml:id="cy8th8-d1e585-Rd1e850">ad Romanos 10</ref> et <ref xml:id="cy8th8-d1e585-Rd1e852">c. cum ex 
+          <lb ed="#B" n="15"/>iniuncto de hereticis</ref> et <ref xml:id="cy8th8-d1e585-Rd1e857">de statu monachorum c. quod dei timorem</ref>. Et 
+          <lb ed="#B" n="16"/>hec debeat esse suauis et intellectui persuasiua et uoluntatis 
+          <lb ed="#B" n="17"/>allectiua: charitatis et benevolentie ostensiua ut homines vo<lb ed="#B" break="no" n="18"/>luntarie 
+          moueantur et incitentur ad audiendum et suscipiendum 
+          <lb ed="#B" n="19"/>verbum dei et sic ipsam catholicam fidem quia credere actus est 
+          <lb ed="#B" n="20"/>voluntatis que cogi est impossibile: sequitur quod eius modi eccle<lb ed="#B" break="no" n="21"/>siastica
+          potestas predicandi euangelii possit dici voluntaria iuris<lb ed="#B" break="no" n="22"/>dictio
+          vel voluntarie iurisdictioni esse similis.
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e876">
+          <pc type="pilcrow">¶</pc> 2o patet et me<lb ed="#B" break="no" n="23"/>lius 
+          quia cum adoptari aliquem in filium qui filius non est sed 
+          <lb ed="#B" n="24"/>extraneus vel forensis sit actus iurisdictionis voluntarie quasi 
+          <lb ed="#B" n="25"/>ars immittetur naturam (Est enim adoptatio vel adoptio extra<lb ed="#B" break="no" n="26"/>nee
+          persone in filium vel nepotem vel deinceps gratiosa et legiti<lb ed="#B" break="no" n="27"/>ma 
+          aasumptio: vel vt plenius dicamus ad propositum abrogatio 
+          <lb ed="#B" n="28"/>que est adoptionis <sic>spes<!--species--></sic> et perfecte imitatur naturalem filiationem 
+          <lb ed="#B" n="29"/>per quam reducitur adoptatus in potestatem adoptantis voluntarie 
+          <lb ed="#B" n="30"/>tamen: quia nisi adoptatus voluntarie <del rend="strikethrough">tamen quia</del> suscipiat 
+          <lb ed="#B" n="31"/>nihil valet adoptio vt in <ref xml:id="cy8th8-d1e585-Rd1e908">l. necque ff. De adoptionibus</ref> Et propterea 
+          <lb ed="#B" n="32"/>succedit adoptatus patri adoptant ex intestato etc. <sic><pc type="virgula">/</pc>.</sic> in fine 
+          <lb ed="#B" n="33"/>de adoptionibus § femine in glosa. et <ref xml:id="cy8th8-d1e585-Rd1e919">S. Thomas, in 4 sententiarum dist. 
+          <lb ed="#B" n="34"/>42 q. 2, articulo 1o</ref> Et infideles huiusmodi sint extranee persone 
+          <pb ed="#B" n="115-v"/>
+          <lb ed="#B" n="1"/><sic>et<!--ac--></sic> forenses: quia totaliter sunt extra ecclesiam et forum eius nec 
+          <lb ed="#B" n="2"/>subditi quantum ad coercivam seu contentiosam iurisdictionem 
+          <lb ed="#B" n="3"/>que exercetur in inuitum vt aliquid supra circa finem § 30 
+          <lb ed="#B" n="4"/>tactum fuit et in nostra apologia et in aliis nostris tractati<lb ed="#B" break="no" n="5"/>bus 
+          latissime probatum patet: sequitur quod si adoptandi sunt 
+          <lb ed="#B" n="6"/>in filios Dei hoc esse opus per fidem Iesu Christi sacro sanctum 
+          <lb ed="#B" n="7"/>baptismi sacramentum suscipiendo secundum illud <ref xml:id="cy8th8-d1e585-Rd1e945">ad Ro<lb ed="#B" break="no" n="8"/>manos 
+          8</ref>: <quote xml:id="cy8th8-d1e585-Qd1e950" source="http://scta.info/resource/rom8_15@10-18">accepistis spiritum adoptionis filiorum Dei: in quo clama<lb ed="#B" break="no" n="9"/>mus 
+          abba pater</quote>: atque proinde voluntarie: ita quod ipsimet 
+          <lb ed="#B" n="10"/>adoptatio libere sine aliqua coactione vel violentia velint adop<lb ed="#B" break="no" n="11"/>tari 
+          in filios Dei (id est) velint esse christiani iuxta illud <ref xml:id="cy8th8-d1e585-Rd1e960">ioannis 1.</ref> 
+          <lb ed="#B" n="12"/><quote xml:id="cy8th8-d1e585-Qd1e963" source="http://scta.info/resource/io1_12@5-16">dedit eis potestatem filios Dei fieri: his qui credunt in nomine 
+          <lb ed="#B" n="13"/>eius</quote> (hoc est) in potestate liberi arbitrii reliquit <sic>eis<!--eos--></sic> quatenus 
+          <lb ed="#B" n="14"/>si voluerint filii Dei fiant credendo in eum etc. Nam si 
+          <lb ed="#B" n="15"/>inuiti ad credendum cogerentur adoptio non valeret. Et 
+          <lb ed="#B" n="16"/>hoc est quod Ambrosius inquit: <quote xml:id="cy8th8-d1e585-Qd1e979">voluntarium militem Christus 
+          elegit</quote>: <ref xml:id="cy8th8-d1e585-Rd1e981">15, q. 1, c. non est</ref>. 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e984">
+          <pc type="pilcrow">¶</pc> Cum igitur hec potestas ecclesie 
+          <lb ed="#B" n="17"/>vel summi pontificis trahendi et inuitandi ac persuadendi 
+          <lb ed="#B" n="18"/>infidelibus vt velint adoptari et esse filios dei per fidem ac fidei 
+          <lb ed="#B" n="19"/>sacramenti susceptionem scilicet baptismi: et sic ecclesiam ingredi 
+          <lb ed="#B" n="20"/>seu connumerari fidelibus qui sunt hereditas Dei habeat funda<lb ed="#B" break="no" n="21"/>mentum 
+          in libertate &amp; acceptatione voluntaria liberi arbitrii 
+          <lb ed="#B" n="22"/><sic>temporum<!--ipsorum--></sic> infidelium supposita gratia Dei prout <ref xml:id="cy8th8-d1e585-Rd1e1005">s. Thomas do<lb ed="#B" break="no" n="23"/>cet: 
+          3 par. q. 8, articulo 3o ad primum</ref> dicens quod <quote xml:id="cy8th8-d1e585-Qd1e1010">illi qui sunt infide<lb ed="#B" break="no" n="24"/>les 
+          etsi actu non sunt de ecclesia sunt tamen de ecclesia<subst><add place="above-line">stica</add> <del rend="strikethrough">stica</del></subst> 
+          <lb ed="#B" n="25"/><del>sunt tamen</del> potentia. Que quidem potentia in duobus funda<lb ed="#B" break="no" n="26"/>tur.
+          Primo quidem et principaliter in virtute christi que est 
+          <lb ed="#B" n="27"/>sufficiens ad salutem totius generis humani. Secundo 
+          <lb ed="#B" n="28"/>in arbitrii libertate</quote> 
+        </p>
+        <p xml:id="cy8th8-d1e585-d1e1033">
+          Sequitur quod <sic>eiusmodi <!--huius modi--></sic> potestas siue iurisdictio 
+          <lb ed="#B" n="29"/>ecclesie que ad infideles qui fidem nunquam nec receperunt nec 
+          <lb ed="#B" n="30"/>audierunt se potest regulariter extendere est potestas 
+          <lb ed="#B" n="31"/>vel iurisdictio voluntaria vel similis ei quam iuriste appellant 
+          <pb ed="#B" n="116-r"/>
+          <lb ed="#B" n="1"/>voluntariam. Et hec ipsa delegari et comitti potuit per 
+          <lb ed="#B" n="2"/>papam in reges et per reges in alios ministros Idoneos ec<lb ed="#B" break="no" n="3"/>clesie:
+          quoniam nihil aliud est quam mouere <pc type="virgula">/</pc> mandare <pc type="virgula">/</pc> precipere 
+          <lb ed="#B" n="4"/>aut exhortari vt pacifice mansuete beneuole charitatiue et 
+          <lb ed="#B" n="5"/>exemplariter gentes ille inducantur et trahantur ad fidem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
