@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 42</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 41</title>
+          <date when="2025-11-05">November 05, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="119-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e611">
+        <head xml:id="cy8th8-d1e611-Hd1e97">Sectio 42</head>
+        <p xml:id="cy8th8-d1e611-d1e99">
+          <pb ed="#B" n="119-v"/>
+          <lb ed="#B" n="1"/>§ <sic>41<!-- but actual 42 --></sic>
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e110">
+          <lb ed="#B" n="2"/>Nunc autem circa ea que supra precipue in <ref xml:id="cy8th8-d1e611-Rd1e114">§ 39</ref> sunt 
+          <lb ed="#B" n="3"/>tractata (scilicet qualiter Reges nostri se habere debeant 
+          <lb ed="#B" n="4"/>in exercitio habitus potestatis vel iurisdictionis que habent: 
+          <lb ed="#B" n="5"/>dubium <sic>infingit<!--insurgit--></sic> non dissimulandum. Cuius vel quorum 
+          <lb ed="#B" n="6"/>impensis ea que incumbunt eis facerent. 
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e130">
+          Manifestum 
+          <lb ed="#B" n="7"/>enim est ad missionem nunciorum et predicatorum pre<lb ed="#B" break="no" n="8"/>latorum 
+          et aliorum ministrorum ecclesie nec non eorum 
+          <lb ed="#B" n="9"/>qui quoquo modo in ea re erunt adiutores: expensas magnas 
+          <lb ed="#B" n="10"/>fore neces. An ipsi catholici reges nostri: teneantur 
+          <lb ed="#B" n="11"/>propriis sumptibus ea que agenda eis incumbunt exple<lb ed="#B" break="no" n="12"/>re. 
+          vel ipsimet habitatores orbis prefati quandoquidem 
+          <lb ed="#B" n="13"/>omnia illa ordinantur et diriguntur ad eorum utilitatem: 
+          <lb ed="#B" n="14"/>tenebuntur ratione negociorum vtiliter pro eis gestorum 
+          <lb ed="#B" n="15"/>de suo sumptus ministrare. Et an si nollent poterunt 
+          <lb ed="#B" n="16"/>compelli ad soluendum expensas factas. 
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e154">
+          Et certe videtur quod 
+          <lb ed="#B" n="17"/>sic. Quoniam iure nature et diuino debetur his qui laborant pro 
+          <lb ed="#B" n="18"/>bono publico temporali vel spirituali merces <sic>sua</sic> non ab aliis 
+          <lb ed="#B" n="19"/>quorum vtilitas procuratur. Nemo enim militat stipendiis 
+          <lb ed="#B" n="20"/>suis unquam. Nec plantat uineam et de fructu eius non 
+          <lb ed="#B" n="21"/>edit. Et dominus ordinauit hiis qui euangelium annuntiant 
+          <lb ed="#B" n="22"/>de euangelio uiuere: <quote xml:id="cy8th8-d1e611-Qd1e171" source="http://scta.info/resource/Icor9_11@1-12">Etsi vobis spiritualia seminamus mirum 
+          <lb ed="#B" n="23"/>non est si carnalia vel temporalia vestra metamus</quote> etc. hec 
+          <lb ed="#B" n="24"/>omnia <ref xml:id="cy8th8-d1e611-Rd1e178">apostolus I Corinthios 9</ref>; et dominus: <quote xml:id="cy8th8-d1e611-Qd1e180" source="http://scta.info/resource/mt10_10@12-17">dignus est merce<lb ed="#B" break="no" n="25"/>narius 
+          mercede vel cibo suo</quote>. Matthei 10 vbi apparet hoc esse 
+          <lb ed="#B" n="26"/>de iure naturali et divino est etiam de iure humano: l. 1, § 
+          <lb ed="#B" n="27"/>sed non ob impensas in fi. C. de rei uxorie actione et ibi doctores 
+          <lb ed="#B" n="28"/>vbi habetur quod negociorum gestor potest repetere expensas vti<lb ed="#B" break="no" n="29"/>les 
+          si vtiliter gessit.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e196">
+          <pc type="pilcrow">¶</pc> Sed contrarium videtur: quia cum 
+          <lb ed="#B" n="30"/>predicatio euangelii debeat esse pacifica <pc type="virgula">/</pc> dulcis <pc type="virgula">/</pc> gratiosa 
+          <pb ed="#B" n="120-r"/>
+          <lb ed="#B" n="1"/>id est gratis data allectiua et suauis ideo non onerosa et 
+          <lb ed="#B" n="2"/>auscultatio siue auditus eiusdem per eos qui extra ecclesiam 
+          <lb ed="#B" n="3"/>omnimodis sunt et susceptio fidei et christianitatis volun<lb ed="#B" break="no" n="4"/>taria 
+          nec non ad suscipiendam nullo modo gentes alique 
+          <lb ed="#B" n="5"/>compelli possunt sequitur quod in sua potestate etiam existit 
+          <lb ed="#B" n="6"/>quantumcunque ipsam fidem suscipiant sumptus si non pres<lb ed="#B" n="7"/><del rend="strikethrough">tare</del>tant 
+          possunt inquietari vel male tractari. 
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e230">
+          probatur 
+          <lb ed="#B" n="8"/>hoc: quia precepto christi iubemur fidem quam gratis et 
+          <lb ed="#B" n="9"/>sine precio aut meritis nostris accepimus: gratis et absque 
+          <lb ed="#B" n="10"/>precio <del rend="strikethrough">aut meritis</del> dare debeamus <ref xml:id="cy8th8-d1e611-Rd1e241">Matthei 10</ref> et solum 
+          <lb ed="#B" n="11"/>concessit cibum accipere: <quote xml:id="cy8th8-d1e611-Qd1e246">Dignus inquit, est operarius 
+          <lb ed="#B" n="12"/>cibo suo</quote> id est secundum Hieronimum <quote xml:id="cy8th8-d1e611-Qd1e251">tantum accipite quantum 
+          <lb ed="#B" n="13"/>in vestitu et victu vobis necessarium est</quote>. Et hoc satis decla<lb ed="#B" break="no" n="14"/>rat 
+          apostolus in verbis supra relatis: <quote xml:id="cy8th8-d1e611-Qd1e258">habentes alimenta 
+          <lb ed="#B" n="15"/>et quibus tegamur his contenti sumus</quote> <ref xml:id="cy8th8-d1e611-Rd1e263">1o Ad Timotheum 6</ref>. Nec 
+          <lb ed="#B" n="16"/>obligauit recipientes euangelii nunciatores: nisi ad pro<lb ed="#B" break="no" n="17"/>uidendum 
+          de cibo ut ibi. ergo non ad soluendas expensas. 
+          <lb ed="#B" n="18"/>Quem cibum si audientes et recipientes simul euangelium 
+          <lb ed="#B" n="19"/>predicatoribus denegauerint non adhibuit penas. sicut 
+          <lb ed="#B" n="20"/>nec <sic>apposuit<!--opposuit--></sic> penas in hoc mundo non recipientibus eos 
+          <lb ed="#B" n="21"/>nec fidem suam: sed punitionem eiusmodi reseruauit sibi 
+          <lb ed="#B" n="22"/>pro dic finalis iudicii. <quote xml:id="cy8th8-d1e611-Qd1e285" source="http://scta.info/resource/mt10_14@1-21 http://scta.info/resource/mt10_15@1-15">Qui autem <sic>(</sic>inquit non receperint 
+          <lb ed="#B" n="23"/>vos neque audierit sermones <sic>nostros<!--uestros--></sic>: exeuntes foras domo 
+          <lb ed="#B" n="24"/>vel ciuitate: excutite puluerem de pedibus vestris. Amen 
+          <lb ed="#B" n="25"/>dico vobis: tolerabilius erit terre sodomorum et gomorreorum 
+          <lb ed="#B" n="26"/>in die iudicii quam illi ciuitati</quote> <ref xml:id="cy8th8-d1e611-Rd1e303">Mattheus 10</ref> et <ref xml:id="cy8th8-d1e611-Rd1e305">Marcus ultimo</ref> 
+          <lb ed="#B" n="27"/><quote xml:id="cy8th8-d1e611-Qd1e309" source="http://scta.info/resource/mc16_16@8-12">qui vero non crediderit condemnabitur</quote> Nec etiam apostolus 
+          <lb ed="#B" n="28"/>excommunicauit corinthios nec eis <sic>influxit<!--inflixit--></sic> aliquam penam 
+          <lb ed="#B" n="29"/>temporalem <del rend="strikethrough">nole</del> nolentes ex auaritia prouidere apostolo et 
+          <lb ed="#B" n="30"/>sociis eius de cibo. unde ad verecundiam eorum de huiusmodi
+          <pb ed="#B" n="120-v"/>
+          <lb ed="#B" n="1"/>coram deo gloriabitur dicens: <quote xml:id="cy8th8-d1e611-Qd1e330" source="http://scta.info/resource/IIcor11_7@11-16 http://scta.info/resource/IIcor11_8@1-8 http://scta.info/resource/IIcor11_9@1-30">Quoniam gratis euangelium 
+          <lb ed="#B" n="2"/>Dei euangelizaui vobis: alias ecclesias spoliaui accipiens sti<lb ed="#B" break="no" n="3"/>pendium
+          id est cibum ad ministerium vestrum. Et cum <sic>esse<!--essem--></sic> 
+          <lb ed="#B" n="4"/>apud vos et egerem: nulli onerosus fui. Nam quod mihi 
+          <lb ed="#B" n="5"/>de erat suppleuerunt fratres qui venerant de Macedonia
+          <lb ed="#B" n="6"/>et in omnibus sine onere me vobis seruaui et seruabo</quote> etc <pc type="virgula">/</pc>. 
+          <lb ed="#B" n="7"/>Interdum etiam laborauit manibus querens cibum et alia 
+          <lb ed="#B" n="8"/>necessaria pro sociis ne quibus predicabat grauis esset: ut patet 
+          <lb ed="#B" n="9"/><ref xml:id="cy8th8-d1e611-Rd1e357">actuum 20.</ref> Dum mileti existeret dixit quibus predicauerat 
+          <lb ed="#B" n="10"/>et ad christum conuerterat: <quote xml:id="cy8th8-d1e611-Qd1e361" source="http://scta.info/resource/act20_33@1-7 http://scta.info/resource/act20_34@1-17 http://scta.info/resource/act20_35@1-23">Argentum et aurum aut vestem 
+          <lb ed="#B" n="11"/>nullius concupiui sicut ipsi scitis: quoniam ad ea que mihi 
+          <lb ed="#B" n="12"/>opus erant et his qui mecum sunt ministrauerunt manus 
+          <lb ed="#B" n="13"/>iste. Omnia ostendi vobis: quoniam sic laborantes oportet 
+          <lb ed="#B" n="14"/>suscipere infirmos: ac meminisse verbi domini iesu <pc type="virgula">/</pc> quoniam 
+          <lb ed="#B" n="15"/>ipse dixit beatius est dare quam accipere</quote> hoc ibi.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e379">
+          <pc type="pilcrow">¶</pc> Non obstat 
+          <lb ed="#B" n="16"/>quod lege naturali et divina teneantur audientes verbum dei 
+          <lb ed="#B" n="17"/>et recipientes spiritualia providere de cibo et necessariis predicantibus 
+          <lb ed="#B" n="18"/>et propterea non prouidendo ex avaritia si haberent unde pec<lb ed="#B" break="no" n="19"/>carent 
+          et quidem grauiter. Quoniam peccatum illud punibile 
+          <lb ed="#B" n="20"/>non per homines pena corporali vel spirituali: sed in alio seculo 
+          <lb ed="#B" n="21"/>per ipsum deum duntaxat sicut apparet in obligatione na<lb ed="#B" break="no" n="22"/>turali 
+          que dicitur ad antidota et <sic>surgis<!--surgit--></sic> ex illa equitate naturali
+          <lb ed="#B" n="23"/>vt benefacienti nobis benefaciamus vt in <ref xml:id="cy8th8-d1e611-Rd1e405">l. sed in lege § 
+          <lb ed="#B" n="24"/>consuluit ff. de poenis</ref> et in <ref xml:id="cy8th8-d1e611-Rd1e411">c. cum in officiis de testamentis</ref>. Ex 
+          <lb ed="#B" n="25"/>hac enim obligatione<del rend="strikethrough">m</del> nulla competit actio nec potest deduci 
+          <lb ed="#B" n="26"/>in compensationem. <ref xml:id="cy8th8-d1e611-Rd1e420">l. hoc iure § penultimo. ff. de donationibus</ref>. et ideo 
+          <lb ed="#B" n="27"/>ad debitum soluendum quod ex hac obligatione nas<lb ed="#B" break="no" n="28"/>citur 
+          <lb ed="#B" n="29"/>nemo potest compelli. Sic nec ad dandum elemosinam 
+          <lb ed="#B" n="30"/>pauperi existenti in extrema necessitate. Ad quam tamen 
+          <lb ed="#B" n="31"/>tenemur lege naturali. Et sic de aliis misericordie 
+          <lb ed="#B" n="32"/>operibus: <quote xml:id="cy8th8-d1e611-Qd1e435" source="http://scta.info/resource/mt25_42@1-7">Esuriui et non dedisu mihi manducare</quote> etc Mathei 25. 
+          <lb ed="#B" n="33"/>pro quorum omissione nullus ab homine punitur tempora<lb ed="#B" break="no" n="34"/>liter 
+          vel spiritualiter. Et hoc ideo est quia opera pietatis exer<lb ed="#B" break="no" n="35"/>cenda 
+          uniuscuiusque relinquitur arbitrio an velit nolit ea 
+          <lb ed="#B" n="36"/>explere sic in proposito arbitrio uniuscuiusque reliquit 
+          <pb ed="#B" n="121-r"/>
+          <lb ed="#B" n="1"/>christus ut prouideret de cibo predicatoribus evangelii: licet 
+          <lb ed="#B" n="2"/>gravius forte peccent isti quam illi ratione ingratitudinis quia 
+          <lb ed="#B" n="3"/>deberent grati esse eis pro accepto beneficio: pro illa obligatione 
+          <lb ed="#B" n="4"/>antidotali vide felinum in <ref xml:id="cy8th8-d1e611-Rd1e458">c. <add place="margin-right">ad nostram de probationibus circa finem</add></ref> <add place="margin-right">et panor in c.</add> consuluit de vsuris.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e467">
+          <pc type="pilcrow">¶</pc> Similiter non 
+          <lb ed="#B" n="5"/>obstat: quod vtiliter geramus negocium illorum etc <pc type="virgula">/</pc> Tum 1o quia 
+          <lb ed="#B" n="6"/>ecclesie vel summo eius pastori necessitas incumbit ex precepto 
+          <lb ed="#B" n="7"/>absolute dato a christo vt predicetur per vniuersum orbem 
+          <lb ed="#B" n="8"/>euangelium cunctis gentibus sine aliqua conditione de precio 
+          <lb ed="#B" n="9"/>aut de expensis iuxta illud <quote xml:id="cy8th8-d1e611-Qd1e486">Marci ultimo</quote> <quote xml:id="cy8th8-d1e611-Qd1e488">Euntes in mundum 
+          <lb ed="#B" n="10"/>vniuersum predicate euangelium omni creature</quote>. Et <ref xml:id="cy8th8-d1e611-Rd1e493">Mattheus 
+          <lb ed="#B" n="11"/>ultimo</ref> <quote xml:id="cy8th8-d1e611-Qd1e498">Ite docete omnes gentes</quote> etc <pc type="virgula">/</pc> et Apostolus 1 ad Co<lb ed="#B" break="no" n="12"/>rinthios 
+          9<!--. [16-17]:--> <quote xml:id="cy8th8-d1e611-Qd1e508">Nam etsi euangelizauero non est mihi gloria: 
+          <lb ed="#B" n="13"/>necessitas enim mihi incumbit. Ve enim mihi est si non euangeliza<lb ed="#B" break="no" n="14"/>uero</quote> 
+          id est secundum glossam et s. Thomam: <quote xml:id="cy8th8-d1e611-Qd1e515">utique euacuaretur 
+          <lb ed="#B" n="15"/>gloria mea celestis si ideo predicarem vt sumptus acciperem. 
+          <lb ed="#B" n="16"/>Nam <!--si--> euangelizauero tantum itaque non ex dilectione <sic>dei 
+          <lb ed="#B" n="17"/>et</sic> proximi hec faciam <sic>nec<!--non--></sic> libera voluntate: non est mihi glo<lb ed="#B" break="no" n="18"/>ria 
+          apud Deum necessitas enim precepti quod non audeo omittere 
+          <lb ed="#B" n="19"/>mihi incumbit. Ue enim id est eterna damnatio mihi est si non 
+          <lb ed="#B" n="20"/>euangelizauero sicut mihi iniunctum est</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e541">
+          Ex hoc sequitur 2o 
+          <lb ed="#B" n="21"/>quia ex ordinatione <!--[diuina]--> predicatio euangelica est debita Iam om<lb ed="#B" break="no" n="22"/>nibus 
+          gentibus de mundo. Hoc enim unicuique debetur quod 
+          <lb ed="#B" n="23"/>est ordinatum ad ipsum est debita omnibus secundum ordinem diuine sapien<lb ed="#B" break="no" n="24"/>tie 
+          vt dicit S. Thomas, 1, q. 21, articulo 1o ad 3m et ideo pro soluvn<lb ed="#B" break="no" n="25"/>do
+          debitum non licet petere expensas a creditore. Nam su<lb ed="#B" break="no" n="26"/>mus 
+          pontifex et alii ministri ecclesie debitores sunt et gentes 
+          <lb ed="#B" n="27"/><sic>conuertendi<!--conuertende--></sic> creditore secundum illud ad Romanos 1o <quote xml:id="cy8th8-d1e611-Qd1e563">grecis ac 
+          <lb ed="#B" n="28"/>barbaris sapientibus et insipientibus debitor sum: ita quod 
+          <lb ed="#B" n="29"/>in me promptum est et vobis qui Rome estis euangelizare</quote>
+          <lb ed="#B" n="30"/>Et <ref xml:id="cy8th8-d1e611-Rd1e573">beatus bernardus lib. 3 ad eugenium</ref>: <quote xml:id="cy8th8-d1e611-Qd1e575">ergo (inquit) si co<lb ed="#B" break="no" n="31"/>gnoscis 
+          sapientibus <!--[et insipientibus]--> non dominatorem <pc type="virgula">/</pc> sed debitorem te esse 
+          <lb ed="#B" n="32"/>curandum summopere tibi et tota vigilantia considerandum 
+          <lb ed="#B" n="33"/>quomodo et qui non sapiunt sapiant <!--[et qui sapiunt],--> non desipiant et qui de<lb ed="#B" break="no" n="34"/>sipuere 
+          resipiscant. At nullum genus insipientie in fidelitate 
+          <pb ed="#B" n="121-v"/>
+          <lb ed="#B" n="1"/>maior ergo et infidelibus debitor es: iudeis et grecis et gentibus. 
+          <lb ed="#B" n="2"/>Interest proinde tua dare operam quam possis vt increduli conuertan<lb ed="#B" break="no" n="3"/>tur 
+          <add place="margin-left">ad fidem: conversi non convertantur</add></quote> etc. hec bernardus. 
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e605">
+          <pc type="pilcrow">¶</pc> Tum 3o quia christus precepto cons<lb ed="#B" break="no" n="4"/>trinxit 
+          predicatores gentium vt gratis euangelium darent. Et pre<lb ed="#B" break="no" n="5"/>cise 
+          accipere cibum et necessaria concedit. 
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e616">
+          <pc type="pilcrow">¶</pc> Tum 4o quia si ab 
+          <lb ed="#B" n="6"/>audientibus et etiam recipientibus euangelium expensas peteremus 
+          <lb ed="#B" n="7"/>putarent quod non gratis sed precio illud uenderemus. Ita dicit Hiero<lb ed="#B" break="no" n="8"/>nimus 
+          super Mattheum quod si apostoli acciperent aurum et argentum: 
+          viderentur non causa salutis hominum predicare sed lucri
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e628">
+          <pc type="pilcrow">¶</pc> Tum 5 
+          <lb ed="#B" n="9"/>5o quoniam ex <sic>negocium<!--negotiarum--></sic> gestione causa pietatis non insurgit obli<lb ed="#B" break="no" n="10"/>gatio 
+          in illo cuius negocium geritur. Unde negociorum gestor non 
+          <lb ed="#B" n="11"/>repetit expensas factas causa pietatis vt in l. ex duobus § 1 ff. 
+          <lb ed="#B" n="12"/>de negotiis gestis et ibi bartholus. Sed que maior causa pietatis quam hec que 
+          <lb ed="#B" n="13"/>pro religione facit? ut in l. sunt persone in fi. ff. de religiosis et sumptibus 
+          <lb ed="#B" n="14"/>funerum. Maxime quando expeditur aliquid circa aliquem ex 
+          <lb ed="#B" n="15"/>necessitate precisa vt quia ex precepto naturali vel diuino quis 
+          <lb ed="#B" n="16"/>ad faciendum aliquid constringitur ut hic. Quia tunc ex<lb ed="#B" break="no" n="17"/>pense 
+          non repetuntur. Sicut apparet in matre que expendit 
+          <lb ed="#B" n="18"/>circa personam filii de necessitate precisa vt quia filius est 
+          <lb ed="#B" n="19"/>intra triennium vel quia filius non habet alias unde viuat 
+          <lb ed="#B" n="20"/>quia matrimonium est solutum divortio eius culpa: et onus 
+          <lb ed="#B" n="21"/>filiorum spectat ad matrem vt l. nec filium C. de patria 
+          <lb ed="#B" n="22"/>potestate et l. si quis a liberis § <sic>siue<!--si uel--></sic> parens ff. de liberis agnoscendis isto casu 
+          <lb ed="#B" n="23"/>mater non habet repetitionem etiam si fuerit protestata quod faceret 
+          <lb ed="#B" n="24"/>animo repetendi ut glossa tenet et post eam bartholus in l. alimenta 
+          <lb ed="#B" n="25"/>et in l. 1a et 2a C. de negotiis gestis
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e679">
+          <pc type="pilcrow">¶</pc> Est alius casus quando necessi<lb ed="#B" break="no" n="26"/>tas 
+          est causatiua: puta quando impense fiunt in eam personam cui 
+          <lb ed="#B" n="27"/>cura iniungitur aliquid faciendum quia debet facere suo sumptu 
+          <lb ed="#B" n="28"/>vt l. suo victu ff. de operis libertorum. exemplum in matre pupilli 
+          <lb ed="#B" n="29"/>quia cum pupilli cura iniungatur matri vt l. 2 § si mater 
+          <lb ed="#B" n="30"/>ff. <sic>ad rebeli</sic> et <ref xml:id="cy8th8-d1e611-Rd1e697">l. diuus ff. qui petant tutores</ref> debet facere sum<pb ed="#B" n="122-r"/><lb ed="#B" break="no" n="1"/>ptu 
+          proprio per <ref xml:id="cy8th8-d1e611-Rd1e702">d. l. suo victu</ref> Unde impense quas mater fece<lb ed="#B" break="no" n="2"/>rit 
+          in petendo tutorem pro filio pupillo: nullo modo peti possunt 
+          <lb ed="#B" n="3"/>ratione cure sibi a lege naturali et humana iniuncte. Nec 
+          <lb ed="#B" n="4"/><del rend="strikethrough">poterit</del> proderit si fuerit protestata quod facit animo repetendi. 
+          <lb ed="#B" n="5"/>Nam illa protestatio declaratoria voluntatis: nullum habet 
+          <lb ed="#B" n="6"/>effectum in his que ex voluntate nostra non dependent:
+          <lb ed="#B" n="7"/>sed sunt decisa per legem secundum bartholum, in <ref xml:id="cy8th8-d1e611-Rd1e720">d. l. alimenta.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e723">
+          <lb ed="#B" n="8"/><pc type="pilcrow">¶</pc> Cum igitur predicandi euangelium per uniuersum orbem in 
+          <lb ed="#B" n="9"/>omnibus gentibus necessitas sit precisa vt pote per Christi 
+          <lb ed="#B" n="10"/>preceptum iniuncta et mandata et sic ex iure vel lege di<lb ed="#B" break="no" n="11"/>vina 
+          vt visum est ergo expense pro huiusmodi predicatione et 
+          <lb ed="#B" n="12"/>conuersione gentium quas expendi contigerit nullo modo possunt 
+          <lb ed="#B" n="13"/>repeti ergo propriis <sic>sumptibus<!--sumptialibus--></sic> papa vel rex vel quicunque christia<lb ed="#B" break="no" n="14"/>nus 
+          alius qui hoc onus vel curam susciperet predicationem 
+          <lb ed="#B" n="15"/>et conuersionem huiusmodi tenetur officere. Nec poderit sibi 
+          <lb ed="#B" n="16"/>aliquid si protestetur quod animo faciunt repetendi expensas quas
+          <lb ed="#B" n="17"/>fecerint: quoniam cum predicatio fidei et conuersio gentium 
+          <lb ed="#B" n="18"/>sint decise per legem divinam et sic debita nec dependant 
+          <lb ed="#B" n="19"/><sic>ex<!--a--></sic> sua voluntate idcirco illa protestatio voluntatis declaratiua 
+          <lb ed="#B" n="20"/>nullius erit effectus.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e763">
+          <pc type="pilcrow">¶</pc> Similiter idem concludendum est ex 
+          <lb ed="#B" n="21"/>necessitate causativa. Quoniam cum iniuncta sit cura diuinitus 
+          <lb ed="#B" n="22"/>summo Christi Uicario in primis et prelatis ecclesie: immo 
+          <lb ed="#B" n="23"/>vniuersis christicolis quia <quote xml:id="cy8th8-d1e611-Qd1e774">unicuique mandauit deus de proximo suo</quote> 
+          <lb ed="#B" n="24"/>ecclesiasticus 17 potissimum cui sumus ille pastor iniunxerit curam 
+          <lb ed="#B" n="25"/>ipsam predicandi euangelium et adducendi oues alias quas christum 
+          <lb ed="#B" n="26"/>oportet per suos ministros trahere ad suum ouile sequitur quod 
+          <lb ed="#B" n="27"/>qui eius modi curam asumeret vel cui iniuncta a christi vicario 
+          <lb ed="#B" n="28"/>fuerit teneatur suis sumptibus expedire: nec vnquam iure repe<lb ed="#B" break="no" n="29"/>tere 
+          quantumcunque protestatus sit quemadmodum mater petens 
+          <lb ed="#B" n="30"/>tutorem pro filio. Sic apostolus certe curam sibi iniunctam gentes 
+          <pb ed="#B" n="122-v"/>
+          <lb ed="#B" n="1"/>docendi &amp; illuminandi expediebat <ref xml:id="cy8th8-d1e611-Rd1e796">1 Thesalonicenses 2</ref> <quote xml:id="cy8th8-d1e611-Qd1e798" source="http://scta.info/resource/Ith2_7@8-20 http://scta.info/resource/Ith2_8@1-20 http://scta.info/resource/Ith2_9@1-21 http://scta.info/resource/Ith2_10@1-16 http://scta.info/resource/Ith2_11@1-9 http://scta.info/resource/Ith2_12@1-4">Sed facti 
+          <lb ed="#B" n="2"/>sumus paruuli in medio vestri tanquam si nutrix foueat fi<lb ed="#B" break="no" n="3"/>lios 
+          suos ita desiderantes vos cupide volebamus tradere vobis: 
+          <lb ed="#B" n="4"/>non solum euangelium Dei: sed etiam animas nostras quoniam 
+          <lb ed="#B" n="5"/>charissimi nobis facti estis. Memores enim facti estis fratres 
+          <lb ed="#B" n="6"/>laboris nostri et fatigationis nocte et die operantes nequenquam 
+          <lb ed="#B" n="7"/>grauaremus predicauimus in vobis euangelium dei. vos testes 
+          <lb ed="#B" n="8"/>estis et deus quam sancte et iuste et sine querela vobis qui credidistis 
+          <lb ed="#B" n="9"/>affuimus sicut scitis qualiter ununquenque vestrum tanquam pater 
+          <lb ed="#B" n="10"/>filios suos deprecantes vos et consolantes</quote> etc Et alibi <quote xml:id="cy8th8-d1e611-Qd1e820" source="http://scta.info/resource/Icor3_1@13-16 http://scta.info/resource/Icor3_2@1-6">tanquam paruulis in
+          Christo, lac uobis potum dedi, non escam</quote> <ref xml:id="cy8th8-d1e611-Rd1e824">1 ad 
+          <lb ed="#B" n="11"/>Corinthios 3</ref> Ecce apostolus tanquam mater et pater fouebat et lactabat 
+          <lb ed="#B" n="12"/>et consolabatur gentes doctrina christi vt filios propriis sumpti<lb ed="#B" break="no" n="13"/>bus 
+          non quibuscunque: sed quos nocte ac die manibus laborabat. 
+          <lb ed="#B" n="14"/>Et parum hoc ei erat sed etiam animam id est vitam pro illorum 
+          <lb ed="#B" n="15"/>salute exponere desiderabat et tamen expensas repetere non 
+          <lb ed="#B" n="16"/>curabat nec protestabatur.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e840">
+          <pc type="pilcrow">¶</pc> Et vsque adeo illicitum esse pre<lb ed="#B" break="no" n="17"/>dicatoribus 
+          euangelii repetitionem intendere impensarum bea<lb ed="#B" break="no" n="18"/>tus 
+          apostolus iudicauit: quod etiam a cibo petendo qui ei iure nature 
+          <lb ed="#B" n="19"/>et divino debebatur abstinuit <pc type="virgula">/</pc> dum erat inter eos qui sponta<lb ed="#B" break="no" n="20"/>nee 
+          non dabant: et operabatur manibus. <quote xml:id="cy8th8-d1e611-Qd1e857" source="http://scta.info/resource/act20_35@1-9">Omnia (inquit) ostendi 
+          <lb ed="#B" n="21"/>vobis quoniam sic laborantes oportet suscipere infirmos</quote> etc <pc type="virgula">/</pc>. 
+          <lb ed="#B" n="22"/>Vt parum supra retuli ex <ref xml:id="cy8th8-d1e611-Rd1e867">actuum 20</ref> Et sic patet non 
+          <lb ed="#B" n="23"/>obstare illud quod per leges humanas allegabatur in contrarium 
+          <lb ed="#B" n="24"/>scilicet de negociorum gestione vtiliter facta. Et per <!--hec--> error <ref xml:id="cy8th8-d1e611-Rd1e876">Ioanis 
+          <lb ed="#B" n="25"/>de maioris</ref> (quem inter ceteros habet <ref xml:id="cy8th8-d1e611-Rd1e881" corresp="#cy8th8-d1e611-Qd1e893 #cy8th8-d1e611-Qd1e898">super 2o sententiarum dist. 44 
+          <lb ed="#B" n="26"/>quaestione 3 in materia infidelium</ref>) manifeste conuincitur qui errans 
+          <lb ed="#B" n="27"/>et in iure et in facto de huiusmodi nationibus indianis dixit quod quia 
+          <lb ed="#B" n="28"/>in omnibus faciendis circa illos magne requiruntur impense 
+          <lb ed="#B" n="29"/>quas rex alius non ministrat. licitum est illas capere: <quote xml:id="cy8th8-d1e611-Qd1e893" source="http://scta.info/resource/jb2v19-d111866-d1e326@167-172">quia 
+            <lb ed="#B" n="30"/>alius (inquit) hoc velle rationabiliter debebit</quote>. et infra quod: <quote xml:id="cy8th8-d1e611-Qd1e898" source="http://scta.info/resource/jb2v19-d111866-d1e326@259-274">si rex 
+          <lb ed="#B" n="31"/>infidelis voluerit suscipere fidem cum aliis soluendo pro impensis
+          <pb ed="#B" n="123-r"/>
+          <lb ed="#B" n="1"/>assumptis non est deponendus de regno</quote> etc. hec ex illo. Verum 
+          <lb ed="#B" n="2"/>quia in nostra apologia latine ac vulgari sermone conscripta 
+          <lb ed="#B" n="3"/>errorem huiusmodi cum aliis <name xml:id="cy8th8-d1e611-Nd1e930">Ionannis de maioris</name> confutauimus 
+          <lb ed="#B" n="4"/>latissime idcirco in presentiarum in hoc est supersedendum <pc type="virgula">/</pc>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
