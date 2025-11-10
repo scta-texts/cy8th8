@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 43</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 43</title>
+          <date when="2025-11-06">November 06, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="123-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e624">
+        <head xml:id="cy8th8-d1e624-Hd1e97">Sectio 43</head>
+        <p xml:id="cy8th8-d1e624-d1e99">
+          <lb ed="#B" n="5"/>§ <sic>42<!-- but actual 43 --></sic>
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e108">
+          <lb ed="#B" n="6"/>Est autem circa predicta iterum considerandum: quod cum summus 
+          <lb ed="#B" n="7"/>Christi Vicarius sit loco christi ecclesie vniuersalis capud quia 
+          <lb ed="#B" n="8"/>non puri hominis <pc type="virgula">/</pc> sed veri Dei vicem gerit in terris c. quanto de 
+          <lb ed="#B" n="9"/>translatione prelatorum et per consequens incumbat ei ecclesiam dilatare et 
+          <lb ed="#B" n="10"/>dilatatam conseruare vt ex dictis beati bernardi apparuit: si<lb ed="#B" break="no" n="11"/>militer 
+          per chrisostomum super Mattheum 16 homel 55: <quote xml:id="cy8th8-d1e624-Qd1e126">filius que 
+          <lb ed="#B" n="12"/>patris est et ipsius filii potestatem petro vbique terrarum conces<lb ed="#B" break="no" n="13"/>sit 
+          et homini mortali omnium que in celo sunt dedit autorita<lb ed="#B" break="no" n="14"/>tem 
+          dando eidem clavos ad hoc vt ecclesiam vbique terrarum am<lb ed="#B" break="no" n="15"/>plificet 
+          teneanturque omnes principes christiani <pc type="virgula">/</pc> omnes communita<lb ed="#B" break="no" n="16"/>tes 
+          res publice tam seculares quam ecclesiastice obedire illius man<lb ed="#B" break="no" n="17"/>datis 
+          ac si mandata essent expressa Domini Iesu christi</quote>: quemadmo<lb ed="#B" break="no" n="18"/>dum 
+          latissime et pulcherrime docet beatus Cyrillus in libro 
+          <lb ed="#B" n="19"/>thesaurorum <quote xml:id="cy8th8-d1e624-Qd1e149">Dedit (inquit) filius dei petro plene et perfecte claues 
+          <lb ed="#B" n="20"/>regni celorum. Quoniam sicut ipse accepit a patre ducatum et sceptrum 
+          <lb ed="#B" n="21"/>ecclesie gentium ex israel egrediens super omnem <del rend="strikethrough">quodcunque est</del> 
+          principatum et potestatem et super omne quodcunque est: vt in eius 
+          <lb ed="#B" n="22"/>nomine genua cuncta curuentur plenissimam potestatem: sic et pe<lb ed="#B" break="no" n="23"/>tro 
+          et eius diadochis id est successoribus non minus sed plenissime</quote> 
+          <lb ed="#B" n="24"/>et infra: <quote xml:id="cy8th8-d1e624-Qd1e166"><!--cui--> omnes iure diuino caput inclinant et primates mundi tanquam 
+          <lb ed="#B" n="25"/>christo domino Iesu obediunt</quote> etc. hec cyrillus. 
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e173">
+          Ideo poterat et potuit 
+          <lb ed="#B" n="26"/>Romanus pontifex iniungere cuilibet christiano principi regno vel 
+          <lb ed="#B" n="27"/>communitati ecclesiastice aut seculari: aut etiam toti christiano 
+          <pb ed="#B" n="123-v"/>
+          <lb ed="#B" n="1"/>populo: vt expletis prius suis necessitatibus de residuis prouide<lb ed="#B" break="no" n="2"/>rent 
+          sumptus ad predicationem Euangelii per orbem illum et con<lb ed="#B" break="no" n="3"/>uersionem 
+          inhabitantium necessarios et ipsi<del rend="strikethrough">s</del> tenerentur obedire 
+          <lb ed="#B" n="4"/>onus inpositum humiliter acceptando. Hinc s. Thomas <sic>su</sic>
+          <lb ed="#B" n="5"/>super verba supra inducta apostoli <quote xml:id="cy8th8-d1e624-Qd1e197" source="http://scta.info/resource/IIcor11_8@1-3">alias ecclesias spoliavi</quote> <ref xml:id="cy8th8-d1e624-Rd1e201"><sic>I<!--II--></sic> ad 
+          <lb ed="#B" n="6"/>Corinthios 11o</ref> et <ref xml:id="cy8th8-d1e624-Rd1e209">ad Philippenses 4</ref> circa finem ait quod <quote xml:id="cy8th8-d1e624-Qd1e211">papa pro ne<lb ed="#B" break="no" n="7"/>cessitate 
+          vnius ecclesie vel patrie potest accipere subsidium ab aliis 
+          <lb ed="#B" n="8"/>mundi partibus. Ratio est quia ecclesia est sicut vnum corpus. 
+          <lb ed="#B" n="9"/>Uidemus autem in corpore naturali quod natura quando deficit vir<lb ed="#B" break="no" n="10"/>tus 
+          in vno membro, subministrat humores et virtutem accipi<lb ed="#B" break="no" n="11"/>ens
+          a membris aliis</quote>. hec S. Thomas. 
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e225">
+          Hac vsus potes<lb ed="#B" break="no" n="12"/>tate. 
+          <name xml:id="cy8th8-d1e624-Nd1e229">Alexander Sextus Papa</name> imposuit onus huius modo regibus 
+          <lb ed="#B" n="13"/>hyspaniarum intelligens: quod propriis sumptibus debebant predica<lb ed="#B" break="no" n="14"/>tioni 
+          et conuersioni predictus operam dare. Unde ipsi reges nostri 
+          <lb ed="#B" n="15"/>tenebantur et tenentur hodie propriis expensis si commode absque 
+          <lb ed="#B" n="16"/>incolarum turbatione a terris illis habere non potuissent 
+          <lb ed="#B" n="17"/>aut possent sumptus necessarios illis facere: expletis tamen <sic>prius</sic> 
+          <lb ed="#B" n="18"/>(vt predixi) regnorum suorum necessitatibus. hoc patet per
+          <lb ed="#B" n="19"/>verba illa contenta in litteris apostolicis predicte institutionis 
+          <lb ed="#B" n="20"/>et oneris: <quote xml:id="cy8th8-d1e624-Qd1e251">hortamur (inquit) vos quam plurimum in domino per 
+          <lb ed="#B" n="21"/>sacri lauachri susceptionem <sic>qua<!--quo--></sic> mandatis apostolicis obligati 
+          <lb ed="#B" n="22"/>estis et viscera misericordie Domini nostri Iesu christi attente 
+          <lb ed="#B" n="23"/>requirimus: vt cum expeditionem huiusmodi omnino prosequi 
+          <lb ed="#B" n="24"/>et assumere prona mente orthodoxe fidei zelo intendatis po<lb ed="#B" break="no" n="25"/>pulos 
+          in huiusmodi insulis et terris degentes ad christianam 
+          <lb ed="#B" n="26"/>religionem suscipiendam inducere velitis et debeatis</quote>. et infra 
+          <lb ed="#B" n="27"/>addens preceptum formale: ita inquit: <quote xml:id="cy8th8-d1e624-Qd1e273">Et insuper
+          mandamus vobis in virtute sancte obedientie (vt sicut etiam pollicemini et 
+          <lb ed="#B" n="28"/>non dubitamus pro vestra maxima deuotione et regia magnani<lb ed="#B" break="no" n="29"/>mitate 
+          vos esse facturos) ad terras firmas et insulas predictas 
+          <lb ed="#B" n="30"/>viros probos et deum timentes doctos peritos <pc type="virgula">/</pc> et expertos <pc type="virgula">/</pc> <sic>et exper<lb ed="#B" break="no" n="31"/>tos</sic> 
+          ad instruendum incolas et habitatores prefatos in fide catholica 
+          <pb ed="#B" n="124-r"/>
+          <lb ed="#B" n="1"/>et bonis moribus imbuendum et destinare debeatis omnem debitam 
+          <lb ed="#B" n="2"/>diligentiam in premissis adhibentes</quote> hec ibi in forma. 
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e302">
+          Ubi appa<lb ed="#B" break="no" n="3"/>ret 
+          expresse papam voluisse reges nostros precepto formali necessi<lb ed="#B" break="no" n="4"/>tatem 
+          importante ligare: atque per hoc ad predicta (scilicet) 
+          <lb ed="#B" n="5"/>ad operam dandam vt fides predicetur per orbem illum et procure<lb ed="#B" break="no" n="6"/>tur 
+          conuersio et salus illarum gentium animarum: et per consequens ad expensas 
+          <lb ed="#B" n="7"/>exponendas necesarias. Patet sequela: quia finis imponit necessitatem 
+          <lb ed="#B" n="8"/>his que sunt ad finem (id est) media conuenientia sine quibus finem 
+          <lb ed="#B" n="9"/>ipsum adipisci non possumus: Ex 2o phisicorum Unde cui ali<lb ed="#B" break="no" n="10"/>quid 
+          imponitur vel precipitur ut finis: etiam precipiuntur ea sine quibus acquiri non potest finis. Nam cum preceptum importet rationem 
+          <lb ed="#B" n="11"/>debiti et dupliciter aliquid sit debitum primo per se et secundo 
+          <lb ed="#B" n="12"/>propter aliud: per se est in unoquoque negocio id quod est finis quia 
+          <lb ed="#B" n="13"/>habet rationem per se boni: propter aliud vero est debitum id quod ordinatur 
+          <lb ed="#B" n="14"/>ad finem sicut medico per se debitum est vt sanet: propter aliud autem 
+          <lb ed="#B" n="15"/>ut medicinam det ad sanandum. Sic igitur quia regibus nostris 
+          <lb ed="#B" n="16"/>preceptum est et debitum per se vt finis vt euangelium diligenter 
+          <lb ed="#B" n="17"/>per idoneos ministros faciant predicare: preceptum quoque est 
+          <lb ed="#B" n="18"/>et debitum vt propter finem consequendum <pc type="virgula">/</pc> <sic>vt</sic> expensas et omnia 
+          <lb ed="#B" n="19"/>necessaria subministrent: quatenus ecclesia christi finem quem preten<lb ed="#B" break="no" n="20"/>dit 
+          (scilicet) predicationem euangelii cum effectu et conuersionem 
+          <lb ed="#B" n="21"/>illarum gentium adipiscatur.
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e351">
+          Nimirum ad hec, propria sponte 
+          <lb ed="#B" n="22"/>reges nostri per suam pollicitationem factam christi vicario et 
+          <lb ed="#B" n="23"/>toti ecclesie dei se obligarunt. Et super hoc fuit quoddam pactum 
+          <lb ed="#B" n="24"/>celebratum ex parte regum nostrorum cum pontifice maximo. 
+          <lb ed="#B" n="25"/>Nam pollicitatio est solius offerentis promissio non extat accep<lb ed="#B" break="no" n="26"/>tans 
+          sed est absens: transit tamen in pactum quando is cui quis 
+          <lb ed="#B" n="27"/>pollicetur per nuncium vel per literas acceptat. Quia ibi est duorum 
+          <lb ed="#B" n="28"/>consensus: <ref xml:id="cy8th8-d1e624-Rd1e368">l. pactum. ff. de pollicitatione</ref>. vide ad hoc glossam in clement. Roma<lb ed="#B" break="no" n="29"/>ni 
+          de iure iurando
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e373">
+          <pc type="pilcrow">¶</pc> Obligatur quis ex pollicitatione: quando pollicetur 
+          <lb ed="#B" n="30"/>ciuitati <pc type="virgula">/</pc> uniuersitati <pc type="virgula">/</pc> clero <pc type="virgula">/</pc> ecclesie <pc type="virgula">/</pc> vel pauperibus alicuius 
+          <lb ed="#B" n="31"/>loci: et ex causa <pc type="virgula">/</pc> puta ad honorem dei vel huiusmodi. <ref xml:id="cy8th8-d1e624-Rd1e398">ff. de pollicitatione 
+          <lb ed="#B" n="32"/>l. 1 §  1</ref> facit <ref xml:id="cy8th8-d1e624-Rd1e403">glossa in c. scimus, 12, q. 1</ref> que dixit quod ex pollici<lb ed="#B" break="no" n="33"/>tatione
+          facta deo potest quis conueniri allegatur <ref xml:id="cy8th8-d1e624-Rd1e408">22, q. 5, c. iuramenti.</ref> 
+          <lb ed="#B" n="34"/>sic, ex nuda pollicitatione facta reipublice. Allegatur ff. de eo, d. l. 1. facit 
+          <lb ed="#B" n="35"/>c. ex parte de sensibus et Panormitanus in prohemio decretalium et in d. c. 
+          <lb ed="#B" n="36"/>ex parte.
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e417">
+          <pc type="pilcrow">¶</pc> Cum igitur principes nostri polliciti fuerint Ro<lb ed="#B" break="no" n="37"/>mano 
+          pontifici vicario christi ac per hoc ipsi deo et ecclesie 
+          <lb ed="#B" n="38"/>Dei vniuersali et cum magna causa immo maxima omnium 
+          <lb ed="#B" n="39"/>legitima et finali causa puta ad dilatandum diuinum honorem et 
+          <lb ed="#B" n="40"/>cultum per illum tam uastum indiarum orbem: et ad trahendas 
+          <lb ed="#B" n="41"/>per fidei predicationem ad christum creatorem et redemptorem 
+          <lb ed="#B" n="42"/>suum et introducendas in eius ecclesiam tam innumeras infideles 
+          <lb ed="#B" n="43"/>nationes: sequitur quod clarissimi principes nostri remanserint insolu<lb ed="#B" break="no" n="44"/>bili 
+          et perpetua obligatione ligati etiam in exteriori foro ratione 
+          <lb ed="#B" n="45"/>pacti celebrati et quantum ad conscientiam per preceptum obligans 
+          <lb ed="#B" n="46"/>ad mortale: quia ciuiliter et naturaliter. Cum in uno 
+          <lb ed="#B" n="47"/>actu concurrat naturalis obligatio ex promissione et cum 
+          <lb ed="#B" n="48"/>iuris solemnitate que ciuilis obligatio nuncupatur. Quia 
+          <lb ed="#B" n="49"/>solemniter Christi Vicario prefatam pollicitationem pro<lb ed="#B" break="no" n="50"/>pria 
+          sponte Reges nostri obtulerunt: et in curam ad<lb ed="#B" break="no" n="51"/>ministrationis
+          totum illum orbem solemniter assumpse<lb ed="#B" break="no" n="52"/>runt 
+          ut patet instit. de obligationibus que ex quasi contracto nascuntur 
+          <lb ed="#B" n="53"/>Unde obligati sunt ad dictam predicationem et conuer<lb ed="#B" break="no" n="54"/>sionem 
+          atque ad expensas et sumptus exponendos quotquot fue<lb ed="#B" break="no" n="55"/>rint 
+          necessarii. Et facit <ref xml:id="cy8th8-d1e624-Rd1e463">l. 1, §  1 ff. si vsufructus petatur</ref> et in 
+          <lb ed="#B" n="56"/><ref xml:id="cy8th8-d1e624-Rd1e466">c. preterea de officio delegati cum sua materia</ref>
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e469">
+          Et hec qui<lb ed="#B" break="no" n="57"/>dem 
+          vera et indubitaabilia intelliguntur erat si reges nostri 
+          <lb ed="#B" n="58"/>nihil unquam ex gentibus et terris illis habuissent vt si fuera<lb ed="#B" break="no" n="59"/>mus
+          in tempore illo quo ille orbis detectus fuit et gentes illius 
+          <lb ed="#B" n="60"/>fuerant intacte a nostra tyranide quemadmodum erant 
+          <lb ed="#B" n="61"/>in primeuo statu. Ad vero postquam tam tetra immanitate 
+          <lb ed="#B" n="62"/>sunt diminute dissipate atque ad nihilum iam redacte: 
+          <lb ed="#B" n="63"/>nec non tot millia leucarum que plenissima erant morta<lb ed="#B" break="no" n="64"/>libus 
+          desolata: quis adeo disipiet vt non intelliget reges 
+          <pb ed="#B" n="125-r"/>
+          <lb ed="#B" n="1"/>nostros ad impendendum omnia necessaria promittendis pre<lb ed="#B" break="no" n="2"/>dicatoribus
+          prelatis et aliis ecclesie ministris ecclesiasticis 
+          <lb ed="#B" n="3"/>vel secularibus quocunque nomine vel officio censeantur esse 
+          <lb ed="#B" n="4"/>in vi restitutionis obligatos: absque hoc quod nec minimum quid 
+          <lb ed="#B" n="5"/>a gentibus illis vel terris accipiant vel habeant. Quanquam enim regi<lb ed="#B" break="no" n="6"/>bus 
+          nostris semper displicuerint violentie <pc type="virgula">/</pc> iniusticie tyranides in<lb ed="#B" break="no" n="7"/>iurie 
+          <pc type="virgula">/</pc> rapine ceteraque execrabilia facinora mala et damna 
+          <lb ed="#B" n="8"/>irreparabilia que gentes ille a nostratibus sunt perpesse: non 
+          <lb ed="#B" n="9"/>propterea a restitutione omnium predictorum damnorum 
+          <lb ed="#B" n="10"/>et iniuriarum liberi sunt incliti reges nostri. 
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e519">
+          Probatur hoc: 
+          <lb ed="#B" n="11"/>Tum 1o quia postquam predictam curam super humeros suos 
+          <lb ed="#B" n="12"/>assumpserunt et ciuiliter et naturaliter se obligauerunt tene<lb ed="#B" break="no" n="13"/>bantur 
+          gentes illas maxime a nostris defendere et tales nuncios vel 
+          <lb ed="#B" n="14"/>ministros mittere qui terminos eorum que diximus prepara<lb ed="#B" break="no" n="15"/>toria 
+          nuncupari (scilicet) illa duodecim que 2a conclusio com<lb ed="#B" break="no" n="16"/>plectitur 
+          non excederent. Quinimo tales consiliarios in suo 
+          <lb ed="#B" n="17"/>senatu habere: qui non ignorarent regna illa ad suos habi<lb ed="#B" break="no" n="18"/>tatores 
+          pertinere naturales ac esse libera nec propter fidem pre<lb ed="#B" break="no" n="19"/>dicandam
+          amittere dominia et libertatem suam: et intelli<lb ed="#B" break="no" n="20"/>gerent 
+          quod non eo ipso quod reges nostri fuerunt a summo christi 
+          <lb ed="#B" n="21"/>vicario in principes vniuersales illius orbis constituti: daba<lb ed="#B" break="no" n="22"/>tur 
+          eis licentia illum ac si regna fuerant hostium aut hereti<lb ed="#B" break="no" n="23"/>corum. 
+          et sic vacantia hostiliter inuadere et omnia turba<lb ed="#B" break="no" n="24"/>re 
+          grassari et deuastare: quemadmodum proh deuastata et de<lb ed="#B" break="no" n="25"/>serta 
+          iacent. hec nanque omnia in iure poterant reperiri 
+          <lb ed="#B" n="26"/>clara: si diligenter vt res exigebat scructari curarent. 
+          <lb ed="#B" n="27"/>Et ideo a culpa et forsan inexpiabili regius senatus non 
+          <lb ed="#B" n="28"/>excusatur. Neque enim licebat eis iura ignorare circa que 
+          <lb ed="#B" n="29"/>versabantur l. 2 ff. de origine iuris ergo ipsi catholici reges 
+          <lb ed="#B" n="30"/>ad restitutionem omnium predictorum damnorum obligantur.
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e566">
+          <lb ed="#B" n="31"/><pc type="pilcrow">¶</pc> Tum 2o hoc probatur per <ref xml:id="cy8th8-d1e624-Rd1e572">l. in re mandata C. mandati</ref>
+          <pb ed="#B" n="125-v"/>
+          <lb ed="#B" n="1"/>vbi omne commissum et <sic>negletum<!--neglectum--></sic> in re quam quis accepit 
+          <lb ed="#B" n="2"/>in curam suam: non est culpa uacuum. Et est textus notabi<lb ed="#B" break="no" n="3"/>lis. 
+          Idem in <ref xml:id="cy8th8-d1e624-Rd1e587">l. tutori: C. de negotiis gestis</ref>. 
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e590">
+          Tum 3o probatur 
+          <lb ed="#B" n="4"/>quia sicut Episcopus tenetur ad restitutionem damnorum iniuste 
+          <lb ed="#B" n="5"/>datorum vel iniuriose per officialem suum vel vicarium 
+          <lb ed="#B" n="6"/>procul dubi<subst><add>o</add> <del rend="strikethrough">um</del></subst> longe magis principes seculi tenentur de deli<lb ed="#B" break="no" n="7"/>ctis
+          suorum officialium quando quidem potentiores sunt ad <seg type="correction">pu<lb ed="#B" n="8"/><del>mendum</del>niendum</seg> et corrigendum delicta eorum. Patet per 
+          <lb ed="#B" n="9"/>ea que doctores determinant. de restitutione spoliatorum c. 1 et ibi per Ioannem 
+          <lb ed="#B" n="10"/>andream super verbo <mentioned>hominibus</mentioned> ubi dicit post hostiensem dominum 
+          <lb ed="#B" n="11"/>teneri de violentia per homines suos illata diffusius vide ibi
+          <lb ed="#B" n="12"/>Panormitanum. Et etiam imputatur ei qui opere malorum homi<lb ed="#B" break="no" n="13"/>num
+          vtitur ff. de actionibus et obligationibus l. ex maleficio et institut. de 
+          <lb ed="#B" n="14"/>obligationibus que ex quasi delicto nascuntur § sibi enim debet im<lb ed="#B" break="no" n="15"/>putare 
+          qui tales elegit <ref xml:id="cy8th8-d1e624-Rd1e630">ff. de minoribus l. cum mandato</ref> et <ref xml:id="cy8th8-d1e624-Rd1e632">l. 2 C. 
+          <lb ed="#B" n="16"/>de periculo nominatorum</ref> et <ref xml:id="cy8th8-d1e624-Rd1e637">l. unica C. de periculo eo lib. 11o</ref> 
+          <lb ed="#B" n="17"/>pro hoc videatur textus vt iudices sine quoquo suffragio § licet eos 
+          <lb ed="#B" n="18"/>in fine. ad hoc notata per <ref xml:id="cy8th8-d1e624-Rd1e644">glossam</ref> et plenius Hostiensem ut lite non 
+          <lb ed="#B" n="19"/>contestata c. 1 facit ff. de officio prefecti l. 4, proficisci in authent. 
+          <lb ed="#B" n="20"/>de iudiciis § nullo cum § sequenti et ibi notatis <ref xml:id="cy8th8-d1e624-Rd1e650">C. de custodia reorum 
+          <lb ed="#B" n="21"/>l. consenta<del rend="strikethrough">nai</del>nei</ref> <quote xml:id="cy8th8-d1e624-Qd1e659">C. quod metus causa l. si per impressionem 
+          <lb ed="#B" n="22"/>in fi</quote> pro hoc quod dolus procuratoris generalis nocet domino 
+          <lb ed="#B" n="23"/><ref xml:id="cy8th8-d1e624-Rd1e665">ff. de <sic>exaeptio<!--exactionibus--></sic> do. l. apud celsum § quesitum in fine</ref> <ref xml:id="cy8th8-d1e624-Rd1e672">ff 
+            <lb ed="#B" n="24"/>ad trebellionem l. procurator in principio</ref> presertim si potuit eum prohi<lb ed="#B" break="no" n="25"/>bere 
+          et non caret scrupulo societatis occulte: qui manifesto facinori 
+          <lb ed="#B" n="26"/>desinit obuiare: <ref xml:id="cy8th8-d1e624-Rd1e682"><sic>84<!--34--></sic> dist., c.
+          error</ref> <ref xml:id="cy8th8-d1e624-Rd1e688">de sententia excomunicationis, c. quanto</ref> 
+          <lb ed="#B" n="27"/>cum ibi notatis vel postquam sciuit non correxit: quia tunc videtur 
+          <lb ed="#B" n="28"/>socius tacite vel expresse argumentum C. de falcidia, l. 1 §  domus 
+          <lb ed="#B" n="29"/>C. de his que a latronibus § <sic>§</sic> 1 princeps enim tenetur de omnibus 
+          <lb ed="#B" n="30"/>et omnium autor esse videtur quia cum omnia possent corrigere: 
+          <lb ed="#B" n="31"/>eorum merito particeps est que noluit vel neglexit emendare 
+          <lb ed="#B" n="32"/>vt inquit Polcraticus lib. 4 capitulo vltimo hoc etiam tenet S. 
+          <pb ed="#B" n="126-r"/>
+          <lb ed="#B" n="1"/>Thomas 2 2e q. 62, articulo 7 videatur de hoc in decisionibus de rota <sic>desisi<!--decisio--></sic> 
+          <lb ed="#B" n="2"/>431 in antiquis.
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e717">
+          <pc type="pilcrow">¶</pc> Obligantur igitur Reges nostri iure diuino 
+          <lb ed="#B" n="3"/>naturali et humano ad resarciendum integraliter omnia da<lb ed="#B" break="no" n="4"/>mna 
+          irreparabilia <pc type="virgula">/</pc> omnes iniurias <pc type="virgula">/</pc> iniustitias <pc type="virgula">/</pc> crudelitates <pc type="virgula">/</pc> 
+          <lb ed="#B" n="5"/>vastationes tot regnorum tot uastarum et deuastata terrarum <pc type="virgula">/</pc> tam ingen<lb ed="#B" break="no" n="6"/>tium 
+          thesaurorum et diuitiarum raptarum: strages innume<lb ed="#B" break="no" n="7"/>rabilium 
+          mortalium occisorum taceo que mala per nuncios 
+          <lb ed="#B" n="8"/>capitaneos vel duces et ceteros illorum comites quos miserunt: 
+          <lb ed="#B" n="9"/>nomine regio licet non de regia voluntate gentibus illis per totum 
+          <lb ed="#B" n="10"/>illum orbem fuerunt illata.
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e756">
+          <pc type="pilcrow">¶</pc> O quando et vnde tot tantaque 
+          <lb ed="#B" n="11"/>resarcient aut satisfacient.
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e764">
+          <pc type="pilcrow">¶</pc> Uerumtamen licet ista vera 
+          <lb ed="#B" n="12"/>vtique sint non tamen opus est regibus nostris ad supplendos 
+          <lb ed="#B" n="13"/>sumptus necessarios pro hac expeditione: hyspaniam spoliare 
+          <lb ed="#B" n="14"/>accipiendo ex redditibus, quos habet in ea: vt vestiat indos, et 
+          <lb ed="#B" n="15"/>locupletes faciat. Sed <del>quod quod</del> regibus incumbit de necessi<lb ed="#B" break="no" n="16"/>tate 
+          salutis est. quod quocunque commoda, vel proventus in auro 
+          <lb ed="#B" n="17"/>et argento ceterisque rebus preciosis ex regnis, et terris indo<lb ed="#B" break="no" n="18"/>rum 
+          sibi quoquomodo (iure tamen) prouenerint: sinant ibi mane<lb ed="#B" break="no" n="19"/>re; 
+          quatenus pro expensis necessariis explendis ad vtilitatem
+          <lb ed="#B" n="20"/><sic>ad vtilitatem</sic>, et necessitatem spiritualem et temporalem illarum 
+          <lb ed="#B" n="21"/>gentium prouide expendantur: nec quicquam eorum in hys<lb ed="#B" break="no" n="22"/>paniam 
+          iubeant asportari. Nempe si eiusmodi commoda, 
+          <lb ed="#B" n="23"/>vel prouentus in de non tollant, vt ad vtilitatem hyspanie, 
+          <lb ed="#B" n="24"/>aut aliorum regnorum suorum deferantur, vel in alios vsos 
+          <lb ed="#B" n="25"/>expendant, vt puta quintam partem auri et argenti de 
+          <lb ed="#B" n="26"/>mineralibus et margaritarum: et quod ex mercimoniis 
+          <lb ed="#B" n="27"/>seu comutationibus, que inter indigenas, et hispanos contra<lb ed="#B" break="no" n="28"/>ctabuntur 
+          frequentissime si <sic>noverim<!--noverint--></sic>, non verbis quidem sed 
+          <lb ed="#B" n="29"/>opere, et veritate se liberos esse, ac uim ab illis amplius non 
+          <lb ed="#B" n="30"/>passuros iustitia seruante preterea, quod ex duanis, uectigalibus, 
+          <lb ed="#B" n="31"/>guidagus, gabellis et datiis, que ex mercimoniis a mercatori<lb ed="#B" break="no" n="32"/>bus 
+          hispanis: pro his, que ab hyspania illuc deferuntur, vel inde 
+          <lb ed="#B" n="33"/>auferuntur, aut ibi venduntur, et ex multis aliis vtilitatibus 
+          <pb ed="#B" n="126-v"/>
+          <lb ed="#B" n="1"/>pro tempore prouenientibus. Hec inquam, que ex numeratis re<lb ed="#B" break="no" n="2"/>ges 
+          nostri colligunt, et in dies affatim eis obuenire possunt suf<lb ed="#B" break="no" n="3"/>ficientissime 
+          profecto, non solum providebitur quibuscunque ne<lb ed="#B" break="no" n="4"/>cessitatibus 
+          pro ista expeditione, verum etiam redditus im<lb ed="#B" break="no" n="5"/>pensas 
+          superabunt. Quod si ad aliquid tribuendum indigene 
+          <lb ed="#B" n="6"/>ipsi essent obligate: his ad summum indubitanter satisfa<lb ed="#B" break="no" n="7"/>cerent. 
+          Nimirum vniuersa illa comoda sua sunt, et 
+          <lb ed="#B" n="8"/>de terris sibi iure naturali, et gentium debitis procedunt, 
+          <lb ed="#B" n="9"/>et sui causa finali hoc est propter bonum suum tandem ortum 
+          <lb ed="#B" n="10"/>habuerunt.
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e849">
+          <pc type="pilcrow">¶</pc> Dixi notanter pro expensis necessariis, quoniam 
+          <lb ed="#B" n="11"/>multa expenduntur hodie que, pro manutentione illarum gen<lb ed="#B" break="no" n="12"/>tium 
+          in fide, et in pace necessaria non sunt, sed multum 
+          <lb ed="#B" n="13"/>superflua: nec illorum gratia, vel respectu possunt dici prouisa. 
+          <lb ed="#B" n="14"/>Cuius modi sunt expense pro curiis seu regiis foris vulgo
+          <lb ed="#B" n="15"/>audientias, quibus indi non indigent. Sed hispani, qui nes<lb ed="#B" break="no" n="16"/>ciunt 
+          in pace viuere, ac sine litibus, et ideo non debent tales 
+          <lb ed="#B" n="17"/>expense et similes inter illa, que ad bonum illarum gentium 
+          <lb ed="#B" n="18"/>necessario expectant computari: Solum nanque sufficit quantum 
+          <lb ed="#B" n="19"/>ad securitatem attinet indorum, ut reges nostri prouideant,
+          <lb ed="#B" n="20"/>quatenus in aliquibus prouinciis <unclear>sit aliquod <!-- could this be "si tali quod" --></unclear> presidium ducen<lb ed="#B" break="no" n="21"/>torum
+          vel trecentorum militum, qui terre custodie prospiciat. 
+          <lb ed="#B" n="22"/>Quod re vera milites ipsi efficient, non cum multo labore, 
+          <lb ed="#B" n="23"/>atque proinde parvo stipendio contentabuntur: potissime quia 
+          <lb ed="#B" n="24"/>terra illa omnis felix, et abundans diuitiis cum sit, modis 
+          <lb ed="#B" n="25"/>diuersis consequi poterunt pinguiorem fortunam quam tanto<lb ed="#B" break="no" n="26"/>pere 
+          diligunt, et indefesse perquirunt.
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e895">
+          <pc type="pilcrow">¶</pc> Ex quibus omnibus 
+          <lb ed="#B" n="27"/>tandem apparet, quod non possunt reges nostri hyspaniarum exigere a 
+          <lb ed="#B" n="28"/>gentibus, et populis indorum, nec unum in obulum etiam tyranide qua 
+          <lb ed="#B" n="29"/>in presentiarum premuntur cessante: atque ipsis populis et gentibus 
+          <lb ed="#B" n="30"/>consensum liberrimum prebentibus ad suscipiendum eos in prin<lb ed="#B" break="no" n="31"/>cipes 
+          suppremos: sed ipsi catholici reges tenentur omnem utili<lb ed="#B" break="no" n="32"/>tatem 
+          spiritualem et temporalem illorum vsque ad finem mundi
+          <pb ed="#B" n="127-r"/>
+          <lb ed="#B" n="1"/>propriis sumptibus quantuncunque magni extiterint <sic>suma<!--summa--></sic> diligen<lb ed="#B" break="no" n="2"/>tia
+          procurare: 
+        </p>
+        <p xml:id="cy8th8-d1e624-d1e924">
+          et vtinam per hec <sic>iustitie divine <!--iustitia diuina--></sic> pro tota hyspa<lb ed="#B" break="no" n="3"/>nia 
+          sit satisfactum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
