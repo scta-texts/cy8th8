@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 44</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 44</title>
+          <date when="2025-11-09">November 09, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="123-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e637">
+        <head xml:id="cy8th8-d1e637-Hd1e97">Sectio 44</head>
+        <p xml:id="cy8th8-d1e637-d1e99">
+          <lb ed="#B" n="4"/>§ <sic>43<!-- but actual 44 --></sic>
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e108">
+          <lb ed="#B" n="5"/>Hactenus cursu minime auaro conati sumus euidentiam 
+          <lb ed="#B" n="6"/>facere qualiter aut quo iure non <sic>liceret<!--licere--></sic> regibus nostris hyspa<lb ed="#B" break="no" n="7"/>niarum 
+          <lb ed="#B" n="8"/>absque licentia et gratioso beneplacito regis ynga vel 
+          <lb ed="#B" n="9"/>suorum descendentium ad quos de iure suo, secundum leges <sic>illorum<!--eorum--></sic> 
+          <lb ed="#B" n="10"/>in bonis suis seu dignitatibus succedere competebat: inquirere 
+          <lb ed="#B" n="11"/>aut scructari et minus asportare aut mandare talia facere thesauros 
+          <lb ed="#B" n="12"/>et diuitias sepulchrorum animo retinendi eas &amp;c prout in <ref xml:id="cy8th8-d1e637-Rd1e135">qua<lb ed="#B" break="no" n="13"/>dam 
+          conclusione responsiua principalis questionis §  IV</ref> continetur.
+          <lb ed="#B" n="14"/>ubi materiam dilatando vt loculentior et roboratior veritas fie<lb ed="#B" break="no" n="15"/>ret: 
+          satagimus in fundo principiorum naturalis iuris atque diuini 
+          <lb ed="#B" n="16"/>quo in statu ius regium in orbe illo<del rend="strikethrough">rum</del> extiterit a principio 
+          <lb ed="#B" n="17"/>sue detectionis et modo sit <sic>medullitas<!--medullitus--></sic> exhaurire.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e157">
+          <pc type="pilcrow">¶</pc> Deinde vero 
+          <lb ed="#B" n="18"/>iam redeat unde sermo prolixius aberrauit (scilicet) quid iuris 
+          <lb ed="#B" n="19"/>erit de thesauris <sic>sepulchrum<!--sepulchrorum--></sic> inuentis et inueniendis: quorum 
+          <lb ed="#B" n="20"/>nulla extat memoria cuius sint vel ad quem pertineant ex tempo<lb ed="#B" break="no" n="21"/>ris 
+          vetustate. Namque antea per prima quatuor <sic>§§§§</sic> 
+          <lb ed="#B" n="22"/>tractata fuerunt intelliguntur de inuentis quorum domini vel 
+          <lb ed="#B" n="23"/>eorum heredes sciuntur vel de facili sciri possunt. Et de illis 
+          <lb ed="#B" n="24"/>igitur nunc tractandum est: utrum inuentoris sint. An cuius 
+          <lb ed="#B" n="25"/>locus aut terra in qua inueniuntur fuerit aut principis ipsius
+          <lb ed="#B" n="26"/>ynga siue fisci sui.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e189">
+          <pc type="pilcrow">¶</pc> Pro declaratione huius dubii dicendum 
+          <lb ed="#B" n="27"/>videtur cum hac distinctione: quod aut illi qui modo in partibus 
+          <lb ed="#B" n="28"/>illis inquirunt scru<add place="above-line">c</add>tantur inueniunt <pc type="virgula">/</pc> et tollunt sunt indi vel 
+          <lb ed="#B" n="29"/>incole naturales illius orbis vel sunt hyspani iam habitatores de 
+          <lb ed="#B" n="30"/>facto illis cum indigenis. Si quidem incole naturales sunt et sin<lb ed="#B" break="no" n="31"/>gulares 
+          persone qui thesauros inquirunt vel inueniunt tunc 
+          <lb ed="#B" n="32"/>dicimus sic. quod si thesauri eiusmodi sunt in aliquo fundo aut predio 
+          <pb ed="#B" n="127-v"/>
+          <lb ed="#B" n="1"/>sive agro vel domo aut parte terre propria alicuius: et casu 
+          <lb ed="#B" n="2"/>vel ex industria querat quicquid sit preciosum 
+          <lb ed="#B" n="3"/>totum est inventoris iure nature secundum omnes doctores et idem 
+          <lb ed="#B" n="4"/>S. Thomas 2 2e q. 66, articulo 5 ad 2 sentit et glossa instit. 
+          <lb ed="#B" n="5"/>de rerum diuisione § Thesauros quia ipsa lex naturalis dat ei 
+          <lb ed="#B" n="6"/>facultatem querendi et Iuste fruendi his que inuenerit. Unde 
+          <lb ed="#B" n="7"/>ab illo puncto temporis quo inuenerit acquirit dominium 
+          <lb ed="#B" n="8"/>eorum sibi. hoc dat intelligi d. Thesauros. ubi sic dicitur 
+          <lb ed="#B" n="9"/><quote xml:id="cy8th8-d1e637-Qd1e234">Thesauros quos quis in loco suo inuenerit: diuus Adrianus naturalem 
+          <lb ed="#B" n="10"/>equitatem sequens ei concessit qui eos inuenerit</quote> et in l. unica 
+          <lb ed="#B" n="11"/>C. de Thesauris lib. 10 ubi dicitur: <quote xml:id="cy8th8-d1e637-Qd1e241">inuento uti liberam tribuimus 
+          <lb ed="#B" n="12"/>facultatem: ne vlterius Dei beneficium inuidiosa calumnia per<lb ed="#B" break="no" n="13"/>sequatur</quote>
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e250">
+          <pc type="pilcrow">¶</pc> Si autem invenit in loco alicuius priuati <pc type="virgula">/</pc> vel 
+          <lb ed="#B" n="14"/>in loco cesaris vel loco publico fisci vel ciuitatis. Aut hoc fit a casu 
+          <lb ed="#B" n="15"/>vt si forte arando aut alias terram alienam colendo vel quocumque 
+          <lb ed="#B" n="16"/>alio casu: quia videtur fortuna vel melius dei beneficio Illud bo<lb ed="#B" break="no" n="17"/>num 
+          illi concedi iure nature inuentori debebatur. Sed leges 
+          <lb ed="#B" n="18"/>ciuiles (de quibus S. Thomas ubi supra mentionem facit) statuerunt 
+          <lb ed="#B" n="19"/>ad pacem inter ciues conseruandam vt dimidia pars sit domini 
+          <lb ed="#B" n="20"/>soli et aliam dimidiam inuentori sortiatur vt <ref xml:id="cy8th8-d1e637-Rd1e273">d. l. unica</ref> 
+          et <ref xml:id="cy8th8-d1e637-Rd1e275">l. non intelligitur §  si in locis ff. de iure fisci</ref>. Similiter est 
+          <lb ed="#B" n="21"/>dimidia pars danda fisco vel ciuitati si in loco publico inueniatur 
+          <lb ed="#B" n="22"/>vt in <ref xml:id="cy8th8-d1e637-Rd1e282">d. § thesauros.</ref> Si autem ex <sic>intentione<!--inuentione--></sic> ac de indust<subst><del rend="strikethrough">a</del><add place="above-line">ria</add></subst> 
+          <lb ed="#B" n="23"/>data opera: vel etiam domino inuito et contradicente: totum 
+          <lb ed="#B" n="24"/>quod inuenerit domini soli erit ut <ref xml:id="cy8th8-d1e637-Rd1e299">d. l. unica.</ref> Quia ille talis 
+          <lb ed="#B" n="25"/>fur reputatur. In hispania preallegate leges ad literam ser<lb ed="#B" break="no" n="26"/>uantur. 
+          Ut apparet in <ref xml:id="cy8th8-d1e637-Rd1e305">l. 44 titulo 28 3e partite</ref>. At in 
+          <lb ed="#B" n="27"/>negocio incolarum naturalium illius orbis animaduertendum est: 
+          <lb ed="#B" n="28"/>que leges aut consuetudines apud eos urgerent circa eas res que 
+          <lb ed="#B" n="29"/>casu vel de industria seu data opera inueniebantur et secundum 
+          <lb ed="#B" n="30"/>eas iudicandum erit per rationem <ref xml:id="cy8th8-d1e637-Rd1e316">l. venditor § si constat ff. 
+          <lb ed="#B" n="31"/>communia prediorum</ref> Leges autem nostre illos non ligant. Quod 
+          <pb ed="#B" n="128-r"/>
+          <lb ed="#B" n="1"/>si legibus aut consuetudinibus suis ad decisionem dubiorum huius<lb ed="#B" break="no" n="2"/>modi 
+          uti non possumus: recurrendum est quid agendum sit 
+          <lb ed="#B" n="3"/>secundum equitatem naturalem. Nam si quis inuenit thesauros vel 
+          <lb ed="#B" n="4"/>res preciosas aliquas ex proposito data opera in fundo aut agro 
+          <lb ed="#B" n="5"/>alieno: presertim si contra voluntatem et prohibitionem domini: 
+          <lb ed="#B" n="6"/>totum restituere tenetur ei cuius fundus aut ager est. Cui in<lb ed="#B" break="no" n="7"/>iuriam 
+          facit punitione dignam. vt patet per <ref xml:id="cy8th8-d1e637-Rd1e339">l. 3 ff. de acquirendo 
+          <lb ed="#B" n="8"/>rerum dominio</ref> et <ref xml:id="cy8th8-d1e637-Rd1e344">ff. de iniuriis l. iniuriarum § si quis me prohibe<lb ed="#B" break="no" n="9"/>at</ref> 
+          et <ref xml:id="cy8th8-d1e637-Rd1e349">d. l. unica C. de thesauris lib. 10</ref> et <ref xml:id="cy8th8-d1e637-Rd1e351">l. quosdam C. de 
+          <lb ed="#B" n="10"/>metallavus lib. 11o</ref> Et ratio harum legum est iniuria que irroga<lb ed="#B" break="no" n="11"/>tur 
+          domino fundi vel terrule aut soli absque scientia et licentia 
+          <lb ed="#B" n="12"/>illius intrando in fundum suum maxime si violenter domino contra<lb ed="#B" break="no" n="13"/>dicente. 
+          Sic dicit d. l. uenditor § si constat.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e364">
+          <pc type="pilcrow">¶</pc> Nec potest 
+          <lb ed="#B" n="14"/>rex ynga concedere licentiam inquirendi seu scructandi thesaurum 
+          <lb ed="#B" n="15"/>in predio alicuius priuati ipso inuito potissimum si aliquod 
+          <lb ed="#B" n="16"/>preiudicium exinde illi prouenturum sit. Per rationem d. 
+          <lb ed="#B" n="17"/>l. vnica de thesauris et d. l. quosdam. Nisi esset consuetudo: <del rend="strikethrough">vel</del> 
+          <lb ed="#B" n="18"/>vel nisi Rex ynga quando concessit <add place="margin-left"><unclear>terram illam si tamen illam concessit</unclear></add> reseruauit sibi thesauros 
+          <lb ed="#B" n="19"/>vel alia queque preciosa que in predio illo vel terra aliquando 
+          <lb ed="#B" n="20"/>reperirentur. Et tunc debet dari illi cuius terra est aliquid propter 
+          <lb ed="#B" n="21"/>damnum forte quod in predio recepit et non sit graue<del rend="strikethrough">t</del> damnum 
+          <lb ed="#B" n="22"/>ut in d. l. cuncti C. de metallariis. sed si graue esset non posset 
+          <lb ed="#B" n="23"/>rex ynga inuito domino illud concedere quia esse contra 
+          <lb ed="#B" n="24"/>legem naturalem. Quoniam nemini est consulendum cum alterius 
+          <lb ed="#B" n="25"/>iniuria vel iactura. vt in regula iuris locupletari lib. 6. 
+          <lb ed="#B" n="26"/>Et si consuetudo talis vigeret in illo loco uel regno esset corrup<lb ed="#B" break="no" n="27"/>tela 
+          et diabolica vt dicit <ref xml:id="cy8th8-d1e637-Rd1e409">baldus in l. sicut C. de servitutibus et aqua 
+          <lb ed="#B" n="28"/>pluuie arcenda</ref>. Et patrocinatur l. quosdam preallegata ubi prohi<lb ed="#B" break="no" n="29"/>betur
+          fodere in loco alieno causa querendi saxa vel marmora 
+          <lb ed="#B" n="30"/>vbi dominus loci haberet damnum et <ref xml:id="cy8th8-d1e637-Rd1e418">ff. de damno infecto l. flu<lb ed="#B" break="no" n="31"/>minum
+          § fi.</ref> et <ref xml:id="cy8th8-d1e637-Rd1e423">ff. d. l. venditor in fi.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e426">
+          <pc type="pilcrow">¶</pc> hinc apparet 
+          <lb ed="#B" n="32"/>quod lapidicine marmorce crete fodine <pc type="virgula">/</pc> argenti fodine <pc type="virgula">/</pc> vel auri 
+          <lb ed="#B" n="33"/>fodine <pc type="virgula">/</pc> aut alterius metalli uene que in solo cuiuscunque pri<pb ed="#B" n="128-v"/><lb ed="#B" break="no" n="1"/>uati
+          fuerint sine licentia eius non possunt inquiri nec inde tolli 
+          <lb ed="#B" n="2"/>nec rex ea priuatis potest tollere aut licentiam tollendi
+          <lb ed="#B" n="3"/>dare absque iniustitia: quia iure nature ad illum ea <sic>perti<lb ed="#B" break="no" n="4"/>net<!--pertinent--></sic>: 
+          nisi certam quotam quam a principio in electione po<lb ed="#B" break="no" n="5"/>pulus 
+          ei constituit. Et sic intelliguntur illa que sint rega<lb ed="#B" break="no" n="6"/>lia.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e464">
+          <pc type="pilcrow">¶</pc> Item non potest Rex ynga dare licentiam ea inquirendi 
+          <lb ed="#B" n="7"/>aliis aut effodi vel tolli dominiis inuitis propter eandem rationem. 
+          <lb ed="#B" n="8"/>per quam rationem Reges castelle disponunt ne quis cum 
+          <lb ed="#B" n="9"/>preiudicio alicuius et sine licentia domini soli inquirat vel 
+          <lb ed="#B" n="10"/>effodiat metalla vt infra monstrabitur. Vnde sicut de iure 
+          <lb ed="#B" n="11"/>comuni possum<del rend="strikethrough">nt</del> thesaurum labore meo in proprio fundo invenire 
+          <lb ed="#B" n="12"/>et <del rend="strikethrough">e</del>ut meum tollere vt d. l. unica et instit. de rerum diuisione 
+          <lb ed="#B" n="13"/>§ Thesauros eadem ratione si in predio meo sunt lapidicine <pc type="virgula">/</pc> auri 
+          <lb ed="#B" n="14"/>fodine <pc type="virgula">/</pc> argenti fodine vel metalli possum illa fodere <pc type="punctus"/> quia eadem 
+          <lb ed="#B" n="15"/>est ratio. Et ideo idem ius est quia ratio diversitatis reddi non 
+          <lb ed="#B" n="16"/>potest: <ref xml:id="cy8th8-d1e637-Rd1e505">ff. de fonte l. 1</ref> <ref xml:id="cy8th8-d1e637-Rd1e508">ff. de verborum obligationibus l. a titio secundum <name xml:id="cy8th8-d1e637-Nd1e510">Andream
+          <lb ed="#B" n="17"/>de Isernia</name> in titulo Que sint regalia super verbo argentarie</ref> 
+          <lb ed="#B" n="18"/>Vbi probat quod textus ille <mentioned>argentarie</mentioned> non absolute intelligitur 
+          <lb ed="#B" n="19"/>quod argentarie aut metalla ubicunque inueniantur sint regi<del rend="strikethrough">s</del> sed 
+          <lb ed="#B" n="20"/>solum ea que sunt in predio regis: non autem de argentariis et 
+          <lb ed="#B" n="21"/>metallis que sunt in locis priuatorum. Nam ista possunt esse 
+          <lb ed="#B" n="22"/>de iure comuni fundato in ratione naturali in locis priuatorum. 
+          <lb ed="#B" n="23"/>vt est textus expressus in <ref xml:id="cy8th8-d1e637-Rd1e534">l. 3, in fi. ff. de rebus eorum</ref> et <ref xml:id="cy8th8-d1e637-Rd1e536">ff. soluto 
+          <lb ed="#B" n="24"/>matrinonio l. diuortio, §  si vir</ref> et <ref xml:id="cy8th8-d1e637-Rd1e541">ff. de censibus l. forma</ref> et <ref xml:id="cy8th8-d1e637-Rd1e544">ff. 
+          <lb ed="#B" n="25"/>de vsufructu per legatum, l. generaliter § uxori</ref> et <ref xml:id="cy8th8-d1e637-Rd1e549">ff. de usufructu 
+          <lb ed="#B" n="26"/>l. item si fundi</ref>. Et in his argentariis et metallis que sunt 
+          <lb ed="#B" n="27"/>in locis priuatorum dicit prefatus <name xml:id="cy8th8-d1e637-Nd1e556">Andreas de Isernia</name> quod seruatur 
+          <lb ed="#B" n="28"/>consuetudo vbi sunt per textum in <ref xml:id="cy8th8-d1e637-Rd1e560">d. l. venditor § si constat</ref> 
+          <lb ed="#B" n="29"/>cessante autem consuetudine de metallis inventis in solo pri<lb ed="#B" break="no" n="30"/>vati: 
+          fiscus regius habet decimam partem iuxta d. l. vnicam 
+          <lb ed="#B" n="31"/>Et <del rend="strikethrough">de</del> d. l. cuncti preallegatam. Et de isto redditu metallorum 
+          <lb ed="#B" n="32"/>loquitur textus in l. inter publica in fi. ff. de verborum significatione
+          <lb ed="#B" n="33"/>et glossa ibi declarat: <quote xml:id="cy8th8-d1e637-Qd1e577">Ubi dicit textus: publica vectigalia intelligere 
+          <pb ed="#B" n="129-r"/>
+          <lb ed="#B" n="1"/>debemus ex quibus fiscus capit: qualis est vectigal portus vel 
+          <lb ed="#B" n="2"/>venalium rerum. Item salinarum &amp; metallorum</quote>. dicit glossa:
+          <lb ed="#B" n="3"/><quote xml:id="cy8th8-d1e637-Qd1e587"><mentioned>Metallorum</mentioned> de quibus decima fisco datur de metallis vt in l. 
+          <lb ed="#B" n="4"/>cuncti</quote> &amp;c. hec glosa. Ex quibus apparet quod ea que dicuntur 
+          <lb ed="#B" n="5"/>esse regalia eo titulo in vsibus feudorum non totaliter et simpliciter. 
+          <lb ed="#B" n="6"/>sunt regum. Quoniam quedam sunt publica et communia non 
+          <lb ed="#B" n="7"/>fiscalia vel patrimonialia que sunt in Domin<add place="above-line">i</add>o principis: sed sunt 
+          <lb ed="#B" n="8"/>publica in vsu omnium de regno vel principatu secundum quod 
+          <lb ed="#B" n="9"/>dicitur <ref xml:id="cy8th8-d1e637-Rd1e607">ff. de acquirendo rerum dominio l. quod in littore</ref> &amp; <ref xml:id="cy8th8-d1e637-Rd1e609">instit. de 
+          <lb ed="#B" n="10"/>rerum diuisione § 1</ref> et <ref xml:id="cy8th8-d1e637-Rd1e614">§ littora</ref> et <ref xml:id="cy8th8-d1e637-Rd1e617">ff. eo titulo. l. 2 in fine</ref> et <ref xml:id="cy8th8-d1e637-Rd1e619">l. sequen.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e622">
+          <lb ed="#B" n="11"/><pc type="pilcrow">¶</pc> Sunt ergo regalia littora et vie publice et flumina <sic>navigalia<!--navigabilia--></sic> 
+          <lb ed="#B" n="12"/>quantum ad defensionem et protectionem vt rex prohibeat ibi fieri 
+          <lb ed="#B" n="13"/>quicquam si vsus littoris et uiae <sic>publicus<!--publice--></sic> impediatur. <ref xml:id="cy8th8-d1e637-Rd1e641">d. l. littora</ref> 
+          &amp; <ref xml:id="cy8th8-d1e637-Rd1e643">l. sequen.</ref> Non enim sunt in patrimonio regis quia distant hec 
+          <lb ed="#B" n="14"/>publica ab illis que sunt in fisci vel cesaris dominio: <ref xml:id="cy8th8-d1e637-Rd1e647">d. l. 2. §  1</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e650">
+          <lb ed="#B" n="15"/><pc type="pilcrow">¶</pc> Unde in his viis et littoribus princeps non debet concedere 
+          <lb ed="#B" n="16"/>que sunt contraria communi et publico iuri. Quia sacris oraculis vel <sic>pre<lb ed="#B" break="no" n="17"/>gmaticis<!--pra<lb ed="#B" break="no"/>gmaticis--></sic> 
+          sanctionibus aduersus vtilitatem orbis impertitis Iurae 
+          <lb ed="#B" n="18"/>casandis etc. vt <ref xml:id="cy8th8-d1e637-Rd1e666">C. de aqueducto l. diligenter circa finem lib. 11o</ref> 
+          <lb ed="#B" n="19"/>Nec est eorum comercium <ref xml:id="cy8th8-d1e637-Rd1e671">ff. de contrahenda Emptione l. sed et 
+          <lb ed="#B" n="20"/>celsus</ref> Nec ista princeps donabit nec donare potest quia non 
+          <lb ed="#B" n="21"/>sunt sua: sicut fiscalia et patrimonialia vt ff. ne quid in loco 
+          <lb ed="#B" n="22"/>publico l. 2 § hoc interdictum et § sequen.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e682">
+          <pc type="pilcrow">¶</pc> Quodam vero re<lb ed="#B" break="no" n="23"/>galia 
+          sunt in quibus rex solum habet quotam vel quintam vel 
+          <lb ed="#B" n="24"/>decimam partem aut illam quam populi a principio regibus pro sui 
+          <lb ed="#B" n="25"/>status hono<subst><add place="above-line">rabilis</add><del rend="strikethrough">ribus</del></subst> sustentatione statuerunt vt portus id est redditus 
+          <lb ed="#B" n="26"/>seu vectigal qui prouenit ex his que in portu vel ex portu uehuntur. 
+          <lb ed="#B" n="27"/>hec sunt regalia quia sunt publica stricto modo id est in patrimonio 
+          <lb ed="#B" n="28"/>regis. Ripatica eodem modo prouentus et redditus ex his prove<lb ed="#B" break="no" n="29"/>nientes.
+          Ripe enim et earum vsus est publicus sicut et mare et 
+          <lb ed="#B" n="30"/>flumina nauigabilia que dicuntur etiam regalia quantum ad
+          <lb ed="#B" n="31"/>protectionem principis et sunt inalienabilia <ref xml:id="cy8th8-d1e637-Rd1e713">l. riparum ff. de rerum 
+          <lb ed="#B" n="32"/>diuisione</ref> Et tunc dicuntur regalia quantum ad protectionem principis quia 
+          <lb ed="#B" n="33"/>non alienantur <ref xml:id="cy8th8-d1e637-Rd1e720">d. l. sed celsus.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e723">
+          <pc type="pilcrow">¶</pc> Idem dicitur de metallis seu 
+          <pb ed="#B" n="129-v"/>
+          <lb ed="#B" n="1"/>venis metallorum &amp; salinarumque sunt regalia videlicet quantum 
+          <lb ed="#B" n="2"/>ad quotam partem que rationabiliter imponi debet si a principio
+          <lb ed="#B" n="3"/>electionis regis per populum non fuit imposita. Sic est in hyspania 
+          <lb ed="#B" n="4"/>et seruantur eaedem leges comunes vel rationes earum. Nam dicitur 
+          <lb ed="#B" n="5"/>in l. 6 titulo 28 partine 3e quod redditus portuum salinarum et 
+          <lb ed="#B" n="6"/>piscariarum &amp; ferrariarum et aliorum metallorum et uestiga<lb ed="#B" break="no" n="7"/>lium: 
+          sunt principis et etiam portagiorum. Que fuerunt concessa ad 
+          <lb ed="#B" n="8"/>regum sustentationem honorabilem et regni defensionem contra in<lb ed="#B" break="no" n="9"/>fidelium 
+          aggressionem &amp; ab exactionibus importunis abscissionem et 
+          <lb ed="#B" n="10"/>ista vulgo dicuntur proprie esse regie corone. Sic enim <del rend="strikethrough">hyspania</del> 
+          <lb ed="#B" n="11"/>dicit in hyspanico vulgari lex illa: <quote xml:id="cy8th8-d1e637-Qd1e757">Las rentas de los puertos et de los 
+          <lb ed="#B" n="12"/>portadgos que dan los mercaderes por razon de las cosas que sacan del 
+          <lb ed="#B" n="13"/>mar o de la tierra: e las rentas de las pesquerias 
+          <lb ed="#B" n="14"/>e de las ferrerias e de los otros metales. E los pechos e los tributos que dan 
+          <lb ed="#B" n="15"/>los omes: son de los emperadores e de los Reyes. E fueronles otor<lb ed="#B" break="no" n="16"/>gadas 
+          todas estas cosas: porque ouiesen con que mantuuiesen hon<lb ed="#B" break="no" n="17"/>radamente 
+          en sus despensas; con que pudiessen amparar sus 
+          <lb ed="#B" n="18"/>tierras e sus reynados e guerrear contra los enemigos de la fe: 
+          <lb ed="#B" n="19"/>E porque pudiesen escusar sus pueblos de echarles muchos pechos 
+          <lb ed="#B" n="20"/>e de fazelles otros agravamientos</quote>. hec illa lex in forma
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e780">
+          <pc type="pilcrow">¶</pc> Et 
+          <lb ed="#B" n="21"/>in legibus ordinationum lib. 6 titulo 1o l. 8 declaratur minera<lb ed="#B" break="no" n="22"/>lia,
+          scilicet venas auri fodinarum et ceterorum metallorum et 
+          <lb ed="#B" n="23"/>salinas atque fontes siue puteos salsos ex quibus sal conficitur esse
+          <lb ed="#B" n="24"/>regalia. Nec absque licentia vel priuilegio licitum alicui fore 
+          <lb ed="#B" n="25"/>vel fodere aut aliquid sibi eorum usurpare. Et titulo 12 eius<lb ed="#B" break="no" n="26"/>dem 
+          libri l. 8 <quote xml:id="cy8th8-d1e637-Qd1e798">conceditur omnibus indifferenter licentia que<lb ed="#B" break="no" n="27"/>rendi 
+          fodiendi <pc type="virgula">/</pc> et tollendi aurum argentum viuum et lapi<lb ed="#B" break="no" n="28"/>des 
+          marmoreos in agris seu predus propriis. Similiter in alienis: 
+          <lb ed="#B" n="29"/>sine tamen preiudicio dominorum et de illorum beneplacito de omni<lb ed="#B" break="no" n="30"/>bus 
+          autem que inde habuerit quis demptis omnibus impensis sibi que 
+          <lb ed="#B" n="31"/>fecit tertiam partem retineat: et duas soluat fisco vel regi</quote>. hec 
+          <lb ed="#B" n="32"/>ibi.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e818">
+          <pc type="pilcrow">¶</pc> Ex quibus <sic>ex quibus</sic> potest colligi duplicem patrimo<pb ed="#B" n="130-r"/><lb ed="#B" break="no" n="1"/>nium 
+          regis est totum ipsum regnum sicut subditi siue regnicole 
+          <lb ed="#B" n="2"/>naturales ciuitates et omnia que sunt in eo et anexa regno et
+          <lb ed="#B" n="3"/>fisco. Nam regnum vel respublica fiscus et princeps supponuntur 
+          <lb ed="#B" n="4"/>quasi pro eodem. Vt notat <ref xml:id="cy8th8-d1e637-Rd1e835">C. de seruis fugitinis l. penultima</ref>. Et baldus 
+          <lb ed="#B" n="5"/>de feudo marchionatus ducatus et comitatus. ubi ait quod «<quote xml:id="cy8th8-d1e637-Qd1e839">regnum vel respublica 
+          <lb ed="#B" n="6"/>est sicut viuacitas sensuum fiscus est reipublice stoma<del rend="strikethrough">elem</del>chus <pc type="virgula">/</pc> 
+          <lb ed="#B" n="7"/>sacus et firmitudo <pc type="virgula">/</pc> princeps caput. Unde princeps vel impera<lb ed="#B" break="no" n="8"/>tor 
+          quasi tyranus esset si non tanquam respublica gereret se: et multi 
+          <lb ed="#B" n="9"/>alii reges qui priuate sue utilitati negociarentur: quia predo est 
+          <lb ed="#B" n="10"/>qui non vtilitati domini sed proprie studet ff. de negotiis gestis l. si 
+          <lb ed="#B" n="11"/><del rend="strikethrough">pusili</del> pupilli § 2 Et hoc notat <ref xml:id="cy8th8-d1e637-Rd1e865">Innocentius extra. de religiosis domibus 
+          <lb ed="#B" n="12"/>c. cum venerabilis</ref>. Et <name xml:id="cy8th8-d1e637-Nd1e871">ioannes andreas</name> etiam facit quod notatur C. de sacrosantis 
+          <lb ed="#B" n="13"/>ecclesiis. l. neminem per glossam et cynum</quote> hec dicit baldus
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e877">
+          <pc type="pilcrow">¶</pc> hoc 
+          <lb ed="#B" n="14"/>patrimonium non potest princeps alienare nec aliquod ei
+          <lb ed="#B" n="15"/>preiudicium sine regni voluntate facere. ratio est quia non 
+          <lb ed="#B" n="16"/>est dominus et administrator nec accepit illud ad alienandum 
+          <lb ed="#B" n="17"/>et deteriorandum sed ad gubernandum meliorandum et conseruan<lb ed="#B" break="no" n="18"/>dum 
+          in sua libertate<del rend="strikethrough">m</del>. Nec proprie suum est sed regnicolarum 
+          <lb ed="#B" n="19"/>secundum illud quod baldus dicit ubi supra: <quote xml:id="cy8th8-d1e637-Qd1e898">cuius est ciuitas bononiae 
+          <lb ed="#B" n="20"/>ecclesie. Immo bononiensium: quia ecclesia nihil habet ibi autoritatis 
+          <lb ed="#B" n="21"/>nisi tanquam respublica cuius reipublice imaginem et nomen gerit. 
+          <lb ed="#B" n="22"/>Item queritur: cuius est ciuitas senarum. Respondetur Cesaris. Immo 
+          <lb ed="#B" n="23"/>magis genesium</quote>. hec ex baldo
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e910">
+          <pc type="pilcrow">¶</pc> Nec etiam potest Rex alienare illa 
+          <lb ed="#B" n="24"/>que annexa sunt fisco scilicet redditus regales de quibus supra: 
+          <lb ed="#B" n="25"/>quia per hoc status regius debilitatur et redderetur impoten<lb ed="#B" break="no" n="26"/>tior 
+          tum ad gubernandum: tum ad defendendum regnum contra 
+          <lb ed="#B" n="27"/>hostes qui facilius insurgerent cognita regis paupertate. Unde 
+          <lb ed="#B" n="28"/>necesse haberet populum denuo exactionibus importunis ultra 
+          <lb ed="#B" n="29"/>quam ferre possit grauare et angariare contra rationem et finem 
+          <lb ed="#B" n="30"/>legis preallegate.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e932">
+          <pc type="pilcrow">¶</pc> Aliud patrimonium habet rex vel princeps 
+          <lb ed="#B" n="31"/>quod leges communes appellant bona regis priuata: ut sunt bona pa<lb ed="#B" break="no" n="32"/>trimonialia 
+          propria ipsius principis que tanquam priuatus possidet 
+          <lb ed="#B" n="33"/>vel potest habere et ad eum nouiter peruenire ex diuersis causis
+          <pb ed="#B" n="130-v"/>
+          <lb ed="#B" n="1"/>vt puta ea que ob crimen perdulionis <pc type="virgula">/</pc> proscriptionis vacationis 
+          <lb ed="#B" n="2"/>vel ob aliam causam bona fuerint ad fiscum suum priuatum de<lb ed="#B" break="no" n="3"/>uoluta 
+          vt <ref xml:id="cy8th8-d1e637-Rd1e955">ff. de iure fisci l. 1</ref> et <ref xml:id="cy8th8-d1e637-Rd1e957">2 C. <sic>poenis bonorum subl.</sic> l. 1 
+          <lb ed="#B" n="4"/>lib. 10</ref> et C. de bonis uacantibus. l. 3 et per totum lib 10 ut si ex pecuniis 
+          <lb ed="#B" n="5"/>que peruenerunt ex redditibus regni aliquas possessiones aut 
+          <lb ed="#B" n="6"/>castra vel loca emerit a priuatis personis: aut etiam que per in<lb ed="#B" break="no" n="7"/>dustriam 
+          suam iusto bello contra infideles acquisierit vt in c. 
+          <lb ed="#B" n="8"/>abbate sanc. § pro parte in fine de re iudicata. lib. 6 loquens de rege
+          <lb ed="#B" n="9"/>aragonie acquirente per bellum iustum contra infideles 
+          <lb ed="#B" n="10"/>quedam loca que computata sunt inter suum et priuatum fiscum vel patrimo<lb ed="#B" break="no" n="11"/>nium. 
+          Vbi dicitur quod cum <quote xml:id="cy8th8-d1e637-Qd1e980">Rex ipse sua probitate ac studio ab infidelibus 
+          <lb ed="#B" n="12"/>loca conquisierit supra dicta</quote> et infra «<quote xml:id="cy8th8-d1e637-Qd1e985">cum sua propria facta essent et uiderentur
+          ab aliis bonis hereditariis separata</quote> etc. hec ibi. et in 
+          <lb ed="#B" n="13"/>l. 2 de aqueductu in fine lib. 11o dicitur <quote xml:id="cy8th8-d1e637-Qd1e989">Sciat eundem fundum, fiscalis
+          tituli prescriptione signatum, priuatis rebus nostris aggregandum</quote> 
+          <lb ed="#B" n="14"/>hec ibi. De hoc igitur patrimonio regis potest rex donationes et 
+          <lb ed="#B" n="15"/>gratias facere: semper tamen moderate ne patrimonio ex frequen<lb ed="#B" break="no" n="16"/>tibus 
+          donationibus exhausto <sic>agatur<!--cogatur--></sic> ad bona subditorum (calcata 
+          <lb ed="#B" n="17"/>iustitia vt fit interdum) extendere manum et facile de rege 
+          <lb ed="#B" n="18"/>vertatur in tyranum secundum Tullium 2 de officiis Sed de hoc diffu<lb ed="#B" break="no" n="19"/>sius 
+          alibi loquemur deo opitulante. De unoque patrimonio principum 
+          <lb ed="#B" n="20"/>mentio agitur in authent? vt omnes obediant iudicibus prouinciarum § si vero col. 
+          <lb ed="#B" n="21"/>ibi: <quote xml:id="cy8th8-d1e637-Qd1e1013">aut sacro patrimonio id est rebus imperialibus vel 
+          <lb ed="#B" n="22"/>imperio: aut sacris priuatis id est rebus priuatis principis</quote> et in l. 
+          <lb ed="#B" n="23"/>bene a Zenone C. de quadriennii prescriptione § sancimus ibi «<quote xml:id="cy8th8-d1e637-Qd1e1020">Circa eas res que a sacratissimis imperatoribus,
+          non a fiscalibus rebus, sed ex priuata eorum substantia
+          procedunt</quote><!-- no ending quotation in edition --> etc.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e1024">
+          <pc type="pilcrow">¶</pc> Ecce ergo que sint re<lb ed="#B" break="no" n="24"/>galia 
+          principum: et videtur sic dicendum esse de aliis regnis quod hec 
+          <lb ed="#B" n="25"/>sint regalia et patrimonialia siue fiscalia in quolibet regno nisi 
+          <lb ed="#B" n="26"/>appareat contrarium ex institutione populi vel regnantis aut 
+          <lb ed="#B" n="27"/>ex <del rend="strikethrough">institutione populi</del> consuetudine regni illius approbata. Et 
+          <lb ed="#B" n="28"/>hoc sequi debemus dummodo sit rationabile. Propter <add place="above-line">hoc</add> dicebat baldus 
+          <lb ed="#B" n="29"/>in <ref xml:id="cy8th8-d1e637-Rd1e1048">l. 3 C. ad trebellianam</ref> et in <ref xml:id="cy8th8-d1e637-Rd1e1050">rubrica ff. de rerum diuisione</ref> quod <quote xml:id="cy8th8-d1e637-Qd1e1053">totus mun<pb ed="#B" n="131-r"/><lb ed="#B" break="no" n="1"/>dus 
+          seruat reges habere regalia id est redditus aliquarum 
+          <lb ed="#B" n="2"/>rerum que non possunt alienari: et alia que possunt modera<lb ed="#B" break="no" n="3"/>te 
+          donare</quote> vt ex supra decursis apparet. Quo ergo ad illas na<lb ed="#B" break="no" n="4"/>tiones 
+          indianas tangit: semper vt diximus consuetudo aut leges 
+          <lb ed="#B" n="5"/>sunt expectanda. et sic de materia presenti iudicandum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

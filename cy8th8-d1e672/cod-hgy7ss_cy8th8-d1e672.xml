@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 45</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 45</title>
+          <date when="2025-11-10">November 10, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="131-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e637">
+        <head xml:id="cy8th8-d1e637-Hd1e97">Sectio 45</head>
+        <p xml:id="cy8th8-d1e637-d1e99">
+          <lb ed="#B" n="6"/>§ <sic>44<!-- but actual 45 --></sic>
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e108">
+          <lb ed="#B" n="7"/>Secundum membrum autem prefate distinctionis in prece<lb ed="#B" break="no" n="8"/>denti
+          § posite fuit an qui thesauros et inueniunt et tollunt 
+          <lb ed="#B" n="9"/>sint hispani et tunc quid dicendum erit? Ad cuius dubii de<lb ed="#B" break="no" n="10"/>cisionem 
+          ponitur sequens conclusio. 
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e119">
+          <lb ed="#B" n="11"/>Conclusio
+          <lb ed="#B" n="12"/>Indignissimi sunt hyspani aliquod bonum temporale 
+          <lb ed="#B" n="13"/>illius orbis habere
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e128">
+          <lb ed="#B" n="14"/>Probatur conclusio 1o quia licet assistendo predicatoribus fidei <add place="above-line">eos</add>que 
+          <lb ed="#B" n="15"/>iuuando potissimum viuendo prout viuere tenebantur ve<lb ed="#B" break="no" n="16"/>luti 
+          veri christiani: quorum exemplo <subst><add place="above-line">na</add><del rend="strikethrough">no</del></subst>tiones ille facilius ad 
+          <lb ed="#B" n="17"/>fidem amplexandam allicerentur: merito digni fuissent diui<lb ed="#B" break="no" n="18"/>tiarum 
+          locupletissimarum et innumerabilium aliorum bo<lb ed="#B" break="no" n="19"/>norum 
+          quibus orbis ille scatet participes fieri: itaque de voluntate 
+          <lb ed="#B" n="20"/>naturalium incolarum et dominorum suorum vniuersa bona sibi 
+          <lb ed="#B" n="21"/>cum istis comunia forent et sic opulescerent: tamen quia hoc 
+          <lb ed="#B" n="22"/>priuilegio tam perperam tam ignominiose <pc type="virgula">/</pc> tam impie <pc type="virgula">/</pc> tam 
+          <lb ed="#B" n="23"/>crudeliter et inhumane abusi sunt: meritissime se ipsos indignos
+          <lb ed="#B" n="24"/>tali priuilegio reddiderunt et illud iure perdiderunt facto 
+          <lb ed="#B" n="25"/>ipso
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e173">
+          ergo indignissimi sunt bonum aliquod temporale participare 
+          <lb ed="#B" n="26"/>hyspani orbis illius. consequentia patet. antecedens probatur: <ref xml:id="cy8th8-d1e637-Rd1e177">11, q. 3, c. pri<lb ed="#B" break="no" n="27"/>uilegium</ref>. 
+          Ubi dicitur priuilegium omnino meretur amittere 
+          <pb ed="#B" n="131-v"/>
+          <lb ed="#B" n="1"/>qui permissa sibi abutitur potestate. Nam amittitur propter 
+          <lb ed="#B" n="2"/>enorme damnum superueniens <ref xml:id="cy8th8-d1e637-Rd1e189">extra de decimis. 
+          <lb ed="#B" n="3"/>c. suggestum</ref> et <ref xml:id="cy8th8-d1e637-Rd1e194">c. dilecti fili</ref> <ref xml:id="cy8th8-d1e637-Rd1e196">de verborum significatione c. Quid 
+          <lb ed="#B" n="4"/>per nouale</ref> et <ref xml:id="cy8th8-d1e637-Rd1e201">de vita et honestate clericorum c. fi.</ref> et ibi bona <ref xml:id="cy8th8-d1e637-Rd1e203">glossa 
+          <lb ed="#B" n="5"/>et de sententia excommunicationis c. contingit</ref> et de statu monachorum, c. re<lb ed="#B" break="no" n="6"/>colentes. 
+          sed que delicta commiserunt? <sic>imo</sic> facinora? <sic>Imo</sic> 
+          <lb ed="#B" n="7"/>scelera inaudita? Et quod et quam enormia damna superuenerunt 
+          <lb ed="#B" n="8"/>ex suis detestabilibus operibus eius modi gentibus profecto ex quam 
+          <lb ed="#B" n="9"/>plurimis supra deductis et ipsa luce clarius ostensis nec non 
+          <lb ed="#B" n="10"/>amplissime probatus facile est videre.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e224">
+          <pc type="pilcrow">¶</pc> 2o probatur conclusio. quia 
+          <lb ed="#B" n="11"/>non debent ad commodum eis cedere: que ad poenam eorum potius 
+          <lb ed="#B" n="12"/>retorqueri debent vt in c. et si necesse de donationibus inter virum et 
+          <lb ed="#B" n="13"/>uxorem et 16, q. 1, c. legi et ff. de negotiis gestis l. siue et ex improbita<lb ed="#B" break="no" n="14"/>te 
+          nemo consequitur actionem <ref xml:id="cy8th8-d1e637-Rd1e238">ff. de furtis, l. Itaque fullo</ref>. et in re<lb ed="#B" break="no" n="15"/>gula: <quote xml:id="cy8th8-d1e637-Qd1e242">ex eo non debet quis fructum consequi quod nisus extitit 
+          <lb ed="#B" n="16"/>impugnare</quote>: <ref xml:id="cy8th8-d1e637-Rd1e247">de regulis iuris lib. 6 cum suis concordantiis</ref> 
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e250">
+          <lb ed="#B" n="17"/>Ex hac conclusione tale corrolarium sequitur:
+          <lb ed="#B" n="18"/>Et ideo exclusi sunt hispani naturali ratione a communicatione 
+          <lb ed="#B" n="19"/>eum incolis querendi thesauros aurum <pc type="virgula">/</pc> argentum <pc type="virgula">/</pc> alia metalla <pc type="virgula">/</pc> siue 
+          <lb ed="#B" n="20"/>res alias preciosas ceteraque bona temporalia etiam que in nullius 
+          <lb ed="#B" n="21"/>bonis sunt per illum indiarum orbem.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e273">
+          <pc type="pilcrow">¶</pc> Probatur corrolarium 
+          <lb ed="#B" n="22"/>multipliciter. Primo per conclusionem patet: quia si propter sua scelera 
+          <lb ed="#B" n="23"/>se ipsos indignos reddiderunt aliquod bonum temporale illius orbis 
+          <lb ed="#B" n="24"/>participare ergo in querendis effodiendis vel asportandis Thesauris 
+          <lb ed="#B" n="25"/>auro <pc type="virgula">/</pc> argento <pc type="virgula">/</pc> et ceteris bonis cum incolis naturali ratione non 
+          <lb ed="#B" n="26"/>sunt digni communicare.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e296">
+          <pc type="pilcrow">¶</pc> 2o probatur per corrolarium 2m et 3m 
+          <lb ed="#B" n="27"/><ref xml:id="cy8th8-d1e637-Rd1e302">supra § 31</ref> situata in quibus fuit probatum omne aurum argentum 
+          <lb ed="#B" n="28"/>et ceteras res preciosas: terras <pc type="virgula">/</pc> campos <pc type="virgula">/</pc> agros <pc type="virgula">/</pc> et cetera bona que 
+          <lb ed="#B" n="29"/>hyspani habuerunt et modo tenent fuisse rapta <pc type="virgula">/</pc> usurpata et male 
+          <lb ed="#B" n="30"/>ablata nec non iniuste possessa nec nisi restituant propriis dominis 
+          <lb ed="#B" n="31"/>vel suis heredibus posse saluari.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e326">
+          <pc type="pilcrow">¶</pc> 3o probatur corrolarium quia cum 
+          <lb ed="#B" n="32"/>sine licentia regis ynga vel descendentium vel aliorum regum 
+          <lb ed="#B" n="33"/>et dominorum terrarum nemo possit iuste illa querere <pc type="virgula">/</pc> scru<lb ed="#B" break="no" n="34"/>ctari 
+          fodere aut extrahere: manifestum est quod nunquam licentiam hanc 
+          <pb ed="#B" n="132-r"/>
+          <lb ed="#B" n="1"/>voluntarie prestabunt: cum sciant se adversus hyspanos tanquam hos<lb ed="#B" break="no" n="2"/>tes 
+          publicos iustam causam bellandi habere. Rursus ab oppre<lb ed="#B" break="no" n="3"/>sione 
+          tyrannica et continua cessare minime. Nec de malis damnis 
+          <lb ed="#B" n="4"/>iniuriis receptis ab eis quod satisfacient spem vllam <sic>tenere<!--tenent--></sic> provt 
+          <lb ed="#B" n="5"/><ref xml:id="cy8th8-d1e637-Rd1e357">supra § 29 in quodam corrolario</ref> probatum est ergo exclusi 
+          <lb ed="#B" n="6"/>sunt hyspani a communicatione querendi thesauros etc <pc type="virgula">/</pc> 
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e366">
+          <pc type="pilcrow">¶</pc> 4o: 
+          <lb ed="#B" n="7"/>probatur quod sicut supra § 31 32 34 et 35 aperte probatum 
+          <lb ed="#B" n="8"/>relinquitur hyspani a primo ingressu quo in terras et regna illa 
+          <lb ed="#B" n="9"/>introierunt dupliciter fuerunt tyranni (scilicet) ingressu et exer<lb ed="#B" break="no" n="10"/>citio
+          actuali (hoc est) per inuasiones primo quas <mentioned>conquistas</mentioned> appe<lb ed="#B" break="no" n="11"/>llauerunt 
+          et per seruitutem scilicet <mentioned>repartimiento</mentioned> siue <mentioned>comenda</mentioned> 
+          <lb ed="#B" n="12"/>vocata qua vniuersas nationes illas magnos et parvos damnarunt perpetuo.
+          <lb ed="#B" n="13"/>Ideo naturali ratione male meriti sunt vt aliqua via eis aperiatur bo<lb ed="#B" break="no" n="14"/>na 
+          illius orbis communicandi cum potius mererentur per frustra 
+          <lb ed="#B" n="15"/>trucidari. Nulla enim est societas vel communicatio cum tyranis: 
+          <lb ed="#B" n="16"/>quin potius summa destructio est secundum Tullium 3o de officiis. 
+          <lb ed="#B" n="17"/>Nec enim est contra naturam spoliare eos si possis <sic>quam<!--quoniam--></sic> est honestum necare atque 
+          <lb ed="#B" n="18"/>hoc genus pestiferum et impium hominum exterminandum est. 
+          <lb ed="#B" n="19"/>Etenim vt membra quedam amputantur si et ipsa: sanguine 
+          <lb ed="#B" n="20"/>et tanquam spiritu carere ceperunt et nocent reliquis partibus corporis:
+          <lb ed="#B" n="21"/>sic ista in figura hominis feritas et immanitas belluina a 
+          <lb ed="#B" n="22"/>communi tanquam ab humanitate segreganda. 
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e417">
+          <lb ed="#B" n="23"/>Proprium tyrano<lb ed="#B" break="no" n="24"/>rum 
+          est ciuitates desolare <pc type="virgula">/</pc> et sacra predari <pc type="virgula">/</pc> fidem eneruare 
+          <lb ed="#B" n="25"/>religio<del rend="strikethrough">nfs</del>nes pessundare: ac perniciosos magis et impios et 
+          <lb ed="#B" n="26"/>iniustos esse (vt dicitur 4 ethicorum) iniustis legibus populum oppri<lb ed="#B" break="no" n="27"/>mere
+          collectis et tributis indebitis aggravare: magistratus ini<lb ed="#B" break="no" n="28"/>quos 
+          ad excoriandos populos ueluti aliquam ex egipti plagis consti<lb ed="#B" break="no" n="29"/>tuere: 
+          ab invadentibus hostibus non defendere atque his similia fa<lb ed="#B" break="no" n="30"/>cere. 
+          Unde <quote xml:id="cy8th8-d1e637-Qd1e446" source="http://scta.info/resource/prov29_3@6-11">tempore quo tyranni principatum sumunt 
+          <lb ed="#B" n="31"/>gemet populus</quote> <ref xml:id="cy8th8-d1e637-Rd1e451">prouerbiorum 29</ref> et <quote xml:id="cy8th8-d1e637-Qd1e453" source="http://scta.info/resource/prov28_28@1-10">Cum surrexerint 
+          <lb ed="#B" n="32"/>impii abscondentur homines cum illi perierint: multiplica<lb ed="#B" break="no" n="33"/>buntur 
+          iusti</quote>. Et ideo sub tyrannis respublica nulla est secun<lb ed="#B" break="no" n="34"/>dum 
+         <ref xml:id="cy8th8-d1e637-Rd1e462"> eundem Tullium 1 de officiis</ref>. Iuste itaque tyranus occidetur. 
+          <lb ed="#B" n="35"/>Unde <ref xml:id="cy8th8-d1e637-Rd1e467"><name xml:id="cy8th8-d1e637-Nd1e468">Tytus Liuius</name> lib. 8 de bello macedonio</ref> <quote xml:id="cy8th8-d1e637-Qd1e471">Qui ius equum 
+          <lb ed="#B" n="36"/>pati non possit in eum vim hanc iniustam non esse</quote> 
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e477">
+          <pc type="pilcrow">¶</pc> Post ingressum 
+          <pb ed="#B" n="132-v"/>
+          <lb ed="#B" n="1"/>igitur <del>hostilentia</del> hostilem in orbem illum hyspanorum: plaga pessima 
+          <lb ed="#B" n="2"/>crudelior et vastatior omni egiptiaca: inuasit vniuersas miseras na<lb ed="#B" break="no" n="3"/>tiones 
+          illas: qua gemuerunt immo gementes perierunt infiniti non 
+          <lb ed="#B" n="4"/>modo utriusque sexus mortales: sed innumeri populi et quasi a facie 
+          <lb ed="#B" n="5"/>tygridum <pc type="virgula">/</pc> leonum <pc type="virgula">/</pc> et diaconum abscondebantur residui quos gladius 
+          <lb ed="#B" n="6"/>et crudelitas seruitutis non viderat. et modo nimirum absconduntur 
+          <lb ed="#B" n="7"/>qui possunt montium latibula quam citius attingere vt socii sic facti 
+          <lb ed="#B" n="8"/>ferarum: vitam vel in gemitu et amaritudine ducant seu viuant.
+          <lb ed="#B" n="9"/>Et ideo non immerito exclusi sunt hyspani naturali ratione ab 
+          <lb ed="#B" n="10"/>omni bonorum temporalium communicatione cum indigenis que<lb ed="#B" break="no" n="11"/>rendi 
+          thesauros vel aliud temporale bonum. illius orbis quandoquidem 
+          <lb ed="#B" n="12"/>indignos se ipsos eius modi vel minimo fecerunt.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e519">
+          Ex quibus etiam corrolarium 2m sequitur
+          <pc type="pilcrow">¶</pc> Hyspani qui male meriti de indianis nationibus fuerunt 
+          <lb ed="#B" n="13"/>tum inuasionibus id est <mentioned>conquistas</mentioned>: tum generali seruitute id est 
+          <lb ed="#B" n="14"/><mentioned>repartimiento</mentioned>: vel <mentioned>comenda</mentioned>: tenentur de necessitate salutis post 
+          <lb ed="#B" n="15"/><unclear>integran</unclear> vel possibilem restitutionem male ablatorum et damnorum sa<lb ed="#B" break="no" n="16"/>tisfactionem:
+          incolatum perpetuum eligere in illo orbe atque perpetuo 
+          <lb ed="#B" n="17"/>habitare in ibi propriis expensis <pc type="virgula">/</pc> presertim in provinciis illis quarum 
+          <lb ed="#B" n="18"/>habitatores necarunt vel alias oppresserunt et damnificauerant propter 
+          <lb ed="#B" n="19"/>fidei fauorem quam notabiliter impedierunt et infamarunt.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e550">
+          <pc type="pilcrow">¶</pc> Probatur corrolarium quantum ad hoc quod sint obligati ad restitutionem obligati. 
+          <lb ed="#B" n="20"/>per multa supra tractata et elucidata potest videri. presertim 
+          <lb ed="#B" n="21"/>per ea que in § 42 de obligatione regum nostrorum ad resti<lb ed="#B" break="no" n="22"/>tutionem
+          determinata fuerunt. Quoniam si catholici reges nostri
+          <lb ed="#B" n="23"/>contra quorum regiam voluntatem et mandata: ipsi predones illum 
+          <lb ed="#B" n="24"/>orbem tyranide sua labefactauerunt: obligati sunt ad restitutionem ex 
+          <lb ed="#B" n="25"/>eo duntaxat quia imputatur eis quod tales nuncios et homines malos 
+          <lb ed="#B" n="26"/>incuria non dolo miserunt: vel quia non illos postquam rumor 
+          <lb ed="#B" n="27"/>malefactorum ad ipsos pervenit acriter correxerunt et punierunt 
+          <lb ed="#B" n="28"/>aut quia debitam circunspectionem et diligentiam provt res tam 
+          <lb ed="#B" n="29"/>grauis exigebat non adhibuerunt: quanto potius ipsimet tyrani male<lb ed="#B" break="no" n="30"/>factores 
+          delinquentes qui tot mala per se ipsos fecerunt et tot bona 
+          <pb ed="#B" n="133-r"/>
+          <lb ed="#B" n="1"/>iniuste rapuerunt: restituere et satisfacere principaliter tenentur.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e584">
+          <lb ed="#B" n="2"/><pc type="pilcrow">¶</pc> Quod autem incolatum perpetuum teneantur eligere ac perpetuo 
+          <lb ed="#B" n="3"/>in illo suis sumptibus permanere in favorem fidei quam valde le<lb ed="#B" break="no" n="4"/>serunt
+          et difamaverunt probatur. Tum 1o quia sicut ipsi fuerunt in 
+          <lb ed="#B" n="5"/>causa quod christus et ecclesia sancta eius tot millibus hominum nationi<lb ed="#B" break="no" n="6"/>bus 
+          carerent: qui nisi eas necarent. Tolentes eis spatium conversio<lb ed="#B" break="no" n="7"/>nis 
+          et penitentie: deum cognoscerent <pc type="virgula">/</pc>  deum laudarent ac ei ser<lb ed="#B" break="no" n="8"/>virent: 
+          atque proinde domus sancte fuissent constructe seu ecclesie: 
+          <lb ed="#B" n="9"/>in quibus diuina celebrarentur misteria: ita isti (licet maxime 
+          <lb ed="#B" n="10"/>peccatores extiterint) saltem per id quod sibi possibile est satisfa<lb ed="#B" break="no" n="11"/>ciunt 
+          in hoc quod asistant aliis fidelibus: et ministros cultus diuini 
+          <lb ed="#B" n="12"/>iugiter comitentur: quatenus ecclesie construantur et iam constructe 
+          <lb ed="#B" n="13"/>non deserantur: ne honor divinus minuatur ipsis hyspanis rece<lb ed="#B" break="no" n="14"/>dentibus. 
+          Manifestum enim est quod licet impossibile eis sit re<lb ed="#B" break="no" n="15"/>sarcire 
+          damna ex equo que fidei et ecclesie dei intulerunt, et etiam 
+          <lb ed="#B" n="16"/>gentibus tot ab eis occisis et que modo sunt in inferno vt puta quia 
+          <lb ed="#B" n="17"/>in infidelitate decesserunt: tamen ad satisfaciendum modo sibi possibili 
+          <lb ed="#B" n="18"/>obligati permanserunt. Sic docet <ref xml:id="cy8th8-d1e637-Rd1e628">S. Thomas 2. 2e q. 62, articulo 2 
+          <lb ed="#B" n="19"/>ad 1m</ref> quod <quote xml:id="cy8th8-d1e637-Qd1e633" source="http://scta.info/resource/TAca84-d1e1592-d1e491@6-69">in quibus non potest recompensari equivalens: compensari 
+          <lb ed="#B" n="20"/>oportet in eo quod possibile est. Sicut patet de honoribus qui sunt ad 
+          <lb ed="#B" n="21"/>deum et ad parentes vt <ref xml:id="cy8th8-d1e637-Rd1e639">philosophus dicit 8 Ethicorum</ref>. Et ideo quando id 
+          <lb ed="#B" n="22"/>quod est ablatum non est restituibile per aliquod equale: debet 
+          <lb ed="#B" n="23"/>fieri recompensatio qualis possibile est. Puta eum aliquis alicui 
+          <lb ed="#B" n="24"/>abstulit membrum: debet ei recompensare vel in pecunia vel in 
+          <lb ed="#B" n="25"/>aliquo honore</quote> hec S. Thomas
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e653">
+          <pc type="pilcrow">¶</pc> Tum probatur 2o: quia sicut propter 
+          <lb ed="#B" n="26"/>nefaria et crudelia opera hyspanorum fides catholica infamis
+          <lb ed="#B" n="27"/>facta est apud illas nationes: et nomen christi horribile atque 
+          <lb ed="#B" n="28"/>blasphemabile reddiderunt: nec non fuerunt efficaci impedimento 
+          <lb ed="#B" n="29"/>ne in breui tempore per totum illum orbem <sic>declararetur<!--dilataretur--></sic> <pc type="virgula">/</pc> sed potius 
+          <lb ed="#B" n="30"/>sub quam paucissimis limitibus arctauerunt: propter quod vtinam de illis 
+          <lb ed="#B" n="31"/>non intelligatur promulgatio illius sententie <ref xml:id="cy8th8-d1e637-Rd1e678">ad Romanos 1</ref>: <quote xml:id="cy8th8-d1e637-Qd1e680" source="http://scta.info/resource/rom1_18@1-18">revelatur 
+          <lb ed="#B" n="32"/>ira dei de celo super omnem impietatem et iniustitiam hominum 
+          <lb ed="#B" n="33"/>eorum qui veritatem Dei in iniustitia<del rend="strikethrough">m hominumeorum</del> detinent</quote>: 
+          <lb ed="#B" n="34"/>ita huiusmodi homines peccatores tenentur in vi necessarie satisfactio<lb ed="#B" break="no" n="35"/>nis 
+          perpetuo propriis sumptibus absque hoc quod ab indis vel a regibus
+          <pb ed="#B" n="133-v"/>
+          <lb ed="#B" n="1"/>nostris accipiant vnum obolum residere in eisdem prouinciis quas uasta<lb ed="#B" break="no" n="2"/>verunt 
+          vel in eis propinquis aut conuincinis: aut saltem in illo india<lb ed="#B" break="no" n="3"/>rum 
+          orbe <pc type="virgula">/</pc> dareque totis viribus operam: quatenus suis bonis exemplis 
+          <lb ed="#B" n="4"/>auxiliis <pc type="virgula">/</pc> exhortationibus <pc type="virgula">/</pc> laboribus et etiam pecuniis si abundauerint: fi<lb ed="#B" break="no" n="5"/>des 
+          christi ab incolis <sic>manipendatur</sic> <pc type="virgula">/</pc> ut pote primum et magnum dei 
+          <lb ed="#B" n="6"/>donum et diuinum nomen reuereantur: atque per omnes illas amplissimas 
+          <lb ed="#B" n="7"/>regiones notitia veri dei et religio christiana per euangelii publica<lb ed="#B" break="no" n="8"/>tionem 
+          extendatur efficaciterque dilatetur.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e730">
+          <pc type="pilcrow">¶</pc> Tum 3o quia propter fidem <del rend="strikethrough">iam</del> 
+          <lb ed="#B" n="9"/>iam diu antiquatam in hyspania et fidei firmitudinem qua hyspani per 
+          <lb ed="#B" n="10"/>Dei gratiam in fide Robusti sunt facti: et donec in gentibus eius modi 
+          <lb ed="#B" n="11"/>que modo sunt veluti novele plantule christus formetur (id est) 
+          <lb ed="#B" n="12"/>dum in fide ipsa co<add place="above-line">a</add>lescunt et roborascunt: opus est adesse qui firmiter 
+          <lb ed="#B" n="13"/>fidem teneant atque defendant: idcirco hyspani qui gentes illas grauauerunt 
+          <lb ed="#B" n="14"/>tenentur in vi necessarie atque possibilis satisfactionis vltra obligatio<lb ed="#B" break="no" n="15"/>nem 
+          communem qua christiani sunt adesse provinciis prefatis propter favo<lb ed="#B" break="no" n="16"/>rem 
+          fidei quam enormissime damnificauerunt vt plenissime pro<lb ed="#B" break="no" n="17"/>batum 
+          est.
+        </p>
+        <p xml:id="cy8th8-d1e637-d1e762">
+          <pc type="pilcrow">¶</pc> Et his finem ponimus premisso dubiolo quod fuit 
+          <lb ed="#B" n="18"/>positum in principio ad quod respondimus pro modulo nostro prout 
+          <lb ed="#B" n="19"/>premissum est. Cuius responsionis omnia et singula dicta deter<lb ed="#B" break="no" n="20"/>minationi 
+          et correctioni sanctissimi D. <subst><del rend="strikethrough">M</del> <add place="above-line">N</add></subst> pape et sacrosancte 
+          <lb ed="#B" n="21"/>Romane ecclesie cum nobis ipsis submittimus. Cuius fidem et obe<lb ed="#B" break="no" n="22"/>dientiam 
+          nos inconcusse tenere etiam vsque sanguinis effusionem 
+          <lb ed="#B" n="23"/>si necesse fuerit profitemur. Amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
