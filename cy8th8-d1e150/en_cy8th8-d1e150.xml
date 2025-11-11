@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 7</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</n>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 7</title>
+          <date when="2025-07-31">July 31, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library,
+            Brown University,
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e150">
+        <head xml:id="cy8th8-d1e150-Hd1e97">Section 7</head>
+        
+        <p xml:id="cy8th8-d1e150-d1e99">
+          § 7
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          The second consideration: 
+          that any prince in the world,
+          pope,
+          emperor and king,
+          since he is a man and thus a rational animal,
+          no spiritual or temporal power or authority can exempt or absolve a prince from the natural law or dictate of right reason or of eternal law,
+          as 
+          <ref xml:id="cy8th8-d1e150-Rd1e120">
+            Baldus says learnedly in l. si aquam 6. et 7 columna C. de servitutibus et aqua pluria
+          </ref> 
+          and is alleged 
+          <ref xml:id="cy8th8-d1e150-Rd1e125">
+            l. 2, ff. de usufructu earum rerum
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e128">
+            innocentius in c. bone el. 2o de postulatione prelatorum
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e124">
+          <pc type="pilcrow">¶</pc> 
+          Indeed not only is every prince subject to the natural and eternal law,
+          but also to the just laws which he himself has established,
+          as regards the directive force according to the judgment of God and in the forum of conscience. 
+          The reason for this is that since the just laws which princes establish are just insofar and consequently have the force of binding insofar as they proceed from the eternal and natural or divine law and from the reasonable will of God,
+          as they are known to be regulated and derived from the rules of all human acts,
+          to each of which every prince is necessarily subject and from neither is he released,
+          it remains that any prince,
+          even the pope,
+          is subject to just laws posited by humans,
+          even those which he himself has enacted,
+          according to the judgment of God (by whose laws,
+          namely natural and eternal,
+          no man is excluded),
+          and wherever the reason or mind of the law persuades what is just and right,
+          he is bound to observe it and not to act against it. 
+          On this 
+          <ref xml:id="cy8th8-d1e150-Rd1e168">
+            Saint Thomas 1 2 q. 96 articulo 4
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e171">
+            q. 95 articulo 2 et 3 in corpore questionis
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e164">
+          <pc type="pilcrow">¶</pc> 
+          Moreover the natural law in us is a certain participation of the eternal law which has implanted in men such a conception by which they can be directed to act fittingly in their proper actions. 
+          But the eternal law according to Augustine in book 10 on free choice is the highest reason which must always be obeyed,
+          the notion of which is impressed upon us insofar as all knowledge of truth is a certain irradiation and participation of the eternal law,
+          which is unchangeable truth.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e186">
+          <pc type="pilcrow">¶</pc> 
+          And in book 22 against Faustus the same saint says the eternal law is the divine mind or will commanding that the natural order be preserved and forbidding it to be disturbed. 
+          Whence no less properly is law called a precept or prohibition,
+          the very knowledge of things to be done or not done,
+          than the truth itself enunciating what is to be done or not done. 
+          Whence 
+          <ref xml:id="cy8th8-d1e150-Rd1e218">
+            Hugh of Saint Victor book 1 on the sacraments part 6 chapter
+          </ref> 
+          says: 
+          <quote xml:id="cy8th8-d1e150-Qd1e204">
+            What was the knowledge of things to be done except a certain precept made to the heart of man? 
+            And what again the knowledge of things to be avoided except a prohibition?
+          </quote>
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e212">
+          <pc type="pilcrow">¶</pc> 
+          From which it is clear that law or constitution does not consist in the whim of any legislator,
+          but in right and regulated reason. 
+          And therefore Gratian said: 
+          <quote xml:id="cy8th8-d1e150-Qd1e221">
+            Human law is whatever consists in reason
+          </quote> 
+          <ref xml:id="cy8th8-d1e150-Rd1e229" target="http://scta.info/resource/gd-p1d1-Dd1e173">
+            1 dist., c. consuetudo
+          </ref>. 
+          And 
+          <ref xml:id="cy8th8-d1e150-Rd1e232">
+            Baldus in c. 1, de constitutionibus
+          </ref> 
+          says that 
+          <quote xml:id="cy8th8-d1e150-Qd1e237">
+            law consists in the substance of reason,
+            is common to all men of the world;
+            therefore law founded in the substance of natural reason ought to be common to all men wherever and whenever a case occurs in which the reason of such a law appears
+          </quote>. 
+          From this it is that the reason of law should always be attended to more than the law itself,
+          that is the words of the law, 
+          <ref xml:id="cy8th8-d1e150-Rd1e250">
+            l. 1, c. quesit longa consuetudo
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e252">
+            l. cum muliere ff
+          </ref> 
+          saluto matrimonio. 
+          And the final reason is the soul of the law according to 
+          <ref xml:id="cy8th8-d1e150-Rd1e274">
+            Baldus in l. siquis seruo, C. de furtis
+          </ref>. 
+          Whence wherever the reason of the law has place,
+          the law itself has place, 
+          <ref xml:id="cy8th8-d1e150-Rd1e280">
+            C. de interdictis. l. 1
+          </ref>,
+          even if the words contradict according to the Archdeacon and 
+          <ref xml:id="cy8th8-d1e150-Rd1e284">
+            Geminianus in c. ubi periculum de constitutionibus lib. 6
+          </ref>, 
+          <ref xml:id="cy8th8-d1e150-Rd1e290">
+            l. scire oportet § aliud ff. de excusationibus
+          </ref>. 
+          And indeed the words fall from their signification when the matter concerned cannot otherwise be saved, 
+          <ref xml:id="cy8th8-d1e150-Rd1e296">
+            ff. de inutilibus stipulationibus § quotiens
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e298">
+            2. q. 2. c. omnes
+          </ref>,
+          and see 
+          <ref xml:id="cy8th8-d1e150-Rd1e303">
+            the gloss in c. propterea de regulis iuris
+          </ref>. 
+          The emperor confesses this quite openly: 
+          <quote xml:id="cy8th8-d1e150-Qd1e277">
+            It is,
+            he says,
+            a voice worthy of the majesty of one reigning that the prince professes himself bound by the laws,
+            because the authority of the prince depends on the authority of law,
+            and truly it is greater than empire to submit the principate to the laws,
+            so that the prince may think nothing permitted to him which departs from the equity of justice
+          </quote>—
+          this from him joined with 
+          <ref xml:id="cy8th8-d1e150-Rd1e319">
+            the gloss C. de legibus, l. digna vox
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e290">
+          <pc type="pilcrow">¶</pc> 
+          It is clear therefore how the princes of the world,
+          even the vicar of Christ,
+          are subject to the reasons of their laws and are bound to observe them,
+          not because the laws so say,
+          but because reason so wills. 
+          <quote xml:id="cy8th8-d1e150-Qd1e301">
+            Nevertheless princes are said to be released from the bonds of law,
+            not because iniquitous things are permitted to them,
+            but because they ought to be those who procure the equity of the republic not by fear of punishment but by love of justice,
+            and prefer the advantages of others to their private will in all things
+          </quote> 
+          according to 
+          <ref xml:id="cy8th8-d1e150-Rd1e357">
+            Policratus book 4, chapter 2
+          </ref>. 
+          Moreover princes are said to be above the laws etc.,
+          above the laws,
+          especially the pope and emperor,
+          insofar as they can change them from a reasonable and just cause,
+          not however according to the whim of their will,
+          and can in them for place and time whenever a reasonable case occurs dispense with others and themselves reasonably,
+          as in 
+          <ref xml:id="cy8th8-d1e150-Rd1e377">
+            c. licet de constitutionibus lib. 6
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e379">
+            1. q. 1 c. si ergo sine causa
+          </ref>. 
+          But coming against positive law without legitimate cause by not observing the law which the prince enacted,
+          he sins with that kind of sin and sometimes more gravely by reason of scandal by which others transgress them,
+          as is read and noted in 
+          <ref xml:id="cy8th8-d1e150-Rd1e391">
+            c. Que in ecclesiarum de constitutionibus
+          </ref>. 
+          Whence from this he cannot act against his own agreements and pacts which he contracts with a subject,
+          as in 
+          <ref xml:id="cy8th8-d1e150-Rd1e398">
+            c. 1 de probationibus
+          </ref> 
+          and there at length by the doctors.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e346">
+          <pc type="pilcrow">¶</pc> 
+          For he ought to act as a good father of a family,
+          since power has been given to him to feed the sheep,
+          not to disturb or molest them. 
+          And he ought to proceed from the rectitude of justice and equity,
+          not from special affection,
+          as is noted in 
+          <ref xml:id="cy8th8-d1e150-Rd1e415">
+            d. c. que in ecclesiarum
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e150-Rd1e421">
+            c. de multa. de prebendis
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e360">
+          <pc type="pilcrow">¶</pc> 
+          Moreover this must always be presumed of a prince unless the contrary expressly appears,
+          especially of the most holy vicar of Christ. 
+          For since a prince is the guardian of justice,
+          he is not presumed to wish to take away anyone's right, 
+          <ref xml:id="cy8th8-d1e150-Rd1e408">
+            ff. de vulgari substitutione, l. ex facto
+          </ref>. 
+          And 
+          <ref xml:id="cy8th8-d1e150-Rd1e410">
+            Baldus adduces in l. 2. C. de seruis
+          </ref>. 
+          And that he always has before his eyes to follow natural reason and in no way to decline from the precepts of natural and eternal law,
+          and to regulate all his acts not only by the justice of the forum but also of the pole,
+          is clear from that which the emperor protests in de usi feudorum title on preserving peace in the beginning by Frederick: 
+          <quote xml:id="cy8th8-d1e150-Qd1e387">
+            We,
+            wishing both divine and human laws to remain in their vigor and wishing to conserve to all persons their right
+          </quote> 
+          etc.,
+          and in 
+          <ref xml:id="cy8th8-d1e150-Rd1e434">
+            l. digna vox C. de legibus
+          </ref>. 
+          And the supreme pontiff himself confesses to have no power of transgressing divine and natural laws and also the ordinances of the apostles and sayings of the prophets,
+          but to defend them even to the soul and blood,
+          as in 
+          <ref xml:id="cy8th8-d1e150-Rd1e448">
+            25 q. 1 c. sunt quidam
+          </ref>,
+          where it is said thus: 
+          <quote xml:id="cy8th8-d1e150-Qd1e409">
+            It is to be known most especially that the Roman Pontiff can establish new laws where the evangelists and prophets said nothing. 
+            But where the Lord himself or his apostles and the holy fathers following them have defined otherwise sententially,
+            there the Roman Pontiff ought not to establish a new law but rather should confirm what has been preached even to the soul and blood. 
+            For if he were to strive to destroy what the apostles and prophets taught (which God forbid),
+            he would be convicted not of giving a sentence but rather of erring. 
+            But let this be far from those who have always best guarded the Lord's church against the treacheries of wolves.
+          </quote> 
+          Thus there. 
+          And 
+          <ref xml:id="cy8th8-d1e150-Rd1e475">
+            q. 2, c. amputato
+          </ref>,
+          where Pope Julius says thus: 
+          <quote xml:id="cy8th8-d1e150-Qd1e435">
+            Having cut away all excess of usurpation,
+            let no one presume what does not seem to be granted to him;
+            let not those things which have been instituted by the apostles and their successors be neglected by any sloth,
+            violated by any dissension,
+            disturbed by any contention.
+          </quote> 
+          Thus there.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e445">
+          <pc type="pilcrow">¶</pc> 
+          Moreover the supreme pontiff protests that it is never his intention to provide or order anything through his letters by which prejudice is inflicted on anyone,
+          as in 
+          <ref xml:id="cy8th8-d1e150-Rd1e498">
+            c. licet de officio ordinarii
+          </ref>,
+          where it is said thus: 
+          <quote xml:id="cy8th8-d1e150-Qd1e455">
+            because however it was not nor ought to have been our intention to derogate from your jurisdiction by such a mandate
+          </quote>,
+          and in 
+          <ref xml:id="cy8th8-d1e150-Rd1e544">
+            c. super eo de officio delegati
+          </ref>: 
+          <quote xml:id="cy8th8-d1e150-Qd1e463">
+            nevertheless it is not our intention to generate prejudice to the archbishop of the diocese
+          </quote>,
+          and in 
+          <ref xml:id="cy8th8-d1e150-Rd1e516">
+            c. ex multiplici de decimis
+          </ref>: 
+          <quote xml:id="cy8th8-d1e150-Qd1e470">
+            whence because it was not our intention to derogate from the aforesaid agreement by our privilege
+          </quote>,
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e525">
+            de rescriptis c. ad aures
+          </ref>: 
+          <quote xml:id="cy8th8-d1e150-Qd1e477">
+            since it is our intention (namely) to grant a benefit to one which does not harm or burden another
+          </quote>,
+          and in 
+          <ref xml:id="cy8th8-d1e150-Rd1e579">
+            c. olim de consue
+          </ref>: 
+          there without prejudice to another etc., 
+          <ref xml:id="cy8th8-d1e150-Rd1e539">
+            25 q. 2. c. de ecclesiasticis
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e150-Rd1e541">
+            c. 1, de causa et proprie
+          </ref>: 
+          <quote xml:id="cy8th8-d1e150-Qd1e490">
+            nor can we define anything against an unheard party.
+          </quote> 
+          There are also other innumerable laws which can be adduced for the proof of such things. 
+          And the reason for the aforesaid things is that injuries not be born from where laws are born, 
+          <ref xml:id="cy8th8-d1e150-Rd1e555">
+            C. Unde ui, l. meminerint
+          </ref>,
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e557">
+            de accusationibus c. qualiter et quando el. 1o
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e562">
+            c. peruenit 21 q. 1
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e564">
+            de rescriptis, c. nonnulli
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e503">
+          <pc type="pilcrow">¶</pc> 
+          The rectitude of intention therefore appears,
+          and the love of preserving rectitude and not harming divine justice especially and natural justice to the prejudice of anyone,
+          of the apostolic prince. 
+          For he knows better that with divine justice as patron,
+          the rights of others and those which pertain to each one by natural and divine right ought to be fixed and immutable. 
+          Because divine justice is necessary,
+          therefore it cannot be infringed nor distinguished prejudicially by positive law or human law,
+          as in 
+          <ref xml:id="cy8th8-d1e150-Rd1e589">
+            c. fi. de prescriptionibus
+          </ref>. 
+          For although civil reason can destroy civil laws,
+          it certainly cannot destroy natural ones, 
+          <ref xml:id="cy8th8-d1e150-Rd1e594">
+            de legitimis agna. tutoribus § fi.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e596">
+            ff. de regulis iuris l. iure sanguinis
+          </ref>. 
+          Nor will contrary custom be able to do this, 
+          <ref xml:id="cy8th8-d1e150-Rd1e603">
+            c. frustra 8 dist.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e150-Rd1e605">
+            c. Ray nutius de testamentis
+          </ref>. 
+          Indeed no law can take away those things which contain natural equity, 
+          <ref xml:id="cy8th8-d1e150-Rd1e610">
+            ff de capite minutis l. eas obligationes
+          </ref>. 
+          For natural reason containing necessary law in all cases,
+          that is not only in the genera of singulars but in the singulars of genera,
+          cannot be changed,
+          as 
+          <ref xml:id="cy8th8-d1e150-Rd1e621">
+            Baldus notably said in a similar case in c. fi. de prescriptionibus 3. columna
+          </ref>; 
+          <ref xml:id="cy8th8-d1e150-Rd1e623">
+            the gloss alleges in l. 2. ff. de usufructu earum rerum que usu consumuntur
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e549">
+          <pc type="pilcrow">¶</pc> 
+          The third consideration: 
+          that the final cause of the aforesaid institution,
+          concession or papal donation of our kings to the imperium of that world was not that the supreme pontiff intended principally to elevate our kings of Spain to a greater status or to give them with ampler riches or to make them wealthier,
+          but the final cause was entirely the preaching of the gospel and the expansion of the faith or divine worship and Christian religion and the conversion and salvation of the inhabitants of that aforesaid world,
+          and thus for their profit and favor. 
+          Indeed the supreme pontiff intended this principally and finally,
+          not any advantage of our kings or any temporal utility of theirs,
+          except distantly and per accidens.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e579">
+          It is proved first because no cause was or could be by right for the supreme pontiff to intrude himself concerning disposing of the temporalities of infidels,
+          their internal affairs and proper kingdoms so remote and without prejudice to anyone of the universal church living,
+          of whom knowledge to us or ours to them was never before heard,
+          except for the cause of preaching the faith and opening the way of salvation to all those peoples.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e595">
+          This is clear of itself,
+          since it is known among theologians and also among canonists and learned men concerning chapter Nouit de iudiciis and 
+          <ref xml:id="cy8th8-d1e150-Rd1e685">
+            c. per uenerabilem: extra
+          </ref> 
+          qui filii sint legitimi,
+          that the vicar of Christ does not intrude himself concerning temporalities outside the church,
+          that is among the faithful,
+          except from a great and arduous cause,
+          for which applies the harsher 
+          <ref xml:id="cy8th8-d1e150-Rd1e608">
+            saying of 
+            <name xml:id="cy8th8-d1e150-Nd1e610">Paul de Castro</n> 
+            in consilio 281, 
+            beginning "In Christi nomine," 
+            in the penultimate column part
+          </ref>,
+          where he says that 
+          <quote xml:id="cy8th8-d1e150-Qd1e613">
+            the pope cannot by his rescript in any way and with cause take away from any layman not temporally subject to him the dominion of his property,
+            because since this is a jurisdictional act as is noted in 
+            <ref xml:id="cy8th8-d1e150-Rd1e708">
+              l. C. si contra ius et utilitatem publicam
+            </ref>,
+            jurisdiction cannot be exercised over non-subjects, 
+            <ref xml:id="cy8th8-d1e150-Rd1e768">
+              argumentum c. per uenerabilem qui filii sint legitimi
+            </ref>
+          </quote>. 
+          Thus from him; 
+          see Felinus in 
+          <ref xml:id="cy8th8-d1e150-Rd1e716">
+            c. Que in ecclesiarum 10 columna in 3 declaratione de constitutionibus
+          </ref>,
+          where he treats this matter at length. 
+          But it is most true that with cause he can. 
+          Therefore far less outside the church,
+          that is concerning the temporal goods of infidels,
+          because it is nothing to him 
+          <quote xml:id="cy8th8-d1e150-Qd1e630" source="http://scta.info/resource/Icor5_12@4-9">
+            to judge those who are outside
+          </quote>, 
+          <ref xml:id="cy8th8-d1e150-Rd1e633">
+            1 Corinthians 5
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e636">
+          <pc type="pilcrow">¶</pc> 
+          Second it is proved from the express words of the Roman pontiff himself in the letters of concession or aforesaid institution,
+          where he says thus: 
+          <quote xml:id="cy8th8-d1e150-Qd1e645">
+            Desiring that the name itself of our savior be brought into those parts,
+            we exhort you as much as possible in the Lord for the reception of the sacred bath in which you are obliged by apostolic mandates,
+            and we earnestly require the bowels of mercy of our Lord Jesus Christ,
+            that since you intend with ready mind with the zeal of orthodox faith to altogether prosecute and undertake this expedition,
+            you may wish and ought to induce the peoples in such islands and lands living there to receive the Christian religion
+          </quote> 
+          etc. 
+          And often the supreme pontiff shows this in the same apostolic letters,
+          namely to concede superiority of that world for the sake of preaching the faith and conversion of its inhabitants as the final cause,
+          certainly not about to concede anything else,
+          as we most fully proved in our treatise "Comprobatio" on royal law at the end of the proof of the first conclusion.
+        </p>
+        
+        <p xml:id="cy8th8-d1e150-d1e678">
+          Therefore not to elevate our kings to a higher status or to render them wealthier principally,
+          but principally and finally for the sake of the amplification of faith and divine worship and the conversion of those peoples,
+          and thus for their profit and favor. 
+          We also proved this at length in the first proposition of our treatise entitled "On the War of Xalisco" etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

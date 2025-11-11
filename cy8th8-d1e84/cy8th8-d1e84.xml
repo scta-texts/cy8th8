@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 2</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 2</title>
+          <date when="2025-11-11">November 11, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+          </ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e84">
+        <head xml:id="cy8th8-d1e71-Hd1e97">Sectio 2</head>
+        <p xml:id="cy8th8-d1e84-d1e100">
+          <pb ed="#B" n="3-r"/>
+          §. 2
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e109">
+          Ex praecedentibus tres possumus elicere Prima est 
+          magnum interesse pretendere illos qui secum siue cum propriis corporibus 
+          suas volunt sepelire diuitias vel thesauros videlicet: honores
+          laudem et gloriam quae sunt honoris effectus et partes 
+          felicitatis secundum Philosophum 1 Rhetoricorum et per ea in opinionibus hominum 
+          uiuere perpetuo. Et hoc consequi sperant si eorum status 
+          diuitiae opulentia opera sublimia et magnificentia qualia extiterint 
+          posteritati nota fiant.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e130">
+          Est <sic>nanque</sic> laus precomium 
+          ore alieno celebratum uel laus est sermo dilucidans magnitudinem 
+          virtutis secundum sanctum Thomam super psalmos 
+          et 
+          <ref xml:id="cy8th8-d1e84-Rd1e140">
+            <sic>Philosophus</sic> 1 Rhetoricorum
+          </ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e145">
+            laus est oratio magnitudinem uirtutis 
+            ostendens
+          </quote>.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e151">
+          Gloria vero est frequens de aliquo fama cum 
+          laude secundum 
+          <ref xml:id="cy8th8-d1e84-Rd1e157">
+            Tullium in rethoricis
+          </ref>. 
+          Et vt ipse ait in oratione 
+          pro <name xml:id="cy8th8-d1e84-Nd1e161">M. Marcello</name>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e164">
+            Est illustris et promulgata multorum 
+            et magnorum: vel in suos ciues uel in patria uel in omne genus 
+            hominum fama meritorum
+          </quote> 
+          Aut secundum Augustinum 
+          <quote xml:id="cy8th8-d1e84-Qd1e169">
+            est 
+            iudicium hominum bene de hominibus opinantium
+          </quote>
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e176">
+           Probatur 
+          propositio 1o quoniam naturaliter laudis honoris et glorie cupiditas
+          in est hominibus unde frequens est et quotidiana: ita quod
+          nemo est qui eam non desideret. Ait nempe 
+          <ref xml:id="cy8th8-d1e84-Rd1e136">
+            <name xml:id="cy8th8-d1e84-Nd1e184">Ualerius</name> in libro 8
+          </ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e186">
+            nemo 
+            est tam humilis tamque abiecte conditionis quem glorie 
+            dulcedo non demulceat et tangat
+          </quote>. 
+          Et 
+          <ref xml:id="cy8th8-d1e84-Rd1e194">
+            <name xml:id="cy8th8-d1e84-Nd1e195">Tullius</name> in Tusculanis
+          </ref>:
+          <quote xml:id="cy8th8-d1e84-Qd1e200" source="http://scta.info/resource/ctd99a-asdvss-d1e104@27-34">
+            honos alit artes omnesque incendimur ad studia gloriae et 
+            laudis
+          </quote>; 
+          et 
+          <ref xml:id="cy8th8-d1e84-Rd1e205">
+            1o officiorum
+          </ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e207">
+            vix inuenitur qui laboribus periculisque 
+            additis non quasi mercedem rerum gestarum desideret preter 
+            hanc glorie et laudis
+          </quote>. 
+          Et in libro orationum ait nihil 
+          esse in vita magnopere expetendum nisi laudem et honestatem. 
+          In ea autem persequenda omnes cruciatus corporis 
+          omnia pericula mortis atque exilii parui esse ducenda. Sane 
+          quia ut ait 
+          <ref xml:id="cy8th8-d1e84-Rd1e223">
+            Gregorius in libro 6 capitulo 209 registri
+          </ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e225">
+            sicut ignis 
+            aura flante fit grandior: ita bonae mentis <sic>studi</sic> <sic>comendatione</sic>
+            proficiunt
+          </quote>. 
+          Hinc imperatores et antiqui reges inclinationem 
+          seu conditionem huiusmodi considerantes mortalium 
+          ut uirtuosos ciues ad subeundos labores maxime pro 
+          republica et strenue agendum in omnibus secundum uirtutem 
+          animarent tripliciter secundum 
+          <ref xml:id="cy8th8-d1e84-Rd1e246">
+            Albertum magnum 
+            <pb ed="#B" n="3-v"/>
+            super 1
+          </ref>. 
+          Et hic ostendebant praemiando bene meritos illa laude 
+          scilicet vt demonstraretur in gloria quod laudis titulos acciperent: 
+          et memoriam sempiterne recordationis fecerunt eos 
+          sedere super equos niueos (ut dicit <name xml:id="cy8th8-d1e84-Nd1e257">Titus liuius</name>) qui erant
+          de sella regis undique circumdati precone publica uoce clamante 
+          et exponente virtutes eorum et virtutum operationes quibus 
+          hoc meruerant. Et hoc non multum aberrat a facto regis 
+          assueri circa <name xml:id="cy8th8-d1e84-Nd1e268"><sic>Nardocheum</sic></name> quem ascendere iussit equum 
+          qui de regis sella erat indutum vestibus regis et accepit diadema 
+          regium et ducere per plateam ciuitatis clamante 
+          <name xml:id="cy8th8-d1e84-Nd1e277">Naamam</name> 
+          <quote xml:id="cy8th8-d1e84-Qd1e279" source="http://scta.info/resource/est6_9@19-24">
+            Sic honorabitur quemcumque rex voluerit
+            honorare
+          </quote>. 
+          <ref xml:id="cy8th8-d1e84-Rd1e282">
+            Hester 6.
+          </ref>
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e285">
+          Et 2o titulos etiam rescribi fecerunt in templum 
+          et aulam: vt etiam non presentibus eis: virtus 
+          eorum nota foret.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e294">
+          3o memorias quoque acceperunt in 
+          statuis et fornicibus: ut etiam post mortem eorum virtus 
+          illa obliuione non deleretur. Propter quod adhuc picti inueniuntur 
+          uictores scutis rotundis retro ad caput alligatis: vt 
+          in scuto uideretur quam strenue pro republica certauerunt.
+          scutus enim sectus est vbi suscipit ictus inimici: et ideo miles
+          protectus scuto coronatus significatur strenue sustituisse 
+          hostium insultus et ictus. Hinc est quod in templis 
+          capita deorum et sanctorum pinguntur in figura circulari 
+          per modum scuti <subst><add place="above-line">posteris capitis aptati</add> <del>premia virtutis etc.</del></subst> Tales igitur 
+          laudes sunt premia virtutis etc Haec Albertus
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e327">
+           Ecce quanti ueteres ducebant honorem laudem et gloriam 
+          non propter laudem presentium modo: sed potius pretendebant 
+          ut futuris seculis virtus / opulentia status magnitudo 
+          opera strenue a se facta constarent quatenus sic viuerent 
+          ut possibile erat sempiternaliter. Et hoc erat eis 
+          interesse magnum. 
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e344">
+           Cum igitur per repositionem illorum 
+          thesaurorum in sepulchris pretenderent laudem 
+          honorem et gloriam ad que naturaliter homines inclinatur 
+          quo magnum interesse acquirere procurabant.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e355">
+           2o 
+          probatur propositio appetitus semper viuendi natura in est 
+          cunctis mortalibus ut patet in 10 Ethicorum cuius ratio potest 
+          assignari quia secundum eundum Philosophum 2o de anima: 
+          omnia creata secundum uniuscuiusque naturam et conditionem 
+          appetunt diuinum esse participare et illius causa agunt 
+          <pb ed="#B" n="4-r"/>
+          quecunque secundum naturam agunt. Et tamen cum experientia
+          didicissent impossibile fore semper viuere eo modo viuendi 
+          qui aliquantulum est similis eternali scilicet in memoria 
+          et opinione hominum contenti fuere. Et ideo in uita ista 
+          mortali egregia quedam secundum uniuscuiusque inclinationem 
+          vires potentiam vel diuitias operabantur: vt materiam 
+          praeberent venturis hominibus (ipsis per mortem 
+          sublatis) de eis bene opinandi / eos reverendi / et laudandi 
+          exaltandique vt sic <sic>tantem</sic> viuerent quodammodo eternaliter 
+          ergo per hoc quod recondere thesauros eiusmodi secum in sepulchris 
+          reges nobilissimi et potentes homines mandabant: 
+          honorem opinionem bonam / famam / laudem et gloriam 
+          et sic magnum interesse vendicare sibi conabantur.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e400">
+           Porro inter alia que ad perpetuam hominum memoriam 
+          laudem etc /. per mortem consequendum prisci soliti 
+          erant curare (qui mos usque hodie durat) hoc erat unum 
+          et non minus principale: scilicet quod arma seu insignia que 
+          loco imaginum fuerunt subrogata: ponebantur in templis uel 
+          in sepulchris / muris / aut fornicibus et aliis solemnibus edificiis: 
+          quatenus patescerent vniuersis et cuius aut quorum fuerant 
+          deinceps notitiam haberent et reuereri eos inciperent.
+          hoc tangitur in L. 1, §. casum, ff. de postulando. Hoc etiam 
+          apparet 
+          <ref xml:id="cy8th8-d1e84-Rd1e423">
+            1 Machabeo cap. 13
+          </ref> 
+          ubi legitur de Symoneo Machabeo 
+          quod 
+          <quote xml:id="cy8th8-d1e84-Qd1e428" source="http://scta.info/resource/Imac13_27@2-18">
+            edificauit sepulchrum patris sui et fratrum suorum 
+            edificium altum visu lapide polito retro <sic>e</sic> ante
+          </quote>.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e436">
+          Et statui septem pyramides unam contra aliam patri et
+          matri et quat<add place="above-line">t</add>uor fratribus: et his circum posuit columnas
+          magnas et super columnas arma ad memoriam eternam.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e448">
+          Et iusta arma naues sculptas que viderentur ab hominibus 
+          nauigantibus mare. haec ibi. Et 
+          <ref xml:id="cy8th8-d1e84-Rd1e454">
+            1o Regum, 13
+          </ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e456" source="http://scta.info/resource/Isam31_10@2-14">
+            posuerunt 
+            philistei arma saulis interfecti in templo Astaroh: corpus 
+            vero eius suspenderunt in muro bethsam
+          </quote>. 
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e464">
+           Canticorum denique 
+          4 Salomon tangit quod Rex David pater turrim fecerat 
+          ex qua 
+          <quote xml:id="cy8th8-d1e84-Qd1e472" source="http://scta.info/resource/cant4_4@12-18">
+            pendebant mille clipei omnis armature fortium
+          </quote>. 
+          Qui forte fuerunt insignia et arma mille procerum
+          tam parentum quam amicorum aut subditorum sibi, que 
+          posuit in mille clipeis pendentibus ex dicta turri. .
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e483">
+          Plinius quoque libro 35 cap. 3 refert aliquos antiquos 
+          <pb ed="#B" n="4-v"/>
+          Romanos clipeos arma vel scuta ad perpetuam suorum 
+          memoriam reliquentes idem fecisse. Nam Ap. Claudius 
+          qui consul cum seruilio fuit suorum clipeos in sacro uel publico 
+          priuatim dicare primus instituit. Posuit nempe in bellone 
+          ede maiores suos placuitque in excelso spectari: et titulos 
+          honorum legi. Decora res utique si liberorum turbe paruulis 
+          imaginibus, seu indum aliquem sobolis pariter ostendat.
+          Quales clipeos nemo non gaudens fauensque aspicit.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e508">
+          Post eum Marcus Emilius collega in consulato Q. luctarii 
+          non in basilica modo emilia: verum et domi sue posuit 
+          id quoque Marcio exemplo poeni ex auro factitauere et clipeos 
+          et imagines secunque in castris tulere etc haec plinius /
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e521">
+          Et est sciendum quod antiquitus mos fuit Rome ut imagines 
+          maiorum in funeribus ducerentur ad in sepulchris gentilitatem, id est 
+          ad genealogiam ostendendam et in atriis imagines erant 
+          que spectarentur expressi vultus singulis disponebantur 
+          armariis ut essent imagines que comitarentur gentilia
+          funera. Aliae in foribus et circa limina animorum ingentium 
+          imagines erant affixis hostium spoliis: que nec emptori 
+          refringere liceret que etiam Dominis mutatis domus 
+          ornamenta erant secundum eundem plini libro quo supra 
+          capitulo 2 loco igitur imaginum subrogata fuerunt arma 
+          vel insignia, (ut diximus) et opinatur budeus quod posteriora 
+          tempora pro imaginibus insignia gentilia habuerunt <del rend="strikethrough">que</del> 
+          qui arma vulgo vocantur que ipsa quoque primum ut simile 
+          est veri virtutis premia fuerunt ac rerum preclare gestarum 
+          decora si de his ad satietatem cupis videre lege casaneum 
+          prima <del rend="strikethrough">patet</del> pars conclusio 10 in cathalogo gloriae mundi.
+          Patet igitur quod apud priscos quemadmodum et apud modernos
+          modo fit honoris et laudis gratia et bone opiniones et fame: vel de propriis personis: aut maiorum suorum 
+          seu de antiquitate originis familie siue gentilitatis 
+          et nobilitatis apud iudicium hominis perpetua de
+          magna cura erat et summo studio id agebatur.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e574">
+          Quid precor 
+          nunc vidimus etiam inter catholicos aliud maxime nobiles 
+          uiros utique potentia et divitiis magnos Reges et magnates 
+          nisi ponere vexilla  insignia  Scuta et arma vel aurea vel 
+          deaurata siue argentea vel ferrea in capillis apud ecclesias 
+          <pb ed="#B" n="5-r"/>
+          erectis ab ipsis studio magno magnisque sumptibus edificatis: 
+          tumbas vel tumulos preterea in ipsis quantum ipsi possunt in
+          altum eleuare: nec non cooperturiis bombicinis aut auro in 
+          intextis et id genus multis supellectilibus preciosis <seg type="correction">eo<add place="above-line">s</add><del rend="strikethrough">num</del></seg> 
+          ornare. Et hoc quidem non ob aliud nisi honoris et 
+          <sic>et</sic> fame perpetue gratia: verum quia sepelire thesauros et 
+          supellectilia preciosa cum corporibus dominorum gloriam 
+          nobilitatem diuitias excellentiam status celsitudinem eorum 
+          manifestabat: exinde uidentibus et audientibus motiuum 
+          et materia dabatur illos revereri magni pendere nec non 
+          laudare atque magnificare et cetera omnia ad honorem 
+          et gloriam spectantia ergo magnum interesse pretendent qui 
+          secum in sepulchris reponere suas diuitias et thesauros mandabant: 
+          scilicet perpetuum honorem et ad honorem spectantia.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e631">
+          Honoris siquidem interesse maius est omni interesse alio.
+          Nam ut cicero de amicitia ait: 
+          <quote xml:id="cy8th8-d1e84-Qd1e638">
+            Ubi enim istum inuenies
+            qui honorem amici anteponat suo
+          </quote>. 
+          Et 
+          <ref xml:id="cy8th8-d1e84-Rd1e288">
+            Aristoteles in economicis
+          </ref>
+          <quote xml:id="cy8th8-d1e84-Qd1e642">
+            Multo grauius fert aliquis si honore suo priuetur 
+            quam si bona sua ei auferantur
+          </quote>. 
+          et huiusmodi honores terreni 
+          plus cupiuntur quam celestes. 
+          <ref xml:id="cy8th8-d1e84-Rd1e293">
+            De renuntiatione. C. nisi cum pridem
+            § pro graui
+          </ref>. 
+          Et pro honore sustinendo etiam <del rend="strikethrough">sustinendo</del> 
+          agendum est actione iniuriarum, ut dicit 
+          <ref xml:id="cy8th8-d1e84-Rd1e299">
+            <name xml:id="cy8th8-d1e84-Nd1e657">Baldus</name> in L. observare 
+            § antequam ff. de officio proconsulis
+          </ref>. 
+          immo pro tuitione et 
+          defensione proprii honoris permissum <sic>Duelum</sic> et bellum de 
+          iure moueri potest contra iniuriantes vel detrahentes honori 
+          nostro. 
+          <ref xml:id="cy8th8-d1e84-Rd1e670">
+            Baldus in cap. circa principium et columna de pace 
+            tenenda. in de feudis
+          </ref> 
+          quia nemo tenetur iniuriam pati vel 
+          parui pensionem proprii honoris 
+          <ref xml:id="cy8th8-d1e84-Rd1e678">
+            argumentum ff. de postulando in principio
+          </ref>
+          imo crudelis est qui famam suam neglegit. 
+          <ref xml:id="cy8th8-d1e84-Rd1e682">
+            c. nolo 12 q. 122
+          </ref>. 
+          Hinc dicitur quod causa uite et honoris equiparantur 
+          <ref xml:id="cy8th8-d1e84-Rd1e687">
+            L. Iusta, 
+            ff. de manumissionibus
+          </ref>. 
+          Itaque potest quis in honoris
+          sui defensionem occidere inuasorem sicut pro defensione 
+          <del rend="strikethrough">occ</del> persone Ut per doctores in 
+          <ref xml:id="cy8th8-d1e84-Rd1e699">
+            l. 1. Codex, Unde ui.
+          </ref> 
+          et per 
+          <ref xml:id="cy8th8-d1e84-Rd1e702">
+            <name xml:id="cy8th8-d1e84-Nd1e703">Iasso</name> in l. vt vim ff de Iustitia et iure
+          </ref> 
+          et 
+          <ref xml:id="cy8th8-d1e84-Rd1e706">
+            <name xml:id="cy8th8-d1e84-Nd1e707">Petrus Gerar</name> in suis 
+            singula singulum 33
+          </ref>. 
+          Unde 
+          <ref xml:id="cy8th8-d1e84-Rd1e338">
+            textus in L. miles, § socer 
+            de adulteriis
+          </ref>. 
+          Verecundum esse honorem suum inultum 
+          relinquere. Non potest enim honor numerario precio aestimari 
+          <pb ed="#B" n="5-v"/>
+          ut dicit 
+          <ref xml:id="cy8th8-d1e84-Rd1e719">
+            Baldus in capitulo De vita et honestate clericorum
+          </ref> 
+          et in 
+          <ref xml:id="cy8th8-d1e84-Rd1e721">
+            capitulo ex tenore 
+            2 columna de appellationibus
+          </ref>. 
+          Et quod plus est honor adfert utilitatem 
+          <ref xml:id="cy8th8-d1e84-Rd1e349">
+            l. si longius, in fine, ff, de iudiciis
+          </ref> 
+          et ubicumque est questio honoris 
+          dicitur esse ardua causa in 
+          <ref xml:id="cy8th8-d1e84-Rd1e351">
+            l. si inimicitie  in fine <sic>ff</sic> de his quibus 
+            ut indignis
+          </ref>. 
+          Inde preterea est quod id quod non potest fieri 
+          non servato honore fieri non potest ita habet 
+          <ref xml:id="cy8th8-d1e84-Rd1e356">
+            textus in l. in eadem 
+            causa <sic>ff</sic> ex quibus causis maiores
+          </ref> 
+          Notat 
+          <ref xml:id="cy8th8-d1e84-Rd1e741">
+            <name xml:id="cy8th8-d1e84-Nd1e742">Gerardus</name> 
+            in Singula, singulum.
+          </ref> 
+          et sic de propositione prima.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

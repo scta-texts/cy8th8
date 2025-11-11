@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2025-11-11">November 11, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="1-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e71">
+        <head xml:id="cy8th8-d1e71-Hd1e97">Sectio 1</head>
+        <p xml:id="cy8th8-d1e71-d1e99">
+          <!-- missing line break -->§. 1
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e106">
+          Ad huius quaestionis responsionem in primis est supponendum 
+          <unclear>quodmos</unclear> fuit antiquis non solum apud gentes quae veri Dei cognitionis 
+          expertes erant verum etiam apud fideles ipsius veri Dei 
+          cultores: Reges atque optimates quaeque preciosa in ulta habebant: 
+          secum post mortem in sepulchris reponere. Et tanto maiora 
+          et ditiora in sepulchris eorum ponebantur quo potentia 
+          ceteros excellebant et diuitiis erant locupletiores. Ex hoc 
+          enim gloria et manificientia eorum seculis futuris in hominum 
+          memoria illustiora reddebantur.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e130">
+           Hoc patet per illud 
+          <ref xml:id="cy8th8-d1e71-Rxj2as3" corresp="#cy8th8-d1e71-Qaj822a">Iob 3o</ref> 
+          <quote xml:id="cy8th8-d1e71-Qaj822a" source="http://scta.info/resource/iob3_21@7-9 http://scta.info/resource/iob3_22">
+            Quasi effodientes thesaurum gaudentque vehementer 
+          cum invenerint sepulchrum</quote>. 
+          Et Baruch 6 capite. 
+          <quote xml:id="cy8th8-d1e71-Qd1e138" source="http://scta.info/resource/bar6_17@10-26">
+            Aut sicut 
+            ad sepulchrum ad ductum mortuum: ita tutant sacerdotes 
+            ostia clausuris et seris ne a latronibus spolientur
+          </quote> (scilicet the<pb ed="#B" n="1-v"/>sauris) 
+          ibi cum mortuis reconditis Ita inquit glosa 
+          <quote xml:id="cy8th8-d1e71-Qd1e149">antiquitus 
+            (ait) in sepulchris potentium ponebantur pretiosa 
+            propter quod claudebantur fortiter et cum diligentia ne 
+            a latronibus extraherentur
+          </quote> haec illa. Eadem dicit s. Tho
+          super Iob loco citato /.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e161">
+          Item apparet exemplo Regis manifici 
+          salomonis qui sepelivit Dauid patrem in hierosolimis 
+          decenter nimis cum aliis rebus et ceremoniis quae solent 
+          circa exequias ministrari. Et multas diuitias cum eo recondidit. 
+          Nam fecerat ei sepulchrum honorabile circa quod 
+          constituit septem loculos thesarorum quos auro et lapidibus 
+          preciosis replevit. Tuarum diuitiarum magnitudo per 
+          ea quae post modum ex suplchro Dauid extracta sunt manifeste 
+          ostenditur. Nam post tempus annorum mille et trecentorum.
+          Hyrcanus pontifex dum ciuitas hierusalem obsideretur 
+          ab Anthioco rege. Volens ei dare pecunias ut 
+          ab obsessione recederet et exercitum suum auferret non 
+          habens unde hoc adimpleret aperuit unum loculum sepulchri 
+          Dauid et sublatis ex inde tribus millibus talentorum 
+          partem dedit Antiocho et ita an ietatem obsessionis ammouit.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e199">
+          Talentorum autem ut dicit magister in historiis erant 
+          species minimum (scilicet) maius et maximum. Minimum 
+          enim erat pondo quinquaginta. Maius pondo septuaginta: maximum 
+          vero centum viginti librarum. Valebat autem librarum 
+          quaelibet quinquaginta aureos. Unde patet quod etiam si quodlibet 
+          talentorum esset de minimis adhuc ascendebat in magnum 
+          aureorum tria millia tallentorum. Quin potius si erant de 
+          maximis ut videtur rationabile. 
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e219">
+           Post haec autem multo 
+          annorum tempore iam transacto Rursus herodex Rex: audiens 
+          Hyrcanum antese regem aperuisse tumulum Dauid, et 
+          tria millia tallentorum inuenisse: <del rend="strikethrough">tunculum Dauid</del> multo 
+          plura credens depositaque ad omnes sumptus suos sufficerent: 
+          tumulum aperiens ingreditur noctum dum nequaquam vellet 
+          hoc ciuitatem sentire. Unde fidelissimos amicos tantum ducens 
+          pecunias depositas sicut Hyrcanus non inuenit ornatum 
+          vero et vasa aurea plura tulit. Dum vero omne studium poneret 
+          et diligentiorem inquisitionem faceret ac vellet interius 
+          ingredi ad sepulcra in quibus Dauid et salomonis corpora posita 
+          erant duo eius satelites flamis exusti sunt ab inte<pb ed="#B" n="2-r"/>riori
+          parte occurrentibus. Tunc ille timore perterritus egreditur. 
+          Nullus unquam deinceps fuit qui ceteros loculos inuenire posset 
+          quamuis magni thesauri in sepulchro Dauid et Salomonis 
+          usque hodie esse credantur. Magice enim actum est: ita ut non 
+          liceret cuiquam vel inuenire velsi inuenisset posse inde quinque 
+          eripere. haec omnia refert Iosephus libro 7 capitulo 16 et libro 13 capitulo 18 
+          et libro 16 capitulo 7 Antiquitatum Iudaicarum
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e269">
+           fama vero horum 
+          motus Turchra solimanus nomine nostris temporibus 
+          circa annum videlicet domini 1520 cum cepit hieroslimam: 
+          mira diligentia quaesivit thesauros in sepulchro Dauid: nunquam 
+          tamen inuenire potui ut legitur in historia Turcharum
+          causa autem huius frustrationis est quia cuiusmodi loculi erant 
+          sub terra mechanico modo id est magico reconditi ut in 
+          gredientibus in monumentum nulla tenus possent esse manifesti 
+          ut inquit iosephus.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e291">
+           Patet igitur quod recondere thesauros 
+          et alias res preciosas Reges et potentes viros secum 
+          in sepulchris suis res sint licita et solita apud antiquos fideles 
+          vel infideles communis et generalis. Et huius ratio potest talis 
+          assignari inclinatio videlicet naturalisque inest omnibus 
+          hominibus inquantum sunt rationales ut honor debitus servetur 
+          nature humane prae ceteris animalibus scilicet quod corpus humanum 
+          sepeliafur (idest) quod hunc honorem habeat hora: quoniam 
+          sicut inter omnia animalia solus homo est animal sacrum 
+          atque diuinum: ita soli deferatur hic honor quod eius cadauer 
+          sepeliafur ne laceretur ab auribus et aliis animalibus ceterorum 
+          autem cadavera in sepulta maneant Unde Philosophus in 1o Rhetori 
+          inter alias partes honoris sepulchrum ponit 
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e322">
+           est 
+          in super quoddam bonum honorificum mortuis inquantum vivunt 
+          in memoriis hominum quod sepeliantur corpora eorum 
+          omnes enim putant nihil esse in quo maiorem in iuriam 
+          mortuo faciamus: quam si corpus eius per terram trahamus 
+          et demus canibus et bestiis deuorandum. Sic colligitur ex 
+          <name xml:id="cy8th8-d1e71-Nd1e338">aristotele</name> 5 ethic cum loquitur de illo qui se ipsum occidit 
+          an sibi in iustum faciat. Et respondet quod non sed ciuitati 
+          Et ideo ciuitas vel comunitas infert ei poenam scilicet <del rend="strikethrough">quod feciat 
+          cadauer trahi per terra</del> in honorationem circa corpus 
+          scilicet quod faciat cadauer trahi per terram vel quod maneat 
+          in sepultum. Est ergo dicendum quod malum quoddam prouenit 
+          de functis ex hoc quod non sepeliuntur. Reputantur enim in 
+          <pb ed="#B" n="2-v"/>
+          felices qui carent sepultura. Econtrario autem prouenit bonum de 
+          functis ex eo quod honorabiliter sepeliuntur. Ita patet Isaie 11o Ubi 
+          de Moysya ponuntur multa honorifica et postea addicitur de 
+          honore sepulchri eius ibi: erit sepulchrum eius gloriosum. Et 
+          tamen si ad christum non pertineret gloria et honor sepulchri: 
+          nihil de hoc <unclear>prophetice</unclear> diceretur. Ergo gloria sepulchri ad 
+          christum attinebat. Ergo bonum aliquod accidit mortuis si corpora 
+          eorum sepultore mandentur. Inquantum scilicet habent esse 
+          et modum viuendi in opinionibus hominum. Ex inde autem 
+          fruit apud omnes nationes naturalis ista conceptio: quod corpora de 
+          functurum sepelienda vescremancia essent. Qui autem cremanda 
+          decernebant: ei neres seruabant ethos in sepulchris vel in aliquo 
+          insigni et honorobili eminentique loco recondebant. Sicut cineres 
+          Iulii cesaris usque hodie Romae super quoddam in genti lapide 
+          pyramidalis figurae qui acus nominatur post ecclesiam sancti 
+          Petri dicuntur per manere iudicabunt enim antiqui et etiam 
+          moderni turpe ac iniuriosum esse quod in sepulta humana corpora 
+          remanerent. Et propter hoc videmus homines sollicitos in vita 
+          esse de sepulchris construendis et obsequiis et aliis ad ea pertinentibus. 
+          Et quanto potentiores et diuitiis magis sunt opulenti 
+          honorabiliora pulchriora et sumptusiora preparant se 
+          pulchra sibi. Unde unum idemque praecipuum quod magis 
+          cedit de functis ad honorem et ut nomina eorum immortalitate 
+          possibili apud posteros potiantur: eo videlicet modo 
+          quo esse habent et viuunt in memoriis hominum: sepulchrum 
+          esse videtur presertim si ex preciosa materia et multum sumptuose 
+          ac subtili optimoque artificio aedificatum fuerit: ornatum 
+          in super pulcherrimis ac preciosis aliis coherentibus: et longe 
+          potius sicum cadaueribus humanis magni opes atque thesauri 
+          preciosi reponantur in sepulchris. 
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e426">
+           Verum quia apud reges 
+          et potentes in seculo facile inuenitur eius modi magnitudo 
+          et opulentia diuitiarum: eo magis orescebat et augebatur nec 
+          non diffundebatur eorum gloria potentia et excellentia 
+          regia futuris seculis innotescebat: quo in sepulchris suis 
+          maiores thesauros et diuitias ex auro et argento et lapidibus 
+          preciosis: ceterisque diuersis magni precii suppellectilibus 
+          secum mandabant recondere aut sepelire secum / .
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
