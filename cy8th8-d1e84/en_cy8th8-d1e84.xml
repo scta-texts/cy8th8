@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 2</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 2</title>
+          <date when="2025-11-10">November 11, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex
+            Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e84">
+        <head xml:id="cy8th8-d1e71-Hd1e97">Section 2</head>
+        <p xml:id="cy8th8-d1e84-d1e100"> §. 2 </p>
+        <p xml:id="cy8th8-d1e84-d1e109">
+          From the preceding we can draw three conclusions. 
+          The first is that those who wish to bury their riches or treasures with themselves or with their own
+          bodies intend a great interest, namely: honors, praise, and glory, which are the effects
+          of honor and parts of happiness according to the <ref>Philosopher in Rhetoric I</ref>, and through
+          these to live perpetually in the opinions of men. And they hope to achieve this if their
+          status, riches, opulence, sublime works, and magnificence, such as they were, should be
+          made known to posterity. </p>
+        <p xml:id="cy8th8-d1e84-d1e130"> For praise is an encomium celebrated by the mouth of
+          another, or praise is discourse elucidating the magnitude of virtue according to Saint
+          Thomas on the Psalms, and 
+          <ref xml:id="cy8th8-d1e84-Rd1e140">
+            the Philosopher in Rhetoric I
+          </ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e145">
+            praise is speech showing the magnitude of virtue
+          </quote>. 
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e151"> 
+          But glory is frequent fame about someone with praise
+          according to 
+          <ref xml:id="cy8th8-d1e84-Rd1e157">
+            Cicero in his Rhetoric
+          </ref>. 
+          And as he
+          himself says in his oration for 
+          <name xml:id="cy8th8-d1e84-Nd1e161">M. Marcellus</name>:
+          <quote xml:id="cy8th8-d1e84-Qd1e164">
+            It is the illustrious and promulgated fame of merits, 
+            either toward one's citizens or toward one's country or toward the whole human
+            race
+          </quote>. 
+          Or according to Augustine: 
+          <quote xml:id="cy8th8-d1e84-Qd1e169">
+            it is the judgment of men thinking well about people
+          </quote>. 
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e176">
+          The proposition is proved first because the desire for
+          praise, honor, and glory is naturally in men, whence it is frequent and daily, so that
+          there is no one who does not desire it. 
+          Indeed 
+          <ref><name xml:id="cy8th8-d1e84-Nd1e184">Valerius</name> says in book 8</ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e186">
+            no one is so humble and of such abject condition 
+            whom the sweetness of glory does not soften and
+            touch
+          </quote>. 
+          And <ref xml:id="cy8th8-d1e84-Rd1e194">
+            <name xml:id="cy8th8-d1e84-Nd1e195">Cicero</name> in the Tusculans
+          </ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e200">
+            honor nourishes the arts
+            and we are all inflamed to the pursuit of glory and praise
+          </quote>; and 
+          <ref xml:id="cy8th8-d1e84-Rd1e205">in De Officiis I
+          </ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e207">
+            one will scarcely find anyone who, when labors and dangers
+            are added, does not desire as if a reward for things done, beyond this glory and
+            praise
+          </quote>. 
+          And in <ref>his book of orations</ref> he says there is nothing in life to be
+          greatly sought except praise and honor. 
+          But in pursuing it, all tortures of the body, all
+          dangers of death and exile should be considered of little importance. 
+          Indeed because, as
+          <ref xml:id="cy8th8-d1e84-Rd1e223">
+            Gregory says in book 6 chapter 209 of the Register</ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e225">
+            just as fire blown by wind becomes greater, 
+            so the endeavors of good minds profit by commendation
+          </quote>. 
+          Hence the emperors and ancient kings, 
+          considering this inclination or condition of mortals, 
+          in order to encourage virtuous citizens 
+          to undertake labors especially for the republic 
+          and to act strenuously in all things according to virtue, 
+          acted in three ways according to 
+          <ref xml:id="cy8th8-d1e84-Rd1e246">Albert the Great on Ethics I</ref>. 
+          And here they showed by rewarding the well-deserving with that praise, 
+          namely that they would be displayed in glory so that they might receive titles of praise, 
+          and they made an eternal memorial of them sitting upon snow-white horses 
+          (as <name xml:id="cy8th8-d1e84-Nd1e257">Titus Livius</name> says), 
+          which belonged to the king's chair, surrounded everywhere by a
+          herald crying with public voice and setting forth their virtues and the works of their
+          virtues by which they had merited this. 
+          And this does not differ much from what King Ahasuerus did concerning 
+          <name xml:id="cy8th8-d1e84-Nd1e268">Mordecai</name> whom he
+          ordered to ascend a horse that belonged to the king's chair, 
+          dressed in the king's garments, 
+          and received the royal crown and to be led through the city square with 
+          <name xml:id="cy8th8-d1e84-Nd1e277">Haman</name> crying out: 
+          <quote xml:id="cy8th8-d1e84-Qd1e279">Thus shall it be done to the man 
+            whom the king desires to honor
+          </quote>. 
+          <ref xml:id="cy8th8-d1e84-Rd1e282">Esther 6.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e285">
+          And secondly, they also had titles inscribed in the temple
+          and hall, so that even when they were not present, their virtue might be known. </p>
+        <p xml:id="cy8th8-d1e84-d1e294"> 
+          Thirdly, they also received memorials in statues and
+          arches, so that even after their death that virtue might not be destroyed by oblivion. On
+          account of which victors are still found depicted with round shields tied to the back of
+          the head, so that on the shield it might be seen how strenuously they fought for the
+          republic. For a shield is cut where it receives the blows of the enemy, and therefore a
+          soldier protected by a shield crowned signifies that he strenuously withstood the assaults
+          and blows of enemies. Hence it is that in temples the heads of gods and saints are painted
+          in circular form in the manner of a shield <!-- transl triage --> fitted to the back of the head. 
+          Therefore such praises are rewards of virtue, etc. Thus Albert. 
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e327"> 
+          Behold how greatly the ancients valued honor, praise, and
+          glory, not only for the praise of those present, 
+          but rather they intended that their virtue, opulence, greatness of status, 
+          and works strenuously done by them might be
+          established for future ages, so that thus they might live, 
+          as was possible, eternally.
+          And this was a great interest to them.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e344">
+          Therefore, since, <!-- translation triage --> through the placing of those treasures in tombs, 
+          they intended praise, honor, and glory, 
+          to which men are naturally inclined, by
+          which they strove to acquire a great interest. </p>
+        <p xml:id="cy8th8-d1e84-d1e355"> 
+          Secondly, the proposition is proved: the desire for living
+          forever is naturally in all mortals, as is clear in <ref>Ethics X</ref>, the reason for which can be
+          assigned because, according to the same <ref>Philosopher in De Anima II</ref>, all created things
+          according to the nature and condition of each desire to participate in divine being, and
+          for its sake they do whatever they do according to nature. And yet since they had learned
+          from experience that it would be impossible to live forever in that mode of living which
+          is somewhat similar to the eternal, namely in the memory and opinion of men, they were
+          content. And therefore in this mortal life they worked certain outstanding things
+          according to the inclination, strength, power, or riches of each, so that they might
+          provide material to coming men (when they themselves had been removed by death) for
+          thinking well of them, revering them, and praising and exalting them, so that thus they
+          might live in a certain way eternally. Therefore through the fact that most noble kings
+          and powerful men ordered such treasures to be stored with them in their tombs, they strove
+          to claim for themselves honor, good opinion, fame, praise, and glory, and thus a great
+          interest.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e400"> 
+          Moreover, among other things which the ancients were
+          accustomed to care for in order to achieve perpetual memory of men, praise, etc., through
+          death (which custom endures to this day), this was one and not less principal: namely that
+          arms or insignia, which were substituted in place of images, were placed in temples or in
+          tombs, walls, or arches and other solemn buildings, so that they might be manifest to all
+          and henceforth they might have knowledge of whose or of whom they had been and might begin
+          to revere them. This is touched upon in 
+          <ref>
+            l. 1, §. casum, ff. de postulando
+          </ref>. 
+          This also appears 
+          <ref xml:id="cy8th8-d1e84-Rd1e423">
+            in 1 Maccabees chapter 13
+          </ref> where it is
+          read of Simon Maccabee that 
+          <quote xml:id="cy8th8-d1e84-Qd1e428">
+            he built a tomb for his father and his brothers, 
+            a building high to see, 
+            of polished stone behind and before
+          </quote>.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e436">
+          And he set up seven pyramids, 
+          one opposite another, 
+          for father and mother and four brothers, 
+          and around these he placed great columns, 
+          and upon the columns arms for eternal memory.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e448"> 
+          And next to the arms, 
+          sculpted ships which would be seen by
+          men sailing the sea. 
+          <!-- translation triage -->
+          Thus far that passage. 
+          And 
+          <ref xml:id="cy8th8-d1e84-Rd1e454">1 Kings 13</ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e456">
+            the Philistines placed the arms of the
+            slain Saul in the temple of Ashtaroth, 
+            but his body they hung on the wall of Beth-shan
+          </quote>. 
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e464"> 
+          Finally in <ref>Song of Songs 4</ref>, 
+          Solomon mentions that King
+          David his father had made a tower from which 
+          <quote xml:id="cy8th8-d1e84-Qd1e472">
+            hung a thousand shields, 
+            all the armor of the strong
+          </quote>,
+          <!-- TODO: trans triage -->
+          which perhaps were the insignia 
+          and arms of a thousand nobles,
+          both of parents and of friends or subjects to him, 
+          which he placed on a thousand shields
+          hanging from the said tower.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e483">
+          <ref>Pliny also in book 35 chapter 3</ref> 
+          relates that certain ancient Romans, 
+          leaving shields, 
+          arms or bucklers for the perpetual memory of their own, 
+          did the same. 
+          For <name>Appius Claudius</name>, 
+          who was consul with <name>Servilius</name>, 
+          first established the custom of privately 
+          dedicating shields of his family 
+          in a sacred or public place. 
+          For he placed in the temple of Bellona his ancestors, 
+          and it pleased him that they be viewed on high 
+          and that the titles of honors be read.
+          <!-- TODO: trans triage -->
+          A beautiful thing indeed if a crowd of
+          children with small images, 
+          or some offspring equally displayed. 
+          Such shields everyone
+          views with joy and favor.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e508">
+          After him 
+          <name>Marcus Aemilius</name>, 
+          colleague in the consulship of
+          <name>Q. Lutatius</name>, 
+          placed them not only in the Aemilian basilica 
+          but also in his own home. 
+          By <name>Marcius's</name> example, 
+          the Carthaginians also made shields 
+          and images of gold 
+          and carried them with them in camps, etc. 
+          Thus Pliny. 
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e521"> 
+          And it should be known that in ancient times 
+          it was the custom at Rome that images of ancestors 
+          be carried in funerals and in tombs 
+          to show gentility, that is, genealogy, 
+          and in the atria there were images that would be viewed,
+          expressed faces were arranged in individual shrines 
+          so that there might be images that
+          would accompany family funerals. 
+          Others were affixed at doors and around the threshold,
+          images of great souls with the spoils of enemies attached, 
+          which not even a buyer would be permitted to break, 
+          and which even when masters changed were ornaments of the house
+          according to the <ref>same Pliny in the book quoted above, chapter 2</ref>. 
+          Therefore in place of images arms or insignia 
+          were substituted (as we said), 
+          and <name>Budaeus</name> thinks that later times
+          had family insignia instead of images, 
+          which are commonly called arms, 
+          <!-- TODO: trans triage -->
+          which themselves also at first, as is likely, 
+          were rewards of virtue and honors of deeds excellently done.
+          If you wish to see more of these to satiety, read 
+          <ref>
+            <name>Casaneus</name> 
+            in the first part, 
+            conclusion 10, 
+            in the Catalogue of the Glory of the World
+          </ref>. 
+          It is clear therefore that among the ancients, 
+          just as is done now among the moderns, 
+          for the sake of honor and praise and good opinion and fame, 
+          either of their own persons 
+          or of their ancestors 
+          or of the antiquity of the origin of their family or gentility and nobility, 
+          there was great care and the highest study 
+          in the judgment of perpetual memory among men.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e574">
+          What, I ask, do we now see also among Catholics, 
+          especially noble men indeed powerful and great in riches, 
+          kings and magnates, except to place banners, insignia, shields and arms 
+          either golden or gilded or silver or iron 
+          in chapels at churches erected by themselves 
+          with great study and at great expense; 
+          moreover to raise tombs or mounds in them as high as they can; 
+          and also to adorn them with silk or gold-woven coverings 
+          and many such kinds of precious furnishings. 
+          And this indeed for no other reason 
+          than for the sake of honor and perpetual fame. 
+          But because burying treasures and precious furnishings 
+          with the bodies of lords manifested 
+          their glory, nobility, riches, excellence of status and eminence, 
+          thence a motive and material was given to those
+          seeing and hearing to revere them, 
+          value them greatly, 
+          and also to praise and magnify them, 
+          and all other things looking to honor and glory. 
+          Therefore those who ordered their
+          riches and treasures to be placed with them in their tombs 
+          intended a great interest,
+          namely perpetual honor and things looking to honor.
+        </p>
+        <p xml:id="cy8th8-d1e84-d1e631"> 
+          For the interest of honor is greater than any other interest. 
+          For as 
+          <ref>Cicero says in De Amicitia</ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e638">
+            Where will you find someone 
+            who would place the honor of a friend before his own?
+          </quote>. 
+          And 
+          <ref>Aristotle in the Economics</ref>: 
+          <quote xml:id="cy8th8-d1e84-Qd1e642">
+            Someone bears it much
+            more grievously if he is deprived of his honor 
+            than if his goods are taken from him
+          </quote>. 
+          And such earthly honors are desired more than heavenly ones. 
+          <ref>
+            De renuntiatione. C. nisi cum pridem § pro graui
+          </ref>.
+          And for the sake of sustaining honor,
+          action must also be brought for injuries, 
+          as 
+          <ref>
+            <name xml:id="cy8th8-d1e84-Nd1e657">Baldus</name> 
+            says in L. observare § antequam ff. de officio proconsulis
+          </ref>. 
+          Indeed, 
+          for the protection and defense of one's own honor, 
+          a duel and war can be initiated by law
+          against those injuring or detracting from our honor. 
+          <ref xml:id="cy8th8-d1e84-Rd1e670">
+            Baldus in cap. circa principium 
+            et columna de pace tenenda. in de feudis
+          </ref> 
+          because no one is bound to suffer injury 
+          or small consideration of his own honor 
+          <ref xml:id="cy8th8-d1e84-Rd1e678">
+            argumentum ff. de postulando in principio
+          </ref>. 
+          Indeed, 
+          he is cruel who neglects his own reputation. 
+          <ref xml:id="cy8th8-d1e84-Rd1e682">
+            c. nolo 12 q. 122
+          </ref>. 
+          Hence it is said that 
+          the causes of life and honor are equated 
+          <ref xml:id="cy8th8-d1e84-Rd1e687">
+            l. Iusta, ff. de manumissionibus
+          </ref>. 
+          And so someone can kill an assailant in defense of his honor 
+          just as for the defense of his person, 
+          as per the doctors in 
+          <ref xml:id="cy8th8-d1e84-Rd1e699">
+            l. 1. Codex, Unde ui.
+          </ref> 
+          and through 
+          <ref xml:id="cy8th8-d1e84-Rd1e702">
+            <name xml:id="cy8th8-d1e84-Nd1e703">Jason</name> 
+            in l. vt vim ff de Iustitia et iure
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e84-Rd1e706">
+            <name xml:id="cy8th8-d1e84-Nd1e707">Petrus Gerardus</name> 
+            in his Singula singulum 33
+          </ref>.
+          Whence the text in 
+          <ref>
+            l. miles, § socer de adulteriis
+          </ref>: 
+          <!-- quote? --> 
+          It is shameful to leave one's honor unavenged. 
+          For honor cannot be estimated by monetary price, 
+          as 
+          <ref xml:id="cy8th8-d1e84-Rd1e719">
+            Baldus says in the chapter 
+            De vita et honestate
+            clericorum
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e84-Rd1e721">
+            the chapter ex tenore column
+            2 de appellationibus
+          </ref>. 
+          And what is more, 
+          honor brings utility 
+          <ref>
+            l. si longius, at the end, ff, de iudiciis
+          </ref>, 
+          and wherever there is a question of honor, 
+          it is said to be an
+          arduous cause in 
+          <ref>
+            l. si inimicitie at the end ff de his quibus ut indignis
+          </ref>. 
+          Thence moreover
+          it is that what cannot be done without honor being preserved cannot be done, 
+          thus the text has in 
+          <ref>
+            l. in eadem causa ff ex quibus causis maiores
+          </ref>. 
+          <ref xml:id="cy8th8-d1e84-Rd1e741">
+            <name xml:id="cy8th8-d1e84-Nd1e742">Gerardus</name> 
+            notes in Singula, singulum.
+          </ref>
+          And thus concerning the first proposition.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

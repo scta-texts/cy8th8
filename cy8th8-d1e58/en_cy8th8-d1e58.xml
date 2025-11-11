@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preamble</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Preamble</title>
+          <date when="2025-11-10">November 10, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex
+            Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e58">
+        <head xml:id="cy8th8-d1e58-Hd1e97">Preamble</head>
+        <p xml:id="cy8th8-d1e58-d1e99"> This book was composed by the Most Reverend Don Friar
+          Bartolome de las Casas, Bishop of Chiapa, in the year 1563. </p>
+        <p xml:id="cy8th8-d1e58-d1e117">
+          In the kingdoms which by common name are called Peru in our
+          world of the Indies, there have been found and are found daily in the most ancient tombs
+          of the dead, which are called Guacas in their language, great and marvelous treasures of
+          diverse precious things: namely vessels or flasks of various shapes made of purest gold
+          and silver, precious stones, emblems or furnishings made of precious material fabricated
+          in wondrous ways; also accumulations of gold and silver and riches of such quantity and
+          quality that they seem not to exist in the nature of things but to be formed by the
+          imagination of dreamers while sleeping. Now therefore it is asked whether these things
+          will belong indifferently to anyone who, either by his own authority or by license of our
+          kings of Spain or of governors ruling those regions in the royal name, has sought, dug up,
+          found, and taken them with the intention of keeping them for himself, and thus whether he
+          acquires ownership of those precious things or treasures and can retain them with a safe
+          conscience. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

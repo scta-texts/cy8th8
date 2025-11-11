@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 1</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+            <resp>Transcription Editor</resp>
+            <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 1</title>
+          <date when="2025-11-10">November 10, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e71">
+        <head xml:id="cy8th8-d1e71-Hd1e97">Section 1</head>
+        <p xml:id="cy8th8-d1e71-d1e99">
+          §. 1
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e106">
+          <pc type="pilcrow"/> For the response to this question, it must first be presupposed 
+          that there was a custom among the ancients, not only among the nations who were 
+          lacking knowledge of the true God, but also among the faithful worshippers of the true God himself: 
+          Kings and nobles would place whatever precious things they had in life 
+          with themselves after death in their tombs. And the greater and richer 
+          the things that were placed in their tombs, the more they excelled others in power 
+          and were wealthier in riches. For through this 
+          their glory and magnificence were rendered more illustrious in the memory 
+          of men in future ages.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e130">
+          This is clear from that passage in 
+          <ref xml:id="cy8th8-d1e71-Rxj2as3">Job 3</ref> 
+          <quote xml:id="cy8th8-d1e71-Qaj822a">
+            As those digging for treasure, 
+            they rejoice vehemently when they have found a tomb
+          </quote>. 
+          And in <ref>Baruch chapter 6</ref>: 
+          <quote xml:id="cy8th8-d1e71-Qd1e138">
+            Or as to a tomb with a dead man brought in: so the priests guard 
+            the doors with locks and bars lest they be despoiled by thieves
+          </quote> 
+          (namely, the treasures) stored there with the dead. 
+          Thus the gloss says: 
+          <quote xml:id="cy8th8-d1e71-Qd1e149">
+            In ancient times (it says) precious things were placed in the tombs of the powerful, 
+            on account of which they were shut strongly and with diligence lest 
+            they be extracted by thieves
+          </quote>, 
+          thus far that passage. 
+          <ref>
+            Saint Thomas says the same 
+            on Job in the cited place
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e161">
+          Likewise it appears from the example of the magnificent King 
+          Solomon who buried his father David in Jerusalem 
+          most fittingly with other things and ceremonies which are customarily 
+          administered around funerals. And he stored many riches with him. 
+          For he had made for him an honorable tomb around which 
+          he established seven treasury chambers which he filled with gold and 
+          precious stones. The magnitude of these riches is 
+          manifestly shown through those things which were afterwards extracted from David's tomb. 
+          For after a time of thirteen hundred years, 
+          Hyrcanus the high priest, while the city of Jerusalem was being besieged 
+          by King Antiochus, wishing to give him money so that 
+          he would withdraw from the siege and take away his army, not 
+          having the means to fulfill this, opened one chamber of David's 
+          tomb and, having taken from there three thousand talents, 
+          gave part to Antiochus and thus removed the anxiety of the siege.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e199">
+          Now of talents, as the <name>Master</name> says in the histories, 
+          there were three kinds, namely the least, the greater, and the greatest. 
+          For the least was fifty pounds in weight; the greater seventy pounds; 
+          but the greatest one hundred twenty pounds. Moreover, each 
+          pound was worth fifty gold pieces. Whence it is clear that even if each 
+          of the talents were of the least kind, still three thousand talents amounted 
+          to a great sum of gold pieces. Rather, if they were of 
+          the greatest kind, as seems reasonable...<!-- some kind of confusion here -->
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e219">
+          After these things, however, much 
+          time having passed, again King Herod, 
+          hearing that Hyrcanus the king before him had opened the tomb of David and 
+          found three thousand talents, believing much 
+          more was deposited and would suffice for all his expenses, 
+          opening the tomb entered by night since he did not wish 
+          the city to know of this. Therefore taking only his most faithful friends, 
+          he did not find the deposited money as Hyrcanus had, but 
+          he took ornaments and many golden vessels. But while he applied all diligence 
+          and made more careful investigation and wished to enter further 
+          to the tombs in which the bodies of David and Solomon were 
+          placed, two of his guards were consumed by flames 
+          coming from within. 
+          Then he, terrified with fear, went out. 
+          Never afterwards was there anyone who could find the other chambers, 
+          although great treasures in the tomb of David and Solomon 
+          are believed to exist even to this day. For it was done by magic <!-- check this word --> so that it would not 
+          be permitted to anyone either to find or, if they found, to be able 
+          to take anything from there. All these things <ref>Josephus relates in book 7 chapter 16</ref> and <ref>book 13 chapter 18</ref> 
+          and <ref>book 16 chapter 7 of the Jewish Antiquities.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e269">
+          Moved by the fame of these things, 
+          the Turk named Suleiman in our times, 
+          namely around the year of our Lord 1520, when he captured Jerusalem, 
+          sought the treasures in David's tomb with great diligence, but he was never 
+          able to find them, as is read in the history of the Turks. 
+          The reason for this frustration is that such chambers were 
+          hidden under the earth in a <unclear>mechanical</unclear> way, that is, by <unclear>magic</unclear>, so that 
+          to those entering the monument they could in no way be 
+          manifest, as Josephus says.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e291">
+          It is clear therefore that to store treasures 
+          and other precious things with themselves in their tombs 
+          was a thing licit and customary among the ancients, whether faithful 
+          or unfaithful, common and general. And the reason for this can be assigned 
+          as follows: the natural inclination which is in all 
+          men insofar as they are rational, that due honor be preserved 
+          to human nature above other animals, namely that the human body 
+          be buried (that is) that it have this honor, because 
+          just as among all animals man alone is a sacred 
+          and divine animal, so to him alone is this honor granted that his corpse 
+          be buried lest it be torn apart by birds and other animals, while 
+          the corpses of others remain unburied. Whence the <ref>Philosopher in Rhetoric I</ref> 
+          places burial among the other parts of honor.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e322">
+          Moreover, there is a certain honorable good for the dead insofar as they live 
+          in the memories of men, that their bodies be buried. 
+          For all think there is nothing by which we do greater injury 
+          to the dead than if we drag his body through the earth 
+          and give it to dogs and beasts to devour. 
+          Thus it is gathered from 
+          <ref>
+            <name xml:id="cy8th8-d1e71-Nd1e338">Aristotle</name> in Ethics 5
+          </ref> when he speaks of one who kills himself, 
+            whether he does injustice to himself. 
+            And he responds that no, but to the city. 
+            And therefore the city or community inflicts punishment on him, namely 
+            dishonor concerning the body, <!-- translation triage here -->
+            namely that it causes the corpse to be
+            dragged through the earth or that it remain unburied. 
+            Therefore it must be said that a certain evil comes 
+            to the dead from the fact that they are not buried. For they are considered 
+            unhappy who lack burial. On the contrary, however, good comes to 
+            the dead from the fact that they are buried honorably. Thus it is clear in <ref>Isaiah 11</ref> where 
+            many honorable things are said about Moses and afterwards it is added about 
+            the honor of his tomb: his tomb will be glorious. And 
+            yet if glory and honor of the tomb did not pertain to Christ, 
+            nothing would be said prophetically about this. 
+            Therefore the glory of the tomb pertained to Christ. 
+            Therefore some good happens to the dead if their bodies 
+            are committed to burial, insofar as they have being 
+            and a way of living in the opinions of men. 
+            From this therefore there arose among all nations 
+            this natural conception: that the bodies of the 
+            deceased should be buried or cremated. 
+            Those who decreed cremation preserved the ashes 
+            and kept them in tombs or in some 
+            distinguished and honorable and eminent place. Just as the ashes 
+            of <name>Julius Caesar</name> to this day in Rome upon a certain huge stone 
+            of pyramidal shape which is called a needle behind the church of Saint 
+            Peter are said to remain. For the ancients judged, and also 
+            the moderns, it to be shameful and injurious that human bodies 
+            should remain unburied. And on account of this we see men solicitous in life 
+            about constructing tombs and funeral rites and other things pertaining 
+            to them. And the more powerful and wealthy they are in riches, 
+            the more honorable, beautiful, and expensive they prepare 
+            tombs for themselves. Whence one and the same principal thing which most 
+            brings honor to the deceased and so that their names may possess 
+            possible immortality among posterity, in that way 
+            by which they have being and live in the memories of men, 
+            seems to be the tomb, especially if it has been built from precious material and very 
+            expensively and with subtle and optimal workmanship, adorned 
+            moreover with most beautiful and precious other fitting things, and far 
+            more especially if with human corpses great wealth and precious treasures 
+            are placed in tombs.
+        </p>
+        <p xml:id="cy8th8-d1e71-d1e426">
+          But because among kings 
+          and the powerful in the world such magnitude 
+          and opulence of riches is easily found, by this the more their glory, power, and royal 
+          excellence grew and increased and 
+          was made known to future ages: the more treasures and riches of gold and silver and 
+          precious stones 
+          and other diverse furnishings of great value 
+          they ordered to be stored with themselves in their tombs or to be buried with them.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
