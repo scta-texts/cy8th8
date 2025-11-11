@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/scta/tdf-schema/master/src/tdf-1.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <list>
   <manifestation manifestationDefault="true">
     <name>cod-hgy7ss</name>
     <title>John Carter Brown Library, Brown University, ms Codex Sp 5</title>
     <transcriptions>
       <transcription transcriptionDefault="true">
-        <title>John Carter Brown Library, Brown University, ms Codex Sp 5</title>
         <type>diplomatic</type>
         <version versionDefault="true">
           <hash>transcription</hash>
