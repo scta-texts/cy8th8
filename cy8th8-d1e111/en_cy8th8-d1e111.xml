@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 4</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 4</title>
+          <date when="2025-11-10">November 10, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library,
+            Brown University,
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e111">
+        <head xml:id="cy8th8-d1e111-Hd1e97">Section 4</head>
+        <p xml:id="cy8th8-d1e111-d1e99">
+          § 4 With these things presupposed,
+          the following Catholic conclusion is put forward: 
+          General conclusion
+        </p>
+        <!-- possibly beginning of proposition 4; not clear -->
+        <p xml:id="cy8th8-d1e111-d1e108">
+          No one without mortal sin of theft or plunder 
+          and obligation to restitution 
+          can take with the intention of keeping for himself 
+          any treasure improperly so called,
+          whether it consists in money and coinage,
+          or in vessels of gold or silver,
+          or in furnishings and any other precious things 
+          which owners have placed in whatever place,
+          either in a shrine or in a temple or in a tomb or under the earth,
+          however much it may have aged with antiquity,
+          if the owner still survives 
+          or any to whom it pertains to succeed by right.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e132">
+          This conclusion is so Catholic 
+          and manifest that it needs no proof;
+          rather whoever would dare to deny it 
+          will either be foolish or will not escape heresy. 
+          And the reason for this conclusion is 
+          that those treasures or riches or precious things 
+          are another's property having proper owners,
+          either those who placed them in the aforesaid places 
+          or ordered them to be placed there 
+          or their heirs. 
+          But whoever takes or seizes another's property 
+          against the owner's will 
+          commits theft or indeed plunder 
+          if violence is applied. 
+          And the owner is said to be unwilling 
+          even if he does not object out of fear or shame,
+          <ref xml:id="cy8th8-d1e111-Rd1e157">
+            ff. de furtis l. penultima
+          </ref>. 
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e163">
+          Therefore it is mortal sin,
+          first because it is against justice. 
+          But everything that is against justice 
+          is mortal sin according to 
+          <ref xml:id="cy8th8-d1e111-Rd1e169">
+            Saint Thomas 2 2ae question 59
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e175">
+          And also 
+          because it is against the divine precept 
+          where not only theft properly so called is prohibited 
+          but also every illicit usurpation of another's property, 
+          <ref xml:id="cy8th8-d1e111-Rd1e181">
+            Exodus 20
+          </ref>,
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e185">
+            14, quaestione 5, c. penali
+          </ref>,
+          and specifically 
+          <ref xml:id="cy8th8-d1e111-Rd1e190">
+            c. si quid inuenisti
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e194">
+            c. Multi
+          </ref>,
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e197">
+            quaestione 6, c. 1
+          </ref>,
+          where it is said: 
+          <quote xml:id="cy8th8-d1e111-Qd1e202">
+            If another's property 
+            on account of which there is sin 
+            can be returned and is not returned,
+            penance is not done but feigned;
+            but if it is truly done 
+            the sin is not remitted 
+            unless what was taken is restored
+          </quote>.
+          And in 
+          <ref xml:id="cy8th8-d1e111-Rd1e213">
+            regula peccatum de regulis iuris lib 6
+          </ref>. 
+          On these things 
+          <ref xml:id="cy8th8-d1e111-Rd1e216">
+            Raymundus in summa titulo de furtis §. 9
+          </ref>,
+          where likewise 
+          <ref xml:id="cy8th8-d1e111-Rd1e221">
+            quid si aliquis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e224">
+            panormitanus in capitulo finali de furtis
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e233">
+          Therefore as regards our proposition 
+          and the question proposed in the beginning,
+          this responsive conclusion is put forward:
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e242">
+          To no man in the world,
+          not even to the king of Spain 
+          (which we wish to be said 
+          with all reverence 
+          that we owe to the royal highness),
+          without the license and free 
+          and indeed gracious will of King Inca 
+          or his descendants 
+          to whom it pertained to succeed in their goods
+          by right according to their laws or custom,
+          is it permitted to inquire or search,
+          to dig or to take treasures or riches or precious things 
+          with the intention of keeping them 
+          which they buried in tombs 
+          and the so-called Guacas with their deceased. 
+          If they have done the contrary 
+          they will commit mortal sin of theft or plunder,
+          and unless they restore them and do penance for their sin,
+          it will be impossible to be saved. 
+          And not only must they repent of the sin of theft or plunder 
+          but also of the injury 
+          which they inflict especially 
+          upon the aforesaid successors or living descendants of theirs 
+          whose tombs they violate,
+          derogating from the honor and praise of both 
+          (namely) the living and the dead 
+          and causing their memory to cease 
+          For this also they are bound to make satisfaction to them.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e299">
+          Inca was the appellative name of the kings 
+          or rather emperors of the kingdoms of Peru,
+          just as the kings of Egypt were 
+          formerly accustomed to be called Pharaohs,
+          then <name xml:id="cy8th8-d1e111-Nd1e308">Ptolemies</name>.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e311">
+          The first part of this conclusion is sufficiently clear 
+          from what has already been said,
+          namely that the treasures and precious things 
+          found in tombs are another's property 
+          and thus have owners,
+          namely King Inca 
+          who is the legitimate successor and heir of Huayna Capac,
+          and indeed of a great and most prudent king 
+          as all Spaniards dwelling in that region confess,
+          who had succeeded many illustrious kings 
+          who reigned happily in those kingdoms 
+          for nearly nine hundred years. 
+          There had also succeeded 
+          the aforesaid Huayna Capac another of his sons,
+          namely Atahualpa,
+          in the kingdom which was called Quito,
+          and of this one sons and daughters exist today. 
+          Similarly, 
+          there survive successors of the petty kings 
+          who were subject to the rule of the kings Inca and Atahualpa 
+          and had their tombs full of treasures 
+          and diverse most precious furnishings. 
+          Therefore, 
+          without the license of Inca and Atahualpa 
+          and the other petty kings having their tombs,
+          it was licit to no one 
+          to inquire, search, and take 
+          with the intention of keeping 
+          for themselves those precious things.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e354">
+          The second part,
+          namely that, 
+          if they did the contrary,
+          they would sin mortally with the sin of theft or plunder, 
+          is clear.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e363">
+          First because they act against justice.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e372">
+          Second because they inflict injury upon them,
+          taking from the dead and living 
+          insofar as it is in them honor and fame 
+          which consist in this,
+          that the memory of their dead not be destroyed 
+          but live perpetually in the opinions of men. 
+          And this is a great interest of both 
+          as has been proved through the first and second propositions.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e388">
+          Third because they transgress the divine precept.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e393">
+          Fourth because human laws also prohibit and punish it sharply,
+          namely with the ultimate punishment,
+          as appears in 
+          <ref xml:id="cy8th8-d1e111-Rd1e399">
+            l. 2 § Diuus Adrianus ff. de sepulchro uiolato
+          </ref>,
+          where it is said thus: 
+          <quote xml:id="cy8th8-d1e111-Qd1e404">
+            Against those who despoil corpses 
+            governors are accustomed to intervene more severely,
+            especially if they attack with armed force. 
+            So that if they did it armed like bandits 
+            they are even punished capitally.
+          </quote> 
+          Thus there,
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e418">
+            Codex eo titulo, l. pergit audacia
+          </ref>,
+          where also he 
+          who takes away the clothing of the dead or ornaments of the tomb 
+          is punished with the same penalty as a sacrilegist: 
+          <quote xml:id="cy8th8-d1e111-Qd1e425">
+            if with arms capitally,
+            if without arms he is condemned to the mines.
+          </quote>
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e430">
+          According to the laws of the kingdom of Castile, 
+          the same is prohibited and punished by death,
+          as is clear in 
+          <ref xml:id="cy8th8-d1e111-Rd1e440">
+            l. 1a titulo 18, libro 11o
+          </ref>,
+          where these words are placed: 
+          <quote xml:id="cy8th8-d1e111-Qd1e439">
+            <foreign xml:lang="es">
+              He who breaks open the tomb of a dead person 
+              and takes anything from there shall die for it;
+              and if he takes nothing he shall pay one hundred gold sueldos,
+              half to the King and the other half to the relatives of the deceased.
+            </foreign>
+          </quote> 
+          Now each sueldo was worth one hundred and three gold pieces or ducats,
+          as is had through 
+          <ref xml:id="cy8th8-d1e111-Rd1e459">
+            the gloss on l. 1am titulo 5 lib. 2o fori
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e455">
+          And because, 
+          from the gravity of the penalty 
+          which is inflicted in prohibition of some act, 
+          the gravity of the fault is argued,
+          therefore whenever human laws prohibit 
+          some act under penalty of death or mutilation 
+          or condemnation to the mines,
+          always doing the contrary is mortal sin 
+          according to the doctors and Saint Thomas,
+          since human laws justly bind in the forum of conscience,
+          because such a penalty is not inflicted 
+          except for what would be very harmful to justice 
+          and the good of the republic. 
+          It applies to 
+          <ref xml:id="cy8th8-d1e111-Rd1e487">
+            the aforesaid l. qui sepulchra Codex eo titulo
+          </ref>,
+          although there was little care,
+          indeed none,
+          by our magistrates in parts of the Indies 
+          to order the execution of such laws,
+          where it is said: 
+          <quote xml:id="cy8th8-d1e111-Qd1e497">
+            Those who violate tombs,
+            the houses (so to speak) of the dead,
+            are seen to perpetrate a twofold crime. 
+            For they both despoil the buried by destroying 
+            and pollute the living by fabricating
+          </quote>.
+          They pollute,
+          namely,
+          by inflicting injury, etc.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e508">
+          The third part of the conclusion,
+          namely that unless 
+          they restore the treasures 
+          and other precious things 
+          and all goods taken from the tombs 
+          to their proper owners or heirs 
+          and do penance for their sin,
+          they cannot be saved,
+          is clear from 
+          the preceding general conclusion with its proof. 
+          Nevertheless we wish to prove it again. 
+          <!-- para break ? -->
+          And it is argued first thus: 
+          No one can be saved without penance after mortal sin. 
+          But one detaining another's property 
+          and not restoring it does not do penance 
+          but feigns it,
+          as 
+          <ref xml:id="cy8th8-d1e111-Rd1e532">
+            Augustine said to Macedonius
+          </ref> 
+          and is had in 
+          <ref xml:id="cy8th8-d1e111-Rd1e537">
+            d. c. si res
+          </ref>. 
+          Therefore those who have taken or will take the aforesaid treasures 
+          from tombs without the license of the owners,
+          unless they restore them to those to whom they pertain,
+          will die impenitent and consequently it will be impossible to be saved.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e548">
+          Second it is argued thus: 
+          without observance of justice 
+          it is impossible for anyone to be saved. 
+          But those taking the aforesaid treasures and riches 
+          from another's tombs act against justice. 
+          Therefore, 
+          unless they restore them,
+          which is an act of justice,
+          it is impossible that they can be saved.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e565">
+          Third it is argued: 
+          it is impossible for anyone to be saved 
+          unless mortal sin is forgiven him. 
+          But to detain another's property 
+          even for a moment against the owner's will 
+          is a mortal sin just as to steal or seize,
+          on account of which it is said in 
+          <ref xml:id="cy8th8-d1e111-Rd1e576">
+            Ecclesiasticus 21
+          </ref>: 
+          <quote xml:id="cy8th8-d1e111-Qd1e579">
+            Flee from sin as from the face of a serpent.
+          </quote> 
+          But those not restoring the aforesaid things 
+          which they steal or seize from tombs 
+          are always in mortal sin. 
+          Therefore, 
+          it is impossible for them to be saved.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e589">
+          Fourth: 
+          it is impossible for anyone 
+          who owes a debt of money to be saved 
+          if he does not return or pay it,
+          just as through 
+          <ref xml:id="cy8th8-d1e111-Rd1e596">
+            the Apostle to the Romans 13
+          </ref>: 
+          <quote xml:id="cy8th8-d1e111-Qd1e601">
+            Render to all what is due,
+            to whom tribute is due tribute,
+            to whom tax tax,
+            to whom honor honor,
+            and owe nothing to anyone except to love one another
+          </quote>.
+          Whence having premised that debts should be rendered to all 
+          lest perhaps he seem to have said too little 
+          since this sounds like an affirmative precept,
+          he added a negative: 
+          <quote xml:id="cy8th8-d1e111-Qd1e624">
+            owe nothing to anyone
+          </quote>, 
+          as if to say: 
+          <mentioned>
+            You sin against God if you detain 
+            against his will what you owe to anyone
+          </mentioned>.
+          But those who despoil tombs and take treasures from there 
+          with the intention of keeping them for themselves 
+          against the owners' will 
+          are their debtors 
+          and are obliged to render them 
+          by divine precept. 
+          Therefore, 
+          if they do not render them, 
+          it is impossible for them to be saved.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e639">
+          Fifth it is argued: 
+          None of those who inflict any notable harm on a neighbor 
+          can be saved unless he repairs and removes it,
+          since every harm inflicted on another 
+          is of itself repugnant to or contrary to charity,
+          which is the life of the soul 
+          and moves to willing and doing the good of another. 
+          But all those who take the aforesaid treasures 
+          against the owners' will 
+          inflict notable harm,
+          namely impeding them from enjoying and rejoicing 
+          in their goods and riches 
+          which were placed in those tombs 
+          for the honor, praise, and glory of themselves and their ancestors. 
+          Likewise they inflict on them another greater harm,
+          which is that the memory of their parents and themselves perish.
+          Similarly honor and praise and glory and name and fame 
+          in which they placed especially their whole interest and happiness 
+          <!-- TODO: trans triage -->
+          are extinguished. 
+          They are the cause, 
+          whence they injure them greatly. 
+          Therefore, 
+          unless through restitution of so many treasures 
+          taken against the owners' will 
+          they remove and repair such harms,
+          it is impossible for them to be saved. 
+          For they lack charity and therefore have dead souls.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e689">
+          The fourth part of the conclusion is also proved,
+          namely that for the injury 
+          which they inflict on the living and dead 
+          they are bound to repent and to make satisfaction 
+          as they are able. 
+          As regards repenting it is clear,
+          since from their mortal sin of theft or plunder 
+          there follows in their neighbors that evil of injury,
+          and this even if they did not have the intention of injuring 
+          but only of stealing or seizing treasures,
+          because he who gives occasion for damage 
+          is seen to have given the damage itself, 
+          <ref xml:id="cy8th8-d1e111-Rd1e717">
+            c. si culpa de iniuriis et damno dato
+          </ref>. 
+          But if they intended to inflict injury 
+          for the sake of diminishing honor or opinion,
+          <!-- TODO: trans triage -->
+          beyond the sin,
+          because it is against charity for neighbor 
+          whom we are bound to love as ourselves, 
+          <ref xml:id="cy8th8-d1e111-Rd1e728">
+            Matthew 22
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e731">
+            8, questione 1, c. in scripturis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e736">
+            de penitentia, dist. 2, c. charitas el. 2o
+          </ref>, 
+          <ref xml:id="cy8th8-d1e111-Rd1e744">
+            Codex, de iniuriis, l. si non es nunciator
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e749">
+          Indeed as regards making satisfaction 
+          as one is able,
+          by 
+          <ref xml:id="cy8th8-d1e111-Rd1e756">
+            d. c. si culpa
+          </ref>,
+          where it is said thus: 
+          <quote xml:id="cy8th8-d1e111-Qd1e762">
+            If by your fault damage was given or injury inflicted,
+            or perhaps you gave aid to others inflicting them,
+            or these things happened through your inexperience or negligence,
+            by right it is necessary to make satisfaction for these things,
+            nor does ignorance excuse you if you ought to have known 
+            that from your deed injury could most likely happen or loss.
+          </quote> 
+          Thus there. 
+          The reason for which is according to 
+          <ref xml:id="cy8th8-d1e111-Rd1e776">
+            Saint Thomas
+          </ref>,
+          who will be alleged below: 
+          <quote xml:id="cy8th8-d1e111-Qd1e778">
+            because restitution and satisfaction are distinct. 
+            For restitution is not part of satisfaction. 
+            And therefore a man harming a neighbor 
+            is not reconciled to him for an offense or injury through this,
+            that he restores his things to him,
+            but through this,
+            that above this he shows him something of humility.
+          </quote>
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e790">
+          That moreover the aforesaid thieves 
+          or rather robbers or plunderers 
+          have committed injury and such loss is proved,
+          because they take from the deceased 
+          their whole perpetual being,
+          namely to live in the memory and opinions of men,
+          and consequently they totally take away from the living honor,
+          praise and glory. 
+          And this is a most atrocious injury to both, 
+          as in 
+          <ref xml:id="cy8th8-d1e111-Rd1e808">
+            instit. de iniuriis, § atrox
+          </ref>. 
+          And this injury is so much graver 
+          as it redounds to more people. 
+          Just as that which is inflicted on a prince 
+          is graver than that on some private person,
+          because it redounds to the injury of the whole multitude.
+          Since therefore this injury redounds to the whole house,
+          progeny or royal kinship of those kings and petty kings,
+          indeed to the universal communities of their kingdoms,
+          as appears from what has been said,
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e830">
+            argumentum de legatis 3, l. nutu, in fine
+          </ref>;
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e836">
+            argumentum 32, q. 7, capitulo offerebat
+          </ref>,
+          and disgrace is done to the whole kinship's splendor, 
+          <ref xml:id="cy8th8-d1e111-Rd1e840">
+            l. 1, Codex, de senatus consultis
+          </ref>,
+          closing by taking away. 
+          Therefore other things being equal,
+          from this very fact such injury is greatly aggravated, 
+          on this 
+          <ref xml:id="cy8th8-d1e111-Rd1e849">
+            S. Thomas 2 2e q. 65 a. 4
+          </ref> 
+          and elsewhere. 
+          Whence for this injury inflicted 
+          not only all descendants and the whole royal kinship 
+          but also the universal communities of those kingdoms 
+          can act in their own name for injury against them, 
+          <ref xml:id="cy8th8-d1e111-Rd1e862">
+            ff. quando appellandum sit l. 2, § pen.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e865">
+            § fine
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e870">
+            De appellationibus, l. non tantum
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e873">
+            de iniuriis, l. cum possit
+          </ref>. 
+          For injury is done to the house,
+          and there are three laws 1 and 2 and 3 
+          most excellent for the proposition, 
+          <ref xml:id="cy8th8-d1e111-Rd1e881">
+            ff. de liberali causa
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e887">
+            ff. Qui et aduersus quos, l. in fine
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e896">
+          Would it not be injurious among us 
+          to take away the standards, shields, insignia 
+          of nobles and magnates of Spain,
+          and far more of kings,
+          which they are accustomed to store in chapels of churches,
+          and moreover tombs or monuments 
+          especially when they are covered with gold-woven or silk cloths 
+          or adorned with other precious furnishings 
+          or with golden or silver vessels? 
+          Certainly no one of the nobles of Spain 
+          at least (whatever it may be among other nations) would not bear it very ill 
+          and would not try as he is able to avenge this injury most fiercely,
+          considering that 
+          his proper honor and the glory 
+          and praise and fame of his predecessors 
+          are greatly harmed. 
+          For that pertains (as has often been said) 
+          to the diminution or rather deletion of 
+          the honor and glory or fame of the living and dead. 
+          And this is a great interest of both. 
+          Therefore, 
+          it is necessary for those thus harming 
+          to make satisfaction for the injury beyond the necessary restitution.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e936">
+          And if it is acted upon juridically also civilly,
+          it will stand by the oath of the living 
+          as regards estimation as legitimate proof, 
+          as is clear in 
+          <ref xml:id="cy8th8-d1e111-Rd1e951">
+            c. olim de iniuriis et damno dato
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e954">
+            C. Unde vi, l. si quando
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e957">
+            2, q. 1, c. in primis
+          </ref>;
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e959">
+            de his que ui met. cau. fi, c. ultimo
+          </ref>. 
+          And the oath ought to be of this form: 
+          <quote xml:id="cy8th8-d1e111-Qd1e964">
+            We so-and-so swear that we would prefer 
+            to lose so many thousands of our own 
+            rather than to have suffered such an injury.
+          </quote> 
+          Moreover the estimation of injury increases or decreases 
+          according to the degree of dignity of the person suffering injury, 
+          as in 
+          <ref xml:id="cy8th8-d1e111-Rd1e975">
+            d. § attrox et § pena insti. de iniuriis
+          </ref>. 
+          For it is manifest in our case 
+          that reasonably and probably anyone will judge 
+          that since those to whom the injury was inflicted 
+          were kings and great and most powerful and most wealthy lords,
+          and they valued their tombs so highly on account of honor, praise, and glory,
+          as things to be preferred to all wealth and preeminence even when dead,
+          as is clear from what has been said,
+          the estimation which they would make of the injuries 
+          which they have suffered in such matters 
+          from our people would not be just anything 
+          but thousands of thousands and hundreds of hundreds of thousands. 
+          Since truly such estimation among them 
+          and also among Philosophers and any wise men of this world 
+          has no comparison. 
+          Therefore there remains for such plunderers 
+          beyond the restitution of so many stolen treasures 
+          great satisfaction,
+          and thus the way of being saved.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e1014">
+          But if it is dealt with in the forum of conscience concerning such injuries,
+          since they are not estimable with a price,
+          they are bound to placate those thus harmed 
+          as much as would be possible for them,
+          settling with them about the injuries done to them 
+          by themselves and humbly seeking pardon. 
+          And we ought to use this mode of satisfying 
+          especially whenever damage or injury 
+          inflicted on neighbors cannot be fully recompensed. 
+          These things are proved by 
+          <ref xml:id="cy8th8-d1e111-Rd1e1040">
+            d. C. olim de iniuriis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1044" >
+            S. Thomam 2 2e q. 62 articulo 2 ad 1m
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1048" >
+            ad 3m
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e111-Rd1e1051" >
+            4 sententiarum dist. 18 q. 1 articulo 5 quaesticula 1a in corpore
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1056" >
+            ad 1m
+          </ref>. 
+          And 
+          <ref xml:id="cy8th8-d1e111-Rd1e1059" >
+            hostiensis in summa titulo de iniuriis § contra quos detur
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1064" >
+            § inquantum detur
+          </ref>. 
+          <ref xml:id="cy8th8-d1e111-Rd1e1068">
+            Raymundus and his gloss
+          </ref>,
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1078">
+            Ulricus in summa confessorum, lib. 2 titul. 5 q. 65
+          </ref>. 
+          <ref xml:id="cy8th8-d1e111-Rd1e1080">
+            The Holy Archbishop of Florence also in 2a parte titulo 2, c. 2, § 3
+          </ref>. 
+          <ref xml:id="cy8th8-d1e111-Rd1e1085">
+            Astesanus similarly prima parte sue summe libro 2o titulo 14
+          </ref>. 
+          <ref xml:id="cy8th8-d1e111-Rd1e1090">
+            Adrian finally in 4o speaking about restitution of reputation
+          </ref>. 
+          And thus the fourth part of the conclusion is clear,
+          and since the whole responsive conclusion to the question is sufficiently clear.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e1102">
+          Likewise the law is in all respects 
+          the same concerning treasures and precious things 
+          if any are found in temples of idols 
+          which they venerated as their gods in their infidelity or idolatry,
+          as concerning those which were placed in the tombs of their ancestors, 
+          namely that they did not hold them as abandoned things 
+          nor did they renounce ownership of them,
+          nor now after their conversion are they vacant,
+          but they have owners,
+          namely either those who offered them to the idols in person 
+          if they survive or their heirs 
+          to whom it pertains to succeed by hereditary right 
+          according to their laws or customs.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e1130">
+          This is proved because 
+          if they offered them to their false gods,
+          this without doubt was understood 
+          to be offered under a tacit condition,
+          namely if that or those to whom they sacrificed such things were the true god,
+          and thus esteeming him the true god,
+          since the intention of the gentiles 
+          especially tends principally and finally 
+          to worshipping the true God whom they know,
+          although confusedly,
+          naturally. 
+          Thus Jerome says on Psalm 95: 
+          <quote xml:id="cy8th8-d1e111-Qd1e1145">
+            Thus both we and the whole human race naturally understand God. 
+            For there are no nations which do not naturally understand their creator. 
+            For although they venerate stones and wood,
+            nevertheless they understand that something is greater than they are,
+            and in their error they judge themselves to have wisdom,
+            that is,
+            there is no nation which does not naturally understand God. 
+            Finally the gentiles worship idols,
+            that is they venerate stones and wood,
+            and if perhaps they make a quarrel and if any oath comes among them,
+            they do not say "these stones see," "the wood sees," but "God sees and God hears."
+          </quote> 
+          Thus Jerome in form.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e1181">
+          A certain Roman idolater,
+          a grammarian named Maximus,
+          writing to Augustine,
+          strove to show this same thing: 
+          <quote xml:id="cy8th8-d1e111-Qd1e1192">
+            Indeed (he says) who so demented,
+            so captive in mind,
+            would deny it to be most certain 
+            that there is one God without beginning,
+            without offspring of nature,
+            or a great and magnificent father? 
+            We invoke his powers 
+            diffused through the work of the world with many names,
+            since we all are ignorant of his proper name. 
+            For God is a name common to all religions. 
+            Thus it happens that 
+            while we pursue as it were certain members of him piecemeal 
+            with various supplications,
+            we are seen to worship the whole
+          </quote> 
+          etc. 
+          Thus he in the epistle which is numbered among 
+          <ref xml:id="cy8th8-d1e111-Rd1e1216">
+            Augustine's epistles as 43
+          </ref>. 
+          Since therefore they offered 
+          to others who were not gods,
+          esteeming that they were offering to the true God 
+          so that they might worship and venerate him,
+          after now by God's grace 
+          they have received the faith 
+          and know that they were deceived in doing this,
+          it is manifest that they can recover and reclaim those things,
+          since they did not place them there with that mind,
+          thinking through error that they were gods,
+          with a tacit or implicit condition 
+          that if they were not true gods or god,
+          in no way would they otherwise have offered them,
+          and consequently they did not lose ownership of those things. 
+          This is clear in one who gives what is not owed by all right 
+          to one through ignorance or error,
+          thinking to give to another,
+          since error excludes his free will. 
+          For every error induces repetition,
+          and thus it is understood indistinctly, 
+          <ref xml:id="cy8th8-d1e111-Rd1e1242" >
+            l. cuius per errorem, ff, de regulis iuris
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1247" >
+            Codex, De conditione indebiti, l. 1
+          </ref>,
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1250" >
+            l. cum et soluta
+          </ref>,
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1255">
+            through that whole title
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1261">
+            ff.
+          </ref> 
+          and through the whole and 
+          <ref xml:id="cy8th8-d1e111-Rd1e1266">
+            Codex de iure et facti ignorantia, L. cum quis
+          </ref>,
+          where 
+          <ref xml:id="cy8th8-d1e111-Rd1e1268">
+            a great gloss is noted in cap. finali de solutione
+          </ref>. 
+          Since therefore with a tacit condition,
+          although not excusing,
+          every idolater is seen to worship idols,
+          thinking through error 
+          that he venerates the true God and offers to him 
+          his immolations or sacrifices,
+          to which sacrifices in common natural reason 
+          they see themselves to be obliged 
+          — which if they knew they erred,
+          natural reason itself would draw them back from idolatry — 
+          it follows manifestly that through error 
+          they placed those precious things 
+          unowed in temples to the honor of false gods,
+          certainly not going to place them 
+          if they knew the error,
+          and therefore there is no doubt that,
+          as we said,
+          they can reclaim them. 
+          Since just as knowing the error 
+          they would not offer them,
+          so without doubt 
+          they would not cast away their ownership of them. 
+          Therefore they are still their owners,
+          and they can reclaim them as their own things. 
+          This will also able to be confirmed through an example of this kind: 
+          Let a case be given within our Christian religion 
+          that some Christian was in such error 
+          that he thought that those things
+          which he offered in church to the honor of God 
+          and for celebrating divine worship 
+          — chalices and other vessels 
+          either golden or silver 
+          or gold-woven or silken — 
+          did not please God and would profit him nothing after this life,
+          it seems manifest 
+          that he would surely not have 
+          cast away ownership of those things from himself 
+          in his intention nor held them as abandoned things. 
+          Since even if he offered them in church 
+          so that divine worship would be celebrated honorably,
+          this however presupposing a tacit and implicit condition 
+          if they pleased God and so that he might receive a reward in the other life,
+          otherwise certainly he would not have offered them in vain,
+          reason itself compels us to understand. 
+          But if, 
+          by the impossible, 
+          that error were confirmed by someone 
+          to whose authority and faith deference should deservedly be given,
+          there would be no one of the gentile philosophers having judgment of prudence,
+          if he were constituted judge of this controversy,
+          who judging justly would not decree those offered goods 
+          to be restored to him as proper and having ownership of them.
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e1350">
+          It appears therefore no less,
+          or by equal and perhaps stronger reason,
+          that treasures and other riches and precious furnishings 
+          which are found and have been found or will be found in future time 
+          in the temples formerly of idols and were offered in honor of the gods 
+          in the time of their infidelity 
+          pertain to those who offered them or their heirs,
+          just as those which are or will be found or discovered in tombs.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

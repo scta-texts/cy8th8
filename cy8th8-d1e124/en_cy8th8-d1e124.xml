@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 5</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 5</title>
+          <date when="2025-06-28">June 28, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library,
+            Brown University,
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-06-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e124">
+        <head xml:id="cy8th8-d1e124-Hd1e97">Section 5</head>
+        <p xml:id="cy8th8-d1e124-d1e99">
+          § 5
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e104">
+          Since in the beginning of 
+          the responsive conclusion  to the raised question 
+          we excluded also our illustrious and most Christian king,
+          namely that not even his highness 
+          without the license and free consent of King Inca,
+          and indeed a great king of the kingdoms of Peru,
+          or of other kings 
+          or petty kings to whom it pertains, 
+          or their heirs,
+          can send or order to inquire 
+          or search and take treasures and other precious things 
+          which are in tombs etc.,
+          therefore we judge it worthy 
+          to render an account of such matters.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e135">
+          And it is proved thus: 
+          That King Inca and his successors 
+          are princes and supreme and universal lords of all the kingdoms of Peru,
+          not recognizing a superior,
+          and they have just pure and mixed imperium a
+          nd all manner of power and jurisdiction,
+          just as other free kings of the world.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e148">
+          Therefore no king or prince in the world can 
+          without his or their license and good pleasure 
+          enter those kingdoms and seek or search for 
+          what is in them and take them.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e158">
+          The antecedent is clear: 
+          because that whole world,
+          of which those kingdoms of Peru are part,
+          is most remote in the highest ocean sea 
+          from every other region of all those 
+          which men have ever known,
+          which we found occupied and possessed 
+          by those Indians living there 
+          and proper kings reigning over them, 
+          <!-- TODO: trans triage -->
+          and thus exempt from every superior or free. 
+          And these things are sufficiently proved by 
+          <ref xml:id="cy8th8-d1e124-Rd1e174">
+            l. ex hoc iure
+          </ref> 
+          with the note there by the doctors: 
+          by this law the peoples were distinguished,
+          kingdoms founded by individual peoples 
+          who elected kings for themselves according to 
+          <ref xml:id="cy8th8-d1e124-Rd1e183">
+            the gloss "dominia distincta"
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e188">
+            gratia ff de iustitia et iure
+          </ref>,
+          where it appears that by natural and law of nations 
+          those peoples and their kings are lords and free,
+          recognizing no one as superior,
+          neither by right nor in fact,
+          before we recognized them.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e189">
+          Moreover that one is called a superior 
+          to whom the place pertains from the nature of the place,
+          that is by outcome:
+          <ref xml:id="cy8th8-d1e124-Rd1e204">
+            Baldus said allegatio l. insule ff. de iudiciis
+          </ref>. 
+          But better in 
+          <ref xml:id="cy8th8-d1e124-Rd1e209">
+            consilio 328 primae par. ultima questio
+          </ref>,
+          where he says: 
+          <quote xml:id="cy8th8-d1e124-Qd1e198">
+            it makes no difference 
+            whether someone is called king or duke,
+            because force is not to be applied to the name 
+            but to the quality of rule 
+            and the magnitude of power,
+            <ref>argumentum ff. de conditionibus et demonstrationibus l. pater severinam § conditionum</ref>
+          </quote>; 
+          thus Baldus,
+          and far better still 
+          <ref xml:id="cy8th8-d1e124-Rd1e225">
+            the same 2e par. for our proposition
+          </ref> 
+          says thus: 
+          <quote xml:id="cy8th8-d1e124-Qd1e213">
+            that by the law of nations 
+            kings hold the supreme position 
+            even among infidels 
+            and therefore appeal is not made from them;
+            it also appears that with kings 
+            there is that species of lordship 
+            which is called universal,
+            but the particular pertains to individuals per se,
+            but to the king per accidens,
+            that is through an accidental cause,
+            for example on account of a crime,
+            and therefore
+          </quote> 
+          etc. 
+          According to Saint Thomas however and...
+          <!-- TODO: trans triage -->
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e230">
+          But according to Saint Thomas however in 
+          <ref>
+            book 1, chapter 14, on the rule of princes
+          </ref>,
+          we suppose that king to be called to whom 
+          <quote xml:id="cy8th8-d1e124-Qd1e236">
+            the highest rule in human affairs is committed
+          </quote>. 
+          Indeed he who is elected as superior by the people 
+          or who succeeded one thus elected when he was elected with his successors...
+          <!-- TODO: trans triage -->
+          l. ex hoc iure with the note there. 
+          Moreover jurisdiction is planted in a place or territory from which it cannot be pulled out; 
+          it applies 
+          <ref xml:id="cy8th8-d1e124-Rd1e270">
+            l. in modicis ff. de contrahenda emptio
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e275">
+            l. 1, § cum urbem ff. de officio prefecti urbis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e281">
+            l. fina eo titulo
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e287">
+            l. 3. de officio presidis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e289">
+            l. 2 ff. de iurisdictione omnium iudicum
+          </ref>,
+          in which it is said that 
+          <quote xml:id="cy8th8-d1e124-Qd1e265">
+            jurisdiction coheres to territory
+          </quote>. 
+          To this 
+          <ref xml:id="cy8th8-d1e124-Rd1e299">
+            c. fi. de constitutionibus libro 6
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e124-Rd1e301">
+            l. fi.
+          </ref> 
+          where and among whom,
+          and in 
+          <ref xml:id="cy8th8-d1e124-Rd1e306">
+            l. pupillus § territorium ff. de verborum significatione
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e311">
+            l. quicumque Codex de fundis limitrophis lib. 11
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e275">
+          Whence because the king has his kingdom 
+          and the whole soil of that kingdom consists in his power <ref>(d. § cum urbem)</ref>,
+          therefore he also has jurisdiction cohering to that whole soil or territory.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e284">
+          Indeed the consequence is proved 
+          because by entering another's kingdom without license 
+          and especially with an army 
+          against the will or tacit or express prohibition of the proper king,
+          he is said to disturb him by simple entry,
+          whence he commits injury to him,
+          and by taking anything from there,
+          especially something precious,
+          he usurps what is another's, 
+          <ref xml:id="cy8th8-d1e124-Rd1e339">
+            argumentum ff de iniuriis l. iniuriarum § si quis me prohibeat
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e345">
+            § fi.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e347">
+            l. sane
+          </ref>,
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e349">
+            l. is qui in domum alienam
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e352">
+            1 dist. c. 1. Cyrus
+          </ref> 
+          in 
+          <ref xml:id="cy8th8-d1e124-Rd1e357">
+            l. 1, Codex uti possidetis
+          </ref>. 
+          <ref xml:id="cy8th8-d1e124-Rd1e359">
+            Bartholus in l. 1 § interdictum 3 columna eo Baldus 
+            in l. sentiam vel columna 
+            in principio verb. porro si ego possideo
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e319">
+          Whence any king or universal moderator of any kingdom 
+          not recognizing a superior,
+          if he sees it expedient for peace and quiet,
+          for avoiding bad morals,
+          for the defense,
+          security and conservation of the kingdom 
+          or his republic in liberty,
+          can establish or by royal law prohibit 
+          that no one of foreigners or aliens 
+          or any person of another kingdom 
+          may enter the kingdom or province or city of his jurisdiction,
+          either for the sake of trade,
+          exchange,
+          buying and selling,
+          or for the sake of dwelling or inhabiting,
+          or for any other reason. 
+          And he will do this reasonably and prudently,
+          since it pertains to royal circumspection and care 
+          to provide for future dangers of the kingdom or republic,
+          so that it may be rendered safe against external enemies. 
+          Since not only is what is present attended to,
+          but also what can be,
+          because outcomes are in the consideration of men, 
+          <ref xml:id="cy8th8-d1e124-Rd1e418">
+            l. pater filio ff. de heredibus instituendis
+          </ref>, 
+          <ref xml:id="cy8th8-d1e124-Rd1e420">
+            l. ait facto § euentus ff. de penis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e425">
+            § posteriore inst. quibus modis testa. infra.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e124-Rd1e430">
+            l. generaliter § si libero homini ff. de fide commisariis libertatibus
+          </ref>. 
+          That moreover a king could prohibit 
+          the entry of foreigners will be clear 
+          <ref xml:id="cy8th8-d1e124-Rd1e438">
+            below § 12
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e373">
+          Indeed by these things 
+          which we have just touched upon and explained 
+          with brief delay,
+          and in our work on the only way of calling 
+          all peoples to the true religion 
+          <ref xml:id="cy8th8-d1e124-Rd1e453">
+            book 1, chapter 3
+          </ref>,
+          which were elucidated with the widest discourse,
+          we think that no one exists 
+          who would not freely assent 
+          unless he suffers either some defect of mind 
+          or inexperience of Catholic doctrine.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e392">
+          To these things,
+          however,
+          only the papal institution seems to stand in the way,
+          made concerning our kings of Spain as superiors 
+          over the kings and moderators of that whole Indian world,
+          by virtue and authority of which,
+          since all peoples and inhabitants of those lands 
+          remain subjects of our kings by reason of the faith to be preached,
+          therefore all other things 
+          which follow persons seem to be subject to them,
+          and consequently they can decree or determine 
+          about all things which are in the kingdoms,
+          and thus about the aforesaid treasures and whatever is precious,
+          at pleasure or by arbitration as supreme princes.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e414">
+          Whence although all things determined in the preceding 
+          are true as regards any other kings of the world,
+          nevertheless not as regards the kings of Spain,
+          who by peculiar privilege and donation 
+          through the apostolic see 
+          were elevated to imperial height over that world.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e428">
+          To which we say that it is indeed true that 
+          the Catholic kings of Castile and Leon 
+          were constituted by the providence and gracious donation of the apostolic see 
+          as supreme princes over that world by reason of the care 
+          which the same holy see enjoined upon them 
+          for preaching the faith and converting the inhabitants of it,
+          as appears in the apostolic letters of the aforesaid institution or donation.
+        </p>
+        <p xml:id="cy8th8-d1e124-d1e446">
+          But truly not by the law itself or by the very fact 
+          that such our kings were named or instituted by the supreme pontiff 
+          was the dominion of that entire world transferred to them,
+          nor possession, according to what is noted by the legists in 
+          <ref xml:id="cy8th8-d1e124-Rd1e527">
+            l. traditionibus C. de pactis
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e124-Rd1e532">
+            aut. ingressi. C. de sacrosanctis ecclesiis
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e124-Rd1e534">
+            l. nunquam ff. de acquirendo rerum dominio
+          </ref> 
+          and by the canonists in 
+          <ref xml:id="cy8th8-d1e124-Rd1e459" >
+            c. ex literis de consuetudine
+          </ref> 
+          and in other places of both laws.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
