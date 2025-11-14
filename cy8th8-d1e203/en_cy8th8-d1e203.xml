@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 11</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 11</title>
+          <date when="2025-11-13">November 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="30-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e203">
+        <head xml:id="cy8th8-d1e203-Hd1e97">Section 11</head>
+
+        <p xml:id="cy8th8-d1e203-d1e99">
+          <pb ed="#B" n="30-r"/>
+          § 11
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e106">
+          With the five considerations premised,
+          supposed for the full solution of the objection placed in § 5,
+          namely that although as regards any other kings of the world,
+          the Indian kings and lords are free,
+          recognizing no superior,
+          and therefore no one without their license and good pleasure can enter those kingdoms 
+          without injury and seek or scrutinize what is in them and take those things,
+          nevertheless this does not have place as regards our kings of the Spains,
+          who have been constituted supreme princes of that world by the Supreme Pontiff,
+          etc.,
+          the following conclusions are placed.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e131">
+          First Conclusion
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e136">
+          <pc type="pilcrow">¶</pc> 
+          The intention of the supreme pastor of souls was that our kings should entirely observe 
+          the order of law and due circumstances in approaching and entering through their messengers 
+          or legates those regions and taking possession of them,
+          nor did he give them license to do the contrary.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e152">
+          The conclusion is proven through those things which were proven in the second consideration,
+          because the Supreme Pontiff professes that he wishes to preserve divine and human laws,
+          and has no power to transgress divine and natural laws.
+          And there is a certain order in things to be done,
+          necessary and natural,
+          and similarly circumstances such as time and place and the rest,
+          by which any human act is rightly and congruently clothed so that it may have goodness.
+          All of which the Divine Paul comprehended:
+          <quote xml:id="cy8th8-d1e203-Qd1e171" source="http://scta.info/resource/Icor14_40@1-7">
+            Let all things,
+            he says,
+            be done honestly and according to order among you
+          </quote>
+          <ref xml:id="cy8th8-d1e203-Rd1e176">1 Corinthians 14</ref>,
+          and 
+          <quote xml:id="cy8th8-d1e203-Qd1e178" source="http://scta.info/resource/rom13_1@14-20">
+            those things which are from God are ordained
+          </quote>
+          <ref xml:id="cy8th8-d1e203-Rd1e184">Romans 13</ref>,
+          and 
+          <ref xml:id="cy8th8-d1e203-Rd1e189">chapter 10</ref>:
+          <quote xml:id="cy8th8-d1e203-Qd1e184" source="http://scta.info/resource/Icor10_31">
+            Whatever you do in word or in work,
+            do it to the glory of God
+          </quote>.
+          And 
+          <ref xml:id="cy8th8-d1e203-Rd1e191">to the Colossians 3</ref>
+          he says the same and adds 
+          <quote xml:id="cy8th8-d1e203-Qd1e193" source="http://scta.info/resource/col3_17@10-13">
+            in the name of our Lord Jesus Christ
+          </quote>.
+          And concerning circumstances which render human acts good,
+          it is contained 
+          <ref xml:id="cy8th8-d1e203-Rd1e212">29 dist throughout</ref>.
+          Therefore 
+          <pb ed="#B" n="30-v"/>
+          the intention of the Supreme Pontiff was that our kings should observe the order of law 
+          and due circumstances,
+          etc.;
+          consequently he did not give them license to do the contrary.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e216">
+          Second Conclusion
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e221">
+          <pc type="pilcrow">¶</pc> 
+          The necessary order of law and circumstances which by natural reason ought to be observed 
+          in this matter contains the following twelve parts.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e230">
+          <pc type="pilcrow">¶</pc> 
+          First,
+          that the advent,
+          approach,
+          or application of the messengers of our kings,
+          among whom the preachers of the faith will be numbered,
+          to the Indian regions should be pacific,
+          most modest,
+          and lacking all complaint.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e243">
+          <pc type="pilcrow">¶</pc> 
+          Slow,
+          not sudden,
+          and through that part of any province or kingdom by which the inhabitants and dwellers of it 
+          and their princes can be least disturbed.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e253">
+          <pc type="pilcrow">¶</pc> 
+          An ordered descent into or harmless entry upon any land,
+          so that,
+          namely,
+          they may not first touch land or descend from ships into a port or go out before having obtained 
+          the voluntary license,
+          express or tacit,
+          of the princes or magistrates of that land.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e268">
+          <pc type="pilcrow">¶</pc> 
+          A humble and gracious salutation and address to the princes and peoples and individuals who occur.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e276">
+          <pc type="pilcrow">¶</pc> 
+          An exemplary,
+          gentle,
+          and Christian conversation,
+          and so that their advent may be more pleasing to them,
+          a liberal offering of some small gifts on the part of our kings.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e287">
+          <pc type="pilcrow">¶</pc> 
+          A timely,
+          quiet,
+          sweet,
+          and friendly notification or signification,
+          most modest and conciliating of the minds of hearers,
+          slow and successive with an interval of several days,
+          explicative of the end or final cause of their legation and advent,
+          namely that they have been sent to teach them concerning one great and true God,
+          Lord of all,
+          the creator,
+          that is,
+          to preach to them the faith of Jesus Christ whom they do not know.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e318">
+          Again,
+          for the protection or defense of the preachers and their own,
+          the cautious construction of some strong house or tower under some pretext,
+          namely for dwelling or avoiding rain or cold or heat,
+          which indeed will be easy to do.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e329">
+          <pc type="pilcrow">¶</pc> 
+          Then would follow an exhortation by mild,
+          sweet,
+          and placid word of the religious or preachers to making a gathering of them,
+          that is,
+          that all together,
+          or the greater ones among them first,
+          <pb ed="#B" n="31-r"/>
+          then others,
+          may gather in some congruous place to hear the word of life.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e344">
+          <pc type="pilcrow">¶</pc> 
+          But after these things will supervene a discrete,
+          distinct or explicit,
+          and salutary and full preaching of the faith according to the form given by Christ;
+          also the entrance,
+          with divine help,
+          of those infidels into the Catholic Church of God through faith 
+          and the reception of holy baptism,
+          and their voluntary incorporation into the mystical body of Christ.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e362">
+          <pc type="pilcrow">¶</pc> 
+          Again,
+          further information by the same heralds of the faith concerning the title of our kings,
+          and to receiving them as it were for rendering back to our kings,
+          and for so great a good of the faith,
+          a recompense or some kind of gratification as universal princes,
+          and an exposition of the goods which are going to come from this.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e376">
+          <pc type="pilcrow">¶</pc> 
+          A timely,
+          most discreet,
+          most modest,
+          very bland,
+          and most salutary exhortation to consenting to the aforesaid apostolic institution concerning our kings,
+          a sweet and mild admonition and inducement.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e388">
+          <pc type="pilcrow">¶</pc> 
+          Finally,
+          having obtained their free consent and such papal institution concerning our kings 
+          voluntarily accepted,
+          a treaty with a pact concerning the manner of reigning,
+          concerning tributes,
+          and concerning services to be shown to our kings,
+          with the rendering of an oath by both parties concerning the convention and pacts to be observed,
+          and similar things.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e407">
+          <pc type="pilcrow">¶</pc> 
+          Therefore this is the order of law,
+          the acts and necessary circumstances which it is necessary to observe,
+          so that rightly and correctly our kings of the Spains may be able to obtain 
+          the supreme principate of that world of the Indies,
+          without which nothing will be valid by law,
+          whatever may have been done otherwise,
+          as will be clear.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e426">
+          <pc type="pilcrow">¶</pc> 
+          Now therefore let us proceed to the proof of the conclusion and its individual parts.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e435">
+          <pc type="pilcrow">¶</pc> 
+          The first part of the conclusion,
+          namely that the first advent of the Spaniards with the preachers of the faith 
+          ought to be pacific,
+          etc.,
+          is proven.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e447">
+          <pc type="pilcrow">¶</pc> 
+          Through the precept and form of Christ which he established for preaching his gospel,
+          <ref xml:id="cy8th8-d1e203-Rd1e465">Matthew 10</ref>
+          and 
+          <ref xml:id="cy8th8-d1e203-Rd1e467">Mark 6</ref>
+          and 
+          <ref xml:id="cy8th8-d1e203-Rd1e469">Luke 10</ref>:
+          <quote xml:id="cy8th8-d1e203-Qd1e454">
+            But entering into a house,
+            he says,
+            greet it,
+            saying: Peace to this house.
+            And if indeed it be worthy,
+            your peace will come upon it;
+            but if it be not worthy,
+            your peace will return to you
+          </quote>.
+          For every salutation is an imprecation of good things.
+          And yet in this salutation very many good things are enclosed,
+          <pb ed="#B" n="31-v"/>
+          because peace is the tranquility of order,
+          as 
+          <ref xml:id="cy8th8-d1e203-Rd1e470">
+            Augustine says in book 19 chapter on the City of God
+          </ref>.
+          But no good is lacking where the tranquility of order remains.
+          And according to 
+          <ref xml:id="cy8th8-d1e203-Rd1e498">Isidore in the Etymologies</ref>,
+          <quote xml:id="cy8th8-d1e203-Qd1e482">
+            it is tranquility and a quiet state and the friendship of many among themselves
+          </quote>.
+          And therefore the pacific king with pious mercy disposed that his subjects should be chaste,
+          pacific,
+          and modest,
+          as is said in the proem of the Decretals.
+          Hence the Lord taught (according to Remigius) that the preachers of his law 
+          should offer peace at their entrance,
+          so that by the salutation of peace (indeed a thing so loved by all,
+          so sweet and delightful),
+          they might render the inhabitants of a city,
+          castle,
+          or house grateful and benevolent to receive and host them graciously and kindly,
+          and also allure them to listen willingly to their doctrine.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e512">
+          Part 2
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e514">
+          <pc type="pilcrow">¶</pc> 
+          Lacking all complaint
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e521">
+          <pc type="pilcrow">¶</pc> 
+          So that in no matter,
+          neither the leaders themselves nor their companions or any ministers,
+          should do anything by word or deed whereby they may be troublesome or burdensome 
+          to the inhabitants of any place,
+          especially those things which could offend against honesty.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e537">
+          Part 3
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e542">
+          Namely a slow approach,
+          not sudden,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e548">
+          <pc type="pilcrow">¶</pc> 
+          Because if it were sudden or abrupt,
+          it would not lack suspicion,
+          and consequently they would be unduly disturbed,
+          since all new,
+          unusual,
+          unexpected,
+          and sudden things are apt to cause great disturbance,
+          because they are especially feared.
+          For they seem to be greater evils and less remediable,
+          according to 
+          <ref xml:id="cy8th8-d1e203-Rd1e566">Augustine in book 2 of the Confessions</ref>.
+          For every sudden change of things does not happen without a certain conflict,
+          as it were,
+          of minds,
+          according to 
+          <ref xml:id="cy8th8-d1e203-Rd1e597">Boethius in book 2, prose 1 of the Consolation</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e578">
+          <pc type="pilcrow">¶</pc> 
+          These things are sufficiently expressly proven through 
+          <ref xml:id="cy8th8-d1e203-Rd1e583">
+            l. obseruare § antequam ff. de officio proconsulis
+          </ref>,
+          where it is said:
+          <quote xml:id="cy8th8-d1e203-Qd1e588">
+            Before the proconsul enters the boundaries of the province decreed to him,
+            he ought to send an edict concerning his advent containing some commendation of himself,
+            namely "I love you,
+            I come for your utility,"
+            and similar things,
+            and he should signify on what day he is going to enter the boundaries.
+            For very often these uncertain and unexpected things disturb the provincials 
+            and impede their acts at entry.
+            He also ought to observe this,
+            that he enter the province through that part through which it is customary to enter,
+            and to observe to which city first he will come or apply.
+            For the provincials consider it important to preserve for themselves the custom 
+            and prerogatives of this kind,
+            etc.
+          </quote>
+          These things there.
+          Where Baldus notes that 
+          <quote xml:id="cy8th8-d1e203-Qd1e612">
+            uncertain and unexpected things disturb the provincials,
+            and that a city is said to be disturbed when,
+            by reason of some case,
+            men abandon their arts and ministries.
+            And that someone ought to enter into his own land or city (certainly more strongly into another's) 
+            through customary places.
+            For if a prince commits a proconsul or governor to his kingdom to moderate 
+            a province subject to him,
+            it is altogether necessary to observe that before he enters the boundaries of that province,
+            he signify his advent and make commendation of himself,
+            namely with what love he pursues the provincials,
+            and that they may know he is sent for their common utility,
+            so that he may be able to conciliate the benevolence of the provincials to himself.
+            Finally,
+            let his entry and by what part he is going to enter be clear,
+            lest the inhabitants of cities and places be able to be disturbed by the uncertain 
+            and unexpected advent and entry of the proconsul.
+            How much more reasonably and strongly,
+            indeed far more and most greatly will it be and would it have been necessary to observe this 
+            before any messengers or legates of our kings act or may act or may have acted,
+            so that by peace,
+            gentleness,
+            and good and Christian acts they might capture the benevolence of those peoples,
+            saying or doing nothing troublesome or from which they can or could be disturbed
+          </quote>.
+        </p>
+
+        <p xml:id="cy8th8-d1e203-d1e657">
+          <pc type="pilcrow">¶</pc> 
+          Again,
+          Baldus notes that he who wishes to disturb the order is bound by an action of injuries,
+          and can resist even with armed hand,
+          because no one is bound to suffer injury or to think little of his own honor,
+          as 
+          <ref xml:id="cy8th8-d1e203-Rd1e677" target="http://scta.info/resource/bgy6gt-d1e483-Dd1e104">
+            ff. de postulando l. 1
+          </ref>.
+          To the same is referred another part.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

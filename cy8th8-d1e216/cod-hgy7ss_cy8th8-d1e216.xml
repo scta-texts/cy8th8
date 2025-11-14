@@ -138,8 +138,8 @@
           <lb ed="#B" n="25"/>aut potest succedere eo quod euentus sunt in hominum conside<lb ed="#B" break="no" n="26"/>ratione 
           vt iuriste etiam tradunt in <ref xml:id="cy8th8-d1e216-Rd1e288" target="http://scta.info/resource/bgy6gt-d1e4700-d1e427">l. aut facta § euentus ff. 
           <lb ed="#B" n="27"/>de poenis.</ref> et melius est ante tempus occurrere: quam post exitum uin<lb ed="#B" break="no" n="28"/>dicare 
-          l. 1 c. quando liceat uni se uindicare. Et se cuius est preveniri 
-          <lb ed="#B" n="29"/>ut notatur in l. 3. § cum igitur ff. de vi. et vi. armata et in <ref xml:id="cy8th8-d1e216-Rd1e297">l. vt 
+          <ref xml:id="cy8th8-d1e216-Rd1e295">l. 1 c. quando liceat uni se uindicare</ref>. Et se cuius est preveniri 
+          <lb ed="#B" n="29"/>ut notatur in <ref xml:id="cy8th8-d1e216-Rd1e300">l. 3. § cum igitur ff. de vi. et vi. armata</ref> et in <ref xml:id="cy8th8-d1e216-Rd1e297">l. vt 
           <lb ed="#B" n="30"/>vim ff. de iustitia et iure.</ref>
         </p>
         <p xml:id="cy8th8-d1e216-d1e297">
@@ -180,11 +180,11 @@
         </p>
         <p xml:id="cy8th8-d1e216-d1e389">
           <pc type="pilcrow">¶</pc> Auctoritatibus 
-          <lb ed="#B" n="28"/>etiam idem probatur et primo per l. ercatores C. de comerciis 
-          <lb ed="#B" n="29"/>et mercatoribus ubi lex prohibet ne mercationis causa conuersentur 
+          <lb ed="#B" n="28"/>etiam idem probatur et primo per <ref xml:id="cy8th8-d1e216-Rd1e408">l. ercatores C. de comerciis 
+          <lb ed="#B" n="29"/>et mercatoribus</ref> ubi lex prohibet ne mercationis causa conuersentur 
           <lb ed="#B" n="30"/>subiecti Romano imperio cum gentibus et non gratis ne 
           <lb ed="#B" n="31"/>credantur Romani exploratores archanorum regni alieni 
-          <lb ed="#B" n="32"/>secundum baldum in legis summario Unde sic dicit textus. 
+          <lb ed="#B" n="32"/>secundum <ref xml:id="cy8th8-d1e216-Rd1e420">baldum in legis summario</ref> Unde sic dicit textus. 
           <lb ed="#B" n="33"/><quote xml:id="cy8th8-d1e216-Qd1e406">Mercatores tam imperio nostro quam persarum regi subiectos 
           <lb ed="#B" n="34"/>ultra ea loca in quibus federis tempore cum memorata natione
           <pb ed="#B" n="34-r"/>
@@ -197,10 +197,10 @@
         </p>
         <p xml:id="cy8th8-d1e216-d1e427">
           <pc type="pilcrow">¶</pc> 2o probatur per ea que notat bar<lb ed="#B" break="no" n="7"/>tholus 
-          in l. relegatorum § inter dicere ff. de interdictis et relegatis 
+          in <ref xml:id="cy8th8-d1e216-Rd1e451">l. relegatorum § inter dicere ff. de interdictis et relegatis</ref> 
           <lb ed="#B" n="8"/>posse scilicet statui quod quis subditorum non uadat ad faciendum 
-          <lb ed="#B" n="9"/>mercantias extra territorium vel ad talem ciuitatem per d. l. 
-          <lb ed="#B" n="10"/>mercatores.
+          <lb ed="#B" n="9"/>mercantias extra territorium vel ad talem ciuitatem per <ref xml:id="cy8th8-d1e216-Rd1e458">d. l. 
+          <lb ed="#B" n="10"/>mercatores.</ref>
         </p>
         <p xml:id="cy8th8-d1e216-d1e441">
           <pc type="pilcrow">¶</pc> 3o probatur per <name xml:id="cy8th8-d1e216-Nd1e446">andream de Isernia</name> inde pro<lb ed="#B" break="no" n="11"/>hibita 
@@ -209,7 +209,7 @@
           quia lasciuo argumentum <ref xml:id="cy8th8-d1e216-Rd1e463">ff. locati et conducti circa finem.</ref> Iustam ha<lb ed="#B" break="no" n="14"/>bere 
           causam prohibendi: ut per regnum suum non transeat ti<lb ed="#B" break="no" n="15"/>mendo 
           inuasionem terrarum suarum uel alias inuasiones et peri<lb ed="#B" break="no" n="16"/>cula 
-          per ea que durandus numero 20 et 21 c. Item et uni posse pro<lb ed="#B" break="no" n="17"/>hibere 
+          per ea que <ref xml:id="cy8th8-d1e216-Rd1e488">durandus numero 20 et 21 c.</ref> Item et uni posse pro<lb ed="#B" break="no" n="17"/>hibere 
           ex causa ut scilicet non sciantur secreta regni sui argumentum 
           <lb ed="#B" n="18"/><ref xml:id="cy8th8-d1e216-Rd1e475">C. de comerciis et mercatoribus l. 3</ref> <ref xml:id="cy8th8-d1e216-Rd1e477">6. q. 2. merito</ref> vel alia simili causa habente 
           <lb ed="#B" n="19"/>similem rationem. Nam vbi est ratio eadem idem ius <ref xml:id="cy8th8-d1e216-Rd1e481">ff. de 
@@ -217,26 +217,26 @@
           vel manere: ne animos subditorum inficiant. Et est
           <lb ed="#B" n="22"/>timor iustus et causa talis vera: quia et potest quis prohibere 
           <lb ed="#B" n="23"/>vt aliquis sibi odiosus rem suam non emat. argumentum. <ref xml:id="cy8th8-d1e216-Rd1e493">C. de iure 
-          <lb ed="#B" n="24"/>emphiteutico fi.</ref> in principio ff. de actionibus emp. l. si sterilis § si tibi de con<lb ed="#B" break="no" n="25"/>trahenda 
-          emptiane. l. qui fundum. hec Andreas de Isernia in forma.
+          <lb ed="#B" n="24"/>emphiteutico fi. in principio</ref> <ref xml:id="cy8th8-d1e216-Rd1e519">ff. de actionibus emp. l. si sterilis § si tibi</ref> <ref xml:id="cy8th8-d1e216-Rd1e521">de con<lb ed="#B" break="no" n="25"/>trahenda 
+          emptiane. l. qui fundum.</ref> hec <name xml:id="cy8th8-d1e216-Nd1e526">Andreas de Isernia</name> in forma.
         </p>
         <p xml:id="cy8th8-d1e216-d1e481">
           <pc type="pilcrow">¶</pc> 4o pro<lb ed="#B" break="no" n="26"/>batur 
           per baldum quem referunt et sequuntur multi: quip<lb ed="#B" break="no" n="27"/>pe 
-          qui super feudis titulo de forma fidelitatis § dominus vero: querit 
+          qui super <ref xml:id="cy8th8-d1e216-Rd1e538">feudis titulo de forma fidelitatis § dominus vero</ref>: querit 
           <lb ed="#B" n="28"/>an domini terrarum sine causa possint expellere mercatores
           <lb ed="#B" n="29"/>forenses de suis territoriis: et non recedentibus bona auferre. 
           <lb ed="#B" n="30"/>Respondit quod non nisi ex causa. Venturis autem ad patriam a<lb ed="#B" break="no" n="31"/>lienam 
           bene potest interdici ingressus. argumentum <ref xml:id="cy8th8-d1e216-Rd1e519">ff. de usufructu per legatum
-          <lb ed="#B" n="32"/>l. heres</ref> et <ref xml:id="cy8th8-d1e216-Rd1e524">ff. si seruitus uindicetur l. sicut § Aristo.</ref> et Instit. de rerum 
-          <lb ed="#B" n="33"/>diuisione § illud in verbo apes et l. quod enim de acquirenda rerum dominia 
+          <lb ed="#B" n="32"/>l. heres</ref> et <ref xml:id="cy8th8-d1e216-Rd1e524">ff. si seruitus uindicetur l. sicut § Aristo.</ref> et <ref xml:id="cy8th8-d1e216-Rd1e557">Instit. de rerum 
+          <lb ed="#B" n="33"/>diuisione § illud in verbo apes</ref> et l. quod enim de acquirenda rerum dominia 
           <lb ed="#B" n="34"/>in quibus legibus prohibetur intrare in agros uel fundos alie<pb ed="#B" n="34-v"/><lb ed="#B" break="no" n="1"/>nos 
           aut aliquid in eis facere <pc type="virgula">/</pc> sine licentia dominorum et mi<lb ed="#B" break="no" n="2"/>nus 
           contra eorum voluntatem: ob quod traduntur a docto<lb ed="#B" break="no" n="3"/>ribus 
-          dicta iura in argumentum huiusmodi et glossa in l. 
-          <lb ed="#B" n="4"/>quod enim notat quod possum prohibere in tantum meo fundo 
-          <lb ed="#B" n="5"/>et manu armata resistere ut ff. ad l. aquiliam l. quemadma<lb ed="#B" break="no" n="6"/>dum 
-          circa principium et possum iniuriarum <ref xml:id="cy8th8-d1e216-Rd1e548">ff. de in<lb ed="#B" break="no" n="7"/>iuriis 
+          dicta iura in argumentum huiusmodi et <ref xml:id="cy8th8-d1e216-Rd1e576">glossa in l. 
+          <lb ed="#B" n="4"/>quod enim</ref> notat quod possum prohibere in tantum meo fundo 
+          <lb ed="#B" n="5"/>et manu armata resistere ut <ref xml:id="cy8th8-d1e216-Rd1e583">ff. ad l. aquiliam</ref> <ref xml:id="cy8th8-d1e216-Rd1e585">l. quemadma<lb ed="#B" break="no" n="6"/>dum 
+          circa principium</ref> et possum iniuriarum <ref xml:id="cy8th8-d1e216-Rd1e548">ff. de in<lb ed="#B" break="no" n="7"/>iuriis 
           l. iniuriarum § si quis me prohibeat</ref> Ubi habetur quod 
           <lb ed="#B" n="8"/>si quis nititur in alienum fundum intrare inuito domino vim
           <lb ed="#B" n="9"/>turbatiuam infert. Cum nec sinat re sua libere uti unde in<lb ed="#B" break="no" n="10"/>iuriam 
@@ -244,7 +244,7 @@
           intrare inuito rege alienum regnum vel patriam toti 
           <lb ed="#B" n="12"/>communitati. Idem quod Baldus inquit Iacobus de sancto Grego<lb ed="#B" break="no" n="13"/>rio 
           in tractatu de feudis <pc type="pilcrow">¶</pc> Exemplis quaque diuine scripture 
-          <lb ed="#B" n="14"/>predicta roborantur. Nam Genesis 42 legimus Ioseph im<lb ed="#B" break="no" n="15"/>posuisse 
+          <lb ed="#B" n="14"/>predicta roborantur. Nam <ref xml:id="cy8th8-d1e216-Rd1e614">Genesis 42</ref> legimus Ioseph im<lb ed="#B" break="no" n="15"/>posuisse 
           fratribus ut eos terreret tanquam iniuriosum delictum 
           <lb ed="#B" n="16"/>morte dignum contra regnum egiptiorum commisissent <quote xml:id="cy8th8-d1e216-Qd1e548">vos 
           <lb ed="#B" n="17"/>(inquit) speculatores estis vt videatis infirmiora terre venistis</quote> 
