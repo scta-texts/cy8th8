@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 14</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 14</title>
+          <date when="2025-08-20">August 20, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="39-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e242">
+        <head xml:id="cy8th8-d1e242-Hd1e97">Section 14</head>
+
+        <p xml:id="cy8th8-d1e242-d1e99">
+          § 14
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e104">
+          In the conclusion follows Part 7
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e111">
+          <pc type="pilcrow">¶</pc> 
+          A timely,
+          quiet notification,
+          etc.,
+          concerning the cause of their advent and legation,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e126">
+          Timely,
+          namely,
+          with place and time,
+          persons and other circumstances observed according to those things which the Philosopher teaches 
+          in Ethics 3,
+          that the virtuous one works what is fitting and according to what is fitting,
+          and when and how and concerning what he works.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e136">
+          And especially it must be awaited and observed in this article that first the Spaniards 
+          or the aforesaid messengers learn and know the idiom of each province or place,
+          so that those peoples may fully understand whatever will be proposed to them.
+          Otherwise nothing will be done by law,
+          in 
+          <ref xml:id="cy8th8-d1e242-Rd1e150">
+            l. 1 § fi. in 5th column ff. de verborum obligatione
+          </ref>,
+          and there notes 
+          <ref xml:id="cy8th8-d1e242-Rd1e154">Ludovicus Romanus and Instit. eo titulo § in hac re</ref>.
+          And 
+          <ref xml:id="cy8th8-d1e242-Rd1e156">
+            Antonius de Butrio in c. fi. de eo qui mittitur in possessionem causa rei servande 2nd column
+          </ref>,
+          there in open and clear words so that they may be understood,
+          <ref xml:id="cy8th8-d1e242-Rd1e163">ff. de institutionum l. sed et si § 1.</ref>
+          Felinus notes in the rubric de constitutionibus penultimate column.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e158">
+          <pc type="pilcrow">¶</pc> 
+          But that this notification ought to be quiet,
+          that is,
+          as regards the intellect and reason,
+          free from the darkness of disturbances which are caused by the passions of the soul,
+          is clear,
+          because just as the stars accustomed to shine on us and the earth to germinate cease to do this 
+          on account of the interposition of obscure clouds,
+          so the intellect and reason which shine and illuminate man in the knowledge of truth 
+          are impeded by the darkness of disturbances.
+          And just as when the water of the sea remains clear like glass,
+          our sight can penetrate it and see 
+          <pb ed="#B" n="39-v"/>
+          those things which are under the water,
+          but if it is disturbed by wind,
+          then it will obstruct vision,
+          so the quiet mind of a man does not impede the discourses of reason 
+          nor the judgment of the intellect for understanding what is proposed.
+          But if it be moved and disturbed by some molestation or anguish,
+          fear,
+          sadness,
+          pain,
+          or even anger,
+          or other things which give cause for disturbances,
+          immediately it obstructs the discourse of reason and the judgment of the intellect.
+          Similarly,
+          just as water running from high mountains proceeds freely and by a straight path,
+          and is impeded by the obstacle of a stone which rolls down from the mountain,
+          so that it cannot proceed rightly,
+          so reason,
+          free and unimpeded,
+          discourses rightly and the intellect judges rightly.
+          But if it is affected by motions of some disturbance,
+          reason is impeded in the discourse of liberty,
+          and the intellect in the knowledge of liberty.
+          Thus says 
+          <ref xml:id="cy8th8-d1e242-Rd1e218" corresp="#cy8th8-d1e242-Qd1e223">
+            Boethius book 1 meter 7, On the Consolation
+          </ref>:
+          <quote xml:id="cy8th8-d1e242-Qd1e223" source="http://scta.info/resource/hy7y6y-d1e51-d1e419@1-55">
+            Hidden by black clouds,
+            the stars can pour forth no light,
+            etc.
+            You too,
+            if you wish to discern the truth in clear light,
+            to grasp heaven by a straight path,
+            drive away joys,
+            drive away fear
+          </quote>,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e234">
+          From which it appears that in order that those things which we wish to propose and persuade 
+          to some persons may be heard and understood,
+          it is necessary that the reason and intellect of the hearers be unquiet and in tranquility,
+          and far from any molestation and other thing which is sufficient to cause disturbance in the mind.
+          But if they were proposed with tumult or perhaps with the noise of arms,
+          with terror breathing,
+          with threats or scourges,
+          or in an imperious manner,
+          or harshly and with any other rigor or disturbance,
+          it is manifest that the human mind is dismayed by terrors,
+          disturbed by clamors,
+          fear,
+          and harder words,
+          is saddened,
+          afflicted,
+          flees.
+          Therefore to hear,
+          the exterior sense and also the interior,
+          such as fantasy or imagination,
+          is disturbed and darkened.
+          Consequently reason and intellect do not apprehend,
+          nor can they take up the intelligible form as lovable or delightful,
+          but rather as saddening and hateful.
+          On account of which the will not only cannot be affected or love,
+          but rather hate those things which are proposed,
+          and be indignant on account of those terrible things which it unjustly,
+          or a man through the intellect,
+          judges himself to suffer.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e301">
+          Therefore it is necessary that this notification be quiet 
+          <pb ed="#B" n="40-v"/>
+          and free from all darkness of disturbance,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e307">
+          <pc type="pilcrow">¶</pc> 
+          From these things can be elicited the proof of that which follows,
+          namely that this notification ought to be sweet and friendly,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e317">
+          All this is clear,
+          first because the first of the rhetorical rules is that he who wishes to propose certain things 
+          to some persons and to persuade them,
+          needs first to have had their minds conciliated to himself,
+          through which he may render them benevolent,
+          attentive,
+          and docile,
+          according to 
+          <ref xml:id="cy8th8-d1e242-Rd1e331">Cicero in book 2 On the Orator</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e335">
+          <pc type="pilcrow">¶</pc> 
+          But they are conciliated through gentleness of voice and the signification of modesty of countenance,
+          the placid showing of gentleness,
+          the courtesy of words,
+          which things especially prepare benevolence,
+          according to the same Cicero.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e347">
+          <pc type="pilcrow">¶</pc> 
+          Second,
+          because the natural mode by which a rational creature is apt by nature to be moved,
+          led,
+          directed,
+          persuaded,
+          and drawn to any good is that it be moved,
+          led,
+          directed,
+          persuaded,
+          and drawn blandly,
+          sweetly,
+          gently,
+          and suavely,
+          on account of the liberty of will,
+          namely so that that motion may be gentle,
+          sweet,
+          and suave to it and connatural,
+          so that of its own accord it may listen,
+          hear,
+          consider,
+          acquiesce,
+          and whatever there is of virtue,
+          accept and do.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e390">
+          Hence it is said 
+          <ref xml:id="cy8th8-d1e242-Rd1e392" corresp="#cy8th8-d1e242-Qd1e394">Ecclesiasticus 6</ref>:
+          <quote xml:id="cy8th8-d1e242-Qd1e394" source="http://scta.info/resource/sir6_5@1-4">
+            A sweet word multiplies friends
+          </quote>
+          (just as we read of the blessed Clement and Sylvester,
+          that on account of the sweetness of eloquence and gracious gentleness in conversing,
+          they were beloved not only by the faithful but also by gentiles and Jews).
+          And it follows in the adduced authority from Ecclesiasticus:
+          <quote xml:id="cy8th8-d1e242-Qd1e405" source="http://scta.info/resource/sir6_5@5-7">
+            and mitigates enemies
+          </quote>.
+          This appeared in Gideon,
+          who mitigated the men of Ephraim stirred up against him through a sweet word,
+          <ref xml:id="cy8th8-d1e242-Rd1e411">Judges 8</ref>.
+          And 
+          <ref xml:id="cy8th8-d1e242-Rd1e429">Valerius Maximus book 5</ref>,
+          speaking in praise of humanity,
+          says:
+          <quote xml:id="cy8th8-d1e242-Qd1e416">
+            The sweetness of humanity penetrates even the savage minds of barbarians,
+            and softens the harsh and fierce eyes of enemies,
+            and bends the most insolent spirits of victory.
+            Nor is it arduous and difficult for it to find a placid way among contrary arms,
+            among swords drawn at close quarters.
+            It conquers anger,
+            prostrates hatred,
+            and mingles hostile blood with the tears of enemies
+          </quote>,
+          etc.
+          And the reason for this is the generosity of the human soul.
+          For according to Seneca,
+          <quote xml:id="cy8th8-d1e242-Qd1e437">
+            the human soul is more led than drawn;
+            for the human mind has something sublime and lofty and impatient of a superior,
+            but by the delight of a certain reverence or levity it is subjected
+          </quote>,
+          <pb ed="#B" n="41-r"/>
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e449">
+          <pc type="pilcrow">¶</pc> 
+          Therefore that notification ought to be sweet and friendly,
+          and most modest and conciliating of the minds of hearers.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e459">
+          <pc type="pilcrow">¶</pc> 
+          Further we said it 
+          <quote xml:id="cy8th8-d1e242-Qd1e464">
+            ought to be slow and successive with an interval of several days
+          </quote>.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e470">
+          This is clear,
+          first,
+          because since those things which they are going to signify concerning the end or final cause 
+          of their advent,
+          namely to teach them concerning the one and true God,
+          Lord creator of all,
+          and concerning things pertaining to God which the Catholic faith preaches,
+          have never been heard by them nor even thought,
+          being so new,
+          so admirable,
+          as transcending every faculty of nature,
+          it is manifest that they need a tract or delay of time not minimal,
+          indeed great and maximum,
+          for thinking about those things which are proposed,
+          whether they are thus in truth as they are asserted.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e497">
+          For since those things which are to be proposed to those peoples concerning God 
+          are not manifest to the intellect immediately to be true,
+          but some ratiocination must precede for believing them to be true,
+          so that the intellect does not concede them to be true unless it wills,
+          and unless through the will and by design it will have reasoned concerning them sufficiently,
+          but to reason,
+          according to the great Dionysius in On Divine Names 7,
+          is to proceed through a certain discourse from one thing understood to another,
+          and thus reason or intellect,
+          or a man through reason or intellect,
+          thinks,
+          inquires,
+          and discourses from one to another of those things which he hears,
+          before he assents or gives assent.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e525">
+          Therefore those nations need an interval and process of no small time,
+          so that they may hear,
+          think about,
+          inquire into,
+          discourse,
+          and understand those things which are proposed to them.
+          Therefore the notification of the cause and end of the advent of the Spaniards 
+          or of the legates of our kings to be made and announced to the peoples and inhabitants 
+          of that world of the Indies must necessarily be slow and successive over several days,
+          and not sudden.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e545">
+          <pc type="pilcrow">¶</pc> 
+          Second,
+          those things which concerning the end or final cause of the advent of the Spaniards 
+          are to be proposed to such peoples at the beginning of their application to any place or province,
+          are unusual and unaccustomed,
+          and never heard nor even dreamed,
+          as has been said.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e564">
+          But we naturally judge unusual and unaccustomed things less worthy of hearing and reception,
+          as less known and strange to reason,
+          and thus less true,
+          because they are unaccustomed,
+          according to 
+          <ref xml:id="cy8th8-d1e242-Rd1e570">the Philosopher in Metaphysics 2</ref>.
+          For if certain things be said to us beyond those things which we are accustomed to hear,
+          <pb ed="#B" n="41-v"/>
+          they do not seem to us similar in truth to those things which we are accustomed to hear.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e581">
+          Therefore,
+          in order that they may seem worthy of hearing and similar in truth to those things 
+          which we are accustomed to hear,
+          they must be accustomed among us.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e588">
+          For those things which are accustomed are more willingly heard and more easily received,
+          for accustomed things are pleasing.
+          For it seems worthy to us that it be said concerning anything as we are accustomed to hear.
+          For that which is accustomed is more known and pleasing to us,
+          the reason for which is that custom is turned into nature.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e600">
+          But they cannot be accustomed,
+          nor can custom be generated,
+          except from frequent acts,
+          and for the frequentation of acts an interval of time and of several days is necessarily required.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e609">
+          Therefore,
+          in order that those things which concerning the cause of the advent of the Spaniards,
+          namely concerning God and the preambles to that and subsequents,
+          are to be notified to the aforesaid peoples at the beginning,
+          may be able to be accustomed and pleasing to them,
+          and thus may seem to them worthy of hearing and similar to those things which are true 
+          or which they have been accustomed to hear,
+          and may be more willingly heard and more easily received,
+          it is necessary that the aforementioned notification be slow and successive over several days,
+          in which interval of time those things may frequently and most frequently be proposed,
+          repeated,
+          explained,
+          distinguished,
+          so that from such frequent acts,
+          little by little in the hearts of the hearers,
+          may be generated a certain force and disposition or pleasing custom or habit 
+          which causes a quasi-natural inclination by which the human mind may be helped and disposed,
+          so that the aforesaid things,
+          since they have already become accustomed to be heard,
+          are made pleasing to them,
+          may seem consonant with truth,
+          and consequently worthy to be heard,
+          believed,
+          and received.
+        </p>
+
+        <p xml:id="cy8th8-d1e242-d1e655">
+          Therefore it is clear how the aforesaid notification concerning the cause and end 
+          of the advent of the Spaniards,
+          to be made and announced to the peoples and inhabitants of that world of the Indies,
+          ought to be timely,
+          quiet (that is),
+          free as regards the intellect and reason from any disturbance,
+          sweet and friendly,
+          most modest and conciliating of the minds of hearers,
+          finally slow,
+          successive with an interval of time,
+          and not sudden.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

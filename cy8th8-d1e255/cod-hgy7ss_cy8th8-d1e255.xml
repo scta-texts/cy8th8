@@ -121,8 +121,8 @@
         <p xml:id="cy8th8-d1e255-d1e250">
           1o sic 
           <lb ed="#B" n="15"/>allegans titulum singularem secundum iura debet probare etiam si 
-          <lb ed="#B" n="16"/>sit filius cum presumatur pro herede uniuersali l. siue possidetis
-          <lb ed="#B" n="17"/>et ibi Baldus C. de probationibus 
+          <lb ed="#B" n="16"/>sit filius cum presumatur pro herede uniuersali <ref xml:id="cy8th8-d1e255-Rd1e257">l. siue possidetis</ref>
+          <lb ed="#B" n="17"/>et <ref xml:id="cy8th8-d1e255-Rd1e261">ibi Baldus C. de probationibus</ref> 
         </p>
         <p xml:id="cy8th8-d1e255-d1e259">
           sed ex parte regum nostrorum allegatur 
@@ -141,23 +141,23 @@
         </p>
         <p xml:id="cy8th8-d1e255-d1e288">
           Minor probatur: quia quilibet possessor 
-          <lb ed="#B" n="25"/>presumitur credere se dominum Cynus in l. cum alienum C.
-          <lb ed="#B" n="26"/>de <seg type="correction"><del>c</del>lega</seg> bartho. in l. 1. si de momem. posse fue. appel. 1 colu.
-          <lb ed="#B" n="27"/>verb. extra no. possesor enim habetur pro domino si possidet tanquam 
-          <lb ed="#B" n="28"/>dominus glossa bartholus et doctores in l. quidam in fine ff. de conditionibus 
-          <lb ed="#B" n="29"/>institutionum
+          <lb ed="#B" n="25"/>presumitur credere se dominum <ref xml:id="cy8th8-d1e255-Rd1e297">Cynus in l. cum alienum C.
+          <lb ed="#B" n="26"/>de <seg type="correction"><del>c</del>lega</seg></ref> <ref xml:id="cy8th8-d1e255-Rd1e305">bartho. in l. 1. si de momem. posse fue. appel. 1 colu.
+          <lb ed="#B" n="27"/>verb. extra no.</ref> possesor enim habetur pro domino si possidet tanquam 
+          <lb ed="#B" n="28"/><ref xml:id="cy8th8-d1e255-Rd1e311">dominus glossa bartholus et doctores in l. quidam in fine ff. de conditionibus 
+          <lb ed="#B" n="29"/>institutionum</ref>
         </p>
         <p xml:id="cy8th8-d1e255-d1e306">
           <pc type="pilcrow">¶</pc> 2o sic probandi onus incumbit ei qui asserrit vel dicit <ref xml:id="cy8th8-d1e255-Rd1e312" target="http://scta.info/resource/azsw2e-d1e2052-Dd1e342">l. 
           <lb ed="#B" n="30"/>actor C. de probationibus</ref> et <ref xml:id="cy8th8-d1e255-Rd1e317">l. ei qui ff. eo titulo</ref> et <ref xml:id="cy8th8-d1e255-Rd1e319" target="http://scta.info/resource/azsw2e-d1e701-Dd1e137">l. qui accusare C. de e<pb ed="#B" n="43-r"/><lb ed="#B" break="no" n="1"/>dendo</ref> 
           Item agens et quicunque allegat uel agit debet probare 
-          <lb ed="#B" n="2"/>quod allegat d. l. actor et ibi Cynus bartholus et baldus quod verum 
-          <lb ed="#B" n="3"/>est nisi habeat presumptionem prose l. ei incumbit et ibi bartholus 
-          <lb ed="#B" n="4"/>ff. de probationibus maxime specialem l. cum indebito eo titulo. Item 
-          <lb ed="#B" n="5"/>si actor non est in quasi possessione iuris quod asserit l. circa eum 
-          <lb ed="#B" n="6"/>per bartholum eo titulo. Item est verum etiam si reus habeat violentam 
-          <lb ed="#B" n="7"/>possessionem. d. l. circa eum et l. vis eius et ibi baldus in uerbis 
-          <lb ed="#B" n="8"/><quote xml:id="cy8th8-d1e255-Qd1e330">quero hic numquid agens</quote> C. de probationibus.
+          <lb ed="#B" n="2"/>quod allegat <ref xml:id="cy8th8-d1e255-Rd1e339">d. l. actor</ref> et <ref xml:id="cy8th8-d1e255-Rd1e341">ibi Cynus bartholus et baldus</ref> quod verum 
+          <lb ed="#B" n="3"/>est nisi habeat presumptionem <ref xml:id="cy8th8-d1e255-Rd1e345">prose l. ei incumbit</ref> et <ref xml:id="cy8th8-d1e255-Rd1e347">ibi bartholus 
+          <lb ed="#B" n="4"/>ff. de probationibus maxime specialem l. cum indebito eo titulo.</ref> Item 
+          <lb ed="#B" n="5"/>si actor non est in quasi possessione iuris quod asserit <ref xml:id="cy8th8-d1e255-Rd1e355">l. circa eum 
+          <lb ed="#B" n="6"/>per bartholum eo titulo.</ref> Item est verum etiam si reus habeat violentam 
+          <lb ed="#B" n="7"/>possessionem. <ref xml:id="cy8th8-d1e255-Rd1e362">d. l. circa eum</ref> et <ref xml:id="cy8th8-d1e255-Rd1e364">l. vis eius</ref> et <ref xml:id="cy8th8-d1e255-Rd1e366">ibi baldus in uerbis</ref> 
+          <lb ed="#B" n="8"/><quote xml:id="cy8th8-d1e255-Qd1e330">quero hic numquid agens</quote> <ref xml:id="cy8th8-d1e255-Rd1e373">C. de probationibus.</ref>
         </p>
         <p xml:id="cy8th8-d1e255-d1e333">
           <pc type="pilcrow">¶</pc> Sed reges nostri 
@@ -175,16 +175,16 @@
         <p xml:id="cy8th8-d1e255-d1e356">
           <pc type="pilcrow">¶</pc> Preterea generale brocar<lb ed="#B" break="no" n="16"/>dum 
           est quod <quote xml:id="cy8th8-d1e255-Qd1e363">qui petit dominium in aliqua re: oportet quod probet</quote>
-          <lb ed="#B" n="17"/>C. de rei vendi. doce et de alienatione iudicii l. 1 et innocentius in C. inter 
-          <lb ed="#B" n="18"/>quatuor de maioritate et obedientia.
+          <lb ed="#B" n="17"/><ref xml:id="cy8th8-d1e255-Rd1e410">C. de rei vendi. doce et de alienatione iudicii l. 1</ref> et <ref xml:id="cy8th8-d1e255-Rd1e412">innocentius in C. inter 
+          <lb ed="#B" n="18"/>quatuor de maioritate et obedientia.</ref>
         </p>
         <p xml:id="cy8th8-d1e255-d1e370">
           <pc type="pilcrow">¶</pc> Rursus 3o sic quando aliquis petit 
           <lb ed="#B" n="19"/>debitum aliquod debitore negante probatio incumbit petenti. 
           <lb ed="#B" n="20"/>signanter quando per aduersarium non est fundata intentio: quia nega<lb ed="#B" break="no" n="21"/>tiua 
           non debet probari per negantem sed per aduersarium in 
-          <lb ed="#B" n="22"/>casu dicto scilicet quando eius non est fundata intentio Baldus in 
-          <lb ed="#B" n="23"/>l. si ex <sic>cantione</sic> 2 columna
+          <lb ed="#B" n="22"/>casu dicto scilicet quando eius non est fundata intentio <ref xml:id="cy8th8-d1e255-Rd1e432">Baldus in 
+          <lb ed="#B" n="23"/>l. si ex <sic>cantione</sic> 2 columna</ref>
         </p>
         <p xml:id="cy8th8-d1e255-d1e390">
           sed reges nostri si peterent debitum 
@@ -213,14 +213,14 @@
           Nam ubicunque ius resistit alicui volenti aliquam 
           <lb ed="#B" n="3"/>rem sibi vendicare potissime in preIudicium alterius: opor<lb ed="#B" break="no" n="4"/>tet 
           ostendere et docere de titulo sicut in uolente prescribite 
-          <lb ed="#B" n="5"/>ut est casus in c. 1, de prescriptione lib. 6 et hoc etiam si habeat pos<lb ed="#B" break="no" n="6"/>sessionem 
-          rei sine qua non potest prescribi de prescriptione c. illud 
-          <lb ed="#B" n="7"/>16 q. <!-- gap here --> § potest et in regula sine possessione lib. 6 
+          <lb ed="#B" n="5"/>ut est casus in <ref xml:id="cy8th8-d1e255-Rd1e493">c. 1, de prescriptione lib. 6</ref> et hoc etiam si habeat pos<lb ed="#B" break="no" n="6"/>sessionem 
+          rei sine qua non potest prescribi de prescriptione <ref xml:id="cy8th8-d1e255-Rd1e498">c. illud 
+          <lb ed="#B" n="7"/>16 q. <!-- gap here --> § potest</ref> et in <ref xml:id="cy8th8-d1e255-Rd1e505">regula sine possessione lib. 6</ref> 
         </p>
         <p xml:id="cy8th8-d1e255-d1e449">
           facit ad 
           <lb ed="#B" n="8"/>propositum nostrum textus satis acomodatus et notandus in 
-          <lb ed="#B" n="9"/>C. cum persone de priuilegiis lib. 6 ubi <quote xml:id="cy8th8-d1e255-Qd1e455">subditi episcopi si dicant 
+          <lb ed="#B" n="9"/><ref xml:id="cy8th8-d1e255-Rd1e513">C. cum persone de priuilegiis lib. 6</ref> ubi <quote xml:id="cy8th8-d1e255-Qd1e455">subditi episcopi si dicant 
           <lb ed="#B" n="10"/>se exemptos ab episcopo propter iuris resistentiam quam habent 
           <lb ed="#B" n="11"/>contra se: oportet ante omnia ostendere titulum sue exemp<lb ed="#B" break="no" n="12"/>tionis 
           quod si non ostendant et prescriptionem probare nitantur 
@@ -237,10 +237,10 @@
           Cogitur ergo quis ostendere quo titulo 
           <lb ed="#B" n="21"/>possidet vel petit aliquam rem quando est contra ius commune: 
           <lb ed="#B" n="22"/>alias poterit illa priuari si possidet vel suam repudiari petitio<lb ed="#B" break="no" n="23"/>nem 
-          si possidendam petit. Ut patet ex predictis et tenet Baldus 
-          <lb ed="#B" n="24"/>in l. 2, 2 columna C. quomodo et quando iudi. dicens quod qui preten<lb ed="#B" break="no" n="25"/>dit 
-          titulum sue possessionis: quem refert et sequitur aluarotus in c. 
-          <lb ed="#B" n="26"/>1 in prin. de controuertis inuestigandum 
+          si possidendam petit. Ut patet ex predictis et tenet <ref xml:id="cy8th8-d1e255-Rd1e553">Baldus 
+          <lb ed="#B" n="24"/>in l. 2, 2 columna C. quomodo et quando iudi.</ref> dicens quod qui preten<lb ed="#B" break="no" n="25"/>dit 
+          titulum sue possessionis: quem refert et sequitur <ref xml:id="cy8th8-d1e255-Rd1e561">aluarotus in c. 
+          <lb ed="#B" n="26"/>1 in prin. de controuertis inuestigandum</ref>
         </p>
         <p xml:id="cy8th8-d1e255-d1e502">
           Si ergo quis in rei possessione 
@@ -261,12 +261,12 @@
         </p>
         <p xml:id="cy8th8-d1e255-d1e535">
           <pc type="pilcrow">¶</pc> Ad propositum fa<lb ed="#B" break="no" n="5"/>cit 
-          quod dicit Panormitanus: post Innocentium in c. post electionem de 
-          <lb ed="#B" n="6"/>concessione prebende quod contra agentem possessorio excipitur defec<lb ed="#B" break="no" n="7"/>tu 
+          quod dicit Panormitanus: post <ref xml:id="cy8th8-d1e255-Rd1e608">Innocentium in c. post electionem de 
+          <lb ed="#B" n="6"/>concessione prebende</ref> quod contra agentem possessorio excipitur defec<lb ed="#B" break="no" n="7"/>tu 
           potestatis in conferente vel in eligente. et talis exceptio ad<lb ed="#B" break="no" n="8"/>mittitur 
           <lb ed="#B" n="9"/>vt in c. cum olim de causa possessionis et proprietatis. Non enim debet 
           <lb ed="#B" n="10"/>alicui possessio dari quam nunquam habuit: nisi prius constet de 
-          <lb ed="#B" n="11"/>suo legitimo titulo l. fi. C. de edicto diui adriani tollendo 
+          <lb ed="#B" n="11"/>suo legitimo titulo <ref xml:id="cy8th8-d1e255-Rd1e624">l. fi. C. de edicto diui adriani tollendo</ref> 
         </p>
         <p xml:id="cy8th8-d1e255-d1e556">
           Reges igitur 
