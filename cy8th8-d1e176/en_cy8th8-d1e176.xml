@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 9</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 9</title>
+          <date when="2025-11-13">November 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="23-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e176">
+        <head xml:id="cy8th8-d1e176-Hd1e97">Section 9</head>
+
+        <p xml:id="cy8th8-d1e176-d1e99">
+          § 9
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Therefore in this manner the jurisdictions and domains of our kings of the Spains 
+          and of the natural kings of that world,
+          even of individual things,
+          are compatible.
+          Because our kings have supreme dominion and similar imperial universal jurisdiction,
+          but the other individual kings and natural lords in their kingdom or kingdoms and domains,
+          and individuals in their own things,
+          by relation to the universal hold inferior jurisdiction and immediate dominion,
+          without this that so many domains are mutually incompatible.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e126">
+          <pc type="pilcrow">¶</pc> 
+          An example of this is ready at hand:
+          that any king in his kingdom has dominion and jurisdiction in any thing,
+          namely for regulating and protecting it.
+          A duke or count obtains inferior dominion and jurisdiction.
+          But the farmer,
+          if he possesses civilly and naturally,
+          has direct and useful dominion.
+          But if only civilly and another naturally,
+          that one has direct dominion.
+          The emphyteuta or usufructuary or feudatory has only useful dominion.
+          Hence there are multiple dominions concerning the same thing,
+          nor however are they mutually incompatible since they are of diverse species,
+          as appears from what has been said.
+          And if you wish,
+          run to those things which the jurists note,
+          <ref xml:id="cy8th8-d1e176-Rd1e154">d. l. possideri § ex contrario.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e153">
+          Therefore the Supreme Pontiff understood concerning such supreme and universal jurisdiction 
+          and dominion in the aforesaid words when he said 
+          <quote xml:id="cy8th8-d1e176-Qd1e159">
+            with all the domains and jurisdictions of those islands
+          </quote>,
+          etc.
+          Indeed he conceded this to our kings,
+          <pb ed="#B" n="24-r"/>
+          but he left and confirmed to the natural kings and lords and even singular persons 
+          those things which pertained to them by the law of nations and natural law,
+          although with jurisdiction somewhat diminished and restricted,
+          insofar as they had to recognize our kings as superior and universal lords.
+          And thus they do not remain as free as before,
+          and this could be done in favor of the faith,
+          not for any other cause,
+          as has been proven above.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e181">
+          Hence that clause must be restricted and moderated,
+          namely 
+          <quote xml:id="cy8th8-d1e176-Qd1e185">
+            with all the domains and jurisdictions of those islands
+          </quote>,
+          etc.
+          It must be understood,
+          I say,
+          and declared according to the end and limits of natural reason,
+          and lest injustices be done or the rights of those peoples which pertain to them 
+          by the law of nations and natural law,
+          as has often been said,
+          lest injustices be born from that place where laws are born,
+          as 
+          <ref xml:id="cy8th8-d1e176-Rd1e206">l. meminerint, C. unde vi</ref>,
+          and in 
+          <ref xml:id="cy8th8-d1e176-Rd1e211">l. omnium, c. de testamentis</ref>,
+          and we ought not to do that from which we are bound to prohibit another,
+          and he who is bound to defend us ought not to fight against us,
+          as in 
+          <ref xml:id="cy8th8-d1e176-Rd1e218">c. unico extra de natis ex libero uentre</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e222">ff. si ser ven. l. altius</ref>.
+          From this it is that rescripts and whatever emanates from the Apostolic See 
+          must always be interpreted so that no one is harmed from it,
+          at least gravely or enormously,
+          as in 
+          <ref xml:id="cy8th8-d1e176-Rd1e228">c. super eo de officio delegati</ref>,
+          as 
+          <ref xml:id="cy8th8-d1e176-Rd1e234">above § 7</ref>
+          was extensively shown.
+          It makes 
+          <ref xml:id="cy8th8-d1e176-Rd1e236">capitulum ecce 99 dist</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e241">capitulum cum olim de consuetudine</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e243">c. emancipatione l. nec auus.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e220">
+          And the reason according to 
+          <ref xml:id="cy8th8-d1e176-Rd1e250">Baldus in d. c. cum olim</ref>:
+          <quote xml:id="cy8th8-d1e176-Qd1e224">
+            Because a concession from which something absurd follows is called a captious concession
+          </quote>
+          <ref xml:id="cy8th8-d1e176-Rd1e257">ff. De transactionibus. l. cum aquiliana</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e262">ff. de heredibus instituendis l. illa institutio</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e264">l. ille autem</ref>.
+          And therefore the pope does not concede letters with prejudice to another.
+          Moreover,
+          nothing ought to be done for emulation,
+          <ref xml:id="cy8th8-d1e176-Rd1e270">ff. de operibus publicis l. opus</ref>,
+          and the privilege of one ought not to usurp the right of another,
+          <ref xml:id="cy8th8-d1e176-Rd1e275">ff. de uulgari sustitutione l. ex facto</ref>.
+          Nor to impede natural faculty 
+          <ref xml:id="cy8th8-d1e176-Rd1e279">ff. de operibus libertorum l. libertas negotiatori.</ref>
+          These things Baldus.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e243">
+          <pc type="pilcrow">¶</pc> 
+          Likewise privileges and concessions are understood to be made without injury to another,
+          <ref xml:id="cy8th8-d1e176-Rd1e292">l. 2. § si quis a principe</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e294">§ merito ff, ne quid in loco publico</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e299">l. si decem. C. de statu et imagi.</ref>
+          <ref xml:id="cy8th8-d1e176-Rd1e305">l. cum filius. ff. de mili tasta.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e257">
+          <pc type="pilcrow">¶</pc> 
+          Again,
+          the honors of some ought not to harm others 
+          <ref xml:id="cy8th8-d1e176-Rd1e318">C. de statua et imaginibus l. finalis</ref>.
+          For it is iniquitous to take something unjustly from one to be given to another 
+          <ref xml:id="cy8th8-d1e176-Rd1e322">c. non est 1. q. 1.</ref>
+          And Baldus says that 
+          <quote xml:id="cy8th8-d1e176-Qd1e268">
+            the pope does not wish his own to be taken from anyone
+          </quote>,
+          as 
+          <ref xml:id="cy8th8-d1e176-Rd1e330">l. 2. ff. qui sunt sui vel alie iuris</ref>.
+          And therefore the words of the rescript receive limitation from common law,
+          <pb ed="#B" n="24-v"/>
+          and all clauses appended in rescripts are restricted to those litigating.
+          And although in the letters appeal is removed,
+          nevertheless all whose interest it is can appeal.
+          Moreover,
+          all whom the business touches could oppose themselves,
+          although mention is not made of them,
+          according to 
+          <ref xml:id="cy8th8-d1e176-Rd1e348">
+            Bernard,
+            argument in l. 1, ff. quibus rebus ad eundem iudicem
+          </ref>.
+          From these,
+          although the pope did not except or express that it was not his intention 
+          to derogate the rights of natural kings and singular persons or to generate prejudice 
+          through such words,
+          it is nevertheless understood as if he had declared it in express words,
+          since those things which are inherent,
+          even if they are not said,
+          being expressed and said do not change or add 
+          <ref xml:id="cy8th8-d1e176-Rd1e363">
+            C. de fidei iussoribus et mandatoribus l. 3 in fine
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e365">ff. de condi. et demonstra l. conditiones extrinsecus</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e370">ff. de legatis 1 l. 3</ref>.
+          See 
+          <ref xml:id="cy8th8-d1e176-Rd1e373">
+            <name xml:id="cy8th8-d1e176-Nd1e301">Andreas de Isernia</name>
+            de prohibita feudi alienatione § preterea inter duos fratres per fredericum 7th column at the beginning
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e308">
+          <pc type="pilcrow">¶</pc> 
+          It is still general that the form of the rescript is not always to be observed,
+          according to Bernard,
+          namely when the right of a third party would be harmed,
+          who is not named in the rescript,
+          which is to be held in mind.
+          All these things 
+          <ref xml:id="cy8th8-d1e176-Rd1e394">Baldus in d. c. super eo.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e320">
+          <pc type="pilcrow">¶</pc> 
+          For this we have one law canonized by the great Gregory,
+          which is contained 
+          <ref xml:id="cy8th8-d1e176-Rd1e404">C. de precibus</ref>
+          imperatori offerendis,
+          registered among the sacred canons 
+          <ref xml:id="cy8th8-d1e176-Rd1e408">25 q. 2 c. imperiali</ref>,
+          where it is held that 
+          <quote xml:id="cy8th8-d1e176-Qd1e334">
+            we command all judges to refuse rescripts elicited against law,
+            unless perhaps it be something which does not harm another and benefits the petitioner,
+            or pardons a crime for supplicants
+          </quote>.
+          These things there,
+          where also there is a good gloss.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e345">
+          <pc type="pilcrow">¶</pc> 
+          From which it appears that it is not the intention of the prince,
+          especially of the supreme prince of the universal church,
+          the pope,
+          through his rescripts or through his graces and donations,
+          to prejudice or remove the right of another,
+          and far less the honors,
+          dignities,
+          and royal states pertaining to the proper and true kings and lords,
+          without a great and arduous,
+          examined,
+          legitimate,
+          and necessary cause.
+          And therefore provisions,
+          concessions,
+          graces,
+          and other things of this kind must always be restricted,
+          limited,
+          and interpreted in such a way that the right of another is not enormously harmed or taken away,
+          or great prejudice generated to them,
+          as has been sufficiently evidently shown.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e393">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore for the promulgation of the gospel of Christ throughout that whole world 
+          and the expansion of the Church 
+          <pb ed="#B" n="25-r"/>
+          and the conversion and salvation of those peoples,
+          it suffices that our illustrious Catholic kings of the Spains be in that whole world of the Indies 
+          supreme princes,
+          having the height of supreme jurisdiction,
+          power and dominion,
+          and as it were imperial dignity and authority over all kings,
+          princes and lords,
+          and also over all the inhabitant nations of the aforesaid world,
+          they themselves remaining with their domains,
+          jurisdictions,
+          honors,
+          and royal states,
+          unless insofar as it would be necessary for their jurisdiction to be restricted 
+          for the benefit of the faith and common utility,
+          and not further,
+          because then the cause of restricting would cease.
+          But if the contrary were said and it should perhaps happen,
+          namely that through the aforesaid institution concerning our kings 
+          and their supreme principate,
+          universal jurisdiction and high dominion,
+          the natural princes and lords were understood to have remained,
+          by that very fact,
+          completely despoiled of their domains,
+          dignities,
+          and jurisdictions,
+          it is manifest that they would be burdened with most grave and enormous 
+          and therefore intolerable prejudice and damage,
+          and consequently that a maximum scandal would arise among all those peoples and nations,
+          and infamy,
+          horror,
+          and detestation against the faith and Christian religion (as has been said) 
+          would be generated in their minds.
+          Therefore the said institution,
+          concession or donation,
+          and apostolic letters or papal decree emanating concerning these things,
+          must necessarily be understood,
+          interpreted,
+          and declared so that the kings and princes of that whole world may have,
+          use,
+          possess,
+          and freely enjoy their dignities,
+          domains,
+          and jurisdictions and royal states and pristine honors even after the said institution,
+          according to what has been said,
+          just as before,
+          even if the pope makes no mention of this in his letters.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e481">
+          <pc type="pilcrow">¶</pc> 
+          Otherwise many and great and horrible absurdities,
+          inconveniences,
+          and inhumanities would follow.
+          And the first will be that what has been provided and constituted for the good 
+          and utility of those peoples,
+          as it were on account of the faith,
+          would be turned to their ruin and destruction,
+          contrary to that:
+          <quote xml:id="cy8th8-d1e176-Qd1e498">
+            What has been introduced in favor of some ought not to be turned to their hatred
+          </quote>
+          <ref xml:id="cy8th8-d1e176-Rd1e585">l. quod fauore. C. de legibus</ref>
+          and 
+          <ref xml:id="cy8th8-d1e176-Rd1e590">ff. eodem titulo.</ref>
+          <quote xml:id="cy8th8-d1e176-Qd1e505">
+            No reason of law or equity allows that those things which are wholesomely introduced 
+            for the utility of men,
+            <pb ed="#B" n="25-v"/>
+            we by harsher interpretation should bring them forth against their advantage to severity
+          </quote>.
+          These things there.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e517">
+          <pc type="pilcrow">¶</pc> 
+          For argument from the absurd to be avoided,
+          or from the avoidance of absurdity and inconvenience,
+          great scandal and injustice or inhumanity,
+          since it is taken from natural discretion,
+          according to 
+          <ref xml:id="cy8th8-d1e176-Rd1e640">
+            Baldus in Consilium 29 of the 3rd volume in the penultimate column
+          </ref>
+          and in 
+          <ref xml:id="cy8th8-d1e176-Rd1e621">l. pompinius 2nd and 3rd column ff. de negotiis gestis</ref>
+          and in 
+          <ref xml:id="cy8th8-d1e176-Rd1e626">authent de nouo iure in fine C. de episcopis et clericis</ref>,
+          where he says:
+          <quote xml:id="cy8th8-d1e176-Qd1e537">
+            this manner of arguing from avoidance or the consequence of absurdity is very useful
+          </quote>,
+          etc.
+          These things from him.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e540">
+          <pc type="pilcrow">¶</pc> 
+          It would be a great,
+          indeed a maximum absurdity,
+          that the Christian religion would be hateful and horrible to infidels 
+          and would be defamed among them for injustice and iniquity,
+          who are to be invited and drawn to the faith mildly,
+          sweetly,
+          and gently,
+          and also by giving them our things rather than taking away their things from them.
+          But they would withdraw from receiving it as if from an irrational,
+          cruel,
+          inhuman,
+          deceptive dogma or law,
+          contrary to natural reason,
+          and therefore completely iniquitous.
+          That this indeed would redound to ignominious blasphemy of the name of Christ,
+          no one of sound mind will deny.
+          Also a great injury would be committed by despoiling the innocent without fault 
+          and without necessary and legitimate cause of their goods and dignities,
+          which they justly possess by the authority of the law of nations and confirmed by divine law.
+          And then the Roman Pontiff would not proceed as God,
+          who is truth,
+          but whatever would be done to the contrary would be null by law,
+          which anyone sees is a great inconvenience,
+          since it is not fitting that the vicar of Christ,
+          and those things which he once decreed,
+          should be void and unable to subsist by law.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e592">
+          <pc type="pilcrow">¶</pc> 
+          For Baldus says in the book of feuds,
+          de pace constantie § in nomine christi,
+          that for the exercise of this supreme jurisdiction in the pope concerning the state of temporals,
+          the pope ought to proceed as God,
+          who is truth,
+          whence a cause is required.
+          Therefore,
+          the cause not existing,
+          jurisdiction ceases,
+          because when a cause is required as the foundation of jurisdiction,
+          the cause must be present and be true and examined;
+          otherwise the judgment is null by the law itself.
+          And it is the doctrine of Innocent,
+          extra de foro competenti c. cum sit generale and c. 1. de foro competenti libro 6 in the novels,
+          and de rescriptis c. super literis and by Innocent de officio delegati c. cum super abbatia.
+          These things Baldus in form.
+          But this would be most absurd in the most holy vicar of Christ;
+          therefore it must be avoided entirely.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e628">
+          <pc type="pilcrow">¶</pc> 
+          Moreover,
+          another absurdity not to be dissimulated would follow,
+          namely because a cause of most just war would be offered to infidels against us,
+          as against public enemies,
+          and of all evils and calamities which follow from wars,
+          and we would be bound to complete restitution,
+          besides the most grave sins which we would commit.
+        </p>
+
+        <p xml:id="cy8th8-d1e176-d1e641">
+          Therefore,
+          to avoid so many absurdities and inconveniences unjust and contrary to natural reason 
+          and divine law,
+          it must be confessed entirely that the supreme vicar of Christ,
+          in the aforesaid apostolic letters and decree of the aforesaid institution,
+          concession or donation to our Catholic kings,
+          through the same institution or concession,
+          by no means intended to deprive the kings and natural lords of that world of their royal dignities,
+          domains,
+          and jurisdictions,
+          and the other individual inhabitants of the dominion of their things.
+          And concerning this,
+          what has been said suffices.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
