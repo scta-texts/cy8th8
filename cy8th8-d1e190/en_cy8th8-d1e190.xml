@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 10</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 10</title>
+          <date when="2025-11-13">November 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="26-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e190">
+        <head xml:id="cy8th8-d1e190-Hd1e97">Section 10</head>
+
+        <p xml:id="cy8th8-d1e190-d1e99">
+          § 10
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e104">
+          The fifth consideration:
+          Our kings of the Spains are bound by necessity of precept and therefore by necessity of salvation 
+          both as to their first entry or that of their messengers into those Indian parts and world,
+          and as to all other things which would have to be done by them concerning the aforesaid peoples,
+          to order,
+          moderate,
+          and dispose them in such a way that they may conduce or be suitable to the aforesaid end 
+          which God and his vicar intend,
+          namely the preaching of the gospel and the expansion of the faith 
+          and the planting of divine worship and the conversion and salvation of souls.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e132">
+          And consequently they are obligated by natural and divine law to avoid and guard against 
+          all those things which could totally impede the prenoted end or in any way retard it,
+          or make its attainment difficult.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e141">
+          <pc type="pilcrow">¶</pc> 
+          The first part is proven thus:
+          Whoever necessarily has the duty to perfect something which is ordered to another 
+          as a means to an end,
+          is bound first to attend to this,
+          that his work,
+          that is the means,
+          be congruous to the end,
+          just as the smith makes a sword so that it may be suitable for fighting,
+          and the builder so arranges a house that it may be apt for dwelling.
+          But the advent,
+          application,
+          and entry 
+          <pb ed="#B" n="26-v"/>
+          into those parts of our kings or their messengers,
+          and also the regime or government which they are about to establish,
+          and the total office or jurisdiction or power newly conferred on them,
+          are assumed as means conducing and helping toward the attainment of the aforesaid end,
+          as can be gathered from what has been said.
+          Therefore they must be congruous or suitable and patronize the aforesaid end,
+          and thus conduce and help so that the end may be obtained.
+          The consequence is clear,
+          because according to 
+          <ref xml:id="cy8th8-d1e190-Rd1e179">the Philosopher in Physics 2</ref>,
+          of all things to be ordered to the end,
+          the reasons and rules of government and of the order of law must necessarily be taken from the end,
+          just as the reason for the disposition of a saw is taken from the cutting which is its end.
+          And in human laws it is held that an act ordered and determined to some end 
+          ought to attain that end,
+          <ref xml:id="cy8th8-d1e190-Rd1e198">ff. simul herciscus l. si filia</ref>
+          § Item scribit 
+          <ref xml:id="cy8th8-d1e190-Rd1e202">C. ad sclli l. penultima in fine.</ref>
+          Concerning this Baldus,
+          By which causes a feud is lost 
+          <ref xml:id="cy8th8-d1e190-Rd1e210">c. 1. nu. 5.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e204">
+          <pc type="pilcrow">¶</pc> 
+          For then any thing is best disposed when it is suitably ordered and led to its end.
+          Hence everything which is for the sake of an end must be proportioned to the end,
+          so that it may help toward the attainment of the end.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e218">
+          Thus therefore our kings of the Spains will then well and suitably dispose 
+          their advent,
+          application,
+          or entry,
+          or that of their messengers,
+          into and to those parts of the Western and Southern Indies,
+          and also their regime or government,
+          jurisdiction,
+          and the whole royal office,
+          when in exercising all these things they will inviolably preserve to the letter 
+          the order of natural law.
+          For order,
+          which anyone is bound to preserve,
+          is the mode of doing any thing,
+          or according to Baldus in the proem of the Digests at the beginning:
+          <quote xml:id="cy8th8-d1e190-Qd1e238">
+            It is joining principles to means and means to their ends,
+            which being omitted,
+            nothing is done rightly
+          </quote>
+          <ref xml:id="cy8th8-d1e190-Rd1e255">ff. de regulis iuris l. sicut nulla</ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e257">C. de sententiis et interlocutionibus l. probatam</ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e262">de rescriptis c. cum dilecta</ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e264">de restitutione spoliatorum c. pisanis</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e250">
+          <pc type="pilcrow">¶</pc> 
+          But there is a twofold order:
+          one induced by civil or positive law,
+          and its defect does not vitiate the act or process before a prince,
+          because he is not bound by laws since he is above the law,
+          <ref xml:id="cy8th8-d1e190-Rd1e285" target="http://scta.info/resource/azsw2e-d1e204-Dd1e139">
+            l. digna vox C. de legibus
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e287">l. princeps ff. eo c. proposuit de concessione prebende.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e268">
+          <pc type="pilcrow">¶</pc> 
+          But there is another order founded upon natural law,
+          such as that sentence be delivered with the party summoned,
+          and if that order is omitted,
+          the sentence is not valid,
+          as in the Clementine pastoralis 
+          <pb ed="#B" n="27-r"/>
+          de re iudicata,
+          concerning which see 
+          <ref xml:id="cy8th8-d1e190-Rd1e312">Panormitanus in c. in causis de re iudicata</ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e321">Angelus in d. l. princeps</ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e326">all in d. clemen. pastoralis.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e290">
+          <pc type="pilcrow">¶</pc> 
+          When that order is omitted,
+          the faculty of defending himself is given by law to anyone,
+          even against the treasury and the messengers of the prince,
+          without first making faith through letters by which the justice may be made known to all 
+          whose interest it is.
+          To those wishing to seize the goods of others,
+          even those which are borne to the treasury,
+          anyone whose interest it is can resist in fact,
+          and as punishment for not observing the order of law,
+          the loss of the cause is even inflicted on the treasury itself,
+          as in 
+          <ref xml:id="cy8th8-d1e190-Rd1e337" target="http://scta.info/resource/azsw2e-d1e6196-Dd1e150">
+            l. prohibitum
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e339" target="http://scta.info/resource/azsw2e-d1e6196-Dd1e166">
+            l. iustas
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e341">
+            l. defensionis facultas C. de iure fisci lib. 10
+          </ref>.
+          And this deservedly,
+          because nothing inordinate pleases the law,
+          as 
+          <ref xml:id="cy8th8-d1e190-Rd1e363">Baldus notes in c. dilecti El. 3. de appel.</ref>
+          and the thing is assumed by others in 
+          <ref xml:id="cy8th8-d1e190-Rd1e368">c. Romana eo titulo lib. 6</ref>.
+          And for this it is further said that a commission made by the pope against the order of law,
+          among non-subjects or among laymen,
+          or perhaps against laymen in patrimonial matters,
+          is not valid.
+          <ref xml:id="cy8th8-d1e190-Rd1e377">John of Imola notes this in d. cap. clementina pastoralis</ref>.
+          Nor can he remove the judicial order as regards the forum of laymen,
+          <ref xml:id="cy8th8-d1e190-Rd1e384">the gloss notes in clementina dispendiosam de iudiciis</ref>.
+          And an excellent argument that he who enters by a bad order,
+          having omitted something which he ought to have done—
+          for instance,
+          if a consul enters the consulship having omitted the oath,
+          concerning which in 
+          <ref xml:id="cy8th8-d1e190-Rd1e393">
+            c. consules de pace constantie in libro feudarum
+          </ref>
+          —he is to be removed from there and also punished,
+          as in 
+          <ref xml:id="cy8th8-d1e190-Rd1e370">l. 1 § necessario ff. si mulier ventris nomine</ref>
+          and in 
+          <ref xml:id="cy8th8-d1e190-Rd1e402">
+            libro feudarum de milite vasalla qui contumax est c. 1 § si vero
+          </ref>,
+          where it is said that 
+          <quote xml:id="cy8th8-d1e190-Qd1e340">
+            what is done by bad order ought to be reformed
+          </quote>,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e343">
+          <pc type="pilcrow">¶</pc> 
+          But there is an order founded in natural and divine law which must necessarily be observed 
+          in this business,
+          so that our first entry may be pacific and the progress just,
+          as will be clear below.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e354">
+          <pc type="pilcrow">¶</pc> 
+          Therefore,
+          our kings observing the aforesaid order founded upon natural law,
+          to the observance of which they are obligated by precept of divine and natural law,
+          it will necessarily follow that they will be understood to have applied congruous,
+          proportioned,
+          and due means to such an end,
+          and consequently the peoples and nations inhabiting that world will be efficaciously provoked 
+          to hear the promulgation of the gospel and to receive the faith 
+          and to imitate Christian and religious morals,
+          and thus deservedly they will then be said to be suitably led to their end.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e383">
+          <pc type="pilcrow">¶</pc> 
+          The second part of this fifth consideration,
+          which is a consequence of the first,
+          namely that our kings are bound by natural and divine law to avoid all things 
+          which can in any way retard or make difficult the attainment of the aforesaid end,
+          <pb ed="#B" n="27-v"/>
+          is proven.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e406">
+          First,
+          because all that which renders an action inconvenient to the end which God or nature intends 
+          from some work is said to be against natural or divine law.
+          But if in the advent and application or in the first entry of our kings or their messengers 
+          into those Indian regions and world,
+          or in the progress,
+          that is,
+          in the regime or government,
+          or in any other of those things which necessarily must be done by our illustrious kings 
+          concerning those Indian nations,
+          there should happen to be some disorder,
+          injustice,
+          scandal,
+          or some other undue work and not according to reason,
+          or done against the order of law,
+          which is of itself apt to generate in such infidels a sinister or perverse opinion 
+          concerning the faith or Christian religion,
+          and to be a cause that they may be reasonably moved with capital hatred 
+          against the Christian people professing the name of Christ,
+          they would render the actions of our kings,
+          and those things which necessarily must be done by them concerning those peoples,
+          inconvenient to and disproportioned to the end which God intends 
+          and also natural reason dictates,
+          namely the preaching of the gospel and the conversion of those peoples themselves,
+          and also temporal peace and quiet and complete utility,
+          indeed their salvation.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e452">
+          Therefore our kings are bound by natural and divine law to avoid and guard against 
+          all injustice,
+          scandal,
+          disorder,
+          burdens,
+          and all other things which will be of themselves apt to disturb those peoples 
+          and to generate scandal among them,
+          and moreover to think badly concerning faith and Christian religion or also Christian morals,
+          all of which will yield to the offense of the gospel and will without doubt redound 
+          to the ignominy of the name of Christ,
+          and consequently,
+          who,
+          I pray,
+          will ever doubt that it will not only retard or make difficult the attainment of the aforesaid end,
+          but totally impede it?
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e474">
+          The minor is clear of itself.
+          <pc type="pilcrow">¶</pc> 
+          But the major is from 
+          <ref xml:id="cy8th8-d1e190-Rd1e481">
+            Saint Thomas in 4 Sentences distinction 33 question 1 article 1 in the body 
+            and article 3 in the body
+          </ref>,
+          where he says that 
+          <quote xml:id="cy8th8-d1e190-Qd1e469" source="http://scta.info/resource/ta-l4d33q1-d1e369@11-23">
+            that action is said to be against the law of nature which is not suitable to the due end
+          </quote>,
+          <quote xml:id="cy8th8-d1e190-Qd1e475" source="http://scta.info/resource/ta-l4d33q1-d1e174@241-284" type="paraphrase">
+            whether because it is of itself disproportioned to that end,
+            or because it altogether impedes the end or makes difficult or less decent 
+            <pb ed="#B" n="28-r"/>
+            the arrival at the end.
+          </quote>
+          <quote xml:id="cy8th8-d1e190-Qd1e486" source="http://scta.info/resource/ta-l4d33q1-d1e174@295-377">
+            And if the action is inconvenient to the end as entirely prohibiting the principal end,
+            it is directly prohibited by the law of nature by the first precepts of the law of nature,
+            which are in operables as common conceptions are in speculative matters.
+            But if making difficult or less congruous the arrival at the end itself,
+            it is prohibited by the second precepts of the law of nature,
+            which are derived from the first,
+            just as conclusions in speculative matters have faith from self-evident principles.
+            And thus the said action is said to be against the law of nature
+          </quote>.
+          These things Saint Thomas.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e510">
+          <pc type="pilcrow">¶</pc> 
+          The consequence is proven because our kings are bound to observe the first and second,
+          especially negative,
+          precepts of the law of nature and divine law;
+          otherwise they would sin mortally.
+          For they are prohibited by negative precepts (as has been proven) from directly impeding the end 
+          or rendering difficult the attainment of the end which God or nature intends to elicit 
+          from the work of our kings,
+          namely the preaching of the faith in the manner according to which it ought to be done 
+          according to the form established by Christ,
+          the conversion of those living in those lands and seas,
+          and their complete utility,
+          not only spiritual but temporal,
+          since such concession or institution was introduced for their grace,
+          advantage,
+          and favor,
+          as was proven in the third consideration.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e540">
+          Therefore our kings are bound by natural and also divine law to avoid and guard against,
+          both in the application and entry into those lands and in the progress,
+          all disturbance,
+          scandal,
+          injustice,
+          etc.,
+          and everything by which such end can be impeded or retarded or made difficult to obtain,
+          in which things indeed a negative precept is included,
+          no one ought to doubt,
+          namely not to make disturbance,
+          not to give cause for scandal,
+          not to place an offense to the gospel,
+          not to impede the progress of the faith and the conversion of souls,
+          not,
+          finally,
+          to omit applying those things which can prohibit prohibiting things,
+          and many things of this kind which are contained under negative precepts 
+          and are prohibited by their force.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e569">
+          <pc type="pilcrow">¶</pc> 
+          Second,
+          the same second part is proven through the locus from contraries or opposites,
+          because it belongs to the same to pursue one of contraries and to refute or exclude the other,
+          as is clear.
+          For medicine works health;
+          consequently it strives to exclude illness with what force it can.
+          It is of the same reason to be moved upward and downward.
+          And therefore it is said that the matter,
+          power,
+          and discipline of contraries is the same,
+          <pb ed="#B" n="28-v"/>
+          <ref xml:id="cy8th8-d1e190-Rd1e671">2 De coelo et mundo</ref>
+          <ref xml:id="cy8th8-d1e190-Rd1e673">2 Rhetoricorum</ref>
+          <ref xml:id="cy8th8-d1e190-Rd1e676">1 and 6 Topicorum</ref>
+          <ref xml:id="cy8th8-d1e190-Rd1e678">4 and 8 Physicorum</ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e682">11 Metaphysicae</ref>,
+          and by the legists 
+          <ref xml:id="cy8th8-d1e190-Rd1e646">l. et si contra in fine ff. de vulgari et pupillari</ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e689">
+            institut: de his qui sunt sui vel alieni iuris, in principio.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e616">
+          Hence one tending toward any natural end is moved by two things,
+          of which the first is the flight and removal of that which is an impediment to motion 
+          toward the end and makes one deviate from the end.
+          But the other is adhesion and tension of that which is leading to the end,
+          and this according to the two integral parts of justice by which virtues are acquired,
+          namely by declining from evil and doing good.
+          Thus says 
+          <ref xml:id="cy8th8-d1e190-Rd1e610">
+            Henry of Ghent in his Summa of Theology article 24 question 4
+          </ref>.
+          And thus it is clear that avoiding the contrary of that which is intended as end 
+          in mortal matters falls under the precept of natural justice.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e622">
+          <pc type="pilcrow">¶</pc> 
+          Third,
+          the same second part is proven because unless our kings guard against or avoid 
+          the aforesaid contrary,
+          inconvenient,
+          and prohibiting things in their advent and entry,
+          or that of their own,
+          and similarly in the progress,
+          without doubt they would be the privative cause of any good.
+          For anyone is said to be,
+          and is,
+          the privative cause of any good,
+          to whom by special law,
+          as for instance from office or stipend,
+          it falls to obtain something,
+          and yet he omits through negligence or carelessness to remove the impediments 
+          of the thing to be obtained.
+          Just as a sailor is bound by his office not only to lead the ship to port,
+          but truly also to guard against the ship perishing by shipwreck in the shallows while sailing.
+          And soldiers who are hired are obligated not only to defend the city by fighting bravely in conflict,
+          but also to keep watch and to be supremely careful lest it be captured by enemies 
+          through ambushes and secretly.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e681">
+          Thus also our princes of the Spains,
+          who have been hired (so to speak) by the Apostolic See at great stipend,
+          and by special law,
+          that is,
+          from the office incumbent on them,
+          are bound to be supremely careful and to remove,
+          not in any manner but efficaciously,
+          whatever impediments by which the prementioned end can be removed or impeded or even retarded.
+          Otherwise,
+          if through negligence or carelessness they omit these things,
+          they will without doubt be the privative cause of the aforesaid goods,
+          and consequently guilty of all the evils which through such omission and carelessness 
+          <pb ed="#B" n="29-r"/>
+          will follow to the detriment of the faith and Christian religion and divine honor,
+          and to the perdition of souls.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e684">
+          <pc type="pilcrow">¶</pc> 
+          Fourth,
+          both parts are proven at once:
+          Each one is obligated by necessity of salvation to those things which are of his office,
+          to the exercise of which he has obligated himself,
+          and for whose exercise and expenditure he has received payment.
+          But our kings have obligated themselves to exercising those things which pertain 
+          to the office of kings in general,
+          and beyond this by a certain peculiar law,
+          that is,
+          the office of apostles,
+          to having care how,
+          namely,
+          the gospel of Christ may be preached and divine worship amplified 
+          and the name of the redeemer made known to all those Indian peoples in that whole world of the Indies,
+          of the peoples,
+          and their salvation may be procured.
+          And for the expenditure of this exercise they have received great,
+          indeed maximum,
+          payment,
+          although without payment they could have been obligated by the Apostolic See through precept.
+          Therefore they are bound by force of precept and necessity of salvation to the aforesaid two things 
+          contained in this fifth consideration,
+          namely by reason to proportion,
+          moderate,
+          and order their advent and first entry,
+          or that of their own,
+          and also the progress,
+          that is,
+          the regime and all other things which would have to be done by them 
+          concerning those lands and nations inhabiting that world,
+          so that they may conduce or be suitable to the preaching and expansion of the faith 
+          and the conversion of souls;
+          and consequently to guard against all contrary things which can stand in the way of these things,
+          or remove or impede them,
+          or in any way will be able to retard them.
+          For both pertain to the office of the king,
+          as appears from what has been said.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e769">
+          The consequence is clear with the major through 
+          <ref xml:id="cy8th8-d1e190-Rd1e773">
+            Saint Thomas 3rd part question 67 article 8 in the body
+          </ref>,
+          where he says that 
+          <quote xml:id="cy8th8-d1e190-Qd1e748">
+            each one is obligated to execute the office which he receives
+          </quote>.
+          And 
+          <ref xml:id="cy8th8-d1e190-Rd1e858">on the epistle 1 to Timothy in the prologue</ref>,
+          he says that 
+          <quote xml:id="cy8th8-d1e190-Qd1e753">
+            prelates and superiors are bound by precept to those things which are of their proper office
+          </quote>.
+          And this obligation can be seen more clearly through the example of one 
+          who assumes advocating,
+          healing,
+          protecting,
+          and teaching,
+          and thus concerning other ministry,
+          and has received payment for its administration or exercise,
+          as is proven through 
+          <ref xml:id="cy8th8-d1e190-Rd1e833">the law qui mercedem ff. locati</ref>,
+          with those noted there,
+          and what is read and noted in 
+          <ref xml:id="cy8th8-d1e190-Rd1e880">l. dominus in principio</ref>
+          and 
+          <ref xml:id="cy8th8-d1e190-Rd1e838" target="http://scta.info/resource/azsw2e-d1e2231-Dd1e312">
+            C. mandati l.
+            <pb ed="#B" n="29-v"/>
+            in re mandata.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e804">
+          But the minor,
+          namely that our kings are also obligated by a certain peculiar law,
+          etc.,
+          is clear.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e812">
+          First,
+          from their promise which passed into a pact as soon as the pope accepted it through his letters,
+          <ref xml:id="cy8th8-d1e190-Rd1e860" target="http://scta.info/resource/bgy6gt-d1e5103-Dd1e149">
+            l. pactum, ff. de pollicita.
+          </ref>
+          Hence it is said in the aforesaid decree:
+          and moreover we command you by virtue of holy obedience,
+          as you also promise,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e826">
+          Second,
+          because by formal precept the Supreme Pontiff bound them that through suitable ministers 
+          they should wish to induce the inhabitants and dwellers of the aforesaid world 
+          to receive the faith and be imbued with good morals,
+          etc.
+          Hence he added thus:
+          <quote xml:id="cy8th8-d1e190-Qd1e805">
+            as you also promise (and we do not doubt,
+            for your very great devotion and royal magnanimity,
+            that you are going to do it),
+            you ought to send to the aforesaid mainlands and islands good men fearing God,
+            learned,
+            skilled,
+            and experienced,
+            to instruct the aforesaid inhabitants and dwellers in the Catholic faith 
+            and imbue them with good morals,
+            applying all due diligence in the aforesaid
+          </quote>,
+          etc.
+          These things there in form.
+          Where it is clear that our kings are bound by an obligation peculiar beyond that 
+          which is common to all kings to the aforesaid things.
+          And we have disputed more diffusely concerning this in 
+          <ref xml:id="cy8th8-d1e190-Rd1e961">
+            our treatise On the War of Xalisco in the proof of a certain corollary 3 
+            near the beginning of the work
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e190-d1e839">
+          <pc type="pilcrow">¶</pc> 
+          But that our kings are in a certain way hired at a price for the aforesaid care and labor 
+          is clear,
+          because they have been stipended at great stipend,
+          with great gifts and maximum honors and immense dignity by the supreme vicar of Christ 
+          from the treasury of the Church,
+          that is,
+          by ecclesiastical power,
+          for the office,
+          namely,
+          of the apostles,
+          that is,
+          of expanding the faith and converting souls.
+          For our king is a certain apostle of those.
+          Moreover,
+          by temporal principate and antonomastic height,
+          namely a supreme king over many and great kings,
+          and also by incomparable riches of gold,
+          silver,
+          other metals,
+          gems,
+          pearls,
+          emeralds,
+          and of other things of that kind and various species,
+          and finally by innumerable treasures,
+          such as have never been heard of anywhere on earth or among peoples,
+          either in number or value—
+          provided,
+          however,
+          that our Catholic kings fulfill those things which they have promised and pledged.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

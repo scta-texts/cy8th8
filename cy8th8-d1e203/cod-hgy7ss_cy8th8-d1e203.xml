@@ -87,11 +87,11 @@
           <lb ed="#B" n="22"/>quibus recte ac congruenter quilibet actus humanus vestitur 
           <lb ed="#B" n="23"/>ut habeat bonitatem. Que omnia Diuus Paulus comprehen<lb ed="#B" break="no" n="24"/>dit: 
           <quote xml:id="cy8th8-d1e203-Qd1e171" source="http://scta.info/resource/Icor14_40@1-7">communia (inquit) honeste et secundum ordinem fiant 
-          <lb ed="#B" n="25"/>in uobis</quote> <ref xml:id="cy8th8-d1e203-Rd1e176">1. ad Corinthios 14</ref> et <quote xml:id="cy8th8-d1e203-Qd1e178" source="http://scta.info/resource/rom13_1@14-20">que a deo sunt ordinata</quote> ad 
-          <lb ed="#B" n="26"/>Romanos 13 et c. 10 <quote xml:id="cy8th8-d1e203-Qd1e184" source="http://scta.info/resource/Icor10_31">omnia quecunque agitis in verbo vel in opere 
+          <lb ed="#B" n="25"/>in uobis</quote> <ref xml:id="cy8th8-d1e203-Rd1e176">1. ad Corinthios 14</ref> et <quote xml:id="cy8th8-d1e203-Qd1e178" source="http://scta.info/resource/rom13_1@14-20">que a deo sunt ordinata</quote> <ref xml:id="cy8th8-d1e203-Rd1e184">ad 
+          <lb ed="#B" n="26"/>Romanos 13</ref> et <ref xml:id="cy8th8-d1e203-Rd1e189">c. 10</ref> <quote xml:id="cy8th8-d1e203-Qd1e184" source="http://scta.info/resource/Icor10_31">omnia quecunque agitis in verbo vel in opere 
           <lb ed="#B" n="27"/>in gloriam dei facite<!-- source is a little uncertain --> </quote> Et <ref xml:id="cy8th8-d1e203-Rd1e191">ad Colossenses 3</ref> idem dicit et addit <quote xml:id="cy8th8-d1e203-Qd1e193" source="http://scta.info/resource/col3_17@10-13">in 
           <lb ed="#B" n="28"/>nomine domini nostri iesu christi</quote> et de circumstantiis que bonos 
-          <lb ed="#B" n="29"/>reddunt actus humanos <pc type="virgula">/</pc> habetur 29 dist per totum ergo 
+          <lb ed="#B" n="29"/>reddunt actus humanos <pc type="virgula">/</pc> habetur <ref xml:id="cy8th8-d1e203-Rd1e212">29 dist per totum</ref> ergo 
           <pb ed="#B" n="30-v"/>
           <lb ed="#B" n="1"/>intentio summi pontificis fuit quod reges nostri seruarent ordinem 
           <lb ed="#B" n="2"/>iuris et debitas circumstantias etc. per consequens non dedit licen<lb ed="#B" break="no" n="3"/>tiam 
@@ -199,15 +199,15 @@
         </p>
         <p xml:id="cy8th8-d1e203-d1e447">
           <pc type="pilcrow">¶</pc> Per preceptum et formam christi quam predicandi euangelium
-          <lb ed="#B" n="29"/>suum statuit. Matheus 10 et Marcus 6 et lucas 10. <quote xml:id="cy8th8-d1e203-Qd1e454">intrantes autem in
+          <lb ed="#B" n="29"/>suum statuit. <ref xml:id="cy8th8-d1e203-Rd1e465">Matheus 10</ref> et <ref xml:id="cy8th8-d1e203-Rd1e467">Marcus 6</ref> et <ref xml:id="cy8th8-d1e203-Rd1e469">lucas 10.</ref> <quote xml:id="cy8th8-d1e203-Qd1e454">intrantes autem in
           <lb ed="#B" n="30"/>domum (inquit) salutate eam dicentes pax huic domui. Et si 
           <lb ed="#B" n="31"/>quidem fuerit illa digna veniet pax vestra super eam: si autem 
           <lb ed="#B" n="32"/>non fuerit digna pax vestra reuertetur ad vos</quote>. Nam omnis salu<pb ed="#B" n="31-v"/><lb ed="#B" break="no" n="1"/>tatio 
           est bonorum imprecatio. Et tamen in hac salutatione plu<lb ed="#B" break="no" n="2"/>rima 
           bona bona clauduntur. Quia pax est tranquilitas ordinis ut 
           <lb ed="#B" n="3"/><ref xml:id="cy8th8-d1e203-Rd1e470">Augustinus dicit libro 19 <sic>c.</sic> de ciuitate dei</ref> Nullum autem bonum de<lb ed="#B" break="no" n="4"/>est 
-          ubi tranquillitas ordinis <del rend="strikethrough">us</del> manet. Et secundum Isidorum 
-          <lb ed="#B" n="5"/>Ethimologiis <quote xml:id="cy8th8-d1e203-Qd1e482">est tranquillitas et status quietus et multorum inter se 
+          ubi tranquillitas ordinis <del rend="strikethrough">us</del> manet. Et secundum <ref xml:id="cy8th8-d1e203-Rd1e498">Isidorum 
+          <lb ed="#B" n="5"/>Ethimologiis</ref> <quote xml:id="cy8th8-d1e203-Qd1e482">est tranquillitas et status quietus et multorum inter se 
           <lb ed="#B" n="6"/>ipsos amicitia</quote>. Et ideo rex pacificus pia miseratione disposuit 
           <lb ed="#B" n="7"/>sibi subditos fore pudicos pacificos et modestos ut dicitur in prohemio
           <lb ed="#B" n="8"/>decretalium. Unde docuit dominus (secundum remigium) pre<lb ed="#B" break="no" n="9"/>dicatores 
@@ -243,8 +243,8 @@
           <lb ed="#B" n="26"/>minus remediabilia secundum <ref xml:id="cy8th8-d1e203-Rd1e566">Augustinum libra 2o confessio<lb ed="#B" break="no" n="27"/>num</ref>. 
           Omnis namque subita mutatio rerum non sine quodam 
           <pb ed="#B" n="32-r"/>
-          <lb ed="#B" n="1"/>quasi conflictu contingit animorum secundum Boetium libro 2o prosa 
-          <lb ed="#B" n="2"/>1a de consolatione
+          <lb ed="#B" n="1"/>quasi conflictu contingit animorum secundum <ref xml:id="cy8th8-d1e203-Rd1e597">Boetium libro 2o prosa 
+          <lb ed="#B" n="2"/>1a de consolatione</ref>
         </p>
         <p xml:id="cy8th8-d1e203-d1e578">
           <pc type="pilcrow">¶</pc> Hec satis expresse probantur per <ref xml:id="cy8th8-d1e203-Rd1e583">l. obser<lb ed="#B" break="no" n="3"/>uare
