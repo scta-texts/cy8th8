@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 12</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 12</title>
+          <date when="2025-11-13">November 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="32-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e216">
+        <head xml:id="cy8th8-d1e216-Hd1e97">Section 12</head>
+
+        <p xml:id="cy8th8-d1e216-d1e99">
+          <pb ed="#B" n="32-v"/>
+          § 12
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e106">
+          Part 4
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e111">
+          <pc type="pilcrow">¶</pc> 
+          An ordered descent into or harmless entry upon any land,
+          and that it not be done without the license of the inhabitants.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e124">
+          <pc type="pilcrow">¶</pc> 
+          The reason for this is that if without express or tacit license they should strive to enter 
+          or descend,
+          or especially if they were prohibited by the inhabitants by words or signs or deeds 
+          from descending from ships,
+          then indeed the entry would be harmful and injurious.
+          Hence the inhabitants would deservedly be disturbed,
+          and thus the natural order of justice would be violated on the part of the messengers 
+          or legates of our kings,
+          and therefore they would inflict violence on the inhabitants,
+          and by natural law it will be licit for them to run to arms,
+          and not only to impede the descent and entry of those men,
+          but truly also to repel justly,
+          as hostile attacks unjustly made against themselves,
+          and to avenge severely.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e151">
+          <pc type="pilcrow">¶</pc> 
+          For any people,
+          city,
+          municipality,
+          or kingdom recognizing no superior,
+          or the supreme governor of it,
+          through a statute or royal law,
+          if he sees it expedient for peace,
+          for tranquility,
+          for avoiding the corruption of evil morals,
+          for defense,
+          security,
+          and preservation of the state of the kingdom or republic,
+          can prohibit that no person of foreigners or aliens or of any other kingdom 
+          enter the kingdom or province or city of his jurisdiction for any cause,
+          whether of trade or exchange,
+          buying or selling,
+          or for the sake of dwelling there.
+          And he would indeed do this reasonably and prudently,
+          and by the authority of the law of nations and natural law punish those attempting the contrary.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e187">
+          <pc type="pilcrow">¶</pc> 
+          This is proven in many ways by reason,
+          authority,
+          and examples.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e195">
+          <pc type="pilcrow">¶</pc> 
+          The first reason is that he does no injury to anyone by providing within the limits 
+          of his own territory and jurisdiction what he judges to be necessary or even useful 
+          for the peace,
+          quiet,
+          liberty,
+          and security of the state and kingdom or city and people subject to him.
+          And it would be foolish enough for another people or city or king of another nation to complain 
+          <pb ed="#B" n="33-r"/>
+          about such a law or statute,
+          or to demand or wish to be rendered a reason for those things which another republic or city 
+          or free king recognizing no superior orders or commands in his kingdom,
+          as is clear of itself.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e222">
+          <pc type="pilcrow">¶</pc> 
+          Let the second reason be this:
+          it pertains to the office and care of a good and prudent king or of any universal 
+          or supreme moderator of a kingdom or republic recognizing no superior,
+          that through his industry provision be made so that future dangers and inconveniences 
+          which can happen to the whole kingdom and republic may be obviated.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e239">
+          But through the advent and entry of foreigners and aliens into the kingdom or fatherland 
+          committed to his care,
+          for whatever cause they may present,
+          many dangers and inconveniences can happen to the kingdom and king and the whole republic.
+          Therefore a good and prudent king recognizing no superior,
+          if he sees it expedient for peace,
+          for quiet,
+          for avoiding the corruption of evil morals,
+          for defense,
+          security,
+          and preservation of the liberty of the kingdom and his republic,
+          can establish by statute or prohibit by royal law that no one of foreigners and aliens 
+          or of any other kingdom or foreign nation enter the kingdom or fatherland or province or city 
+          of his jurisdiction,
+          whether for the sake of trade,
+          etc.,
+          or for any other cause.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e270">
+          The consequence is clear of itself.
+          The major is proven because it pertains to the prudence and circumspection of any prudent person,
+          especially one who has the care of many,
+          to fear and guard against those things in which the outcome is not determined,
+          if they can be turned to an evil exit.
+          And the reason for this is that not only is what is present attended to,
+          but what can be or can follow,
+          because outcomes are in the consideration of men,
+          as the jurists also teach in 
+          <ref xml:id="cy8th8-d1e216-Rd1e288" target="http://scta.info/resource/bgy6gt-d1e4700-d1e427">
+            l. aut facta § euentus ff. de poenis
+          </ref>.
+          And it is better to occur before the time than to avenge after the exit,
+          <ref xml:id="cy8th8-d1e216-Rd1e295">l. 1 c. quando liceat uni se uindicare</ref>.
+          And it is a matter of being prevented,
+          as is noted in 
+          <ref xml:id="cy8th8-d1e216-Rd1e300">l. 3. § cum igitur ff. de vi. et vi. armata</ref>
+          and in 
+          <ref xml:id="cy8th8-d1e216-Rd1e297">l. vt vim ff. de iustitia et iure.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e297">
+          <pc type="pilcrow">¶</pc> 
+          But the minor is proven,
+          since if it were licit for all foreigners and aliens indifferently to enter for any cause,
+          such as commerce,
+          trade,
+          etc.,
+          the kingdom or fatherland of any other kings or peoples,
+          it could happen that foreigners come with evil mind to an alien kingdom 
+          with fictitious causes shown,
+          namely to explore the weaker parts of the land 
+          <pb ed="#B" n="33-v"/>
+          to betray it into the hands of enemies.
+          For from diverse places mutually considered,
+          or from one powerful kingdom,
+          with the weakness of the land known and considered or heard,
+          very many peoples could be gathered into one,
+          and then great armies assemble against that kingdom,
+          and thus disturb,
+          plunder,
+          seize it,
+          or subject it to their servitude.
+          And without doubt this pertains to anyone,
+          unless he be deprived of mind,
+          especially to a king to whom the care of the whole community is committed,
+          and therefore he ought to be more circumspect than all,
+          to premeditate,
+          suspect,
+          fear,
+          and guard against,
+          since he sees foreign men in his kingdom,
+          unless it is already long known about their intention and end or simplicity.
+          Hence,
+          because the defense of one's own fatherland and the liberty of the same is known to be 
+          by natural law,
+          it is clear that any people or populace,
+          or him who acts in its place as king,
+          can and ought by natural law itself to do,
+          if he sees it expedient,
+          namely to forbid foreigners of a foreign nation,
+          whoever they may be,
+          entry into his own fatherland or kingdom,
+          at least until he knows that no danger to the fatherland threatens from the entry of such persons.
+          Since any free people,
+          city,
+          or community ought reasonably to fear for itself lest others of a foreign nation,
+          stronger than itself,
+          strive to subject it to themselves,
+          whence it would lose its liberty.
+          For it is by the law of nature that any human society (as we have most extensively adduced elsewhere),
+          and consequently all things necessary for the preservation of the said community or society,
+          is by natural law,
+          no one is ignorant.
+          And for this 
+          <ref xml:id="cy8th8-d1e216-Rd1e373">Durandus said in his treatise on laws</ref>
+          that 
+          <quote xml:id="cy8th8-d1e216-Qd1e378">
+            all that can be done by the community itself (supply: or him who acts in its place) 
+            which is for the salvation of the polity and its pacific preservation
+          </quote>.
+          These things from him.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e389">
+          <pc type="pilcrow">¶</pc> 
+          The same is also proven by authorities,
+          and first through 
+          <ref xml:id="cy8th8-d1e216-Rd1e408">l. mercatores C. de comerciis et mercatoribus</ref>,
+          where the law prohibits that those subject to the Roman empire converse for the sake of trade 
+          with peoples,
+          and not without reason,
+          lest the Romans be believed to be explorers of the secrets of an alien kingdom,
+          according to 
+          <ref xml:id="cy8th8-d1e216-Rd1e420">Baldus in the summary of the law</ref>.
+          Hence thus says the text:
+          <quote xml:id="cy8th8-d1e216-Qd1e406">
+            It is not fitting that merchants subject both to our empire and to the king of the Persians 
+            exercise markets beyond those places in which at the time of the treaty it was agreed with us 
+            with the mentioned nation,
+            <pb ed="#B" n="34-r"/>
+            lest they scrutinize the secrets of an alien kingdom (which is not fitting)
+          </quote>.
+          These things there in form.
+          Therefore it is evil or can be and is suspicious to any republic for peoples of a foreign nation 
+          to enter an alien fatherland.
+          Therefore a king or universal governor or the community itself can reasonably and prudently prohibit 
+          entry into it.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e427">
+          <pc type="pilcrow">¶</pc> 
+          Second,
+          it is proven through those things which Bartolus notes in 
+          <ref xml:id="cy8th8-d1e216-Rd1e451">
+            l. relegatorum § inter dicere ff. de interdictis et relegatis
+          </ref>,
+          namely that it can be established that any of the subjects not go to do business outside the territory 
+          or to such a city,
+          through 
+          <ref xml:id="cy8th8-d1e216-Rd1e458">d. l. mercatores.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e441">
+          <pc type="pilcrow">¶</pc> 
+          Third,
+          it is proven through 
+          <name xml:id="cy8th8-d1e216-Nd1e446">Andreas de Isernia</name>,
+          on prohibita feudi alienatione per fredericum near the end,
+          where he says that a king can prohibit entry or passage,
+          as for instance to a multitude and lascivious army,
+          because lascivious,
+          argument 
+          <ref xml:id="cy8th8-d1e216-Rd1e463">ff. locati et conducti near the end</ref>,
+          to have a just cause for prohibiting so that an army not pass through his kingdom,
+          fearing invasion of his lands or other invasions and dangers,
+          through those things which 
+          <ref xml:id="cy8th8-d1e216-Rd1e488">Durandus numbers 20 and 21 chapter</ref>.
+          Likewise that he can prohibit also to one person from a cause,
+          namely so that the secrets of his kingdom not be known,
+          argument 
+          <ref xml:id="cy8th8-d1e216-Rd1e475">C. de comerciis et mercatoribus l. 3</ref>
+          <ref xml:id="cy8th8-d1e216-Rd1e477">6. q. 2. merito</ref>,
+          or from another similar cause having a similar reason.
+          For where there is the same reason,
+          there is the same law,
+          <ref xml:id="cy8th8-d1e216-Rd1e481">ff. de fundi l. 1</ref>,
+          as if he should not wish aliens and foreigners to live or remain in his kingdom,
+          lest they infect the minds of his subjects.
+          And it is a just fear and such a cause is true,
+          because one can also prohibit that someone odious to him not buy his thing,
+          argument 
+          <ref xml:id="cy8th8-d1e216-Rd1e493">C. de iure emphiteutico fi. in principio</ref>
+          <ref xml:id="cy8th8-d1e216-Rd1e5z9">ff. de actionibus emp. l. si sterilis § si tibi</ref>
+          <ref xml:id="cy8th8-d1e216-Rd1e521">de contrahenda emptiane. l. qui fundum.</ref>
+          These things 
+          <name xml:id="cy8th8-d1e216-Nd1e526">Andreas de Isernia</name>
+          in form.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e481">
+          <pc type="pilcrow">¶</pc> 
+          Fourth,
+          it is proven through Baldus,
+          whom many refer to and follow,
+          who on 
+          <ref xml:id="cy8th8-d1e216-Rd1e538">feuds, title de forma fidelitatis § dominus vero</ref>,
+          asks whether lords of lands can expel foreign merchants from their territories without cause,
+          and if they do not depart,
+          take away their goods.
+          He responded that not unless from a cause.
+          But to those coming to an alien fatherland,
+          entry can well be forbidden,
+          argument 
+          <ref xml:id="cy8th8-d1e216-Rd1e519">ff. de usufructu per legatum l. heres</ref>
+          and 
+          <ref xml:id="cy8th8-d1e216-Rd1e524">ff. si seruitus uindicetur l. sicut § Aristo</ref>
+          and 
+          <ref xml:id="cy8th8-d1e216-Rd1e557">Instit. de rerum diuisione § illud in the word apes</ref>
+          and l. quod enim de acquirenda rerum dominia,
+          in which laws it is prohibited to enter into the fields or lands of others 
+          <pb ed="#B" n="34-v"/>
+          or to do anything in them without the license of the lords,
+          and still less against their will.
+          For which the said laws are given by the doctors in argument of this kind,
+          and 
+          <ref xml:id="cy8th8-d1e216-Rd1e576">the gloss in l. quod enim</ref>
+          notes that I can prohibit to such an extent my land and resist with armed hand,
+          as 
+          <ref xml:id="cy8th8-d1e216-Rd1e583">ff. ad l. aquiliam</ref>
+          <ref xml:id="cy8th8-d1e216-Rd1e585">l. quemadmadum near the beginning</ref>,
+          and I can bring an action for injuries,
+          <ref xml:id="cy8th8-d1e216-Rd1e548">ff. de iniuriis l. iniuriarum § si quis me prohibeat</ref>,
+          where it is held that if someone strives to enter an alien land with the lord unwilling,
+          he inflicts disturbing violence,
+          since he does not permit him to use his thing freely,
+          whence he does injury to him.
+          Therefore they do far graver injury who strive to enter an alien kingdom or fatherland 
+          with the king unwilling,
+          to the whole community.
+          The same which Baldus says,
+          James of Saint Gregory says in his treatise on feuds.
+          Also by examples of divine scripture the aforesaid things are strengthened.
+          For 
+          <ref xml:id="cy8th8-d1e216-Rd1e614">Genesis 42</ref>
+          we read that Joseph imposed on his brothers to terrify them,
+          as if they had committed an injurious crime,
+          worthy of death,
+          against the kingdom of the Egyptians:
+          <quote xml:id="cy8th8-d1e216-Qd1e548">
+            You,
+            he says,
+            are spies,
+            to see the weaker parts of the land you have come
+          </quote>.
+          And he adds:
+          <quote xml:id="cy8th8-d1e216-Qd1e555">
+            By the health of Pharaoh you will not go out from here
+          </quote>,
+          etc.
+          And they themselves:
+          <quote xml:id="cy8th8-d1e216-Qd1e559">
+            It is not so,
+            lord,
+            but your servants have come to buy food;
+            we are all sons of one man;
+            we have come peacefully,
+            nor do your servants plot any evil
+          </quote>,
+          etc.
+          These things there.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e567">
+          <pc type="pilcrow">¶</pc> 
+          Behold that evil can reasonably be suspected concerning the advent of foreigners 
+          to an alien fatherland,
+          until certainty and security about them and the cause of their advent is had.
+          For although Joseph was certain that the brothers had not come to plot some evil,
+          nevertheless he did not absurdly or irrationally rebuke them under the title that they were spies,
+          since he wished thus to terrify and afflict them,
+          knowing that any wise person,
+          and especially a provident universal and supreme governor of any kingdom or fatherland,
+          could not absurdly but most deservedly object the same things to them or suspect the same about them.
+          And the Hebrews say that Joseph introduced against his brothers in argument 
+          that with the weakness of the land known,
+          adverse peoples could gather a great army against the kingdom of Egypt.
+          Therefore a provident king and supreme moderator of any kingdom 
+          <pb ed="#B" n="35-r"/>
+          therefore has reason to fear for his kingdom and fatherland from foreigners and strangers,
+          and consequently can and ought deservedly to forbid entry to anyone into his kingdom or fatherland,
+          as often as he sees it expedient for peace,
+          for quiet,
+          for security,
+          for defense,
+          and for preserving liberty.
+        </p>
+
+        <p xml:id="cy8th8-d1e216-d1e617">
+          <pc type="pilcrow">¶</pc> 
+          The same appears from the reason which the princes and counselors of the king of the Ammonites 
+          put forward,
+          1 Chronicles 19,
+          who,
+          fearing lest the messengers of David,
+          whom he had sent to console Ammon over the death of his father,
+          were explorers of the land,
+          said to the king:
+          <quote xml:id="cy8th8-d1e216-Qd1e627">
+            Do you perhaps think that David sent those who might console you for the sake of honor 
+            to your father?
+            And do you not notice that his servants have come to you that they may explore 
+            and investigate and scrutinize your land?
+          </quote>,
+          etc.
+          For although Ammon and his servants or counselors acted inhumanely and sinned gravely 
+          by afflicting the messengers of David with a most grave contumely,
+          in this that they trampled and shaved them,
+          cutting their tunics up to the buttocks,
+          and consequently inflicted great injury on David himself,
+          nevertheless truly they were prudently and reasonably moved to suspect and fear 
+          lest perhaps they were explorers of an alien kingdom.
+          Nor were they bound to believe the pacific and officious words of David's messengers,
+          since they could be doleful and fictitious or deceptive lies.
+          And through this just fear the king Ammon and his men could justly command David's messengers 
+          to go out of his kingdom by a direct way,
+          so that they not enter into any cities lest they see the weaker parts of the land,
+          with whatever threats added.
+          But if they did the contrary,
+          they would not punish them unjustly.
+          Nevertheless King Ammon or his men could not punish by suspicion alone;
+          therefore they did badly and contrary to reason.
+          Hence David justly moved war against them on account of the injury inflicted on him and his own.
+          Therefore any people or city or king who has care of the republic,
+          recognizing no superior,
+          can prohibit by statute or by royal law,
+          if he sees it expedient for peace,
+          for security,
+          etc.,
+          that no one of foreigners enter his own kingdom or fatherland for any cause,
+          etc.,
+          and punish those doing the contrary by the authority 
+          <pb ed="#B" n="35-v"/>
+          of the law of nations and natural law.
+          Therefore the Indian nations can do this well and justly.
+          Therefore the descent or entry of the messengers of our kings into any part of that world 
+          ought to be ordered and thus harmless,
+          and by the voluntary license of the princes and lords or magistrates of the land.
+          If it has been done otherwise,
+          by best law,
+          as against public enemies,
+          they can go out with armed hand,
+          and not only resist and prohibit the approach and entry,
+          but truly also exercise vengeance for the injury and invasion or violation of empire 
+          and the right of another.
+          For among all the peoples of the whole world,
+          that natural defense is permitted,
+          indeed conceded,
+          to all men,
+          by which we repel force and injury inflicted not only on us but also on our fatherland,
+          neighbors,
+          and allies.
+          And also whatever free communities or republics,
+          since they have complete jurisdiction,
+          mere and mixed empire,
+          just as these are,
+          as 
+          <ref xml:id="cy8th8-d1e216-Rd1e736">§ 5 it was seen</ref>,
+          and 
+          <ref xml:id="cy8th8-d1e216-Rd1e741">below it will be seen</ref>,
+          they avenge.
+          We have proven these things most extensively in our book 1 On the Only Way of Calling 
+          All Peoples to the True Religion,
+          in the 4th incidental corollary,
+          and in the treatise On the War of Xalisco.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
