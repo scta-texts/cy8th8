@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 18</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 18</title>
+          <date when="2025-11-14">November 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="49-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e295">
+        <head xml:id="cy8th8-d1e295-Hd1e97">Section 18</head>
+
+        <p xml:id="cy8th8-d1e295-d1e99">
+          § 18
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Fourthly it is proved that without the free consent and approval of those peoples 
+          and their kings themselves,
+          another new king cannot be given to them or established over their natural kings,
+          thus.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e115">
+          <pc type="pilcrow">¶</pc> 
+          We can allege the authorities and examples of sacred scripture for the decision of causes 
+          and determination of doubts,
+          as is the text in 
+          <ref xml:id="cy8th8-d1e295-Rd1e125">c. per venerabilem extra qui fil sint legitimi</ref>:
+          and what is noted there and in 
+          <ref xml:id="cy8th8-d1e295-Rd1e132">c. 2 de prescriptionibus</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e295-Rd1e137">c. cum apostolus de censibus</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e295-Rd1e139">de prebendis c. cum secundum</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e132">
+          This is also proved by two glosses of civil law. 
+          <ref xml:id="cy8th8-d1e295-Rd1e146">
+            One in authent. Ut iudices: sine quoquo suffragio § cogitatio in verbo eloquiorum
+          </ref>. 
+          <ref xml:id="cy8th8-d1e295-Rd1e151">The other in l. illud ff. ad l. aquiliam</ref> 
+          <ref xml:id="cy8th8-d1e295-Rd1e156">Baldus in authent. ad hec 2 columna C. de usuris</ref> 
+          The same 
+          <ref xml:id="cy8th8-d1e295-Rd1e161">Baldus alleges the Apostle in rubrica C. de fide instrumentorum</ref>.
+          And the jurists say this is true unless there were a law contrary to divine authority,
+          because then one would stand by the law.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e149">
+          This is however limited:
+          unless divine authority were speaking concerning things pertaining to the soul,
+          because then it is superior not only to civil law § finali de secundis nuptiis:
+          but also to canon law or to the hearer of canon: 
+          <ref xml:id="cy8th8-d1e295-Rd1e177">25, q. 1. c. sunt quidam</ref> 
+          concerning this see Felinus in 
+          <ref xml:id="cy8th8-d1e295-Rd1e182">c. ex parte el 1o 20 columna de scriptis.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e160">
+          <pc type="pilcrow">¶</pc> 
+          But in sacred scripture it is found ordained:
+          in order that in the giving or establishment of a new and supreme prince from the beginning,
+          even concerning a prince whom God had designated or chosen,
+          there should intervene the free consent and authority and voluntary acceptance of the peoples:
+          without which even divine institution concerning the supreme prince did not obtain effect.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e179">
+          Therefore without the free consent and approval of those peoples and their kings themselves,
+          a new King cannot be given to them or established.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e186">
+          We say notably from the beginning,
+          namely before the kingdom or principate is transferred by succession.
+          Since from the beginning every principate or governance of a people has drawn its origin 
+          from the consent and election of the people 
+          <ref xml:id="cy8th8-d1e295-Rd1e219">l. ex hoc iure ff. de iustitia et iure</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e295-Rd1e221">
+            ff. 
+            <pb ed="#B" n="49-v"/>
+            de origine iuris l. 2 § deinde cum essent
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e295-Rd1e229">§ nouissime</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e295-Rd1e231">ff. de constitutione principum l. 2</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e295-Rd1e236">
+            instit. de iure naturali gentium et ciuili § sed et hoc studiosum
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e295-Rd1e241">
+            authent. de instrumentorum cautela et fide § et quia imperium
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e206">
+          The consequence is evident.
+          The Minor is proved by that passage in 
+          <ref xml:id="cy8th8-d1e295-Rd1e251">Deuteronomy 17</ref> 
+          where it is said thus: 
+          <quote xml:id="cy8th8-d1e295-Qd1e212">
+            When you shall enter the land which the Lord your God will give you 
+            and shall possess it and shall dwell in it,
+            and shall say: I will set a king over me,
+            as all nations have round about,
+            you shall set him whom the Lord your God shall choose from among the number 
+            of your brethren
+          </quote> 
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e227">
+          <pc type="pilcrow">¶</pc> 
+          In which words indeed the Lord decreed that two things ought to concur 
+          for the institution of a king and the exercise of royal power.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e238">
+          One from the part of the one instituting,
+          namely that he should have been elected by divine providence,
+          awaiting in the election the judgment of God.
+          The other from the part of the people:
+          namely that the people should voluntarily receive such a one elected by God as king 
+          and willingly hold it as valid and hand over possession of the kingdom.
+          Which two things the aforesaid words clearly denote,
+          namely "you shall set him whom the Lord your God shall choose" 
+          where a voluntary act,
+          that is the consent and approval of the people,
+          was required.
+          There "you shall set him" that is you will hold as valid or will accept 
+          and will have as king over you him whom God will have indicated to you 
+          as having been chosen:
+          or as having been pleasing to him to be king.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e258">
+          Whence although God could have established a king over the Hebrew people even unwilling:
+          both because he is the Lord of all according to Hebrews,
+          and any man and any people is a servant of God by nature:
+          and more than a servant,
+          namely like inanimate property to its possessor,
+          and thus he could do with his property whatever he wished,
+          and especially because with him are the dominions and rights of the kingdoms of the earth:
+          and he can give them to whom he wills,
+          as appears in Daniel 4: 
+          <quote xml:id="cy8th8-d1e295-Qd1e275">
+            Until you know that the Most High rules in the kingdom of men 
+            and will give it to whom he will
+          </quote> 
+          Especially because that people was governed under the special care of God,
+          as appears in 
+          <ref xml:id="cy8th8-d1e295-Rd1e282">Deuteronomy 7</ref> 
+          <quote xml:id="cy8th8-d1e295-Qd1e284">
+            The Lord your God has chosen you to be his peculiar people
+          </quote> 
+          and 
+          <ref xml:id="cy8th8-d1e295-Rd1e293">Exodus 19</ref>: 
+          <quote xml:id="cy8th8-d1e295-Qd1e295">
+            You shall be to me a peculiar possession from among all peoples
+          </quote>.
+          Nevertheless he did not wish to deprive them of the privilege of natural law 
+          by which it pertains to every man and to every free people 
+          to submit themselves of their own accord to another's governance if they see it useful to them.
+          For God does not destroy or abrogate his work or natural law which from the beginning 
+          he himself so wisely,
+          so ordinately,
+          as if immutably,
+          instituted.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e312">
+          For it does not belong to divine 
+          <pb ed="#B" n="50-r"/>
+          providence to compel or corrupt natures,
+          as the great 
+          <ref xml:id="cy8th8-d1e295-Rd1e362">Dionysius in D 4 de diuinis nominibus</ref> 
+          says:
+          Whence just as by divine ordinance it had the force of a precept 
+          that the people should voluntarily set over themselves as king the one whom the Lord chose,
+          that is they should hold such an election of God as valid and hand over to him 
+          possession of the kingdom:
+          so equally by divine ordinance the consent and ratification of the people 
+          and the handing over of possession of the kingdom were necessarily required 
+          for the exercise of royal power.
+          Which consent of the people and acceptance and handing over of possession of the kingdom,
+          if God did not require:
+          he would certainly have said only: 
+          <quote xml:id="cy8th8-d1e295-Qd1e336">
+            He shall be king over you whom the Lord your God shall choose
+          </quote>.
+          Nor would it be necessary to say 
+          <quote xml:id="cy8th8-d1e295-Qd1e341">you shall set him whom the Lord</quote> 
+          etc.
+          Because however he said 
+          <quote xml:id="cy8th8-d1e295-Qd1e349">you shall set him</quote>:
+          he clearly indicates that by divine ordinance it is also necessarily required 
+          from the part of the people:
+          some act,
+          namely consent and ratification or voluntary acceptance:
+          and also the handing over of possession must truly intervene.
+          For the words of sacred scripture must be weighed since they are full of mysteries:
+          and to think that anything improper,
+          superfluous or diminished can be found in it would be impious.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e365">
+          <pc type="pilcrow">¶</pc> 
+          This is most evident in the establishment of the first two kings,
+          namely Saul and David.
+          For as is found in 
+          <ref xml:id="cy8th8-d1e295-Rd1e422">I Kings c. 10</ref> 
+          although Saul had previously been anointed as King by Samuel at God's command 
+          and through that anointing had acquired the right and title to that kingdom:
+          nevertheless afterward it was necessary that he be instituted and accepted by the people as king 
+          and that possession of the kingdom be handed over to him.
+          Nor did Saul dare to exercise the jurisdiction or authority of royal power,
+          nor could he by full right,
+          until the people should consent to the election made concerning him 
+          and should hand over or grant to him possession of the kingdom.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e390">
+          For thus it is read at the beginning of that tenth chapter:
+          And Samuel took a flask of oil and poured it upon Saul's head and kissed him and said:
+          Behold the Lord has anointed you over his inheritance as prince.
+          Then indeed after some days had passed:
+          Samuel called the people together to the Lord at Mizpah:
+          and made them stand by tribes and families,
+          and lots were cast first to determine the tribe,
+          then the family,
+          down to the men,
+          and the lot came to Saul (when he was brought forth,
+          because he had been hidden),
+          the Lord said.
+          Samuel said to all the people: 
+          <quote xml:id="cy8th8-d1e295-Qd1e408">
+            Surely you see whom the Lord has chosen:
+            for there is none like him among all the people
+          </quote>:
+          and all the people cried out and said: Long live the King etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e414">
+          Behold the consent,
+          ratification or acceptance of the people.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e420">
+          <pc type="pilcrow">¶</pc> 
+          After these things and not before,
+          Saul began 
+          <pb ed="#B" n="50-v"/>
+          to use royal power when having cut an ox in pieces,
+          he sent it into all the territories of Israel by the hand of messengers saying. 
+          <quote xml:id="cy8th8-d1e295-Qd1e431">
+            Whoever shall not come out and follow Saul and Samuel
+          </quote> 
+          etc. 
+          <ref xml:id="cy8th8-d1e295-Rd1e437">cap. 10.</ref> 
+          And because some of the people had not willingly consented to God's election of Saul,
+          although the title to reign had been conferred through anointing 
+          and again he had been voluntarily elected as King by lot and by God's command:
+          but rather many were saying 
+          <quote xml:id="cy8th8-d1e295-Qd1e447">Can this one save us?</quote>
+          Therefore to induce the people to consent Samuel said again to all the people: 
+          <quote xml:id="cy8th8-d1e295-Qd1e454">
+            Come let us go to Gilgal and renew the kingdom there
+          </quote>.
+          And all the people went to Gilgal:
+          and they made Saul king there before the Lord in Gilgal etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e461">
+          Where it appears how much care and solicitude was applied by the will of God 
+          so that the privilege of natural liberty,
+          namely of consenting voluntarily to a prince,
+          should be preserved to the people,
+          nor did he compel or reproach them:
+          but he waited until they should voluntarily give consent to receiving the king 
+          and should hand over possession of the kingdom:
+          although from the beginning he had been divinely chosen and the royal title conferred on him.
+        </p>
+
+        <p xml:id="cy8th8-d1e295-d1e480">
+          Therefore so that the king might have the exercise of royal power in that people 
+          and right in that kingdom:
+          from divine ordinance divine institution concerning the king is not sufficient 
+          without the consent and acceptance of the people.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
