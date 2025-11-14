@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 8</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 8</title>
+          <date when="2025-08-05">August 05, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-08-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="21-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e163">
+        <head xml:id="cy8th8-d1e150-Hd1e97">Section 8</head>
+
+        <p xml:id="cy8th8-d1e163-d1e100">
+          § 8
+        </p>
+        <p xml:id="cy8th8-d1e163-d1e105">
+           
+          From these arises another,
+          and let it be the fourth consideration,
+          namely that the Supreme Pontiff,
+          through the oft-mentioned institution concerning our kings to the superiority of said world,
+          did not intend to deprive the kings or natural lords of the aforesaid world of their domains 
+          and royal dignities and jurisdictions;
+          or to concede anything else to our kings or to give license to do or omit anything 
+          by which the preaching of the faith might be impeded,
+          or the conversion of the aforesaid peoples might be wholly frustrated or even delayed.
+        </p>
+        <p xml:id="cy8th8-d1e163-d1e127">
+           
+          The first is proven in many ways:
+          first because the Roman Pontiff knows better that without a true,
+          examined,
+          and necessary cause he cannot remove those things which are of natural and common law,
+          especially confirmed by divine law of the Old and New Testament,
+          as these are,
+          as appears from what has been said. 
+          But the cause of preaching the faith and the conversion of souls is not a sufficient,
+          truly examined,
+          or necessary cause,
+          since without such deprivation the faith can be preached 
+          and the conversion of souls can be had;
+          rather on the contrary,
+          it is a most effective cause for disturbing the entire world 
+          and stirring up the minds of infidels against us,
+          <pb ed="#B" n="22-r"/>
+          to whom we would give material and just cause for attacking us in war 
+          out of just fear of the loss of their goods,
+          dignities,
+          honors,
+          domains,
+          and jurisdictions;
+          also for blaspheming and hating the doctrine of Christ and the Christian religion,
+          and the bearer of the evangelical law,
+          that is,
+          an immaculate law converting souls (namely) Jesus Christ,
+          as if he were iniquitous and unjust,
+          and his law iniquitous and unjust;
+          and consequently they would withdraw themselves in every way 
+          from receiving that law and religion,
+          or if they were already prostrated and conquered by us through violence 
+          (which would be easy for us,
+          at least as regards the Indian nations),
+          they would show themselves willing to receive the faith or the sacrament of faith,
+          but without doubt they would receive such a thing falsely or derisively,
+          despising it.
+          That these things would necessarily come to pass 
+          if infidels knew that they were to be deprived,
+          by right or in fact,
+          of their goods and dignities and domains,
+          anyone who does not confess this is not prudent but inexperienced.
+          But this would be to frustrate and destroy the aforesaid end which God intends 
+          and which the vicar of God himself testifies he intends in his apostolic letters;
+          and consequently,
+          without a just,
+          examined,
+          and necessary cause,
+          it would be contrary to the natural order which the eternal law forbids to be disturbed;
+          and finally contrary to those things which are of natural and divine law 
+          (which is far removed from the vicar of Christ),
+          since he did not receive power for destruction but for the building up of the Church.
+          <quote xml:id="cy8th8-d1e163-Qd1e212">
+            I will act,
+            says the Apostle,
+            according to the power which the Lord gave us for building up and not for destruction,
+          </quote>
+          <ref xml:id="cy8th8-d1e163-Rd1e217">
+            2 Corinthians 10.
+          </ref>
+          Where Saint Thomas explains: 
+          <quote xml:id="cy8th8-d1e163-Qd1e219">
+            The Lord gave me this special power for converting the gentiles for the building up,
+            namely,
+            of the Church,
+            and not for destruction,
+            as the false ones do,
+            abusing the power given to them for the opposite of that for which it was given.
+          </quote>
+          Thus Saint Thomas.
+          And in the last chapter of the same epistle: 
+          <quote xml:id="cy8th8-d1e163-Qd1e230">
+            We can do nothing against the truth,
+            but for the truth.
+          </quote>
+          Where also Saint Thomas says: 
+          <quote xml:id="cy8th8-d1e163-Qd1e235">
+            But God gave me this power,
+            namely of binding and loosing,
+            for building up,
+            not for destruction,
+            namely that you may be built up and not destroyed.
+          </quote>
+          Thus Saint Thomas.
+          Therefore the Supreme Pontiff,
+          through the oft-mentioned institution concerning our kings,
+          did not intend to deprive the kings and natural lords of that world of the Indies 
+          of their domains,
+          states,
+          royal honors,
+          dignities,
+          or jurisdictions.
+        </p>
+        <p xml:id="cy8th8-d1e163-d1e250">
+           
+          Second,
+          because if he were understood to have deprived those kings of their domains,
+          etc.,
+          through said institution,
+          since no legitimate cause would be present,
+          <pb ed="#B" n="22-v"/>
+          he would truly be abusing the power which he received for building up,
+          to the destruction of the Church,
+          and he would be said to act against the truth,
+          since by this the faith would be defamed and the conversion of infidels would be hindered,
+          which is wicked,
+          as we have already said.
+        </p>
+        <p xml:id="cy8th8-d1e163-d1e274">
+           
+          Third,
+          because the Apostolic See through its laws or constitutions or donations 
+          is not accustomed to remove,
+          without legitimate cause,
+          those things which are of natural or common or divine law;
+          rather it protests that it will preserve them inviolably even unto life and blood,
+          as has been proven.
+        </p>
+        <p xml:id="cy8th8-d1e163-d1e288">
+           
+          Fourth,
+          through those things which all the canonists commonly determine in 
+          <ref xml:id="cy8th8-d1e163-Rd1e298">
+            c. Que in ecclesiarum de constitutionibus
+          </ref>
+          namely that the pope cannot deprive infidels of their domains and jurisdictions,
+          just as he cannot deprive Christians.
+          And particularly 
+          <ref xml:id="cy8th8-d1e163-Rd1e305">
+            Innocent in c. quod super his de uoto
+          </ref>
+          which opinion the theologians more studious of natural law also hold,
+          and we have written most extensively elsewhere.
+        </p>
+        <p xml:id="cy8th8-d1e163-d1e305">
+           
+          Fifth,
+          through what Dominicus de Sancto Geminiano says in consilium 11,
+          namely that whenever the pope concedes some new right,
+          he is not understood to wish to remove the right which a third party had before,
+          because he is always understood to concede without prejudice to another's right,
+          as in 
+          <ref xml:id="cy8th8-d1e163-Rd1e327">
+            c. super eo de officio delegati
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e163-Rd1e329">
+            de rescriptis c. Quamuis
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e163-Rd1e334">
+            c. si propter tua debita, lib. 6.
+          </ref>
+          And what is more,
+          he says,
+          even if he should add words referring to a vice from the past,
+          saying that the preceding vice can be objected to,
+          because through these general words it is not the pope's intention 
+          to take away a right acquired by another in a thing or to a thing,
+          unless he should say this specifically:
+          <ref xml:id="cy8th8-d1e163-Rd1e347">
+            d. c. quamuis
+          </ref>
+          , and 
+          <ref xml:id="cy8th8-d1e163-Rd1e349">
+            de consuetudine, c. cum olim.
+          </ref>
+          Thus Dominicus.
+        </p>
+        <p xml:id="cy8th8-d1e163-d1e335">
+           
+          And therefore the words of the apostolic decree of the aforementioned institution 
+          do not stand in the way,
+          where it is said absolutely thus:
+          <quote xml:id="cy8th8-d1e163-Qd1e342">
+            With all the domains of those islands and mainland,
+            namely,
+            cities,
+            castles,
+            places,
+            and towns and rights and jurisdictions and all pertinences,
+            to you and your heirs and successors,
+            the kings of Castile and Leon,
+            in perpetuity by the tenor of the present documents we give and concede
+          </quote>
+          etc.,
+          from which it seems he deprived the aforesaid kings or lords, 
+          etc. 
+          But it is not true through the above said and to be said.
+          Because the said institution or donation or concession,
+          or however it may be considered or named,
+          if it must be preserved so as not to be unjust,
+          is understood as regards the superiority or supreme and universal dominion 
+          and jurisdiction over that whole world,
+          <pb ed="#B" n="23-r"/>
+          like imperial dignity,
+          just as in antiquity the emperor over many kings;
+          and yet the kings freely enjoyed and possessed their own dignities and domains 
+          and jurisdictions,
+          who had justly acquired them.
+          Otherwise,
+          the emperor indeed had dominion and universal or supreme jurisdiction in the whole empire,
+          and as it were mediate,
+          with some restriction of jurisdiction,
+          as it is to be believed,
+          either obedience or service or tribute as a sign of universal dominion,
+          <ref xml:id="cy8th8-d1e163-Rd1e415">
+            argument in c. tua nobis extra de decimis
+          </ref>
+          But the trace of this appears in the Herodian kings 
+          who in the time of Christ were in Jerusalem subject to the Roman emperor 
+          <ref xml:id="cy8th8-d1e163-Rd1e421">
+            Luke 1 and 3
+          </ref>
+          <ref xml:id="cy8th8-d1e163-Rd1e423">
+            Matthew 2
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e163-Rd1e425">
+            Mark 6
+          </ref>
+          and in other places.
+          Likewise it is clear in secular histories.
+          It is also read in the legend of the ten thousand martyrs 
+          that the emperors Hadrian and Antoninus,
+          having heard that they were Christians,
+          wrote to five kings,
+          namely Sapor,
+          Hadrian,
+          Maximus,
+          Tiberianus,
+          and another Maximus,
+          that they should come to them and consult about what should be done with such men.
+          They indeed,
+          having gathered an army,
+          came to the emperors,
+          etc.
+        </p>
+        <p xml:id="cy8th8-d1e163-d1e418">
+           
+          For these jurisdictions and domains are indeed compatible,
+          supreme or universal,
+          namely,
+          and the immediate ones of inferiors,
+          from the fact that they are of different species or that they differ in species.
+          And thus it is not incompatible that two persons concur simultaneously 
+          and at once in the dominion or jurisdiction of one thing,
+          one indeed in the universality of the whole,
+          the other truly in singular things.
+          The text according to the jurists is in 
+          <ref xml:id="cy8th8-d1e163-Rd1e463">
+            l. 1, § per hanc el. 2o ff. de rei uendi
+          </ref>
+          , where a flock in its universality can be in the direct dominion of someone,
+          and yet the singular heads of that flock are in the direct dominion of another.
+          And through that text Bartolus determines that the emperor was said to be lord of the world 
+          when there were kings subject to him,
+          and thus he understands 
+          <ref xml:id="cy8th8-d1e163-Rd1e477">
+            l. de precatio ff. ad l. hoc Rhot. de iactu
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e163-Rd1e482">
+            l. bene a zenone C. de quadriennii prescriptione
+          </ref>
+          . Nevertheless the domains and jurisdictions of individual kings and other things of individuals
+          remained with their proper lords which they had justly acquired.
+          The same holds 
+          <ref xml:id="cy8th8-d1e163-Rd1e491">
+            Bartolus in extravagan. ad reprimendum
+          </ref>
+          in the word <mentioned>totius orbis</mentioned>:
+          and at the beginning of the feuds,
+          and Angelus and John of Imola,
+          and in 
+          <ref xml:id="cy8th8-d1e163-Rd1e498">
+            l. si heredes seruus ff. de legationibus 1
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e163-Rd1e501">
+            Alexander in l. 1, C. unde legitimi
+          </ref>
+          and thus is limited 
+          <ref xml:id="cy8th8-d1e163-Rd1e503">
+            l. possideri § ex contrario ff. de acquirenda possessione
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e163-Rd1e509">
+            l. si ut certo, § si duobus uehiculum, ff.
+          </ref>
+          <pb ed="#B" n="23-v"/>
+          commodati,
+          which say that two persons cannot be lords of one thing in solidum.
+          Which hold true if both were in the particular simultaneously,
+          or in the universal simultaneously,
+          that is,
+          in one and the same species of dominion.
+          Nevertheless if one is universal lord or in the universal,
+          the other truly particular or in the particular,
+          and thus in diverse species,
+          it is well compatible,
+          just as is clear in 
+          <ref xml:id="cy8th8-d1e163-Rd1e526">
+            l. 1, § per hanc, ff. de rei vend.
+          </ref>
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
+

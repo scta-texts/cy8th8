@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 45</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 45</title>
+          <date when="2025-11-10">November 10, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="131-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e637">
+        <head xml:id="cy8th8-d1e637-Hd1e97">Section 45</head>
+
+        <p xml:id="cy8th8-d1e637-d1e99">
+          § 45
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e108">
+          But the second member of the aforesaid distinction,
+          placed in the preceding §,
+          was whether those who find and take away treasures are Spaniards,
+          and then what should be said?
+          For the decision of this doubt the following conclusion is placed.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e119">
+          Conclusion:
+          The Spaniards are most unworthy to have any temporal good of that world.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e128">
+          The conclusion is proven first because,
+          although by assisting the preachers of the faith and helping them,
+          especially by living as they were bound to live,
+          as true Christians,
+          by whose example those nations would be more easily allured to embracing the faith,
+          they would deservedly have been worthy to become participants in the most wealthy riches 
+          and innumerable other goods with which that world abounds,
+          so that by the will of the natural inhabitants and their lords all goods would be common to them 
+          with these and thus they would become wealthy;
+          nevertheless,
+          because they have abused this privilege so wrongly,
+          so ignominiously,
+          so impiously,
+          so cruelly and inhumanly,
+          they have most deservedly rendered themselves unworthy of such a privilege 
+          and have justly lost it by the very fact.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e173">
+          Therefore the Spaniards are most unworthy to participate in any temporal good of that world.
+          The consequence is clear.
+          The antecedent is proven:
+          <ref xml:id="cy8th8-d1e637-Rd1e177">11, q. 3, c. priuilegium</ref>.
+          Where it is said that one who abuses the power permitted to him altogether deserves to lose 
+          the privilege,
+          <pb ed="#B" n="131-v"/>
+          for it is lost on account of the enormous damage supervening,
+          <ref xml:id="cy8th8-d1e637-Rd1e189" target="http://scta.info/resource/cice-l3t30-Dd1e229">
+            extra de decimis. c. suggestum
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e194" target="http://scta.info/resource/cice-l3t30-Dd1e214">
+            c. dilecti fili
+          </ref>
+          <ref xml:id="cy8th8-d1e637-Rd1e196">
+            de verborum significatione c. Quid per nouale
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e201">
+            de vita et honestate clericorum c. fi.
+          </ref>
+          and there a good 
+          <ref xml:id="cy8th8-d1e637-Rd1e203">
+            gloss and de sententia excommunicationis c. contingit
+          </ref>
+          and de statu monachorum, c. recolentes.
+          But what crimes have they committed?
+          Rather what evil deeds?
+          Rather what unheard-of crimes?
+          And what and how enormous damages have supervened from their detestable works of this kind 
+          to these peoples?
+          Indeed,
+          from the very many things deduced above and shown more clearly than light itself,
+          and also most amply proven,
+          it is easy to see.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e224">
+          <pc type="pilcrow">¶</pc> 
+          Second,
+          the conclusion is proven because those things which ought rather to be turned to their punishment 
+          should not lead to their advantage,
+          as in c. et si necesse de donationibus inter virum et uxorem and 16, q. 1, c. legi 
+          and ff. de negotiis gestis l. siue,
+          and from wickedness no one obtains an action,
+          <ref xml:id="cy8th8-d1e637-Rd1e238" target="http://scta.info/resource/bgy6gt-d1e4246-Dd1e252">
+            ff. de furtis, l. Itaque fullo
+          </ref>.
+          And in the rule:
+          <quote xml:id="cy8th8-d1e637-Qd1e242">
+            From this no one ought to obtain fruit from which he has striven to attack
+          </quote>:
+          <ref xml:id="cy8th8-d1e637-Rd1e247">
+            de regulis iuris lib. 6 with its concordances
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e250">
+          From this conclusion the following corollary follows:
+          And therefore the Spaniards are excluded by natural reason from communication with the inhabitants 
+          in seeking treasures,
+          gold,
+          silver,
+          other metals,
+          or other precious things and other temporal goods,
+          even those which are in no one's goods,
+          throughout that world of the Indies.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e273">
+          <pc type="pilcrow">¶</pc> 
+          The corollary is proven in many ways.
+          First,
+          it is clear through the conclusion,
+          because if on account of their crimes they have rendered themselves unworthy 
+          to participate in any temporal good of that world,
+          therefore in seeking,
+          digging out,
+          or carrying away treasures,
+          gold,
+          silver,
+          and other goods,
+          they are not worthy by natural reason to communicate with the inhabitants.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e296">
+          <pc type="pilcrow">¶</pc> 
+          Second,
+          it is proven through the second and third corollaries 
+          <ref xml:id="cy8th8-d1e637-Rd1e302">above § 31</ref>,
+          situated in which it was proven that all gold,
+          silver,
+          and other precious things,
+          lands,
+          fields,
+          farms,
+          and other goods which the Spaniards have had and now hold have been seized,
+          usurped,
+          and wrongly taken away,
+          and also unjustly possessed,
+          nor can they be saved unless they restore them to their proper lords or their heirs.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e326">
+          <pc type="pilcrow">¶</pc> 
+          Third,
+          the corollary is proven because,
+          since without the license of King Inca or his descendants or other kings and lords of the lands,
+          no one can justly seek,
+          scrutinize,
+          dig,
+          or extract those things,
+          it is manifest that they will never grant this license voluntarily,
+          <pb ed="#B" n="132-r"/>
+          since they know they have a just cause for waging war against the Spaniards as public enemies.
+          Again,
+          they will scarcely cease from tyrannical and continuous oppression,
+          nor do they hold any hope that they will satisfy for the evil damages and injuries received from them,
+          as was proven 
+          <ref xml:id="cy8th8-d1e637-Rd1e357">above § 29 in a certain corollary</ref>.
+          Therefore the Spaniards are excluded from the communication of seeking treasures, etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e366">
+          <pc type="pilcrow">¶</pc> 
+          Fourth,
+          it is proven that,
+          as was openly proven above §§ 31, 32, 34 and 35,
+          it remains that the Spaniards from the first entry by which they entered into those lands and kingdoms 
+          were tyrants in two ways,
+          namely by entry and by actual exercise,
+          that is,
+          first through the invasions which they called <mentioned>conquests</mentioned>,
+          and through servitude,
+          namely the <mentioned>repartimiento</mentioned> or <mentioned>encomienda</mentioned>,
+          by which they condemned all those nations,
+          great and small,
+          in perpetuity.
+          Therefore by natural reason they have deserved ill that any way be opened to them 
+          for communicating the goods of that world,
+          when rather they would deserve to be slaughtered in vain.
+          For there is no society or communication with tyrants,
+          but rather supreme destruction,
+          according to Cicero in the third book On Duties.
+          Nor indeed is it against nature to despoil them if you can,
+          since it is honorable to kill and exterminate this pestiferous and impious kind of men.
+          For just as certain members are amputated if they themselves have begun to lack blood 
+          and spirit as it were,
+          and harm the remaining parts of the body,
+          so this ferocity and beastly savagery in the figure of a man is to be segregated from the common body,
+          as it were from humanity.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e417">
+          It is proper to tyrants to desolate cities,
+          to plunder sacred things,
+          to enervate faith,
+          to destroy religions,
+          and to be more pernicious and impious and unjust (as is said in Ethics 4) 
+          than the unjust,
+          to oppress the people with unjust laws,
+          to burden with illicit collections and tributes,
+          to constitute iniquitous magistrates for fleecing the peoples like some of the plagues of Egypt,
+          not to defend from invading enemies,
+          and to do things similar to these.
+          Hence 
+          <quote xml:id="cy8th8-d1e637-Qd1e446" source="http://scta.info/resource/prov29_3@6-11">
+            in the time when tyrants assume the principate the people will groan
+          </quote>
+          <ref xml:id="cy8th8-d1e637-Rd1e451">Proverbs 29</ref>,
+          and 
+          <quote xml:id="cy8th8-d1e637-Qd1e453" source="http://scta.info/resource/prov28_28@1-10">
+            When the impious have risen up,
+            men will hide themselves;
+            when those have perished,
+            the just will be multiplied
+          </quote>.
+          And therefore under tyrants there is no republic,
+          according to 
+          <ref xml:id="cy8th8-d1e637-Rd1e462">the same Cicero in book 1 On Duties</ref>.
+          Therefore the tyrant is justly killed.
+          Hence 
+          <ref xml:id="cy8th8-d1e637-Rd1e467">
+            <name xml:id="cy8th8-d1e637-Nd1e468">Titus Livy</name>
+            book 8 on the Macedonian war
+          </ref>:
+          <quote xml:id="cy8th8-d1e637-Qd1e471">
+            Against him who cannot endure just and equal law,
+            this unjust force is not unjust
+          </quote>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e477">
+          <pc type="pilcrow">¶</pc> 
+          Therefore after the hostile entry of the Spaniards into that world,
+          <pb ed="#B" n="132-v"/>
+          a most wicked plague,
+          crueler and more devastating than any Egyptian plague,
+          invaded all those miserable nations,
+          at which infinite mortals of both sexes groaned,
+          indeed perished groaning,
+          but innumerable peoples,
+          and the residue hid themselves as if from the face of tigers,
+          lions,
+          and dragons,
+          whom the sword and cruelty of servitude had not seen,
+          and now surely those who can hide themselves,
+          attaining the hiding places of mountains as quickly as possible,
+          so that made companions of wild beasts,
+          they may lead or live their lives in groaning and bitterness.
+          And therefore not undeservedly the Spaniards are excluded by natural reason 
+          from all communication of temporal goods with the natives,
+          seeking treasures or any other temporal good of that world,
+          since they have made themselves unworthy even of the least of such things.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e519">
+          From which also a second corollary follows:
+          <pc type="pilcrow">¶</pc> 
+          The Spaniards who have deserved ill of the Indian nations,
+          both by invasions,
+          that is,
+          <mentioned>conquests</mentioned>,
+          and by general servitude,
+          that is,
+          <mentioned>repartimiento</mentioned> or <mentioned>encomienda</mentioned>,
+          are bound by necessity of salvation,
+          after complete or possible restitution of things wrongly taken away 
+          and satisfaction for damages,
+          to choose perpetual residence in that world and to dwell there perpetually at their own expense,
+          especially in those provinces whose inhabitants they killed or otherwise oppressed and harmed,
+          for the sake of the favor of the faith which they notably impeded and defamed.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e550">
+          <pc type="pilcrow">¶</pc> 
+          The corollary is proven as to this,
+          that they are obligated to restitution.
+          It can be seen through many things treated and elucidated above,
+          especially through those things which were determined in § 42 concerning the obligation 
+          of our kings to restitution.
+          Since if our Catholic kings,
+          against whose royal will and mandates those plunderers shook that world with their tyranny,
+          are obligated to restitution from this alone,
+          that it is imputed to them that they sent such messengers and evil men by carelessness,
+          not by malice,
+          or because after the rumor of evil deeds reached them they did not sharply correct and punish them,
+          or because they did not apply due circumspection and diligence as so grave a matter required,
+          how much more the tyrants themselves,
+          the evildoers,
+          the delinquents,
+          who did so many evils through themselves and unjustly seized so many goods,
+          <pb ed="#B" n="133-r"/>
+          are principally bound to restore and satisfy.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e584">
+          <pc type="pilcrow">¶</pc> 
+          But that they are bound to choose perpetual residence and to remain perpetually there at their own cost,
+          in favor of the faith which they greatly harmed and defamed,
+          is proven.
+          First,
+          because just as they were the cause that Christ and his holy Church lacked so many thousands of men 
+          and nations who,
+          unless they had killed them,
+          taking from them the space of conversion and penance,
+          would have known God,
+          would have praised God and served him,
+          and consequently holy houses or churches would have been constructed in which divine mysteries 
+          would be celebrated,
+          so these (although they were very great sinners) at least satisfy through what is possible to them,
+          in this that they assist other faithful ones and constantly accompany the ministers of divine worship,
+          so that churches may be constructed and those already constructed may not be deserted,
+          lest divine honor be diminished with these Spaniards departing.
+          For it is manifest that although it is impossible for them to repair equally the damages 
+          which they inflicted on the faith and the Church of God,
+          and also on so many peoples killed by them and who are now in hell,
+          as for instance because they died in infidelity,
+          nevertheless they remain obligated to satisfy in the manner possible to them.
+          Thus 
+          <ref xml:id="cy8th8-d1e637-Rd1e628">
+            Saint Thomas teaches 2-2 q. 62, article 2 ad 1
+          </ref>:
+          <quote xml:id="cy8th8-d1e637-Qd1e633" source="http://scta.info/resource/TAca84-d1e1592-d1e491@6-69">
+            In those things in which an equivalent cannot be recompensed,
+            compensation ought to be made in what is possible,
+            as is clear concerning the honors which are due to God and to parents,
+            as 
+            <ref xml:id="cy8th8-d1e637-Rd1e639">the Philosopher says in Ethics 8</ref>.
+            And therefore when that which has been taken away is not restorable through something equal,
+            recompense must be made as is possible.
+            For instance,
+            when someone has taken away a member from someone,
+            he ought to recompense him either in money or in some honor
+          </quote>.
+          These things Saint Thomas.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e653">
+          <pc type="pilcrow">¶</pc> 
+          Second,
+          it is proven because just as through the nefarious and cruel works of the Spaniards 
+          the Catholic faith was made infamous among those nations,
+          and they rendered the name of Christ horrible and blasphemable,
+          and they were an efficacious impediment lest it be spread throughout that whole world 
+          in a brief time,
+          but rather they restricted it under very few limits,
+          on account of which,
+          would that the promulgation of that sentence not be understood concerning them,
+          <ref xml:id="cy8th8-d1e637-Rd1e678">Romans 1</ref>:
+          <quote xml:id="cy8th8-d1e637-Qd1e680" source="http://scta.info/resource/rom1_18@1-18">
+            The wrath of God is revealed from heaven upon all impiety and injustice of men,
+            of those who hold the truth of God in injustice
+          </quote>,
+          so such sinful men are bound by the force of necessary satisfaction to reside perpetually 
+          at their own cost,
+          without this that they receive a single penny from the Indians or from our kings,
+          in the same provinces which they have devastated or in those neighboring or adjoining them,
+          or at least in that world of the Indies,
+          <pb ed="#B" n="133-v"/>
+          and to give their full strength to this work,
+          so that by their good examples,
+          aids,
+          exhortations,
+          labors,
+          and even monies if they abound,
+          the faith of Christ may be received by the inhabitants,
+          as the first and great gift of God,
+          and they may reverence the divine name,
+          and through all those most ample regions the knowledge of the true God 
+          and the Christian religion may be extended and efficaciously spread through the publication 
+          of the gospel.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e730">
+          <pc type="pilcrow">¶</pc> 
+          Third,
+          because on account of the faith long ago made ancient in Spain 
+          and the firmness of faith by which the Spaniards through the grace of God have been made robust in faith,
+          and until Christ be formed in such peoples who are now like new little plants (that is),
+          while they grow together and become strong in the faith itself,
+          there is need for those to be present who firmly hold and defend the faith.
+          Therefore the Spaniards who have burdened those peoples are bound by the force of necessary 
+          and possible satisfaction,
+          beyond the common obligation by which they are Christians,
+          to be present in the aforesaid provinces for the sake of the favor of the faith 
+          which they most enormously harmed,
+          as has been most fully proven.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e762">
+          <pc type="pilcrow">¶</pc> 
+          And we place an end to these things with the doubt premised which was placed at the beginning,
+          to which we have responded according to our small measure as has been premised.
+          All and singular the said determinations of which response we submit to the determination 
+          and correction of the most holy lord our pope and of the most holy Roman Church,
+          along with ourselves.
+          We profess that we hold its faith and obedience unshakably,
+          even unto the shedding of blood if it be necessary.
+          Amen.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
