@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 16</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 16</title>
+          <date when="2025-11-13">November 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="44-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e269">
+        <head xml:id="cy8th8-d1e269-Hd1e97">Section 16</head>
+
+        <p xml:id="cy8th8-d1e269-d1e99">
+          § 16
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e104">
+          Part 11
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e109">
+          <pc type="pilcrow">¶</pc> 
+          After the demonstration concerning the title,
+          that as modestly,
+          as gently,
+          as discreetly and as sweetly as can be done,
+          the peoples and nations and their kings ought to be persuaded,
+          moved and induced by good reasons,
+          sweet and gentle words and pleasing inducements:
+          with the advantages shown which they will obtain daily,
+          to this end that they may voluntarily consent to the aforesaid papal institution 
+          concerning our kings as universal princes and lords of that world etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e135">
+          <pc type="pilcrow">¶</pc> 
+          This part is proved in many ways,
+          but first some things previously set forth must be recalled,
+          <pb ed="#B" n="44-v"/>
+          the first of which is:
+          that among those infidels and similar peoples,
+          dominions and jurisdictions,
+          principalities and royal dignities exist justly and legitimately 
+          by the law of nature and of nations,
+          confirmed by divine law of both testaments.
+          As was proved above § 5 and 6 in the first consideration.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e160">
+          <pc type="pilcrow">¶</pc> 
+          The second thing to be remembered is that such peoples and nations 
+          with their kings and princes are or were free when we found them:
+          recognizing no superior outside themselves,
+          having dominion both pure and mixed,
+          imperium and all manner of jurisdiction and all the rights of a prince 
+          which among us we attribute to the emperor,
+          as was evident where immediately alleged and will be more expressly evident below § 25,
+          conclusion 4.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e179">
+          <pc type="pilcrow">¶</pc> 
+          The third thing is that the Supreme Pontiff by the said institution 
+          or provision concerning our kings:
+          did not intend to deprive the natural Kings and lords of their dominions 
+          or jurisdictions,
+          rights or dignities etc.
+          Because no cause existed for it,
+          as we proved at length in the 4th and 2nd considerations.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e196">
+          <pc type="pilcrow">¶</pc> 
+          These things therefore being recalled,
+          this part is proved first thus.
+          Such a promotion or papal institution concerning our kings as superiors of that world 
+          and over the natural kings of that place:
+          brings great prejudice to their freedom,
+          since they are free,
+          recognizing no superior.
+          Therefore it is necessary that by good reasons they be persuaded,
+          moved,
+          and induced to this end that they may freely consent to the said institution 
+          or promotion and hold it as valid.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e218">
+          <pc type="pilcrow">¶</pc> 
+          The antecedent is evident:
+          because since those peoples and communities,
+          by giving them a new king over their natural kings or lords:
+          would henceforth be burdened with a double burden because they would be forced 
+          to serve two,
+          indeed multiple lords and keep fidelity.
+          Whence they would be led into double and harsher servitude.
+          Similarly their Kings and princes would be made to have a lord over themselves 
+          and to recognize a superior,
+          which is horrible to free kings.
+          It is manifest that such a promotion or papal institution concerning our kings 
+          over that world brings great prejudice to the freedom of both,
+          namely of the subjects and of the natural kings or lords.
+          For it is a certain species of servitude as 
+          <ref xml:id="cy8th8-d1e269-Rd1e243">ff. de usufructu l. si cuius § 1</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e249">l. cum seruum ad fi. C. de seruis fugitivis</ref>.
+          And he who is subject to someone's jurisdiction is called as it were servant of that person.
+          And jurisdiction is equated to dominion according to 
+          <ref xml:id="cy8th8-d1e269-Rd1e266">Baldus in d. l. cum seruum</ref> 
+          and the 
+          <ref xml:id="cy8th8-d1e269-Rd1e269">gloss notes d. l. si cuius</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e269-Rd1e274">c. cum olim el. 2o de priuilegiis</ref> 
+          There 
+          <quote xml:id="cy8th8-d1e269-Qd1e262">the right of profession</quote> 
+          which is contrary to freedom,
+          and in 
+          <ref xml:id="cy8th8-d1e269-Rd1e281">c. ne dei de symonia</ref> 
+          in all of which it is noted that the oath of fidelity or fidelity itself 
+          and subjection itself is a certain servitude.
+          As 
+          <ref xml:id="cy8th8-d1e269-Rd1e286">
+            Baldus notes in l. si aquam. C. de seruitutibus et aqua pluuie
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e270">
+          <pc type="pilcrow">¶</pc> 
+          Moreover servitude is that by which someone is subjected to another's dominion 
+          contrary to nature,
+          as in 
+          <ref xml:id="cy8th8-d1e269-Rd1e297">l. libertas ff. de statu hominum</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e299">institut. de iure personarum § seruitus</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e304">1 distin 6. ius gentium</ref> 
+          For in this a slave differs from a free person:
+          because by servitude that is taken away which otherwise would belong to him,
+          namely to act freely and to be able to dispose of his person 
+          and his property at will.
+          Whence someone does not have free dominion over an act concerning which,
+          when he wishes to exercise it,
+          he is impeded in some way.
+          For every contradiction or prohibition,
+          whether temporary or perpetual,
+          contradicts freedom as in 
+          <ref xml:id="cy8th8-d1e269-Rd1e322">d. l. libertas</ref>.
+          Whence the definition of freedom is the natural faculty (that is) 
+          the possibility of that which it is permitted for each one to do,
+          unless what is prohibited by force or by law.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e301">
+          <pc type="pilcrow">¶</pc> 
+          But when force or necessity is inflicted,
+          any faculty of acting or disposing freely is taken away 
+          and thus freedom is prejudiced and consequently sadness and misery is caused.
+          Thus says the Philosopher in Metaphysics 5,
+          speaking of the violent and necessary,
+          that the violent brings this:
+          that 
+          <quote xml:id="cy8th8-d1e269-Qd1e321">
+            everything violent is sad or lamentable
+          </quote>.
+          Which he proves through the saying of a certain poet saying 
+          <quote xml:id="cy8th8-d1e269-Qd1e325">
+            that every necessary or violent thing is sad or lamentable
+          </quote>.
+          For necessity is a certain violence. 
+          <quote xml:id="cy8th8-d1e269-Qd1e333">
+            Force,
+            says the poet,
+            compelled me to do this,
+            that is necessity
+          </quote> 
+          Where St. Thomas says 
+          <quote xml:id="cy8th8-d1e269-Qd1e337">
+            the violent is what is contrary to the natural inclination of a natural thing
+          </quote>.
+          And it is what impedes the purpose in the prosecution of a voluntary movement 
+          already begun.
+          And it also prohibits it from beginning.
+          Whence when the will is impeded,
+          we are saddened.
+          For sadness is from those things which happen to us against our will.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e350">
+          But everything sad is hateful and horrible because nature always,
+          insofar as it can,
+          flees from the sad:
+          for it seeks the delightful according to 
+          <ref xml:id="cy8th8-d1e269-Rd1e386">the philosopher in Ethics 8</ref> 
+          and such is servitude,
+          which for this reason is called the image of death according to 
+          <ref xml:id="cy8th8-d1e269-Rd1e390">Polycraticus lib. 7. c. 17.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e396">ff. de regulis iuris l. quot attinet.</ref> 
+          and it is the extreme of all evils,
+          to be repelled not only by war but by death according to 
+          <pb ed="#B" n="45-v"/>
+          <ref xml:id="cy8th8-d1e269-Rd1e403">Cicero in Philippics c. 2</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e405">Sallust in Catiline</ref>: 
+          <quote xml:id="cy8th8-d1e269-Qd1e367">
+            no good man loses freedom except along with his life
+          </quote>
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e370">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore by instituting over those nations and their kings another king or lord,
+          they are led into servitude by which it is taken away from them to act freely 
+          and they cannot dispose of their own persons and estates and those belonging to them at will:
+          whence they do not have free dominion over the acts concerning which,
+          when they will wish to exercise them,
+          either publicly,
+          that is for the common good of their republics,
+          as regards kings and lords:
+          or privately (that is) each private person for the private good,
+          they are impeded:
+          and consequently all these things are contrary to their will,
+          as being against natural inclination.
+          Therefore the aforesaid papal institution concerning our kings brings great 
+          and enormous prejudice to their freedom,
+          and therefore rightly these things will be lamentable to them 
+          and very saddening.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e402">
+          <pc type="pilcrow">¶</pc> 
+          The consequence is truly proved because free persons or free communities 
+          or free peoples can of their own accord subject themselves to the judgment 
+          or governance of others,
+          although they are not superiors.
+          Whence through pacts which intervene between men,
+          someone can obligate his person and make his condition worse. 
+          <ref xml:id="cy8th8-d1e269-Rd1e461">l. cum scimus C. de agricolis et censitis lib. 11o</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e466">l. 1 § 1.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e468">l. iuris gentium et pretorum ff. de pactis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e473">c. 1 et 2, extra de pactis</ref>.
+          The same is true in kingdoms and in any free communities as in 
+          <ref xml:id="cy8th8-d1e269-Rd1e481">l. vt preiudicium</ref> 
+          that they may wish to bear that patiently,
+          they are to be moved,
+          persuaded and induced by good reasons and pleasing inducements,
+          and certainly requested.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e433">
+          <pc type="pilcrow">¶</pc> 
+          Secondly the same is proved thus:
+          Those kingdoms and peoples of that entire world are or were free 
+          by the law of nature and of nations at the time when we found them,
+          having kings or princes,
+          not recognizing any superior outside themselves either by right or in fact,
+          as has often been repeated.
+          Therefore without their free consent and approval another new king cannot be given to them.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e451">
+          Therefore so that they may freely give such consent,
+          it is necessary that they be moved,
+          induced and persuaded by the sweetest,
+          gentlest,
+          indeed simple words,
+          pleasing inducements and good reasons.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e460">
+          <pc type="pilcrow">¶</pc> 
+          The second consequence is evident.
+          The first is proved,
+          first because a most grave injury and most enormous damage 
+          would be done to them by violence,
+          <pb ed="#B" n="46-r"/>
+          namely we would subject kings and subjects,
+          lords and subordinates to servitude contrary to natural law and reason.
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e479">
+          <pc type="pilcrow">¶</pc> 
+          Second because such a principate would be violent,
+          usurped and tyrannical.
+          As proved 
+          <ref xml:id="cy8th8-d1e269-Rd1e541">1. q. 1. c. principatus</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e269-Rd1e543">C. de sacrosantis ecclesiis l. decernimus</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e269-d1e489">
+          Where Baldus says that provinces which have been accustomed to be ruled by Kings 
+          through their Kings and princes are said to be under their natural dominion 
+          (that is) by the law of nations as 
+          <ref xml:id="cy8th8-d1e269-Rd1e561">l. ex hoc iure ff. de iustitia et iure</ref> 
+          and if another takes dominion there against the will of the king 
+          (add: and of the people according to what is to be said 
+          <ref xml:id="cy8th8-d1e269-Rd1e568">below § 28</ref>) 
+          <quote xml:id="cy8th8-d1e269-Qd1e506">
+            that one is a tyrant because,
+            says Baldus,
+            usurped dominions are called tyrannies
+          </quote>.
+          These his words in form.
+          Where he also adds that 
+          <quote xml:id="cy8th8-d1e269-Qd1e512">
+            to those invading camps pertaining to just lords,
+            those camps cannot be conceded by a prince,
+            whether the invaders are private or singular persons:
+            or whether they are communities as in 
+            <ref xml:id="cy8th8-d1e269-Rd1e582">l. 2. C. de fundis et saltibus lib. 11o</ref> 
+            where this is noted
+          </quote> 
+          these words of Baldus.
+          The same opinion holds in formal words 
+          <ref xml:id="cy8th8-d1e269-Rd1e588">
+            Angelus de Perusio in repetitione l. ciuitas ff. de rebus creditis
+          </ref>.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

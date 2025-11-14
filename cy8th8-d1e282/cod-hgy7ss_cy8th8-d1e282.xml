@@ -120,9 +120,9 @@
           <lb ed="#B" n="29"/>primorum.
         </p>
         <p xml:id="cy8th8-d1e282-d1e274">
-          De his <del rend="strikethrough">Dignus</del> Dynus in d. regula; <quote xml:id="cy8th8-d1e282-Qd1e279">Quod omnes tangit</quote> 
-          <lb ed="#B" n="30"/>et glossa ibi et <name xml:id="cy8th8-d1e282-Nd1e283">innocentius</name> in d. c. cum omnes de constitutionibus Panormitanus et felinus
-          <lb ed="#B" n="31"/>ibidem
+          De his <del rend="strikethrough">Dignus</del> <ref xml:id="cy8th8-d1e282-Rd1e286">Dynus in d. regula</ref>; <quote xml:id="cy8th8-d1e282-Qd1e279">Quod omnes tangit</quote> 
+          <lb ed="#B" n="30"/>et <ref xml:id="cy8th8-d1e282-Rd1e293">glossa ibi</ref> et <ref xml:id="cy8th8-d1e282-Rd1e296"><name xml:id="cy8th8-d1e282-Nd1e283">innocentius</name> in d. c. cum omnes</ref> de constitutionibus <ref xml:id="cy8th8-d1e282-Rd1e301">Panormitanus et felinus
+          <lb ed="#B" n="31"/>ibidem</ref>
         </p>
         <p xml:id="cy8th8-d1e282-d1e288">
           <pc type="pilcrow">¶</pc> Et maxime requiritur vocatio vel citatio et consensus om<lb ed="#B" break="no" n="32"/>nium
@@ -167,8 +167,8 @@
           <lb ed="#B" n="22"/>C. 2</ref>, et <ref xml:id="cy8th8-d1e282-Rd1e368" target="http://scta.info/resource/cice-l2t13-Dd1e108">de restitutione spoliatorum c. 1</ref> et <ref xml:id="cy8th8-d1e282-Rd1e371" target="http://scta.info/resource/cice-l2t28-Dd1e927">de appellationibus, c. dilectis</ref> in tantum quod ipse do<lb ed="#B" break="no" n="23"/>minus 
           bellum mouere potest contra dominum temporalem oppri<lb ed="#B" break="no" n="24"/>mentem 
           iura subditi sui si requisitus iustitiam de illo facere negligat 
-          <lb ed="#B" n="25"/>vel recusat per capitulum dominus noster 23, q. 2 sic notant Innocentius et hostiensis 
-          <lb ed="#B" n="26"/>in d. c. dilectis et <ref xml:id="cy8th8-d1e282-Rd1e383">hostiensis de treuga et pace c. 1</ref>. et hoc quia interest 
+          <lb ed="#B" n="25"/>vel recusat per <ref xml:id="cy8th8-d1e282-Rd1e400">capitulum dominus noster 23, q. 2</ref> sic notant <ref xml:id="cy8th8-d1e282-Rd1e402">Innocentius et hostiensis 
+          <lb ed="#B" n="26"/>in d. c. dilectis</ref> et <ref xml:id="cy8th8-d1e282-Rd1e383">hostiensis de treuga et pace c. 1</ref>. et hoc quia interest 
           <lb ed="#B" n="27"/>sua ut subditi non vexentur sui et ne sua iurisdictio violetur nec 
           <lb ed="#B" n="28"/>commodum suum minuatur. Sic summus pontifex in extravaganti 
           <lb ed="#B" n="29"/>Ioannis primi asserit se ecclesie romane suorumque fidelium dispendia 
@@ -177,11 +177,11 @@
         </p>
         <p xml:id="cy8th8-d1e282-d1e400">
           Unde dominus potest repetere sub<lb ed="#B" break="no" n="32"/>ditum 
-          suum ab alio detentum ut possit munera personalia subire l. 
-          <lb ed="#B" n="33"/>de iure ff. ad municipia de quo glossa in l. 1 § per hanc ff. de rei uendicatione
+          suum ab alio detentum ut possit munera personalia subire <ref xml:id="cy8th8-d1e282-Rd1e429">l. 
+          <lb ed="#B" n="33"/>de iure ff. ad municipia</ref> de quo <ref xml:id="cy8th8-d1e282-Rd1e434">glossa in l. 1 § per hanc ff. de rei uendicatione</ref>
           <pb ed="#B" n="47-v"/>
-          <lb ed="#B" n="1"/>et dominus repetet <unclear>ascriptitirum</unclear> suum c. 2 de iudiciis et glossa 
-          <lb ed="#B" n="2"/>in cap. autoritate de priuilegiis lib. 6 et <ref xml:id="cy8th8-d1e282-Rd1e415"><name xml:id="cy8th8-d1e282-Nd1e416">Panormitanus</name> in c. dilecti de appe<lb ed="#B" break="no" n="3"/>llationibus 
+          <lb ed="#B" n="1"/>et dominus repetet <unclear>ascriptitirum</unclear> suum <ref xml:id="cy8th8-d1e282-Rd1e443">c. 2 de iudiciis</ref> et <ref xml:id="cy8th8-d1e282-Rd1e445">glossa 
+          <lb ed="#B" n="2"/>in cap. autoritate de priuilegiis lib. 6</ref> et <ref xml:id="cy8th8-d1e282-Rd1e415"><name xml:id="cy8th8-d1e282-Nd1e416">Panormitanus</name> in c. dilecti de appe<lb ed="#B" break="no" n="3"/>llationibus 
           circa prin.</ref>. Item quilibet potest agere pro diminutione sui pa<lb ed="#B" break="no" n="4"/>trimonii. 
           Et facilius quis iura sua percipit in re libera et vacan<lb ed="#B" break="no" n="5"/>te 
           quam ab alio possessa. ut in <ref xml:id="cy8th8-d1e282-Rd1e425" target="http://scta.info/resource/cice-l2t13-d1e392">c. fine de restitutione spoliatorum</ref>. faciunt notata 
@@ -198,8 +198,8 @@
           <lb ed="#B" n="13"/>multum de eis curare. Vt infra patebit. 
         </p>
         <p xml:id="cy8th8-d1e282-d1e462">
-          De his <name xml:id="cy8th8-d1e282-Nd1e464">Hostiensis</name> in c. di<lb ed="#B" break="no" n="14"/>lecti 
-          de maioritate et obedientia et ibi <name xml:id="cy8th8-d1e282-Nd1e468">panormitanus</name> et <name xml:id="cy8th8-d1e282-Nd1e470">felinus</name> et omnes et in c. fine eo ti<lb ed="#B" break="no" n="15"/>tulo 
+          De his <ref xml:id="cy8th8-d1e282-Rd1e501"><name xml:id="cy8th8-d1e282-Nd1e464">Hostiensis</name> in c. di<lb ed="#B" break="no" n="14"/>lecti 
+          de maioritate et obedientia</ref> et <ref xml:id="cy8th8-d1e282-Rd1e508">ibi <name xml:id="cy8th8-d1e282-Nd1e468">panormitanus</name></ref> et <ref xml:id="cy8th8-d1e282-Rd1e513"><name xml:id="cy8th8-d1e282-Nd1e470">felinus</name></ref> et omnes et in <ref xml:id="cy8th8-d1e282-Rd1e517">c. fine eo ti<lb ed="#B" break="no" n="15"/>tulo</ref> 
           et <ref xml:id="cy8th8-d1e282-Rd1e475">Innocentius in c. auditis de prescriptionibus</ref> Videtur si dominus ali<lb ed="#B" break="no" n="16"/>cuius 
           loci vult subiicere illum locum alieno domino: possunt homines
           <lb ed="#B" n="17"/>loci illius contradicere secundum omnes in <ref xml:id="cy8th8-d1e282-Rd1e481" target="http://scta.info/resource/cice-l1t33-d1e362">D. c. fine de maioritate et obedentia</ref> 
@@ -214,11 +214,11 @@
           sibi subiectam alicui inferiori subiicere. Et <ref xml:id="cy8th8-d1e282-Rd1e511">Innocentius in d. cap.
           auditis</ref>, ait quod <quote xml:id="cy8th8-d1e282-Qd1e513">sicut interest domini non perdere vasallum: ita eque
           <lb ed="#B" n="27"/>interest subditorum non perdere dominum</quote> <quote xml:id="cy8th8-d1e282-Qd1e518">Quod bene notabis</quote>
-          inquit <name xml:id="cy8th8-d1e282-Nd1e521">Panormitanus</name> et super glossa iuncto textu in d. c. fine quod <quote xml:id="cy8th8-d1e282-Qd1e523">dominus<!-- correction here --> non 
+          inquit <ref xml:id="cy8th8-d1e282-Rd1e573"><name xml:id="cy8th8-d1e282-Nd1e521">Panormitanus</name></ref> et <ref xml:id="cy8th8-d1e282-Rd1e578">super glossa iuncto textu in d. c. fine</ref> quod <quote xml:id="cy8th8-d1e282-Qd1e523">dominus<!-- correction here --> non 
           <lb ed="#B" n="28"/>potest componere super iure superioritatis in per iudicium sub<lb ed="#B" break="no" n="29"/>ditorum: 
           nisi subditi consentiant ea ratione quia scilicet subdi<lb ed="#B" break="no" n="30"/>torum 
           interest non habere plures dominos vel non mutare
-          <lb ed="#B" n="31"/>dominum ut d. l. imperialem</quote>. Et ratione glosse secundum eum 
+          <lb ed="#B" n="31"/>dominum ut <ref xml:id="cy8th8-d1e282-Rd1e593">d. l. imperialem</ref></quote>. Et ratione glosse secundum eum 
           <pb ed="#B" n="48-r"/>
           <lb ed="#B" n="1"/>potest generaliter colligi quod ubicunque subditi possunt pretendere aliquod 
           <lb ed="#B" n="2"/>interesse non vallet compositio facta per solum dominum ipsis subditis 
@@ -259,9 +259,9 @@
           <lb ed="#B" n="24"/>subditi subtrahendo obedientiam possessori peccant nisi prius ab eius obedientia 
           <lb ed="#B" n="25"/>absoluantur. quod non potest fieri si presens non est ille cui modo obediunt: 
           <lb ed="#B" n="26"/>et quia non est contra eum in iusto iudicio actum secundum Innocentium 
-          <lb ed="#B" n="27"/>et Baldum in d. c. inter quatuor argumentum 8 q. ultima c. nonne et notatur 
-          <lb ed="#B" n="28"/>per eundem innocentium et alios in d. c. auditis Allegat Baldus ad pre<lb ed="#B" break="no" n="29"/>dicta
-          ff. de adquirenda hereditate l. Iuste
+          <lb ed="#B" n="27"/>et <ref xml:id="cy8th8-d1e282-Rd1e696">Baldum in d. c. inter quatuor argumentum 8 q. ultima c. nonne</ref> et notatur 
+          <lb ed="#B" n="28"/>per <ref xml:id="cy8th8-d1e282-Rd1e700">eundem innocentium et alios in d. c. auditis</ref> Allegat <ref xml:id="cy8th8-d1e282-Rd1e702">Baldus ad pre<lb ed="#B" break="no" n="29"/>dicta
+          ff. de adquirenda hereditate l. Iuste</ref>
         </p>
         <p xml:id="cy8th8-d1e282-d1e643">
           <pc type="pilcrow">¶</pc> Cum igitur hoc quod est suscipere 
@@ -296,8 +296,8 @@
         <p xml:id="cy8th8-d1e282-d1e714">
           <pc type="pilcrow">¶</pc> Quod autem libertas 
           <lb ed="#B" n="17"/>in consensu prestando necessario tanquam necessaria qualitas requira<lb ed="#B" break="no" n="18"/>tur 
-          probatur per textum valde notabilem in c. ubi periculum § 
-          <lb ed="#B" n="19"/>coeterum de electione lib. 6 ubi dicitur quod cessat electio ubi admittitur li<lb ed="#B" break="no" n="20"/>bertas 
+          probatur per textum valde notabilem in <ref xml:id="cy8th8-d1e282-Rd1e789">c. ubi periculum § 
+          <lb ed="#B" n="19"/>coeterum de electione lib. 6</ref> ubi dicitur quod cessat electio ubi admittitur li<lb ed="#B" break="no" n="20"/>bertas 
           eligendi. ubi ponderandum est uerbum libertas requiritur 
           <lb ed="#B" n="21"/>ergo in electione vel acceptatione cuiuscunque futuri superioris 
           <lb ed="#B" n="22"/>vel rectoris a personis liberis eligendi vel acceptandi consensus 
@@ -305,12 +305,12 @@
         </p>
         <p xml:id="cy8th8-d1e282-d1e735">
           Si ergo adest consensus sine qualitate libertatis non est illa 
-          <lb ed="#B" n="24"/>electio instar matrimonii carnalis ut in c. cum locum et 
-          <lb ed="#B" n="25"/>quod ibi notatur de sponsalibus et glossa in c. quisquis. de electionibus
+          <lb ed="#B" n="24"/>electio instar matrimonii carnalis ut in <ref xml:id="cy8th8-d1e282-Rd1e808">c. cum locum</ref> et 
+          <lb ed="#B" n="25"/>quod ibi notatur de sponsalibus et <ref xml:id="cy8th8-d1e282-Rd1e812">glossa in c. quisquis. de electionibus</ref>
         </p>
         <p xml:id="cy8th8-d1e282-d1e742">
           <pc type="pilcrow">¶</pc> Con<lb ed="#B" break="no" n="26"/>cordat 
-          Bartholus in tractatu de tyrano: ubi ait quod si ciuitas habens 
+          <ref xml:id="cy8th8-d1e282-Rd1e822">Bartholus in tractatu de tyrano</ref>: ubi ait quod si ciuitas habens 
           <lb ed="#B" n="27"/>electionem rectoris et per tyranum compulsa eligeret
           <lb ed="#B" n="28"/>Rectorem: non ualeret electio. Unde sententie late ab illo 
           <lb ed="#B" n="29"/>rectore essent nulle. Pro quo bene facit <ref xml:id="cy8th8-d1e282-Rd1e756" target="http://scta.info/resource/bgy6gt-d1e662-Dd1e114">l. 2 ff. de iudiciis</ref> Ubi 
@@ -323,10 +323,10 @@
           transferendo millium omnem iurisdictionem: non ualet 
           <pb ed="#B" n="49-r"/>
           <lb ed="#B" n="1"/>quod tali timore agitur. et per consequens non valebunt gesta 
-          <lb ed="#B" n="2"/>a tali tyrano quod firmat Bartholus in d. tractatu de tyrano. 
-          <lb ed="#B" n="3"/>adde hic que notantur ab omnibus in l. decernimus C. de 
-          <lb ed="#B" n="4"/>sacrosanctis ecclesiis et calderi consilio primo et Ancharano in consilio 
-          <lb ed="#B" n="5"/>300 et Panormitano in c. licet de euitanda 10 columna de electione
+          <lb ed="#B" n="2"/>a tali tyrano quod firmat <ref xml:id="cy8th8-d1e282-Rd1e853">Bartholus in d. tractatu de tyrano</ref>. 
+          <lb ed="#B" n="3"/>adde hic que notantur ab omnibus in <ref xml:id="cy8th8-d1e282-Rd1e857">l. decernimus C. de 
+          <lb ed="#B" n="4"/>sacrosanctis ecclesiis</ref> et <ref xml:id="cy8th8-d1e282-Rd1e862">calderi consilio primo</ref> et <ref xml:id="cy8th8-d1e282-Rd1e864">Ancharano in consilio 
+          <lb ed="#B" n="5"/>300</ref> et <ref xml:id="cy8th8-d1e282-Rd1e869">Panormitano in c. licet de euitanda 10 columna de electione</ref>
         </p>
       </div>
     </body>
