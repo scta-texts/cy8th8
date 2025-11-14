@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 17</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 17</title>
+          <date when="2025-11-14">November 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="46-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e282">
+        <head xml:id="cy8th8-d1e282-Hd1e97">Section 17</head>
+
+        <p xml:id="cy8th8-d1e282-d1e99">
+          § 17
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e104">
+          Thirdly the same first consequence is proved:
+          whenever a free man and more forcefully a free people or community must be obligated 
+          to undertake some burden or to pay some debt,
+          and generally when there is a question of prejudice especially of many:
+          it is necessary that all whom the matter touches be summoned 
+          and free consent be obtained from them,
+          otherwise nothing that is done will be valid.
+          As will be evident below.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e117">
+          But if our King of Spain were imposed upon those nations and their princes as king 
+          and universal lord either by right or in fact:
+          they would be obligated,
+          at least civilly as regards the judicial forum or human judgment,
+          to a most grave burden and to paying an intolerable debt:
+          namely to recognize as king and lord:
+          a man indeed unknown to them,
+          a king of another foreign nation and therefore very much suspect,
+          to render subjection,
+          obedience,
+          reverence,
+          tributes,
+          services,
+          new taxes and other royal rights which would that they did not grow day by day,
+          like sea foam,
+          indeed not like a flame rising from earth to heaven burning 
+          and devouring all things.
+          Whence it is a question of incomparable and perhaps irreparable damage.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e152">
+          Therefore it is necessary that all kings and all peoples of those nations be summoned 
+          and their free consent be awaited and obtained from them.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e160">
+          But they will never give this consent,
+          at least not freely (which quality is necessarily required).
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e167">
+          Therefore so that it may be obtained from them,
+          it is necessary that they be persuaded and induced by good reasons:
+          and by pleasing,
+          sweet and honeyed inducements.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e174">
+          <pc type="pilcrow">¶</pc> 
+          The Minor is plain.
+          The consequence with the Major is proved:
+          first because it is known in law that those who are to be summoned or called are all 
+          whom the business 
+          <quote xml:id="cy8th8-d1e282-Qd1e183" source="http://scta.info/resource/wef6td-d1e1612-d1e309@3-7">
+            touches,
+            it must be approved by all
+          </quote>.
+          <ref xml:id="cy8th8-d1e282-Rd1e187">De regulis iuris libro 6.</ref> 
+          Namely all those who are harmed or whose right is diminished:
+          or to whom prejudice is done. 
+          <quote xml:id="cy8th8-d1e282-Qd1e192">
+            To whom power has been given by natural and divine and human law 
+            of consenting or contradicting
+          </quote> 
+          as 
+          <ref xml:id="cy8th8-d1e282-Rd1e199">Baldus says in l. nam ita divus, ff. de adoptione</ref>.
+          Which is understood according to 
+          <ref xml:id="cy8th8-d1e282-Rd1e203">Innocent and all in c. cum omnes de constitutionibus</ref> 
+          when something is common to many as to members of a college or as to one body.
+          But as to individuals or concerning a singular right.
+          For then it is necessary that individuals know and consent,
+          otherwise what is done by many is not valid unless all consent,
+          whether together or separately according to 
+          <ref xml:id="cy8th8-d1e282-Rd1e214">
+            Innocent ff. de seruitutibus rusticorum prediorum l. per fundum
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e220">
+          And according to 
+          <name xml:id="cy8th8-d1e282-Nd1e222">Baldus</name> 
+          this distinction is proved in 
+          <ref xml:id="cy8th8-d1e282-Rd1e224" target="http://scta.info/resource/cice-l1t2-Dd1e184">
+            d. c. cum omnes
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e282-Rd1e229" target="http://scta.info/resource/bgy6gt-d1e137-d1e176">
+            l. in tantum, § uniuersitatis ff de rerum diuisione
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e232" target="http://scta.info/resource/bgy6gt-d1e5159-d1e1870">
+            ff. de regulis iuris l. aliud § refertur
+          </ref> 
+          where fully concerning this,
+          as behold if many persons have a common estate and wish to establish a servitude 
+          on the estate,
+          the consent of all must intervene:
+          otherwise the defect of one renders the constitution useless as 
+          <ref xml:id="cy8th8-d1e282-Rd1e247">
+            ff. de seruitute rusticorum prediorum l receptum
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e250" target="http://scta.info/resource/bgy6gt-d1e3844-Dd1e270">
+            d. l. si per fundum
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e253" target="http://scta.info/resource/bgy6gt-d1e3195-Dd1e330">
+            ff de aqua pluvia arcende l. in concedendo
+          </ref> 
+          <ref xml:id="cy8th8-d1e282-Rd1e257" target="http://scta.info/resource/azsw2e-d1e3242-Dd1e147">
+            C de autoritate prestanda l. ultima
+          </ref>, 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e262">ff. de adoptione l. ita divus</ref> 
+          where it is said that 
+          <quote xml:id="cy8th8-d1e282-Qd1e264" source="http://scta.info/resource/bgy6gt-d1e126-Dd1e545@28-31">
+            those who are harmed,
+            must be called in the confirmation of adoption.
+          </quote> 
+          If many have a servitude of drawing water from that fountain 
+          and the lord wishes to grant to others with diminution of the right of the first:
+          he will not be able unless with the consent of the first.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e274">
+          Concerning these matters 
+          <ref xml:id="cy8th8-d1e282-Rd1e286">Dynus in d. regula</ref>; 
+          <quote xml:id="cy8th8-d1e282-Qd1e279">What touches all</quote> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e293">the gloss there</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e296">
+            <name xml:id="cy8th8-d1e282-Nd1e283">Innocent</name> 
+            in d. c. cum omnes
+          </ref> 
+          de constitutionibus 
+          <ref xml:id="cy8th8-d1e282-Rd1e301">Panormitanus and Felinus there</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e288">
+          <pc type="pilcrow">¶</pc> 
+          And especially the summoning or citation and consent of all those 
+          who claim to have some interest or fear future prejudice is required
+          <pb ed="#B" n="47-r"/>
+          whenever obedience or subjection and other royal rights are sought from any people or nation.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e303">
+          For it is manifest that for this cause all,
+          both the great,
+          that is kings and lords,
+          princes,
+          nobles and magistrates or heads of cities and peoples:
+          as well as the small and individuals must be summoned:
+          and all and each must consent,
+          otherwise nothing will be valid:
+          whatever is done to the contrary.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e312">
+          For if in granting the drawing of water all who have a right must be summoned 
+          and in the confirmation of adoption because the right of each one 
+          or of individuals is diminished and it is a question of the prejudice of individuals,
+          as in the laws previously alleged:
+          by how much stronger reason must they be summoned and from them,
+          great and small,
+          voluntary consent be sought,
+          of all whose right is so diminished that peoples and princes existing free 
+          and recognizing no superior,
+          kings,
+          princes and subjects,
+          great and small,
+          lose their beloved freedom,
+          are obligated to obedience,
+          to perpetual subjection,
+          to reverence,
+          tributes and other royal rights to be paid.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e335">
+          For all,
+          great and small,
+          that is princes and lords:
+          and their peoples and subjects claim maximum interest.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e342">
+          And as regards princes it is evident:
+          because a temporal lord existing free,
+          subject to no one:
+          becomes in a certain way a servant.
+          Likewise if his subjects are subjected to another lord's authority,
+          his authority,
+          dominion and power are diminished together with his advantage.
+          Likewise his subjects are burdened with a double burden,
+          indeed multiple.
+          Which is contrary to natural reason.
+          Whence he can and ought to oppose for the sake of preserving the right of his subjects.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e358">
+          An excellent argument for this 
+          <ref xml:id="cy8th8-d1e282-Rd1e360" target="http://scta.info/resource/bgy6gt-d1e578-Dd1e522">
+            ff. de dolo l. cum quis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e363" target="http://scta.info/resource/cice-l2t10-Dd1e123">
+            extra de ordine cognitionum C. 2
+          </ref>, 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e368" target="http://scta.info/resource/cice-l2t13-Dd1e108">
+            de restitutione spoliatorum c. 1
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e371" target="http://scta.info/resource/cice-l2t28-Dd1e927">
+            de appellationibus, c. dilectis
+          </ref> 
+          so much so that the lord himself can wage war against a temporal lord 
+          oppressing the rights of his subject,
+          if when requested he neglects or refuses to render justice concerning him,
+          by 
+          <ref xml:id="cy8th8-d1e282-Rd1e400">capitulum dominus noster 23, q. 2</ref> 
+          thus 
+          <ref xml:id="cy8th8-d1e282-Rd1e402">Innocent and Hostiensis note in d. c. dilectis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e383">Hostiensis de treuga et pace c. 1</ref>.
+          And this because it is to his interest that his subjects not be harassed 
+          and that his jurisdiction not be violated nor his advantage diminished.
+          Thus the Supreme Pontiff in the extravagant of John the First asserts 
+          that he cannot ignore the losses of the Roman Church and his faithful:
+          but that after they have been made known to him,
+          he will take suitable remedies against them.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e400">
+          Whence a lord can reclaim his subject held by another 
+          so that he may undertake personal services 
+          <ref xml:id="cy8th8-d1e282-Rd1e429">l. de iure ff. ad municipia</ref> 
+          concerning which the 
+          <ref xml:id="cy8th8-d1e282-Rd1e434">
+            gloss in l. 1 § per hanc ff. de rei uendicatione
+          </ref>
+          <pb ed="#B" n="47-v"/>
+          and the lord will reclaim his ascripticius 
+          <ref xml:id="cy8th8-d1e282-Rd1e443">c. 2 de iudiciis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e445">gloss in cap. autoritate de priuilegiis lib. 6</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e415">
+            <name xml:id="cy8th8-d1e282-Nd1e416">Panormitanus</name> 
+            in c. dilecti de appellationibus circa prin.
+          </ref>.
+          Likewise anyone can act for the diminution of his patrimony.
+          And more easily someone receives his rights in a free and vacant thing 
+          than from one possessed by another.
+          As in 
+          <ref xml:id="cy8th8-d1e282-Rd1e425" target="http://scta.info/resource/cice-l2t13-d1e392">
+            c. fine de restitutione spoliatorum
+          </ref>.
+          The things noted by 
+          <ref xml:id="cy8th8-d1e282-Rd1e431">Innocent in c. veniens de testibus</ref>, 
+          and by 
+          <ref xml:id="cy8th8-d1e282-Rd1e433">Bartholus in l. a Diuo pio ff. de re iudicata</ref> 
+          apply.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e440">
+          <pc type="pilcrow">¶</pc> 
+          But it is in the interest of subjects that their lord be free and not subject himself to another:
+          lest they be compelled to have multiple lords.
+          Likewise just as it is in the interest of the lord not to change his subject:
+          so it is in the interest of the subject not to change his lord and to be subjected to a foreigner.
+          And especially if it happens that he is of another language or nation:
+          because such are wont to be little affectionate toward subjects 
+          nor do they care much about them.
+          As will be evident below.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e462">
+          Concerning these matters 
+          <ref xml:id="cy8th8-d1e282-Rd1e501">
+            <name xml:id="cy8th8-d1e282-Nd1e464">Hostiensis</name> 
+            in c. dilecti de maioritate et obedientia
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e508">
+            <name xml:id="cy8th8-d1e282-Nd1e468">Panormitanus</name> 
+            there
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e513">
+            <name xml:id="cy8th8-d1e282-Nd1e470">Felinus</name>
+          </ref> 
+          and all,
+          and in 
+          <ref xml:id="cy8th8-d1e282-Rd1e517">c. fine eo titulo</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e475">Innocent in c. auditis de prescriptionibus</ref> 
+          It seems that if the lord of some place wishes to subject that place to a foreign lord:
+          the men of that place can object according to all in 
+          <ref xml:id="cy8th8-d1e282-Rd1e481" target="http://scta.info/resource/cice-l1t33-d1e362">
+            D. c. fine de maioritate et obedentia
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e282-Rd1e486">d. l. in tantum C, de appellationibus</ref> 
+          the text in 
+          <ref xml:id="cy8th8-d1e282-Rd1e489">
+            d. l. imperialem, 
+            in § preterea ducatus de probibita feudi alienatione per fredericum collatio 10
+          </ref> 
+          applies,
+          where it is particularly stated that the lord of a fief cannot transfer dominion to another 
+          with the vassal unwilling:
+          lest that vassal be compelled to have a foreign lord.
+          And if the lord dies leaving many sons:
+          the vassal is not bound to render the oath of fidelity to all but it suffices to one.
+          Which is to be kept in mind according to 
+          <ref xml:id="cy8th8-d1e282-Rd1e502">
+            Panormitanus in d. c. dilecti de maioritate et obedientia
+          </ref> 
+          and according to him that saying of Hostiensis with the aforesaid allegations applies:
+          so that the king cannot subject a castle or city subject to him to some inferior 
+          with the men unwilling.
+          And 
+          <ref xml:id="cy8th8-d1e282-Rd1e511">Innocent in d. cap. auditis</ref>, 
+          says that 
+          <quote xml:id="cy8th8-d1e282-Qd1e513">
+            just as it is in the interest of the lord not to lose his vassal:
+            so equally it is in the interest of subjects not to lose their lord
+          </quote> 
+          <quote xml:id="cy8th8-d1e282-Qd1e518">Which you should note well</quote>
+          says 
+          <ref xml:id="cy8th8-d1e282-Rd1e573">
+            <name xml:id="cy8th8-d1e282-Nd1e521">Panormitanus</name>
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e578">on the gloss together with the text in d. c. fine</ref> 
+          that 
+          <quote xml:id="cy8th8-d1e282-Qd1e523">
+            the lord cannot settle concerning the right of superiority to the prejudice of subjects:
+            unless the subjects consent,
+            for that reason,
+            namely because it is in the interest of subjects not to have multiple lords 
+            or not to change their lord as 
+            <ref xml:id="cy8th8-d1e282-Rd1e593">d. l. imperialem</ref>
+          </quote>.
+          And from the reasoning of the gloss according to him
+          <pb ed="#B" n="48-r"/>
+          it can generally be gathered that wherever subjects can claim some interest,
+          a settlement made by the lord alone will not be valid with the subjects not consenting 
+          (and it can be added) or coerced into consent.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e545">
+          <pc type="pilcrow">¶</pc> 
+          Behold how it is in the interest both of all subjects and of lords 
+          that in the question or cause of rendering subjection:
+          and of admitting someone as lord as superior,
+          of obligating themselves to undertaking the burden and most grave burdens 
+          which follow thereupon:
+          it is necessarily required that all be summoned and from all be required 
+          and obtained free consent,
+          since this matter or cause touches all and each,
+          and consequently by all and each it ought to be approved.
+          Otherwise without doubt what is done will have no validity.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e581">
+          This is evident beyond the laws introduced above by the chapter inter quatuor 
+          de maioritate et obedentia:
+          where the Pope rejects the petition of a certain patriarch of Constantinople 
+          seeking to have certain churches of the regions subjected to him,
+          those concerned not having been cited,
+          because where obedience and subjection are at issue:
+          nothing ought to be attempted to the prejudice of the matter or of the possessor 
+          not cited.
+          Where the text says 
+          <quote xml:id="cy8th8-d1e282-Qd1e594">
+            for the reason of law demands that to the prejudice of those to whom they are subject 
+            of the same church,
+            we ordain nothing concerning it since neither have they been cited nor convicted
+          </quote> 
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e605">
+          <pc type="pilcrow">¶</pc> 
+          In which chapter Innocent and other doctors after him also say that 
+          <quote xml:id="cy8th8-d1e282-Qd1e612">
+            we would sin if we should seek obedience or subjection from some people 
+            while they are subjected to others,
+            and we are to be punished even if they should spontaneously subject themselves to us
+          </quote>.
+          He alleges capitulum placuit 16 q 13
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e622">
+          And the reason for this is because meanwhile we commit theft and violence 
+          and injury to another possessor:
+          until the cause is known judicially and the authority of law properly interposed:
+          and also those same subjects sin by withdrawing obedience from the possessor 
+          unless they are first absolved from his obedience.
+          Which cannot be done if that one to whom they now obey is not present:
+          and because action has not been taken against him in a just judgment according to Innocent 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e696">
+            Baldus in d. c. inter quatuor argumentum 8 q. ultima c. nonne
+          </ref> 
+          and it is noted by 
+          <ref xml:id="cy8th8-d1e282-Rd1e700">the same Innocent and others in d. c. auditis</ref> 
+          <ref xml:id="cy8th8-d1e282-Rd1e702">
+            Baldus alleges to the aforesaid ff. de adquirenda hereditate l. Iuste
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e643">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore this matter of receiving our King of Spain as universal lord 
+          touches all those nations of the Indies,
+          not only kings and princes,
+          peoples,
+          provinces,
+          cities,
+          municipalities,
+          and places:
+          but truly also each individual person of any province,
+          city,
+          municipality and place:
+          namely it is necessary
+          <pb ed="#B" n="48-v"/>
+          that all and each be obligated to undertaking the greatest burden 
+          and paying great debts,
+          to lose or at least greatly diminish,
+          even if matters,
+          the government with them,
+          are conducted rightly and prosperously,
+          their own freedom,
+          both of kings and princes as well as of peoples and individual inhabitants:
+          which indeed it is more probable they will totally lose 
+          than that they should enjoy the smallest part of freedom 
+          (which indeed most certainly is,
+          indeed has been and now is as the outcome of the matter has proved and proves),
+          rendering subjection,
+          obedience,
+          reverence and multiple royal rights:
+          and consequently it is a question of their maximum prejudice because all will be harmed 
+          and the right of all of them is diminished.
+          And since they exist free,
+          the power and faculty of consenting and contradicting is given to them 
+          by natural law.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e695">
+          Therefore all,
+          both great and small,
+          all peoples and individual persons are to be summoned 
+          and from all of them free consent is to be sought and obtained.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e704">
+          But this consent,
+          at least free,
+          which quality,
+          that is freedom,
+          is necessarily required,
+          they will never give,
+          as is evident.
+          Therefore so that free consent may be obtained from them,
+          it is necessary that they be persuaded by good reasons,
+          pleasing,
+          sweet and honeyed inducements.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e714">
+          <pc type="pilcrow">¶</pc> 
+          That freedom in rendering consent is necessarily required as a necessary quality is proved 
+          by a very notable text in 
+          <ref xml:id="cy8th8-d1e282-Rd1e789">c. ubi periculum § coeterum de electione lib. 6</ref> 
+          where it is said that election ceases where freedom of electing is admitted.
+          Where the word freedom is to be weighed,
+          therefore in the election or acceptance of any future superior or ruler 
+          by free persons,
+          the free consent of electing or accepting is required.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e735">
+          If therefore consent is present without the quality of freedom,
+          that is not election,
+          like carnal marriage as in 
+          <ref xml:id="cy8th8-d1e282-Rd1e808">c. cum locum</ref> 
+          and what is noted there de sponsalibus and 
+          <ref xml:id="cy8th8-d1e282-Rd1e812">gloss in c. quisquis. de electionibus</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e742">
+          <pc type="pilcrow">¶</pc> 
+          <ref xml:id="cy8th8-d1e282-Rd1e822">Bartholus in tractatu de tyrano</ref> 
+          agrees:
+          where he says that if a city having the election of a rector 
+          and compelled by a tyrant should elect a Rector:
+          the election would not be valid.
+          Whence sentences issued by that rector would be null.
+          For which 
+          <ref xml:id="cy8th8-d1e282-Rd1e756" target="http://scta.info/resource/bgy6gt-d1e662-Dd1e114">
+            l. 2 ff. de iudiciis
+          </ref> 
+          applies well.
+          Where free consent is required in transferring and subrogating jurisdiction.
+        </p>
+
+        <p xml:id="cy8th8-d1e282-d1e765">
+          From which it is also inferred that if a tyrant should go to a free city with an army:
+          and the city elects the tyrant as lord,
+          transferring to him all jurisdiction:
+          it is not valid
+          <pb ed="#B" n="49-r"/>
+          because it is done under such fear.
+          And consequently the acts of such a tyrant will not be valid,
+          which 
+          <ref xml:id="cy8th8-d1e282-Rd1e853">Bartholus confirms in d. tractatu de tyrano</ref>.
+          Add here what is noted by all in 
+          <ref xml:id="cy8th8-d1e282-Rd1e857">l. decernimus C. de sacrosanctis ecclesiis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e862">Calderini consilio primo</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e864">Ancharanus in consilio 300</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e282-Rd1e869">
+            Panormitanus in c. licet de euitanda 10 columna de electione
+          </ref>
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
