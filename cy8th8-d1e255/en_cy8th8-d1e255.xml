@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 15</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 15</title>
+          <date when="2025-11-13">November 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="42-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e255">
+        <head xml:id="cy8th8-d1e255-Hd1e97">Section 15</head>
+
+        <p xml:id="cy8th8-d1e255-d1e99">
+          <pb ed="#B" n="42-r"/>
+          § 15
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e106">
+          <pc type="pilcrow">¶</pc> 
+          Part 8
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e114">
+          In the meantime,
+          for the protection or defense of the preachers of the faith and the ambassadors of our kings:
+          there should be made some tower or house that is somewhat fortified under the pretext of some necessity
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e123">
+          whose construction will be very easy to accomplish:
+          since it is not necessary to make it from polished and squared stones:
+          but it is sufficient for it to be either earthen or wooden because of the weakness 
+          and scarcity of weapons of the natives.
+          Nevertheless it would be better to construct it from earth with a wooden roof 
+          covered with tiles because of the danger of combustion.
+          For to do this would pertain to the prudence of the leader of the ambassadors of our kings 
+          so that future dangers and inconveniences may be prevented:
+          and therefore it is better to forestall in advance:
+          than after the outcome etc.
+          As we said above.
+          For one should not immediately trust foreign and unknown nations:
+          although they may display signs of love,
+          peace and courtesy.
+          Although concerning our Indian peoples,
+          before they knew us from our works,
+          there was nothing at all for us to fear from them:
+          since they knew how to carry nothing feigned,
+          nothing deceitful toward us inwardly or outwardly:
+          but with simple heart,
+          with great admiration,
+          joy and eagerness,
+          with a certain paternal humanity,
+          wonderful hospitality,
+          with every kind of benefits they received us and treated us etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e167">
+          Part 9
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e172">
+          Exhortation by gentle and sweet word etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e179">
+          <pc type="pilcrow">¶</pc> 
+          Namely,
+          that in some suitable place they may gather together to hear
+          <pb ed="#B" n="42-v"/>
+          those things which are of the faith etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e188">
+          This part is sufficiently evident from the proof of the preceding matters,
+          especially those (namely) humble greeting and address:
+          and exemplary conduct and timely notification,
+          quiet,
+          gentle,
+          friendly,
+          most modest and conciliatory of the spirits of the hearers,
+          patient etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e206">
+          <pc type="pilcrow">¶</pc> 
+          By a similar consideration the subsequent part is covered (namely) 
+          the preaching of the faith,
+          distinct,
+          discreet and regular according to the form established by Christ:
+          so that the desired effect (that is) 
+          the conversion of those souls with divine help may follow through their entry into the most holy Catholic Church,
+          voluntarily having received the sacrament of holy baptism.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e226">
+          <pc type="pilcrow">¶</pc> 
+          Part 10
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e234">
+          <pc type="pilcrow">¶</pc> 
+          Information,
+          by the same heralds of the faith,
+          concerning the title of our kings etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e243">
+          <pc type="pilcrow">¶</pc> 
+          That this information concerning the title is necessary is proved
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e250">
+          first thus:
+          one alleging a singular title according to the laws must prove it even if he is a son,
+          since there is a presumption in favor of the universal heir 
+          <ref xml:id="cy8th8-d1e255-Rd1e257">l. siue possidetis</ref>
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e261">Baldus there C. de probationibus</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e259">
+          But on behalf of our kings is alleged a singular title,
+          foreign,
+          new and remarkable as regards those peoples.
+          Those peoples indeed and their kings presume,
+          indeed they know and we know that they are the true lords and just possessors of that world.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e272">
+          Therefore it is necessary that the title which our kings claim to have to the dominion 
+          or jurisdiction of those lands be proved to them on behalf of our kings:
+          and they should be fully taught concerning the title.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e279">
+          <pc type="pilcrow">¶</pc> 
+          The consequence is clear with the Major premise.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e288">
+          The Minor is proved:
+          because any possessor is presumed to believe himself owner 
+          <ref xml:id="cy8th8-d1e255-Rd1e297">Cynus in l. cum alienum C. de lega</ref> 
+          <ref xml:id="cy8th8-d1e255-Rd1e305">
+            Bartholus in l. 1. si de momem. posse fue. appel. 1 colu. verb. extra no.
+          </ref> 
+          For a possessor is held as owner if he possesses as owner 
+          <ref xml:id="cy8th8-d1e255-Rd1e311">
+            gloss, Bartholus and the doctors in l. quidam in fine ff. de conditionibus institutionum
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e306">
+          <pc type="pilcrow">¶</pc> 
+          Secondly it is proved thus:
+          the burden of proof lies on him who asserts or claims 
+          <ref xml:id="cy8th8-d1e255-Rd1e312" target="http://scta.info/resource/azsw2e-d1e2052-Dd1e342">
+            l. actor C. de probationibus
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e317">l. ei qui ff. eo titulo</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e319" target="http://scta.info/resource/azsw2e-d1e701-Dd1e137">
+            l. qui accusare C. de 
+            <pb ed="#B" n="43-r"/>
+            edendo
+          </ref>
+          Likewise the agent and whoever alleges or acts must prove what he alleges 
+          <ref xml:id="cy8th8-d1e255-Rd1e339">d. l. actor</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e341">Cynus, Bartholus and Baldus there</ref> 
+          which is true unless he has a presumption 
+          <ref xml:id="cy8th8-d1e255-Rd1e345">prose l. ei incumbit</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e347">
+            Bartholus there ff. de probationibus,
+            especially a special one l. cum indebito eo titulo.
+          </ref> 
+          Likewise if the plaintiff is not in quasi-possession of the right which he asserts 
+          <ref xml:id="cy8th8-d1e255-Rd1e355">l. circa eum per Bartholum eo titulo.</ref> 
+          Likewise it is true even if the defendant has violent possession. 
+          <ref xml:id="cy8th8-d1e255-Rd1e362">d. l. circa eum</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e364">l. vis eius</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e366">Baldus there in the words</ref> 
+          <quote xml:id="cy8th8-d1e255-Qd1e330">I ask here whether the agent</quote> 
+          <ref xml:id="cy8th8-d1e255-Rd1e373">C. de probationibus.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e333">
+          <pc type="pilcrow">¶</pc> 
+          But our kings in this business do not have a presumption in their favor with respect to those peoples,
+          nor are they in quasi-possession of the right which they assert themselves to have:
+          Those peoples however and the whole world are not in violent possession 
+          but in proper,
+          due,
+          true,
+          natural and peaceful possession.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e347">
+          Therefore the burden of proving what they assert lies upon our kings.
+          And consequently they ought to teach concerning the title 
+          to prove and establish their claim.
+          The consequence is clear.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e356">
+          <pc type="pilcrow">¶</pc> 
+          Moreover it is a general maxim that 
+          <quote xml:id="cy8th8-d1e255-Qd1e363">
+            whoever seeks dominion in any thing: 
+            it is necessary that he prove it
+          </quote>
+          <ref xml:id="cy8th8-d1e255-Rd1e410">
+            C. de rei vendi. doce et de alienatione iudicii l. 1
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e412">
+            Innocent in C. inter quatuor de maioritate et obedientia.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e370">
+          <pc type="pilcrow">¶</pc> 
+          Again,
+          thirdly thus:
+          when someone seeks some debt with the debtor denying it,
+          proof lies upon the one seeking.
+          Particularly when the claim is not founded by the adversary:
+          because a negative should not be proved by the one denying 
+          but by the adversary in the said case,
+          namely when his claim is not founded 
+          <ref xml:id="cy8th8-d1e255-Rd1e432">Baldus in l. si ex cantione 2 columna</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e390">
+          But our kings if they should seek a debt,
+          namely obedience and subjection from those peoples of the Indian world:
+          and they themselves deny it as they rightly can since they are free,
+          as is evident from what has been said and will be more clearly evident below,
+          nor do our kings have their claim founded,
+          but those peoples do.
+          Therefore the negative should be proved by our kings.
+          But this means teaching concerning the title.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e408">
+          Therefore our kings are bound to teach and give proof to such peoples 
+          concerning the title which they claim to have to the universal dominion 
+          and sovereignty of that world.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e417">
+          <pc type="pilcrow">¶</pc> 
+          Fourthly it is proved by argument from the greater:
+          for if one having possession when he has contrary right is compelled to show title,
+          therefore much 
+          <pb ed="#B" n="43-v"/>
+          better and more forcefully one who is known to have had hitherto neither right nor possession.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e434">
+          For wherever right resists someone wishing to claim some thing for himself,
+          especially to the prejudice of another:
+          it is necessary to show and teach concerning the title,
+          as in one wishing to prescribe,
+          as is the case in 
+          <ref xml:id="cy8th8-d1e255-Rd1e493">c. 1, de prescriptione lib. 6</ref> 
+          and this even if he has possession of the thing without which prescription cannot occur 
+          de prescriptione 
+          <ref xml:id="cy8th8-d1e255-Rd1e498">c. illud 16 q. § potest</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e255-Rd1e505">regula sine possessione lib. 6</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e449">
+          To our purpose a text sufficiently fitting and notable is found in 
+          <ref xml:id="cy8th8-d1e255-Rd1e513">C. cum persone de priuilegiis lib. 6</ref> 
+          where 
+          <quote xml:id="cy8th8-d1e255-Qd1e455">
+            subjects of a bishop if they say that they are exempt from the bishop 
+            because of the resistance of right which they have against themselves:
+            it is necessary before all else to show the title of their exemption,
+            and if they do not show it and they try to prove prescription,
+            with the proof of prescription preceding:
+            since by common law the ordinaries,
+            their claim being thus founded,
+            can use their jurisdiction freely over them 
+            until they have given full proof concerning the prescription,
+            although those are in possession of the exemption.
+            From which that text infers according to some 
+            that during a pending suit that possessor against whom common law works 
+            can be disturbed and violently expelled,
+            just like one who possesses by force or stealth or by precarious right
+          </quote> 
+          Thus says Ancharanus there in the 11th notable point.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e485">
+          Therefore someone is compelled to show by what title he possesses 
+          or seeks some thing when it is contrary to common law:
+          otherwise he will be able to be deprived of it if he possesses,
+          or his petition repudiated if he seeks to possess.
+          As is evident from the aforesaid,
+          and 
+          <ref xml:id="cy8th8-d1e255-Rd1e553">
+            Baldus holds in l. 2, 2 columna C. quomodo et quando iudi.
+          </ref> 
+          saying that one who claims the title of his possession:
+          whom 
+          <ref xml:id="cy8th8-d1e255-Rd1e561">
+            Alvarotus reports and follows in c. 1 in prin. de controuertis inuestigandum
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e502">
+          If therefore someone existing in possession of a thing,
+          when he has law against himself,
+          is compelled to show title,
+          it follows by stronger reason that our Kings of Spain are bound to show the title 
+          by which they would be supported in seeking from those peoples and nations 
+          to be received as Lords and thus obedience etc.,
+          since they are known to have had hitherto neither possession nor property 
+          nor any right in and to those kingdoms and peoples:
+          and consequently all common law,
+          natural,
+          human and 
+          <pb ed="#B" n="44-r"/>
+          divine resists them.
+          Which nevertheless entirely favors and supports the inhabitants and dwellers of that world 
+          who justly possess those things.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e528">
+          For it is greater to have possession of a thing 
+          and to have legitimately acquired right:
+          than merely to claim title to a thing in another's property.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e535">
+          <pc type="pilcrow">¶</pc> 
+          To the purpose is what Panormitanus says:
+          after 
+          <ref xml:id="cy8th8-d1e255-Rd1e608">
+            Innocent in c. post electionem de concessione prebende
+          </ref> 
+          that against one acting in a possessory manner,
+          exception is made of defect of power in the one conferring or in the one electing.
+          And such exception is admitted as in c. cum olim de causa possessionis et proprietatis.
+          For possession should not be given to anyone which he never had:
+          unless his legitimate title is first established 
+          <ref xml:id="cy8th8-d1e255-Rd1e624">l. fi. C. de edicto diui adriani tollendo</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e556">
+          Therefore our kings never had possession or property of that world 
+          before that world was discovered.
+          Likewise all those peoples with their lords and kings can by the best right 
+          make exception of defect of power in the Supreme Pontiff that he might have handed over 
+          to the dominion and jurisdiction and servitude of another foreign king:
+          great Kings and peoples and nations and free kingdoms possessing freedom 
+          by the law of nature and of nations.
+        </p>
+
+        <p xml:id="cy8th8-d1e255-d1e574">
+          Whence it is evident:
+          that our kings are bound to teach those nations concerning the title which they put forward 
+          so that the natural and juridical order may be preserved,
+          as is said in the conclusion.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
