@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 19</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 19</title>
+          <date when="2025-11-14">November 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="50-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e308">
+        <head xml:id="cy8th8-d1e308-Hd1e97">Section 19</head>
+
+        <p xml:id="cy8th8-d1e308-d1e99">
+          § 19
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          The same is evident in the 
+          <ref xml:id="cy8th8-d1e308-Rd1e110">second King</ref>,
+          namely David.
+          Who although he too had been anointed as king by the prophet Samuel 
+          at God's command as is found in Kings,
+          nevertheless did not dare to involve himself in exercising royal power 
+          until after Saul's death he was established and admitted or received 
+          and approved by the authority and consent of the people,
+          namely by the tribe of Judah first in Hebron over that same tribe as king,
+          as is evident in 2 Kings 2,
+          and then was established and accepted as king by the other tribes,
+          as is written in 2 Kings 5.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e131">
+          <pc type="pilcrow">¶</pc> 
+          From which it appears evidently that David,
+          although he had through the first anointing made by divine command the institution 
+          and through this had right to the kingdom:
+          nevertheless he did not have right in the kingdom to the execution of royal power
+          <pb ed="#B" n="51-r"/>
+          in the people of Israel until,
+          with Saul dead,
+          who was the true and legitimate king (although rejected by God,
+          most wicked,
+          sacrilegious and a tyrant in practice),
+          the people received him and placed and instituted him over themselves as king,
+          approving and consenting voluntarily to the divine nomination or institution.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e157">
+          Whence two things were required so that David might have right in the kingdom 
+          even after divine institution.
+          One that Saul should die first.
+          The other that he should be received and instituted as king by the people.
+          For never as long as Saul lived was it God's intention to deprive him of the use of the kingdom,
+          but only of succession.
+          The other was namely the acceptance and free handing over of possession of the kingdom 
+          by the consent of the people,
+          before which David did not wish to involve himself in the administration of the kingdom 
+          by his own authority,
+          although he knew very well that he had been elected by God and anointed at his command 
+          as king by Samuel,
+          and had the title and right to the kingdom.
+          Nor even immediately after Saul's death did he assume the kingdom for himself:
+          knowing it to be a divine precept that it ought to be established and enthroned 
+          by the consent and authority of the people. 
+          <quote xml:id="cy8th8-d1e308-Qd1e189">
+            Him,
+            he says,
+            you shall set up whom the Lord your God shall choose
+          </quote> 
+          <ref xml:id="cy8th8-d1e308-Rd1e191">Deuteronomy 17.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e195">
+          Whence in 
+          <ref xml:id="cy8th8-d1e308-Rd1e199">2 Kings 2</ref> 
+          <quote xml:id="cy8th8-d1e308-Qd1e201">
+            having heard of Saul's death,
+            he immediately consults the Lord,
+            asking whether he should go up to any city.
+            And having received a divine oracle that he should go up to Hebron:
+            he remained in the towns of Hebron until the people should gather.
+            And the men of Judah coming anointed David there that he might reign over Judah
+          </quote>.
+          These words there.
+          Behold the handing over of possession.
+          The same appears in chapter 5 of the same book where it is said: 
+          <quote xml:id="cy8th8-d1e308-Qd1e214">
+            All the tribes of Israel came to David in Hebron saying: 
+            Behold we are your bone and your flesh
+          </quote> 
+          and a little below. 
+          <quote xml:id="cy8th8-d1e308-Qd1e222">
+            The elders of Israel also came to the king in Hebron,
+            and King David struck a covenant with them in Hebron before the Lord,
+            and they anointed David as king over Israel
+          </quote> 
+          etc.
+          These words there.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e235">
+          Josephus in book 7 chapter 2 of the Antiquities says that by one decree 
+          they confirmed David's rule.
+          But the Master of Histories on 2 Kings,
+          chapter 6,
+          says:
+          that first David was anointed as a sign,
+          namely by Samuel at God's command,
+          by which anointing the title and right to the kingdom was conferred on him.
+          Secondly as king over Judah,
+          namely by the consent and acceptance of the people holding as valid the election 
+          or institution of God and the handing over of possession of the kingdom.
+          Thirdly as king over Israel by all the tribes etc.
+          Behold how David beyond the institution and nomination and divine anointing:
+          needed the authority,
+          approval,
+          establishment,
+          anointing,
+          and handing over 
+          <pb ed="#B" n="51-v"/>
+          of possession of the kingdom by the free consent of all the people,
+          so that he might actually be legitimate,
+          true and natural king,
+          and might have legitimate and juridical entrance into the kingdom:
+          and also might obtain the right and exercise of royal power in that kingdom:
+          so that those two things which the Lord had previously commanded concerning establishing a king 
+          should be observed (namely) 
+          that God should choose or nominate the one he wished:
+          and that the people by their own and free consent should approve the said election 
+          and should establish for themselves as king him thus elected by God 
+          <ref xml:id="cy8th8-d1e308-Rd1e300">Deuteronomy 17</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e296">
+          Concerning these matters see 
+          <ref xml:id="cy8th8-d1e308-Rd1e307">
+            Burgensis on 1 Kings c. 28 in the first addition to Nicholas de Lyra
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e308-Rd1e312">
+            Conrad on contracts,
+            treatise 1 q. 7 at the beginning
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e303">
+          Therefore by the example and authority of divine scripture,
+          indeed as it seems by the precept and divine ordinance,
+          without the free consent and approval of those peoples and their kings themselves,
+          another new king cannot be given to them or established over their natural kings.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e314">
+          That this is indeed a precept and must necessarily be observed even now among Christians 
+          in the new testament is proved:
+          because all precepts insofar as they contain what is moral and insofar as the reason of justice 
+          which they contain are immutable for all time according to 
+          <ref xml:id="cy8th8-d1e308-Rd1e324">St. Thomas 1 2 q. 100 article 8 throughout</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e330">
+          And the reason is twofold according to him there in 
+          <ref xml:id="cy8th8-d1e308-Rd1e344">a. 1 and 3</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e308-Rd1e346">q. 109 article 4 in the body</ref> 
+          because they contain the very intention of the legislator,
+          namely God,
+          as appears in the precepts of the first table which are ordered to God 
+          and contain the very order to the common good which is God.
+          And in the precepts of the second table which contain the very order of justice 
+          to be observed among men,
+          namely that nothing undue be done to anyone and what is due be rendered to each one.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e347">
+          <pc type="pilcrow">¶</pc> 
+          The second reason is because moral precepts are from the dictate of the law of nature 
+          which in themselves pertain to good morals and agree with natural reason:
+          and therefore always in every time and place they have the reason and force of obligating:
+          instit. de iure naturali gentium et ciuili § nam et naturalia.
+          But this precept concerning establishing a king by divine ordinance,
+          although it is partly judicial and consequently does not oblige for all time 
+          unless it is established anew by divine or human law according to that passage in 
+          <ref xml:id="cy8th8-d1e308-Rd1e368">Hebrews 7</ref>: 
+          <quote xml:id="cy8th8-d1e308-Qd1e370" source="http://scta.info/resource/hebr7_12@1-10">
+            The priesthood being translated,
+            it is necessary that a translation of the law be made
+          </quote> 
+          and 
+          <ref xml:id="cy8th8-d1e308-Rd1e392">St. Thomas 1 2 q. 104, article 4 in the body</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e308-Rd1e394">q. 105 article 1 c.</ref>
+          Nevertheless it contains part of a moral precept and thus today has the force of obligating.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e377">
+          This is evident thus.
+          For it was judicial insofar namely as God spoke expressly to that people through an oracle 
+          and assigned a certain person whom they should establish as king,
+          and that he should be of that Hebrew race 
+          <pb ed="#B" n="52-r"/>
+          and not of another nation:
+          and that he should not lead the people back to Egypt according to the letter etc. 
+          which specially pertained to that people alone.
+          But partly it was moral insofar namely as it pertains principally to every community 
+          by natural law from the beginning to establish for itself someone who may rule all of it,
+          even without new divine ordinance.
+          And the law of nature has never been revoked but confirmed and established by divine law,
+          as was said above 
+          <ref xml:id="cy8th8-d1e308-Rd1e405">Exodus 20</ref> 
+          there 
+          <quote xml:id="cy8th8-d1e308-Qd1e407" source="http://scta.info/resource/ex20_17@1-5">
+            You shall not covet your neighbor's house
+          </quote> 
+          etc 
+          <ref xml:id="cy8th8-d1e308-Rd1e409">Leviticus 19</ref>: 
+          <quote xml:id="cy8th8-d1e308-Qd1e411" source="http://scta.info/resource/lev19_13@1-9">
+            You shall not defraud your neighbor:
+            nor oppress him by violence
+          </quote> 
+          etc.
+          In which all injustice is prohibited.
+          And for this reason the Lord willed that in the establishment of a king,
+          the consent and approval of the people should be required,
+          and without it the king would not have the exercise of royal power,
+          although divine institution alone would suffice,
+          since to the people and that community otherwise it would pertain by the law of nature 
+          without new divine institution.
+          And therefore although from that part by which that precept is judicial 
+          it does not have perpetual obligation but was emptied out like the other judicial precepts 
+          by Christ,
+          nevertheless from the part by which it is moral it has the force of obligating perpetually 
+          from the very dictate of natural reason.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e442">
+          Because natural reason dictates that this ought to be done,
+          namely that any free people by their own consent should elect,
+          accept,
+          approve and establish him who is to reign over them and to whom they commit themselves,
+          not for his own but for the common utility of that same people:
+          and consequently no one,
+          not being his own judge,
+          especially without legitimate,
+          true and examined cause,
+          should deprive such a people of the right of electing,
+          accepting,
+          and establishing for themselves a king or ruler.
+          From which fact that God himself did not wish a king to reign in his peculiar people 
+          without the free consent of the people to reign,
+          for grave injury and great injustice would be done to any free people 
+          if against its will and free consent:
+          or if it is compelled to consent,
+          a king or lord is given to it.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e478">
+          For this is included in those precepts of nature 
+          <ref xml:id="cy8th8-d1e308-Rd1e482">Tobit 4</ref> 
+          <quote xml:id="cy8th8-d1e308-Qd1e484">
+            What you do not wish done to you by another:
+            do not do to him
+          </quote> 
+          and 
+          <ref xml:id="cy8th8-d1e308-Rd1e489">Matthew 7</ref> 
+          <quote xml:id="cy8th8-d1e308-Qd1e491" source="http://scta.info/resource/mt7_12@1-8">
+            All things whatsoever you would that men should do to you
+          </quote> 
+          etc.
+          It is also included in the precepts of the Decalogue of the second table there: 
+          <quote xml:id="cy8th8-d1e308-Qd1e500">You shall not steal</quote>:
+          in which all violence inflicted on one's neighbor and every illicit 
+          <pb ed="#B" n="52-v"/>
+          usurpation of another's property:
+          and whatever of one's neighbor's things is illicitly taken away,
+          and rather those things which touch freedom,
+          are understood to be prohibited as in 
+          <ref xml:id="cy8th8-d1e308-Rd1e544">c. poenale 14, 5</ref>.
+          But the precepts of the second table contain,
+          as we said,
+          the very order of justice to be preserved among men,
+          namely that nothing undue be done to anyone.
+          And according to this reasoning such precepts remain indispensable 
+          <ref xml:id="cy8th8-d1e308-Rd1e523">St. Thomas 1 2 q. 100 c. 8</ref>.
+          And therefore that precept concerning establishing a king by the consent 
+          and approval of the people is moral and immutable,
+          and consequently has the force of obligating even in the new testament:
+          although it has been revoked from that part by which it was judicial.
+          It is confirmed because a law abrogated as to one part,
+          as to the part not abrogated,
+          is still in green observance.
+          This is noted by 
+          <ref xml:id="cy8th8-d1e308-Rd1e569">Canonists in c. 1 de constitutionibus</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e308-Rd1e574">l. 1. de latina libertate tollenda</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e308-Rd1e576">Baldus there</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e542">
+          <pc type="pilcrow">¶</pc> 
+          How much more so that we can say that that law as regards the judicial part which it has 
+          seems to have been absorbed and renewed and instituted again by the authority of the Church 
+          because of its reason.
+          For a law can be alleged although it has been abrogated because of its reason,
+          since the reason is not removed as 
+          <ref xml:id="cy8th8-d1e308-Rd1e593">l. eas ff. de capite dimi.</ref> 
+          <ref xml:id="cy8th8-d1e308-Rd1e598">
+            gloss in l. 1 at the beginning de coniungendis cum emancipato liberis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e308-Rd1e602">gloss in the first constitution C.</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e308-Rd1e604">l. 2, c. de ueteri iure enucleando</ref> 
+          thus blessed Jerome alleges that law because of its reason 
+          <ref xml:id="cy8th8-d1e308-Rd1e560">on Leviticus and is found 8 q. 1 c. licet</ref> 
+          where it is said 
+          <quote xml:id="cy8th8-d1e308-Qd1e565">
+            although therefore concerning establishing a prince he had commanded and chosen,
+            nevertheless the synagogue is also convoked
+          </quote> 
+          etc.
+          For the reason of the law is that he who is to be placed over the people 
+          should be known and approved by that same people and not be placed over the unwilling.
+          Whence Jerome immediately adds 
+          <quote xml:id="cy8th8-d1e308-Qd1e580">
+            Therefore in ordaining a priest the presence of the people is also required 
+            so that all may know that the one who is more excellent
+          </quote> 
+          etc.
+          To this purpose 
+          <ref xml:id="cy8th8-d1e308-Rd1e587" target="http://scta.info/resource/gd-p1d63-d1e273">
+            68 dist. c. ples dictrensis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e308-Rd1e592" corresp="#cy8th8-d1e308-Qd1e596">
+            chapter nosse
+          </ref> 
+          apply.
+          Where it is said 
+          <quote xml:id="cy8th8-d1e308-Qd1e596" source="http://scta.info/resource/gd-p1d63-d1e288@59-84">
+            that with the clergy and people convoked,
+            such a one may be elected there by God's mercy against whom the sacred canons do not object.
+            For the election of priests and the consent of the faithful people must be applied
+          </quote>.
+          And in 
+          <ref xml:id="cy8th8-d1e308-Rd1e603">c. ultimo</ref> 
+          <quote xml:id="cy8th8-d1e308-Qd1e606" source="http://scta.info/resource/gd-p1d63-d1e663@26-40">
+            that no one be given to the unwilling and those not seeking:
+            lest the unwilling people despise or hate a bishop not desired
+          </quote>.
+          The same is prohibited 
+          <ref xml:id="cy8th8-d1e308-Rd1e611" target="http://scta.info/resource/gd-p1d61-d1e299">
+            61 dist. c. nullus in uitis
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e308-d1e617">
+          <pc type="pilcrow">¶</pc> 
+          It appears therefore that even now what God commanded concerning establishing a prince 
+          ought to be observed:
+          namely:
+          that always the free consent and acceptance of the people be awaited:
+          and that unless the consent and acceptance or voluntary approval of the people 
+          intervene in the establishment of a new prince:
+          that prince or king 
+          <pb ed="#B" n="53-r"/>
+          himself will not be able to have the exercise of royal power,
+          as has been proved.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
