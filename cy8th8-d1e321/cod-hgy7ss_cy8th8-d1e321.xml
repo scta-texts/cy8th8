@@ -56,11 +56,11 @@
           <lb ed="#B" n="3"/>§ 20
         </p>
         <p xml:id="cy8th8-d1e321-d1e104">
-          <lb ed="#B" n="4"/><pc type="pilcrow">¶</pc> Possunt confirmari <ref>predicta l. per hoc</ref> quod Liber Deuterono<lb ed="#B" break="no" n="5"/>mii 
+          <lb ed="#B" n="4"/><pc type="pilcrow">¶</pc> Possunt confirmari <ref xml:id="cy8th8-d1e321-Rd1e111">predicta l. per hoc</ref> quod Liber Deuterono<lb ed="#B" break="no" n="5"/>mii 
           in quo illa ordinatio reperitur: interpretatur lex secunda 
-          <lb ed="#B" n="6"/>secundum Hieronymum et Isidorum et <quote>Innocentium 3m in c. 
-          <lb ed="#B" n="7"/>per venerabilem extra qui filii sint legitimi</quote>. Et est figura legis noue 
-          <lb ed="#B" n="8"/>cum secundum apostolum omnia in figura contingebant <ref>1 Ad Corinthios 10</ref>
+          <lb ed="#B" n="6"/>secundum Hieronymum et Isidorum et <ref xml:id="cy8th8-d1e321-Rd1e117">Innocentium 3m in c. 
+          <lb ed="#B" n="7"/>per venerabilem extra qui filii sint legitimi</ref>. Et est figura legis noue 
+          <lb ed="#B" n="8"/>cum secundum apostolum omnia in figura contingebant <ref xml:id="cy8th8-d1e321-Rd1e125">1 Ad Corinthios 10</ref>
         </p>
         <p xml:id="cy8th8-d1e321-d1e119">
           <lb ed="#B" n="9"/>idcirco adaptanda sunt que ibi dicuntur maxime que ad mora<lb ed="#B" break="no" n="10"/>lem
@@ -82,7 +82,7 @@
         <p xml:id="cy8th8-d1e321-d1e147">
           <pc type="pilcrow">¶</pc> Item 2o potest addi 
           <lb ed="#B" n="18"/>alia confirmatio per argumentum ab institutionibus ecclesiasticis 
-          <lb ed="#B" n="19"/>ad seculares quod est bonum argumentum quia eo utitur hieronimus in <ref>d. 
+          <lb ed="#B" n="19"/>ad seculares quod est bonum argumentum quia eo utitur hieronimus in <ref xml:id="cy8th8-d1e321-Rd1e165">d. 
           c. licet 8 q. 1</ref> et in mulus alis locis eo ecclesia usa est. 
         </p>
         <p xml:id="cy8th8-d1e321-d1e157">
@@ -95,7 +95,7 @@
           magis potissime quoad illas gentes que ut supponimus vel adhuc 
           <lb ed="#B" n="23"/>infideles sunt vel recentes valde sicut plantule delicate in fide 
           <lb ed="#B" n="24"/>quibus potius blandiendum est: quam sint exasperande ut puta ne<lb ed="#B" break="no" n="25"/>ophite 
-          <ref>35 q. 2 et 3 c. quedam lex</ref>.
+          <ref xml:id="cy8th8-d1e321-Rd1e188">35 q. 2 et 3 c. quedam lex</ref>.
         </p>
         <p xml:id="cy8th8-d1e321-d1e178">
           <pc type="pilcrow">¶</pc> Minor satis patet in capitulo 
@@ -109,18 +109,18 @@
           <lb ed="#B" n="1"/>electioni facte per collegium: potest electio irritari: imo etiam si sine 
           <lb ed="#B" n="2"/>causa rationabili contradicet et nollet consentire irritari de<lb ed="#B" break="no" n="3"/>bet 
           electio si scandalum generaretur in populo ex quo dictae glossae 
-          <lb ed="#B" n="4"/>notat singulariter <ref>Panormitanus in c. 1, de electione</ref> dicens: quod cum scan<lb ed="#B" break="no" n="5"/>dalo 
+          <lb ed="#B" n="4"/>notat singulariter <ref xml:id="cy8th8-d1e321-Rd1e237">Panormitanus in c. 1, de electione</ref> dicens: quod cum scan<lb ed="#B" break="no" n="5"/>dalo 
           populi non debet quis prefici etiam interueniente legitima 
           <lb ed="#B" n="6"/>electione. 
         </p>
         <p xml:id="cy8th8-d1e321-d1e226">
-          Pro quo facit optime <ref>c. cum teneamur de prebendis</ref> et 
-          <lb ed="#B" n="7"/><ref>c. nisi cum pridem de renuntiatione</ref> Et vide singulare <ref>dictum In<lb ed="#B" break="no" n="8"/>nocentii 
+          Pro quo facit optime <ref xml:id="cy8th8-d1e321-Rd1e246">c. cum teneamur de prebendis</ref> et 
+          <lb ed="#B" n="7"/><ref xml:id="cy8th8-d1e321-Rd1e249">c. nisi cum pridem de renuntiatione</ref> Et vide singulare <ref xml:id="cy8th8-d1e321-Rd1e251">dictum In<lb ed="#B" break="no" n="8"/>nocentii 
           ibi</ref> ubi dicit quod, si populus persequitur episcopum seu prelatum 
           <lb ed="#B" n="9"/>iam institutum nec potest compesci a tali persequutione ut populus 
           <lb ed="#B" n="10"/>quiescat et ecclesia sit inquiete debet prelatus <sic>redere</sic> vel remoueri 
           <lb ed="#B" n="11"/>per superiorem assignato alibi bono cambio. Quod singulariter 
-          <lb ed="#B" n="12"/>notandum est secundum <ref><name xml:id="cy8th8-d1e321-Nd1e243">Panormitarum</name> facit c. si forte 63</ref> et <ref>c. nullus
+          <lb ed="#B" n="12"/>notandum est secundum <ref xml:id="cy8th8-d1e321-Rd1e267"><name xml:id="cy8th8-d1e321-Nd1e243">Panormitarum</name> facit c. si forte 63</ref> et <ref xml:id="cy8th8-d1e321-Rd1e272">c. nullus
           inuitus</ref> episcopus dandus non est: si habent iustam causam contradi<lb ed="#B" break="no" n="13"/>ctionis. 
           Et notatur in <ref xml:id="cy8th8-d1e321-Rd1e247" target="http://scta.info/resource/gd-p1d23-d1e185">c. illud 23 dist.</ref> etiam si detur a papa <ref xml:id="cy8th8-d1e321-Rd1e250" target="http://scta.info/resource/gd-p1d22-d1e139">22 dist. 
           <lb ed="#B" n="14"/>c. sacrosancta</ref>
@@ -183,7 +183,7 @@
           <lb ed="#B" n="25"/>el. 2o 63 dist.</ref> et <ref xml:id="cy8th8-d1e321-Rd1e410">96 dist. c. quis dubitet</ref>. facit quod bal<lb ed="#B" break="no" n="26"/>dus 
           dicit in <ref xml:id="cy8th8-d1e321-Rd1e414">d. c. venerabilem de electione 1 columna</ref> papam non de<lb ed="#B" break="no" n="27"/>bere 
           suprimere officium vel potestatem electionariorum imperii 
-          <lb ed="#B" n="28"/>in quo tamen mayorem obtinet autoritatem ut notatur in <ref>c. ad 
+          <lb ed="#B" n="28"/>in quo tamen mayorem obtinet autoritatem ut notatur in <ref xml:id="cy8th8-d1e321-Rd1e454">c. ad 
           <lb ed="#B" n="29"/>apostolice de re iudicata lib. 6</ref> 
         </p>
         <p xml:id="cy8th8-d1e321-d1e424">
