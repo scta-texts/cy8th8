@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 20</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 20</title>
+          <date when="2025-11-15">November 15, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="53-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e321">
+        <head xml:id="cy8th8-d1e321-Hd1e97">Section 20</head>
+
+        <p xml:id="cy8th8-d1e321-d1e99">
+          § 20
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          The 
+          <ref xml:id="cy8th8-d1e321-Rd1e111">aforesaid can be confirmed l. per hoc</ref> 
+          because the Book of Deuteronomy,
+          in which that ordinance is found:
+          is interpreted as the second law according to Jerome and Isidore and 
+          <ref xml:id="cy8th8-d1e321-Rd1e117">
+            Innocent III in c. per venerabilem extra qui filii sint legitimi
+          </ref>.
+          And it is a figure of the new law,
+          since according to the Apostle all things happened in figure 
+          <ref xml:id="cy8th8-d1e321-Rd1e125">1 Corinthians 10</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e119">
+          Therefore what is said there must be adapted,
+          especially what pertains to moral understanding and to regulating the acts of men 
+          which are to be done in the time of grace.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e128">
+          Since therefore the intervention of the consent and approval of a free people 
+          for the establishment of a new prince is natural or of natural law 
+          and thus moral for regulating the acts of men:
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e138">
+          It follows that it ought thus to be observed in the time of grace:
+          and consequently in our case the consent of those peoples and their kings themselves 
+          must necessarily be had for receiving our king,
+          indeed far more strongly.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e147">
+          <pc type="pilcrow">¶</pc> 
+          Likewise secondly another confirmation can be added by argument from ecclesiastical 
+          to secular institutions,
+          which is a good argument because Jerome uses it in 
+          <ref xml:id="cy8th8-d1e321-Rd1e165">d. c. licet 8 q. 1</ref> 
+          and in many other places the Church has used it.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e157">
+          But in ecclesiastical institutions the consent and approval of the people is required.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e167">
+          Therefore it ought to be so in secular matters.
+          Indeed far more,
+          especially as regards those peoples who,
+          as we suppose,
+          are either still infidels or very recent,
+          like delicate little plants in the faith,
+          to whom rather one should be gentle:
+          than they should be exasperated,
+          as for instance neophytes 
+          <ref xml:id="cy8th8-d1e321-Rd1e188">35 q. 2 et 3 c. quedam lex</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e178">
+          <pc type="pilcrow">¶</pc> 
+          The Minor is sufficiently evident in the chapter in nomine domini 
+          <ref xml:id="cy8th8-d1e321-Rd1e185">23 dist.</ref> 
+          where Pope Leo says: 
+          <quote xml:id="cy8th8-d1e321-Qd1e187" source="http://scta.info/resource/gd-p1d23-d1e124@26-43">
+            No reason permits that those be held among bishops who have not been elected by clerics 
+            nor sought by the people
+          </quote>.
+          And 
+          <ref xml:id="cy8th8-d1e321-Rd1e196">d. c. plebs, 63 dist.</ref> 
+          with what follows,
+          where the people are summoned not indeed to choose but to consent to the election of a prelate,
+          by that rule of law: 
+          <quote xml:id="cy8th8-d1e321-Qd1e203">
+            What touches all must be approved by all
+          </quote> 
+          with its concordances. lib. 6 and 
+          <ref xml:id="cy8th8-d1e321-Rd1e205">gloss in c. 1, 62 dist.</ref> 
+          note in a contrary sense that if the people do not wish to consent 
+          <pb ed="#B" n="53-v"/>
+          to the election made by the college:
+          the election can be annulled:
+          indeed even if they object without reasonable cause and do not wish to consent,
+          the election ought to be annulled if scandal would be generated in the people,
+          from which the said glosses 
+          <ref xml:id="cy8th8-d1e321-Rd1e237">Panormitanus notes particularly in c. 1, de electione</ref> 
+          saying:
+          that with scandal of the people no one ought to be placed in office,
+          even with a legitimate election intervening.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e226">
+          For which 
+          <ref xml:id="cy8th8-d1e321-Rd1e246">c. cum teneamur de prebendis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e321-Rd1e249">c. nisi cum pridem de renuntiatione</ref> 
+          apply very well.
+          And see the singular 
+          <ref xml:id="cy8th8-d1e321-Rd1e251">statement of Innocent there</ref> 
+          where he says that,
+          if the people persecute a bishop or prelate already instituted,
+          nor can they be restrained from such persecution,
+          so that the people may be quiet and the church not be disturbed,
+          the prelate ought to withdraw or be removed by a superior,
+          with good exchange assigned elsewhere.
+          Which is singularly to be noted according to 
+          <ref xml:id="cy8th8-d1e321-Rd1e267">
+            <name xml:id="cy8th8-d1e321-Nd1e243">Panormitanus</name> 
+            it applies c. si forte 63
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e321-Rd1e272">c. nullus inuitus</ref> 
+          a bishop is not to be given:
+          if they have just cause of contradiction.
+          And it is noted in 
+          <ref xml:id="cy8th8-d1e321-Rd1e247" target="http://scta.info/resource/gd-p1d23-d1e185">
+            c. illud 23 dist.
+          </ref> 
+          even if he is given by the Pope 
+          <ref xml:id="cy8th8-d1e321-Rd1e250" target="http://scta.info/resource/gd-p1d22-d1e139">
+            22 dist. c. sacrosancta
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e257">
+          <pc type="pilcrow">¶</pc> 
+          If therefore a bishop ought not to be given to unwilling Christian peoples,
+          lest the unwilling people despise or hate a bishop not desired,
+          far less should a temporal ruler or king be given to a free,
+          foreign,
+          gentile and infidel people,
+          having their own and natural kings,
+          not recognizing a superior,
+          so unknown to them,
+          suspect as being of another race or almost nation,
+          and with great,
+          most dangerous and most certain and unquenchable scandal,
+          not of one people only,
+          but truly also of an infinite number of peoples,
+          and of diverse nations.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e290">
+          <pc type="pilcrow">¶</pc> 
+          And that the argument proceeds by place from the greater is evident,
+          because Christian peoples or the Christian populace are more obligated to undergo a bishop 
+          given or instituted by the Pope and exhibited or proposed to the people,
+          or elected by clerics,
+          than free peoples of gentiles or infidels:
+          or even of recently converted peoples to suffer or accept a temporal king or ruler 
+          of another race and foreign people,
+          since in all ways they are outside the doors of the Church:
+          or if some have already been converted,
+          nevertheless they have their own and natural princes,
+          free,
+          recognizing no superior,
+          on account of which they can justly and by the authority of the law of nature 
+          oppose any other institution concerning 
+          <pb ed="#B" n="54-r"/>
+          another superior,
+          since they certainly have just cause of contradicting.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e324">
+          If to those,
+          namely to old Christians,
+          a bishop ought not to be given even by the Pope against their will:
+          much less to infidels of whom we speak,
+          or to recently converted,
+          should a foreign King be given without their free consent and voluntary acceptance.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e335">
+          <pc type="pilcrow">¶</pc> 
+          Thirdly the aforesaid are confirmed by using also the same argument from the lesser thus:
+          The Church now in modern times (as it has used from old) 
+          in the establishment of the supreme prince in any part of the Christian people:
+          does not take away but permits and confirms the consent of the people,
+          or of those to whom by right or custom it belongs to elect and accept him of their own accord.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e352">
+          Therefore neither ought it to be taken away from those infidels and similar peoples,
+          or even from those recently converted from them etc.
+          The consequence is evident from what was said a little above.
+          The antecedent is proved:
+          because the Church in God's place approves and confirms the election which Christian peoples make 
+          of a ruler or supreme prince,
+          as appears in the empire and in the city of Venice and others who have the power 
+          to elect their ruler by right or custom as 
+          <ref xml:id="cy8th8-d1e321-Rd1e370">93 dist. c. legimus</ref> 
+          there 
+          <quote xml:id="cy8th8-d1e321-Qd1e374" source="http://scta.info/resource/gd-p1d93-d1e49y@51-55">
+            how if the army makes an emperor.
+          </quote> 
+          And 
+          <ref xml:id="cy8th8-d1e321-Rd1e377" target="http://scta.info/resource/cice-l1t6-d1e119">
+            extra de electione c. 1
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e321-Rd1e383" target="http://scta.info/resource/cice-l1t6-Dd1e603@5-5">
+            c. venerabilem
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e321-Rd1e386" target="http://scta.info/resource/gd-p2c8q1-d1e347">
+            8, q. 1, c. licet
+          </ref>.
+          Nor is succession to successors taken away as in 
+          <ref xml:id="cy8th8-d1e321-Rd1e391" target="http://scta.info/resource/cice-l3t34-Dd1e184@7-7">
+            c. licet, de voto
+          </ref> 
+          with what is noted there.
+          Where the kingdom is transferred by succession.
+          Nor is the specially expressed judgment of the Pope required for this even within the Church:
+          but it suffices that he tacitly consent to him who is worthy to rule 
+          and is a zealot of the faith and obedient to the holy Roman Church,
+          argument 
+          <ref xml:id="cy8th8-d1e321-Rd1e403">c. Adrianus el. 2 63 dist.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e321-Rd1e410">96 dist. c. quis dubitet</ref>.
+          It applies that Baldus says in 
+          <ref xml:id="cy8th8-d1e321-Rd1e414">d. c. venerabilem de electione 1 columna</ref> 
+          that the Pope ought not to suppress the office or power of the electors of the empire,
+          in which nevertheless he obtains greater authority as is noted in 
+          <ref xml:id="cy8th8-d1e321-Rd1e454">c. ad apostolice de re iudicata lib. 6</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e424">
+          And thus by stronger reason in our case.
+          For if where there appears and is greater evidence of the power of the Church 
+          in the institution of a king or supreme prince,
+          that very power and authority or right of electing by the free consent of the peoples 
+          to whom it belongs by right or custom is not taken away:
+          much less by right can such power or authority and consent be taken away 
+          <pb ed="#B" n="54-v"/>
+          from gentile and infidel peoples existing entirely outside the Church,
+          in whom a lesser evidence of the power of the Church appears to be,
+          and in truth is less:
+          since it does not have coercive power over them,
+          but only in potency,
+          nor yet fully in potency,
+          as will be seen below.
+        </p>
+
+        <p xml:id="cy8th8-d1e321-d1e454">
+          Therefore a new King cannot be given to them unless those same peoples 
+          and those whose right is diminished have voluntarily consented.
+          If therefore it is necessarily required that those peoples and their princes consent 
+          to the election or institution concerning our Kings of Spain made by the Pope 
+          as universal lords of that world:
+          since the business is most grave and very burdensome,
+          namely against the natural freedom of those kingdoms and the servile 
+          and worse state of all the inhabitants and of their kings or magistrates,
+          and therefore extremely odious:
+          it is manifest that it is necessary,
+          so that they may freely give such consent:
+          that they be moved,
+          induced and persuaded by the sweetest,
+          gentlest,
+          indeed supplicating words and pleasing inducements and good reasons:
+          and not perfunctorily.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
+
