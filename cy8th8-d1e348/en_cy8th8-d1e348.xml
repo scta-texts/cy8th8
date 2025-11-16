@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 22</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 22</title>
+          <date when="2025-11-16">November 16, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="56-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e348">
+        <head xml:id="cy8th8-d1e348-Hd1e97">Section 22</head>
+
+        <p xml:id="cy8th8-d1e348-d1e99">
+          § 22
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e104">
+          Against this part and its proof there clearly object what was conceded and supposed 
+          <ref xml:id="cy8th8-d1e348-Rd1e111">above § 5 at the end</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e113">§ 7</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e115">8</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e118">9</ref>.
+          And most fully in our confirmatory treatise they were proved.
+          Which we published with deliberate and special reason for the strengthening of the right 
+          of our kings,
+          namely that those same illustrious kings of Castile and Leon were instituted 
+          as supreme princes by apostolic authority over that entire Indian world:
+          to whose authority the See itself justly subjected all those kingdoms and all peoples 
+          and nations as regards supreme jurisdiction or supreme principate.
+          Then it is argued thus.
+          For if the Apostolic See justly subjected that world to our kings,
+          with a most just cause existing
+          <pb ed="#B" n="56-v"/>
+          (that is) 
+          for the preaching of the faith and the conversion of those peoples:
+          what need is there to seek or await their consent with sweet and supplicating words?
+          For our kings can compel them by right of war to receive them:
+          and thus whether they wish it or not,
+          to have them as supreme princes according to what was proved in the aforesaid confirmatory treatise.
+          Therefore this part appears to be superfluous:
+          nor does it seem to be comprehended under the order of law.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e147">
+          <pc type="pilcrow">¶</pc> 
+          But if their consent must necessarily be required,
+          and they should finally be unwilling to give it:
+          by what reason I ask will that supreme and imperial power which our kings obtained 
+          from the papal donation or institution subsist by itself:
+          having no being in itself but in the intellect,
+          like beings of reason or of second intention,
+          or if it is something else that is supported from elsewhere,
+          like a habit?
+          Nevertheless it will be in vain,
+          lacking proper operation.
+          For everything is in vain which does not have proper operation:
+          since every thing exists for the sake of its operation,
+          as is said in 
+          <ref xml:id="cy8th8-d1e348-Rd1e171">2 de coelo et mundo</ref>.
+          But the operation of any power,
+          especially of supreme power,
+          is first to take possession of the kingdom,
+          that is of the citizens,
+          because a kingdom consists primarily in persons according to that passage in 
+          <ref xml:id="cy8th8-d1e348-Rd1e180">Proverbs 14</ref> 
+          <quote xml:id="cy8th8-d1e348-Qd1e182" source="http://scta.info/resource/prov14_28@1-11">
+            In the multitude of people is the dignity of the king:
+            and in the fewness of the people is the disgrace of the prince.
+          </quote>
+          And to test whether they willingly receive themselves into such dignity or power,
+          prepared to obey.
+          But if they should refuse to submit themselves:
+          the second operation,
+          namely compulsion to compel or punish them as rebels,
+          must necessarily intervene.
+          This is evident in 
+          <ref xml:id="cy8th8-d1e348-Rd1e198">Luke 19.</ref> 
+          Where it is said: 
+          <quote xml:id="cy8th8-d1e348-Qd1e200" source="http://scta.info/resource/lc19_27@1-16">
+            But as for my enemies (who did not wish me to reign over them) 
+            bring them here and kill them before me
+          </quote>.
+          But in our case,
+          with those peoples unwilling along with their kings and magistrates to consent 
+          to the said institution,
+          and thus denying consent without fear of juridical compulsion:
+          the said papal institution or imperial or supreme power remains empty of its proper operations.
+          Therefore in vain we will be able to call our kings supreme princes of the aforesaid world,
+          except in name.
+          Therefore either 
+          <pb ed="#B" n="57-r"/>
+          our kings by force and arms can by right compel those denying the said consent 
+          to receive them as supreme princes:
+          or such supreme power is feigned in vain.
+          And our kings are called supreme princes of the aforesaid world.
+          Therefore this part (namely) 
+          that those peoples ought to be induced by sweet and gentle words to receive them 
+          as supreme princes seems to contradict in every way what was determined,
+          especially in the said confirmatory treatise etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e245">
+          <pc type="pilcrow">¶</pc> 
+          To this doubt we respond that this part does not obstruct what was determined 
+          in the said treatise:
+          but is comprehended under the order of natural and divine law:
+          and therefore must necessarily be observed just like the rest,
+          as has been declared in the preceding proofs.
+          Nor can they be compelled by any mere man to give such consent unless they wish it:
+          although we frankly confess that the Supreme Vicar of Christ justly and prudently 
+          constituted our kings as supreme princes of that world,
+          and wisely and deservedly adorned them with imperial dignity,
+          not feigned or which is nothing in itself,
+          with every act of intellect circumscribed,
+          as beings of reason are:
+          but truly being,
+          having true being in the nature of things,
+          providently and deservedly adorned them,
+          as will be evident.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e282">
+          <pc type="pilcrow">¶</pc> 
+          For the fuller elucidation of which it should be known that in three ways 
+          or according to three states or times of those peoples we can speak concerning this part.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e295">
+          First or for that time in which the aforesaid peoples are or were infidels.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e300">
+          <pc type="pilcrow">¶</pc> 
+          Secondly or after they have already properly received holy baptism.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e308">
+          <pc type="pilcrow">¶</pc> 
+          Or thirdly after the invasions,
+          wars,
+          slaughters,
+          captivities,
+          despoliations of dominions,
+          dignities:
+          and other evils they have received savagely from the Spaniards.
+          If indeed we speak of the first state,
+          namely while the veil of infidelity holds those peoples:
+          then the following conclusion is posited.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e337">
+          <pb ed="#B" n="57-v"/>
+          As long as those peoples exist as infidels:
+          it will not be lawful for our kings to compel them to give the aforesaid consent.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e353">
+          <pc type="pilcrow">¶</pc> 
+          The conclusion is proved in many ways,
+          first thus:
+          Our kings,
+          as appears in the aforesaid confirmatory treatise in the second principal reason 
+          for the proof of the first conclusion,
+          have no coercive or contentious jurisdiction over the aforesaid peoples 
+          except in potency while they are in their infidelity,
+          but only voluntary in act.
+          But compulsion,
+          which will not occur without warlike apparatus,
+          pertains to contentious jurisdiction which is rendered against the unwilling,
+          as by the doctors in 
+          <ref xml:id="cy8th8-d1e348-Rd1e378">l. 2. ff. de officio proconsulis</ref>.
+          For it lacks the foundation of all judgment,
+          that is jurisdiction,
+          according to that passage in Exodus 2 
+          <quote xml:id="cy8th8-d1e348-Qd1e385" source="http://scta.info/resource/ex2_14@3-10">
+            Who made you prince and judge over us?
+          </quote> 
+          And it can be objected to him: 
+          <quote xml:id="cy8th8-d1e348-Qd1e390" source="http://scta.info/resource/rom14_4@1-12">
+            Who are you that judge another's servant.
+            To his own lord he stands or falls
+          </quote>. 
+          <ref xml:id="cy8th8-d1e348-Rd1e395">Romans 14</ref>.
+          For jurisdiction must always precede the office of the one declaring law.
+          Because it is born before it is exercised into act. 
+          <ref xml:id="cy8th8-d1e348-Rd1e416">C. qui pro sua iurisdictione. l. 1</ref>.
+          And it is noted in 
+          <ref xml:id="cy8th8-d1e348-Rd1e420">l. instar. C. de iure fisci lib. 10.</ref> 
+          Whence such judgment is called usurped.
+          Contrary to that in 
+          <ref xml:id="cy8th8-d1e348-Rd1e424">Deuteronomy 1</ref>: 
+          <quote xml:id="cy8th8-d1e348-Qd1e406" source="http://scta.info/resource/deut1_16@4-16 http://scta.info/resource/deut1_17@1-17">
+            Hear them and judge what is just,
+            because the judgment is God's
+          </quote>.
+          That is,
+          judgment is rendered by divine authority.
+          But he who judges concerning non-subjects or concerning those things to which 
+          his jurisdiction does not extend:
+          usurps the judgment of God.
+          And is injurious to God himself as Augustine says 
+          <ref xml:id="cy8th8-d1e348-Rd1e419">2, q. 1, c. Nomen</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e421">
+            St. Thomas on the epistle to the Romans where above lectio 1
+          </ref>, 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e426">2 2 q. 60, article 2, 3 and 6 in the body</ref>.
+          Violence would also thus be inflicted on those judged and injury would be done.
+          Contrary to that precept of law not to harm another 
+          <ref xml:id="cy8th8-d1e348-Rd1e455">ff. de iustitia et iure l. iustitia.</ref> 
+          Therefore 
+          <pb ed="#B" n="58-r"/>
+          it will not be lawful for our kings to compel them to give consent.
+          The consequence is evident because then our king is a private person lacking contentious jurisdiction.
+          As is proved explicitly in 
+          <ref xml:id="cy8th8-d1e348-Rd1e466">l. preses. l. et a, 2a ff. de officio presidis</ref>.
+          And 
+          <ref xml:id="cy8th8-d1e348-Rd1e471">a good gloss there</ref>.
+          And it is noted in 
+          <ref xml:id="cy8th8-d1e348-Rd1e473">d. l. de officio proconsulis</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e445">
+          <pc type="pilcrow">¶</pc> 
+          Therefore no other remedy remains to him to obtain possession of the aforesaid world 
+          except that by the sweetest words and pleasing inducements those peoples be moved 
+          and benevolently attracted so that they may give free consent:
+          which this part intends.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e460">
+          <pc type="pilcrow">¶</pc> 
+          Secondly the conclusion is proved:
+          the Church of God has no right to judge regularly concerning infidels 
+          who have never received the faith,
+          and far less concerning those who have not heard:
+          especially if they have separate kingdoms,
+          nor have they ever had anything good or evil to do with us.
+          And this is evident in 
+          <ref xml:id="cy8th8-d1e348-Rd1e509">1 Corinthians 5</ref> 
+          who himself frankly confesses saying:
+          For what have I to do with judging those who are outside?
+          Which opinion is common to all the holy Doctors,
+          both Greek and Latin,
+          namely that it pertains nothing to the Church to judge because they are not of its forum:
+          except to have care for their conversion:
+          as we have proved most extensively in our apology chapters 7, 8, 9.
+          And this has finally been decided today by 
+          <ref xml:id="cy8th8-d1e348-Rd1e525">the Council of Trent Session 14 c. 2</ref> 
+          where it is said thus: 
+          <quote xml:id="cy8th8-d1e348-Qd1e493">
+            It is certain that the minister of baptism ought not to be a judge:
+            since the Church exercises judgment on no one who has not first entered into it 
+            through the gate of baptism. 
+            <quote xml:id="cy8th8-d1e348-Qd1e499" source="http://scta.info/resource/Icor5_12@1-9">
+              For what have I,
+              says the Apostle,
+              to do with judging those who are outside?
+            </quote>
+            It is otherwise with the domestics whom Christ the Lord once makes members of his body 
+            by the washing of baptism
+          </quote> 
+          these words there:
+          But to compel these infidels who are entirely outside the Church,
+          dwelling in most separate kingdoms,
+          to accept our kings as universal princes:
+          is to judge concerning them and to judge them rather badly.
+          Therefore it is not lawful for our kings to compel them.
+          Therefore no remedy remains to them etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e519">
+          <pc type="pilcrow">¶</pc> 
+          Thirdly the conclusion is proved:
+          because such compulsion,
+          since it must necessarily be warlike,
+          would be done against those invincibly ignorant.
+          And thus they would be punished without fault,
+          which is most unjust,
+          just as if children of 
+          <pb ed="#B" n="58-v"/>
+          five years old were punished for not knowing the articles of faith.
+          For there is invincible ignorance which cannot be overcome by any study or diligence 
+          according to the doctors.
+          For no one sins in that which he cannot avoid 
+          <ref xml:id="cy8th8-d1e348-Rd1e574">56 dist. c. satis peruersum</ref> 
+          And 
+          <ref xml:id="cy8th8-d1e348-Rd1e579">16 q. 7, c. inuentum</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e581">c. cognoscentes de constitutionibus</ref> 
+          There:
+          it is not fitting that a thing which lacks fault be called to harm.
+          And 
+          <ref xml:id="cy8th8-d1e348-Rd1e588">de restitutione spoliorum c. conquerente</ref>.
+          Note in 
+          <ref xml:id="cy8th8-d1e348-Rd1e590">l. genero. ff. de his qui notentur infamia</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e348-Rd1e595">l. 2, C de iuris et facti ignorantia</ref> 
+          And such ignorance ought to harm no one 
+          <ref xml:id="cy8th8-d1e348-Rd1e600">
+            l. 52 25 § si seruus ff. de acquirendo rerum dominio
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e605">ff. ad l. aquil., l. si putatur</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e607">C. de poenis l. sancimus</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e348-Rd1e609">ff. de iuris et facti ignorantia l. iniquissimum.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e555">
+          <pc type="pilcrow">¶</pc> 
+          But such infidels,
+          especially the Indian nations,
+          are invincibly ignorant of the papal institution and who the Pope is 
+          and with what power he shines,
+          what the Gospel is and its preachers:
+          since these things are of the faith.
+          Similarly who the kings of Spain are and by what title,
+          for what reason or end they have sent their peoples to completely foreign kingdoms,
+          and similar things.
+          Nor can they overcome that ignorance by any study,
+          unless you say that they are bound to divine.
+          Therefore they are invincibly ignorant.
+          And thus being ignorant they lack fault.
+          Therefore to compel them by war would be most unjust.
+          Therefore it is not lawful for our kings as long as those peoples remain in their infidelity 
+          to compel them to receive them or to give consent,
+          as we have said.
+          Therefore no other remedy remains to them except that by flattery and sweet persuasions 
+          they be induced to consent.
+          If they wish to enter rightly and correctly into the supreme principate of that world.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e596">
+          <pc type="pilcrow">¶</pc> 
+          Fourthly the conclusion is proved thus:
+          our kings of Spain are bound by natural and divine law,
+          and thus from necessity of salvation,
+          to order and dispose their first entry or that of their messengers into those parts of the Indies,
+          and also their progress and all other things which would have to be done by them,
+          so that they may be suitable for the preaching of the Gospel 
+          and the conversion of the aforesaid peoples:
+          and to avoid all contrary things which might in any way be able to impede 
+          or even retard such preaching and conversion,
+          as is evidently apparent through the fifth consideration.
+          But if our kings should compel such peoples to give consent:
+          or by their own authority take possession of that world by force:
+          <pb ed="#B" n="59-r"/>
+          will not all be disturbed,
+          great and small:
+          kings and subjects,
+          peoples,
+          rulers and magistrates,
+          and will they not flee energetically to arms:
+          whence it is certain that all things will be filled with human blood,
+          slaughters and devastations of lands,
+          as is evident in the preceding §?
+          Will all these things make the entry of our kings into that world suitable for the preaching 
+          of the faith and conversion of souls as to the end of this entire great business,
+          proportionate?
+          Or will they not be a vehement and efficacious obstacle to such an end?
+          Indeed most efficacious for despising Christ and his religion:
+          for holding them in horror and perpetually blaspheming.
+          Let there be added to these what consideration 3 proclaims.
+          Therefore it is not lawful for our kings to compel those peoples to receive them 
+          as supreme prince unless they wish it voluntarily.
+          Therefore no other remedy remains to them except by flatteries and good works 
+          and gracious persuasions those peoples be induced and provoked to give free consent.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e668">
+          <pc type="pilcrow">¶</pc> 
+          Nevertheless with all these things it stands well that the Supreme Vicar of Christ 
+          from the duty of pastoral office could,
+          indeed was bound (as we have proved in the often-mentioned confirmatory treatise) 
+          to institute some Catholic king and bestow upon him a certain imperial and supreme dignity 
+          and power over that world for the favor of the faith:
+          who would cause it to be preached according to the form established by Christ:
+          would remove impediments,
+          if any should happen to arise from some powerful infidel princes,
+          for instance Turks and Mohammedans,
+          according to place and time:
+          and would preserve in the solidity of that same faith those coming to 
+          and receiving the same faith.
+          Surely always preserving in his acts the law,
+          especially divine and natural,
+          whose eleventh part,
+          namely that those peoples willingly receive our kings as universal princes,
+          we have assigned.
+          But in the meantime while they give consent,
+          the aforesaid imperial power will not be idle or in vain,
+          lacking its operations:
+          even if there should never be any hope concerning the giving of consent 
+          by those same peoples:
+          since they have very many things in which operating our kings will certainly not be idle
+          <pb ed="#B" n="59-v"/>
+          as in the preceding ten parts in conclusion 2 § 11 and following,
+          and in the corollary after the 3rd conclusion § 30 and § 39 will be shown more extensively.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e720">
+          From which it appears that the aforesaid supreme dignity is not a being of reason:
+          but real,
+          having being in the nature of things,
+          with every act of intellect circumscribed:
+          although it does not subsist by itself.
+          Nevertheless it subsists positively and subjectively in another,
+          just as also a habit.
+          For a habit is reduced to the command of the will and is that by which someone acts 
+          when he wishes.
+          But the will has itself indeterminately to infinite things.
+          Nor is this in vain,
+          although it does not actually tend to all:
+          provided it actually tends to that which is suitable to place and time.
+          And therefore also a habit is not in vain,
+          although not all things are reduced into act,
+          that which is suitable to the due end of the will according to the exigency of business and time.
+          So it is concerning that power which we call supreme and imperial,
+          conferred on our kings,
+          which they have in potency,
+          is not in vain nor idle.
+          For they can accomplish very many things in order to extend the faith 
+          and gain such peoples for Christ:
+          although for a small or great space of time they are by no means received as universal princes,
+          as is widely evident in the places immediately alleged above.
+        </p>
+
+        <p xml:id="cy8th8-d1e348-d1e762">
+          But the aforementioned power will have its perfection when such peoples and nations 
+          shall have given free consent,
+          accepting the papal institution concerning our kings over that world.
+          But if they should never wish to give it as long as they remain infidels:
+          our kings will be able to inflict no force on them without violation of divine and natural law:
+          as already clearly appears from what has been said.
+          Therefore it is easy to see:
+          how necessary it is to induce them to consent by sweet words and gentle persuasions,
+          which our eleventh part intends.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
