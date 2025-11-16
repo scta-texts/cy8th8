@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 21</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+            <resp>Transcription Editor</resp>
+            <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 21</title>
+          <date when="2025-11-15">November 11, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="54-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e334">
+        <head xml:id="cy8th8-d1e321-Hd1e97">Section 21</head>
+        
+        <p xml:id="cy8th8-d1e334-d1e100">
+          § 21
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e105">
+          But if the aforesaid means (which God forbid) should be omitted,
+          and immediately when Spaniards shall have arrived at those lands and kingdoms 
+          and shall have entered them,
+          they should notify the same peoples of such new,
+          so unusual and for ages unheard of by them,
+          indeed not even dreamed of (as we have said) things,
+          namely that they are bound to render obedience,
+          servitude and subjection to a foreign king,
+          and to receive him as universal lord over their own and natural kings and lords,
+          and this as regards all inhabitants,
+          but as regards their kings and princes,
+          <pb ed="#B" n="55-r"/>
+          if we speak,
+          if they should hear that they ought to submit their necks to another king's authority 
+          and recognize a superior,
+          when they exist as free kings and superior lords and great Lords,
+          ruling magnificently and pompously in their own manner over many other lords:
+          will they not all equally be able to be most fiercely disturbed on hearing these things:
+          terrified and implacably scandalized?
+          Did not King Herod,
+          hearing from the Magi that the King of the Jews was born:
+          become troubled,
+          and all Jerusalem with him?
+          And that they could indeed be disturbed is evident because someone is said to disturb another 
+          by simple entry into his possession against his will 
+          <ref xml:id="cy8th8-d1e334-Rd1e150">l. iniuriarum § fine ff de iniuriis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e334-Rd1e155">1 dist c. 1.</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e153">
+          <pc type="pilcrow">¶</pc> 
+          Likewise someone disturbs another by taking away fruits 
+          <ref xml:id="cy8th8-d1e334-Rd1e165">
+            Baldus in l. post sententiam ultima columna C. de sententiis.
+          </ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e163">
+          <pc type="pilcrow">¶</pc> 
+          Likewise by plowing and gathering of fruits,
+          Baldus in consilium quidam acusatus at the end,
+          and such a disturber is called malicious 
+          <ref xml:id="cy8th8-d1e334-Rd1e180">
+            Baldus in l. in cunctis, 1 columna C. finium regundo.
+          </ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e174">
+          <pc type="pilcrow">¶</pc> 
+          Likewise it is called a delict 
+          <ref xml:id="cy8th8-d1e334-Rd1e189">l. si quis § si tutoris. C. si vi aut clam.</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e182">
+          Likewise someone is said to disturb by resistance. 
+          <ref xml:id="cy8th8-d1e334-Rd1e198">Baldus in l. 1, C. de testibus.</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e187">
+          <pc type="pilcrow">¶</pc> 
+          By selling another's property and handing over possession to the buyer 
+          <ref xml:id="cy8th8-d1e334-Rd1e208">gloss and Bartholus in l. si duo 2 columna ff. uti possidetis.</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e197">
+          Likewise by asserting to have a servitude in another's property 
+          <ref xml:id="cy8th8-d1e334-Rd1e218">
+            gloss and Bartholus in d. l. si duo in princ. 1. q. ff. uti possidetis
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e334-Rd1e223">l. 2 § fine ad finem ff de acqui emptio</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e334-Rd1e228">l. menius § fundo ult. colu. ff. de legatis 2.</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e206">
+          <pc type="pilcrow">¶</pc> 
+          By disturbing in a servitude of an estate:
+          he is said to disturb in the estate,
+          <ref xml:id="cy8th8-d1e334-Rd1e237">Bartholus in l. sicut § aristo.</ref> 
+          verse turbatur 
+          <ref xml:id="cy8th8-d1e334-Rd1e242">§ si seruus where the gloss.</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e215">
+          <pc type="pilcrow">¶</pc> 
+          Likewise someone disturbs by any annoyance and impediment 
+          <ref xml:id="cy8th8-d1e334-Rd1e252">instit de interdictis § retinendum.</ref> 
+          <ref xml:id="cy8th8-d1e334-Rd1e254">Cynus in l. 1, C. uti possidetis</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e225">
+          <pc type="pilcrow">¶</pc> 
+          Likewise by denying that the adversary does not possess 
+          <ref xml:id="cy8th8-d1e334-Rd1e264">
+            Bartholus in l. si prius ff. de operis noui nunciatione.
+          </ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e234">
+          <pc type="pilcrow">¶</pc> 
+          Likewise when someone asserts himself to possess or to have some right. 
+          <ref xml:id="cy8th8-d1e334-Rd1e277">Baldus in l. ordinari 5 columna C. de rei vendicatione</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e334-Rd1e282">l. non ab re. C. vnde vi.</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e244">
+          <pc type="pilcrow">¶</pc> 
+          But let us pass over in silence many other examples of disturbance:
+          there is no one who patiently and without greatest disturbance of his spirit 
+          <pb ed="#B" n="55-v"/>
+          can hear that he should lose his freedom:
+          which thing is known to be inestimable and lovable as 
+          <ref xml:id="cy8th8-d1e334-Rd1e301">was proved above</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e334-Rd1e303">l. libertas ff. de regulis iuris.</ref> 
+          And especially that he ought to be subjected to an unknown king,
+          of another unknown race.
+          Since such kings are wont to be little affectionate toward the people 
+          over whom they are placed:
+          and consequently do not care much about them.
+          And again to afflict them with exactions,
+          unbearable forced services and to burden them with other unusual burdens.
+          And this was the reason why the Lord prohibited his peculiar people 
+          from making themselves a king of another race,
+          as is evident 
+          <ref xml:id="cy8th8-d1e334-Rd1e320">Deuteronomy 17</ref> 
+          And 
+          <ref xml:id="cy8th8-d1e334-Rd1e322">St. Thomas 1 2 q. 105 article 1 2.</ref> 
+          Which also 
+          <ref xml:id="cy8th8-d1e334-Rd1e327">
+            Bartholus mentions in tractatu de regimine ciuitatis 4 and penultimate columns.
+          </ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e280">
+          <pc type="pilcrow">¶</pc> 
+          But what I ask will they do and how will they be disturbed,
+          or have been disturbed,
+          those who have suffered so many insults,
+          calamities,
+          and slaughters from our people.
+          And those to whom the Spaniards have not yet come,
+          and nevertheless have heard how many evils we have inflicted on neighboring provinces:
+          when the messengers of our King seek from them their consent and will 
+          to receive him as supreme prince.
+          If they probably presume and fear with a fear falling upon the most steadfast men,
+          that they will be despoiled of their goods,
+          dignities and dominions will be taken from them,
+          their wives ravished,
+          they will be orphaned of their children and reduced into complete 
+          and most bitter servitude?
+          Truly with the greatest disturbance of their spirits full,
+          with terrible horror and immense pain of the viscera and indignation,
+          they will by no means be able to endure even hearing it.
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e315">
+          For who of sound mind will ever dare to doubt that those peoples immediately 
+          when they first hear this,
+          will rightly rush to the natural,
+          just and common refuge of all nations.
+          Namely to arms,
+          and will repel force by force with all their might:
+          so that either they expose their life to the dangers of death and finish it in war:
+          or they free their own republics from such invaders whom they judge not undeservedly 
+          to be impious and wicked,
+          for they are,
+          and they see themselves most unjustly about to be subjected?
+          What cause is more just for waging war than the repulsion of servitude.
+          According to 
+          <pb ed="#B" n="56-r"/>
+          <ref xml:id="cy8th8-d1e334-Rd1e394">Cicero in the Philippics l. 7.</ref> 
+          And 
+          <ref xml:id="cy8th8-d1e334-Rd1e396">Vegetius de re militari lib. 3</ref> 
+          Who doubts that the art of war is more powerful than all things,
+          through which freedom is retained and the dignity of the province is propagated 
+          and the empire is preserved.
+          And again,
+          there is no secure possession of riches unless it is preserved by the defense of arms.
+          But concerning these things more fully elsewhere.
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e351">
+          Therefore to avoid such grave and unjust disturbance in those peoples:
+          to prevent so many evils which must necessarily intervene in wars,
+          so many deaths,
+          slaughters,
+          devastations of lands (and what is more miserable and lamentable) 
+          so many damnations of souls,
+          and consequently so many injustices and most wicked works of tyrants,
+          and so that there may be a just and God-approved entry,
+          principate and universal dominion of our kings into that world:
+          it is necessarily required that most modestly,
+          most gently,
+          most discreetly and most sweetly,
+          with sweet and supplicating words,
+          with good reasons and inducements,
+          they be moved,
+          induced,
+          persuaded to freely give their own consent.
+        </p>
+        
+        <p xml:id="cy8th8-d1e334-d1e394">
+          And thus 
+          <ref xml:id="cy8th8-d1e334-Rd1e466">
+            part 11 of the conclusion concerning which we began to treat in § 16
+          </ref> 
+          is evident.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
