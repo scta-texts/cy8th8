@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 24</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+            <resp>Transcription Editor</resp>
+            <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 24</title>
+          <date when="2025-11-19">November 19, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="62-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e374">
+        <head xml:id="cy8th8-d1e374-Hd1e97">Section 24</head>
+        
+        <p xml:id="cy8th8-d1e374-d1e99">
+          § 24
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e104">
+          But the third proof is through instruments or privileges,
+          or even through papal letters.
+          By this also those peoples will by no means be able to be convinced 
+          so that they are bound to stand by whatever letters that may happen to be shown to them.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e115">
+          This is proved thus:
+          By that which someone probably ignores and to which by not giving faith 
+          he is excused by probable ignorance:
+          he cannot be convinced:
+          nor will anything be able to be necessarily concluded to him.
+          Therefore by whatever instruments,
+          privileges,
+          or even by papal letters,
+          those peoples cannot be convinced,
+          nor can anything be necessarily concluded to them,
+          even after they have received the faith,
+          that the aforesaid institution emanated from the Pope,
+          or that the Pope had power to make it.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e133">
+          The antecedent is evident concerning him who is ignorant:
+          because he has not learned the knowledge of some art.
+          For such a one probably ignores that knowledge since he has not learned it:
+          nor does he profess that art,
+          or 
+          <pb ed="#B" n="62-v"/>
+          is bound to learn it,
+          who also by not giving faith to the principles of that art is excused by probable ignorance:
+          because he is ignorant without any fault,
+          and consequently could not be convinced:
+          nor will anything of that art be able to be necessarily concluded to him:
+          as is evident in itself.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e160">
+          And it is proved by 
+          <ref xml:id="cy8th8-d1e374-Rd1e163">l. regula, § sed facti</ref> 
+          with what is noted there:
+          and in regula ignorantia de regulis iuris where fully by Dynus and by 
+          <ref xml:id="cy8th8-d1e374-Rd1e171">gloss 38 distinctione in suma</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e374-Rd1e174">1, q. 3, § notandum in text and gloss.</ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e169">
+          <pc type="pilcrow">¶</pc> 
+          But ignorance is probable when someone is ignorant of what commonly all 
+          or the greater part of citizens or those who are of his state or quality are ignorant of 
+          <ref xml:id="cy8th8-d1e374-Rd1e188">
+            Baldus in l. iuris ignorantia in the word Iudicis C. qui admitti.
+          </ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e183">
+          The consequence is proved:
+          because such peoples,
+          even after they have received the faith,
+          at least for a long time,
+          will probably,
+          indeed invincibly,
+          be ignorant of the force or authority of any instruments or privileges or papal letters:
+          and therefore if they do not give faith to such letters,
+          they will be excused by probable ignorance.
+          Since the art of letters is not at all among them.
+          And such instruments are by no means held among them:
+          nor have they ever been accustomed to give faith to such things:
+          or to bear witness in such a way.
+          But rather that art seems to them to be a certain sleight of hand 
+          or divinatory superstition or incantation,
+          or something similar coming from the work of demons:
+          when they perceive that what is done far away,
+          the Spaniards know completely.
+          And therefore blamelessly and without any fault they have not learned the art of letters 
+          and all nations of their quality universally are ignorant of it,
+          whence no one of them is bound to it,
+          and consequently no one of them is bound to have faith in whatever letters or instruments 
+          which the Spaniards will show them,
+          at least for a long time:
+          probable ignorance,
+          indeed invincible,
+          excusing them.
+          For those peoples have sufficient impediment:
+          on account of which they could not know the force and 
+          <pb ed="#B" n="63-r"/>
+          authority of instruments or letters.
+          Nor are they compelled to believe the Spaniards asserting this:
+          since in such a difficult and grave business they are entirely suspect:
+          as has been proved:
+          Argument for all that has been said in 
+          <ref xml:id="cy8th8-d1e374-Rd1e251">c. inter dilectos de fide instrumentorum</ref>.
+          Where certain privileges of the Church are not believed.
+          See what is noted there in 
+          <ref xml:id="cy8th8-d1e374-Rd1e258">c. ad audientiam de prescriptionibus</ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e245">
+          From which you will see that even among us,
+          so that faith be had in some writing:
+          it is necessary that it was commonly accustomed to have been believed among us by our ancients:
+          or that it be found in a place concerning which no suspicion of falsity is had.
+          From which it is evident that if among us some writing is believed and makes faith:
+          this is:
+          because it is indubitably reputed to be authentic and faithful and without any suspicion of falsity.
+          Therefore where the reason of such certitude and indubitable truth shall have ceased:
+          the giving of faith and belief itself will have to cease.
+          But among those peoples such reason of certitude and indubitable truth ceases:
+          since commonly all without any fault are ignorant of letters and books and their force:
+          nor do they know them to be of any moment of estimation or authority:
+          indeed they have very many motives for conceiving vehement and violent suspicion of falsity:
+          since the letters or instruments made concerning this,
+          and which can be shown to them,
+          contain things which are expressly contrary to natural law and the law of nations,
+          and contrary to their public utility according to their estimation at least.
+          Therefore it will not be a wonder if there is lacking in them belief 
+          and the exhibition of faith to any letters,
+          even papal:
+          especially in a matter so difficult and of such great prejudice.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e289">
+          By the third species of proof also,
+          namely through writing or any letters,
+          even papal,
+          those peoples cannot be convinced,
+          nor will it be able to be necessarily concluded to them that the aforesaid institution 
+          was made by the Pope,
+          or that the Pope could make it to the prejudice of so many kings and lords 
+          and peoples likewise.
+          But if anyone should try to prove the aforesaid to such peoples through any letters or instruments:
+          <pb ed="#B" n="63-v"/>
+          it would be just as if to one not knowing or ignorant of the knowledge of some art:
+          he wishes to prove something pertaining to it through the principles of that same art:
+          which would be ridiculous and quite unreasonable.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e318">
+          <pc type="pilcrow">¶</pc> 
+          Concerning the 4th species of proof,
+          see below the 4th principal conclusion § 31 where you have the resolution 
+          with excellent reasons.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e333">
+          <pc type="pilcrow">¶</pc> 
+          Concerning the 5th,
+          what we said concerning the third suffices:
+          and add that before the year of the Lord 1492 it was not yet known whether that world 
+          and its inhabitants were in the nature of things.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e347">
+          The 6th is nothing to the purpose.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e356">
+          And similarly the 7th.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e363">
+          <pc type="pilcrow">¶</pc> 
+          But the 8th,
+          namely through oath:
+          by this also nothing can be concluded to them,
+          even if all the Spaniards should swear,
+          for the reasons alleged above for the 2nd.
+          Therefore they are not bound to stand by such oath,
+          nor to give it any faith.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e381">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore by the often-made proofs of our law such peoples and nations cannot be convinced,
+          even after they have received the faith,
+          nor can it be fully or sufficiently concluded to them or certainly proved 
+          that the said institution or promotion concerning our kings was made by the Pope,
+          or that the Pope had power to decree it:
+          and consequently they are not bound to stand by the said proofs:
+          because they can rightly presume that the letters shown to them concerning these matters are false:
+          and that those testifying to it can and ought to be accused of lying and falsity:
+          and since it also contains in itself something which by the judgment of men 
+          and according to truth is contrary to natural law and the law of nations,
+          and can seem to them to be for the destruction of their republics,
+          and consequently deviant from all honesty and justice:
+          and thus will be estimated by the judgment of all men,
+          at least to be to their maximum prejudice:
+          because it places over them a foreign and unknown lord:
+          indeed any prudent and capable man would not hesitate to resist with all his might 
+          such an institution.
+        </p>
+        
+        <p xml:id="cy8th8-d1e374-d1e429">
+          Therefore those peoples have just and reasonable cause not to accept,
+          or at least to defer,
+          even after they have received the faith,
+          <pb ed="#B" n="64-r"/>
+          such a papal institution or promotion concerning our kings,
+          because reasonable cause is rendered:
+          and they will do this by the authority of law.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

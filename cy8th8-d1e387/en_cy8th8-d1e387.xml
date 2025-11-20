@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 25</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 25</title>
+          <date when="2025-11-20">November 20, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="62-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e387">
+        <head xml:id="cy8th8-d1e387-Hd1e97">Section 25</head>
+
+        <p xml:id="cy8th8-d1e387-d1e99">
+          § 25
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Secondly,
+          the minor of the principal reason posited above § 23 is principally proved,
+          namely that those peoples,
+          by not accepting the said papal institution concerning our kings,
+          are moved by just and legitimate cause and by the authority of law.
+          And it is proved thus.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e122">
+          <pc type="pilcrow">¶</pc> 
+          He has just and legitimate cause not to accept or at least to defer the command 
+          of a prince or even the Pope,
+          or any other ordinance:
+          who by it thinks himself unjustly burdened:
+          especially if that burden is upon the whole people or kingdom,
+          and from it is feared that some great scandal will arise:
+          or dangerous disturbance of the whole people or kingdom,
+          or another similar evil to come.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e149">
+          But those peoples and kingdoms,
+          especially their princes and kings,
+          even after they have received the faith,
+          can reasonably consider themselves and theirs much unjustly burdened 
+          by the often-said papal institution concerning the universal dominion 
+          and jurisdiction of that entire world to our kings,
+          and rightly fear great scandal and burden and most dangerous disturbances in the whole people,
+          indeed in peoples and kingdoms,
+          by accepting the said institution when they see themselves all to be subjected 
+          to a foreign and unknown lord,
+          which naturally instills fear in all men,
+          and thus they can wonder about the mind and goodness and justice of the Pope:
+          be disturbed and exasperated in their spirits.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e174">
+          Therefore such peoples,
+          nations and their kings have legitimate and reasonable cause not to admit 
+          such papal institution,
+          or at least to defer its acceptance etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e186">
+          The consequence is noted with the Major and the proof of the Major 
+          of the preceding reason.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e191">
+          <pc type="pilcrow">¶</pc> 
+          The Minor is proved as regards the first part,
+          <pb ed="#B" n="64-v"/>
+          namely that they can reasonably consider themselves and theirs unjustly burdened etc.
+          Because as was proved in the first reason,
+          by no species of proofs,
+          and thus neither by divine or natural law,
+          nor even by civil and canon law,
+          can it be proved to them:
+          because in neither is it found to be provided:
+          that for having care of their conversion and spiritual salvation they are obligated 
+          to receive our kings,
+          even foreigners,
+          as universal lords:
+          but rather on the contrary divine and natural law itself they have in their favor,
+          as anyone moderately learned can understand for himself,
+          and as we have explained in the said confirmatory treatise and more extensively in 
+          <ref xml:id="cy8th8-d1e387-Rd1e226">
+            our book on the one way of calling all peoples to the true religion
+          </ref>.
+          It follows:
+          that for their defense they can by right oppose the exception of unjust burden 
+          and especially of injury:
+          and truly feel and think themselves most gravely and very enormously injured.
+          Since they are free kingdoms and peoples and subject to no one except their own lords:
+          and their princes themselves not recognizing a superior,
+          judging and reasonably feeling that the industry,
+          care and expenses of our kings which they will undergo or have already undergone 
+          for their conversion and reduction to Christ,
+          they have offered to Christ himself freely according to the custom of Christians:
+          just as they themselves received freely.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e258">
+          <pc type="pilcrow">¶</pc> 
+          For great burden and injury,
+          indeed maximum,
+          is judged by all men:
+          to change lord or to recognize and have another superior and multiple lords,
+          or that their lord be not free.
+          As in c. fi. de dilationibus.
+          And what the doctors note there and in c. suborta de re iudicata and in l. imperialem § preterea ducatus 
+          de prohibita feudi alienatione per federicum and 
+          <ref xml:id="cy8th8-d1e387-Rd1e289">Innocent notes in c. auditis de prescriptionibus</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e387-Rd1e295">
+            Hostiensis and Panormitanus and Felinus,
+            and others,
+            in c. dilecti de maioritate et obedientia,
+            and in c. fi. eo titulo
+          </ref>, 
+          and 
+          <ref xml:id="cy8th8-d1e387-Rd1e300">
+            the same Panormitanus in c. fin. de causa possessionis et proprietatis
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e306">
+          <pc type="pilcrow">¶</pc> 
+          But if any people or city or province:
+          or kingdom,
+          even among ancient Christian peoples,
+          should feel such burdens and injuries 
+          <pb ed="#B" n="65-r"/>
+          from the letters or rescript or any ordinance of the Pope,
+          since it deviates at first sight from natural reason and is contrary to public utility,
+          and which would prepare perpetual prejudice,
+          to such letters,
+          command or any ordinance they would justly and reasonably not obey,
+          nor hold it as valid,
+          even if they should have a second command.
+          Therefore far more reasonably and justly those peoples and nations,
+          even after they have received the faith,
+          since then they will be tender and recent and neophytes,
+          that is newly converted to the faith,
+          can not hold the aforesaid institution as valid,
+          nor accept it:
+          or at least defer consent,
+          indeed even resist it:
+          by argument from the lesser which is valid in law as in c. quemadmodum § nam si potest 
+          de iure iurando and in c. cum in cunctis de electione.
+          The statement of John of Andrea applies that if by a privilege of the prince conceded 
+          by his own motion some university happens to be gravely injured,
+          the remedy of that same prince is to be implored concerning this,
+          as is noted in c. suggestum de decimis and Panormitanus in c. 2, 
+          de immunitate ecclesiarum column 5.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e359">
+          <pc type="pilcrow">¶</pc> 
+          To this purpose the notable opinion of Innocent in c. inquisitioni de sententia excomunicationis applies.
+          Where he says that if the Pope commands a layman not subject to him temporally 
+          that he should give his thing to someone,
+          he is not bound to obey him if legitimate cause of obeying does not appear,
+          since he is not subject to him temporally.
+          Which statement applies to many things according to Panormitanus in c. que in ecclesiarum 
+          de constitutionibus.
+          To the same Clement. Pastoralis de re iudicata where it is weighed that the King of Sicily 
+          was not subject to the emperor:
+          you should add that even if he is subject to him,
+          he can not obey:
+          when there is not or does not appear legitimate cause,
+          or at least await a second command according to what was predetermined.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e385">
+          <pc type="pilcrow">¶</pc> 
+          The second part of the minor,
+          namely that their princes and greater men rightly have cause to fear grave scandal 
+          and dangerous disturbance,
+          was proved in § 21 and will also be seen in § 30,
+          in which several reasons were mentioned why rightly all the inhabitants of those 
+          <pb ed="#B" n="65-v"/>
+          regions can:
+          be most fiercely disturbed:
+          and implacably scandalized:
+          Therefore they have just and reasonable cause not to accept the mentioned papal institution,
+          or at least to defer such consent or acceptance.
+          And thus the same as before.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e426">
+          <pc type="pilcrow">¶</pc> 
+          Thirdly the same is principally proved thus.
+          He has legitimate and reasonable cause not to obey,
+          accept,
+          or defer the command,
+          letters or any ordinance of a prince or Pope:
+          who is induced to not obeying,
+          accepting or at least deferring by probable and just fear.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e448">
+          But those peoples and nations with their princes and superiors are induced to not obeying,
+          accepting and deferring consent to the aforesaid papal institution by probable and just fear.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e457">
+          Therefore they have just and reasonable cause not to obey,
+          accept,
+          or at least defer,
+          even after they have received the faith,
+          the aforesaid institution,
+          command or any ordinance.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e473">
+          The Major is proved,
+          because just fear,
+          even probable,
+          which otherwise according to the laws is called falling upon a steadfast man,
+          which is the cause of present or future danger and trepidation of mind 
+          <ref xml:id="cy8th8-d1e387-Rd1e481" target="http://scta.info/resource/bgy6gt-d1e567-d1e108">
+            ff. quod metus causa, l. 1
+          </ref> 
+          namely when grave evil is feared gravely,
+          that is from probable cause,
+          excuses in all things which a man does because of just fear or fright,
+          except sin,
+          whence it excuses,
+          annuls,
+          rescinds and removes an act requiring free consent,
+          as is evident through 
+          <ref xml:id="cy8th8-d1e387-Rd1e504" target="http://scta.info/resource/bgy6gt-d1e567">
+            the entire title ff. quod metus causa
+          </ref>, 
+          and by 
+          <ref xml:id="cy8th8-d1e387-Rd1e507" target="http://scta.info/resource/cice-l1t40-Dd1e123">
+            cap. abbas
+          </ref>, 
+          and 
+          <ref xml:id="cy8th8-d1e387-Rd1e510" target="http://scta.info/resource/cice-l1t40-Dd1e184">
+            cap. dilectus extra que vi aut metus causa fiunt
+          </ref>.
+          So much so that a contract celebrated through fear in those things which require free consent:
+          is null by the law itself,
+          as is read and noted in 
+          <ref xml:id="cy8th8-d1e387-Rd1e524">l. similiter § fine ff. eo</ref> 
+          and see 
+          <ref xml:id="cy8th8-d1e387-Rd1e532">
+            Panormitanus and others in c. veniens. El. 2 de sponsalibus
+          </ref> 
+          where it is evident that those things which are done through such fear regularly do not hold:
+          provided someone falls into fear without his fault,
+          and rescission of those things which have been done can be sought by the action 
+          which fear caused,
+          <pb ed="#B" n="66-r"/>
+          as in the said laws.
+          And those things which induce just fear or fright according to 
+          <ref xml:id="cy8th8-d1e387-Rd1e551" target="http://scta.info/resource/ta-l4d29q1-d1e166">
+            St. Thomas,
+            in 4. distinction 29. question 1. article 2. argument 2.
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e387-Rd1e557" target="http://scta.info/resource/ta-l4d29q1-d1e185">
+            the body
+          </ref>:
+          are death,
+          beatings and tortures as in 
+          <ref xml:id="cy8th8-d1e387-Rd1e560">d. c. cum dilectus</ref> 
+          dishonor through rape and servitude as 
+          <ref xml:id="cy8th8-d1e387-Rd1e566" target="http://scta.info/resource/bgy6gt-d1e567-Dd1e181">
+            isti quidem ff. eodem
+          </ref> 
+          <ref xml:id="cy8th8-d1e387-Rd1e571">isti. eodem. § 1. 2. et 3.</ref> 
+          and chains which lead back to servitude.
+          As in 
+          <ref xml:id="cy8th8-d1e387-Rd1e576" target="http://scta.info/resource/bgy6gt-d1e567-d1e172">
+            l. neque timorem. ff. eodem
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e581">
+          <pc type="pilcrow">¶</pc> 
+          Just fear is also inflicted by the loss of all or the greater part of temporal goods as in 
+          <ref xml:id="cy8th8-d1e387-Rd1e596" target="http://scta.info/resource/cice-l1t40-Dd1e123">
+            d. c. Abbas
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e387-Rd1e600" target="http://scta.info/resource/wef6td-d1e607-d1e120">
+            c. frequens. de restitatione spoliatorum. lib. 6
+          </ref> 
+          if someone cannot be sustained without the goods which he fears to lose.
+          As is noted by 
+          <ref xml:id="cy8th8-d1e387-Rd1e607">Panormitanus and others in d. c. abbas.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e387-Rd1e610">
+            gloss in l. aduocati. C. de aduocatione diuersorum iudiciorum
+          </ref> 
+          notes that money is the life of man:
+          and that temporal goods are nothing other than bodily life:
+          whence just as fear of death excuses as was said,
+          so fear of losing temporal goods or the greater part of them.
+          And the reason is because if in odious matter all goods and the greater part of goods 
+          are equated as in 
+          <ref xml:id="cy8th8-d1e387-Rd1e627" target="http://scta.info/resource/wef6td-d1e607-d1e120">
+            d. c. frequens
+          </ref>:
+          the same seems true in a favorable case as 
+          <ref xml:id="cy8th8-d1e387-Rd1e635">Panormitanus notes in d. c. abbas.</ref> 
+          Hence:
+          that temporal goods as necessary always follow the condition of the person as in c. 1, 
+          de iure patronatus and in authent. ingressi. C. De sacrosanctis ecclesiis.
+          For our bodily life cannot be sustained without the help of temporal things.
+          And on the contrary 1. q. 1 si quis obiecerit. and 
+          <ref xml:id="cy8th8-d1e387-Rd1e649">gloss in d. c. abbas</ref>.
+          And from this not only when someone cannot live without those things:
+          but also when he suffers grave loss.
+          And for this 
+          <ref xml:id="cy8th8-d1e387-Rd1e659" target="http://scta.info/resource/gd-p1d50-Dd1e597">
+            c. presbyteros 50 distinctione
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e387-Rd1e664">l. penultima. C. eodem</ref> 
+          apply.
+          And the aforesaid have such an effect of excusing:
+          even if they are only in threat and not inflicted,
+          when it is probably estimated that it will be so.
+          Argument of those things which are noted in 
+          <ref xml:id="cy8th8-d1e387-Rd1e679" target="http://scta.info/resource/cice-l1t40-Dd1e184">
+            d. cap. cum dilectus de his que vi metuve fiunt
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e684">
+          Whence threatening words or mere requests of a tyrant induce just fear,
+          who was accustomed to treat badly men not acquiescing to his prayers.
+          For then prayers alone instill just fear.
+          It is noted by 
+          <ref xml:id="cy8th8-d1e387-Rd1e699">the gloss and doctors in d. c. cum dilectus.</ref> 
+          Therefore the judge ought to consider the person threatening.
+          For there are some men who 
+          <pb ed="#B" n="66-v"/>
+          threaten and immediately execute,
+          and others threaten much and do nothing,
+          as Bartholus notes in tractatu de tyrano and Innocent.
+          And Hostiensis and others in d. c. cum dilectus.
+          The threats and terrors of the powerful also inflict just fear:
+          and this if such powerful people are wont to rage after threats:
+          otherwise threats would not excuse.
+          Bartholus in d. l. metum. 
+          <pc type="pilcrow">¶</pc> 
+          The same is understood of threats and terrors of a husband or prelate.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e726">
+          <pc type="pilcrow">¶</pc> 
+          And the aforesaid are understood if they or any of the aforesaid threaten one's own person:
+          or of children,
+          or wife and such according to St. Thomas where above article 2 and in d. l. isti quidem, 
+          ff. eodem
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e738">
+          <pc type="pilcrow">¶</pc> 
+          But the minor,
+          namely that those peoples are induced to not accepting the said institution by just fear etc.
+          Is proved because as was said above and will be said:
+          the first step by which the Spaniards entered those regions was that unexpectedly 
+          they invaded those peoples existing peacefully in their homes,
+          with unheard-of slaughters,
+          fires,
+          swords,
+          massacres,
+          robberies,
+          sparing no sex or age or dignity,
+          killing them,
+          also cruelly devastating everything:
+          and they filled that entire world with scandals and disturbances,
+          cries,
+          mournings,
+          lamentations and fears:
+          principally displaying nothing other than to strike fear and horror of themselves 
+          into the spirits of the innocent:
+          so that afterward they might safely hold them in most bitter servitude at will.
+          Surely if they had not yet experienced the unjust,
+          cruel and execrable customs of the Spaniards,
+          most justly and most deservedly they could still fear and very much dread 
+          that the aforesaid evils inducing just fear threaten themselves and theirs:
+          seeing a barbarous,
+          unknown and robust race:
+          and terrible to them in appearance,
+          surrounded by such efficacious arms:
+          and most distant from them in customs:
+          and suspecting that they must whether they wish it or not enter into association with them,
+          and must receive them in their own lands and homes to dwell perpetually.
+          For it can be doubtful to no one of sound mind that it persuades itself that such peoples 
+          must necessarily be moved by probable and just fear 
+          <pb ed="#B" n="67-r"/>
+          and horribly shaken:
+          lest from such a fierce race of Spaniards:
+          their goods:
+          dominions:
+          dignities:
+          and jurisdictions be snatched away:
+          beatings:
+          and tortures:
+          chains,
+          dishonorations through rapes and adulteries:
+          servitude moreover be inflicted on their own persons and of their children and wives:
+          and death,
+          as most fully and most woefully has been done,
+          alas.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e833">
+          <pc type="pilcrow">¶</pc> 
+          And if you add that greater and more probable fear will be made to all peoples,
+          great and small,
+          namely the uncertainty of the integrity,
+          rectitude and affection toward them of the future prince or lord:
+          then there will be fuller proof of the minor proposition.
+          For it was said above. 
+          <pc type="pilcrow">¶</pc> 
+          25 that Kings of another foreign and unknown race are wont to be little affectionate 
+          toward the people to whom they are newly placed over.
+          And thus not to care much about them:
+          but to unjustly burden them with undue burdens and oppressive extortions,
+          and sometimes to afflict them unmercifully even to the exhaling of the souls of subjects.
+          And from this they could and can rightly much fear.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e867">
+          <pc type="pilcrow">¶</pc> 
+          Because therefore not only is what is considered:
+          but what can be:
+          because outcomes are in the consideration of men 
+          <ref xml:id="cy8th8-d1e387-Rd1e875" target="http://scta.info/resource/bgy6gt-d1e2305-Dd1e919">
+            l. pater filio: ff. de heredibus instituendis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e387-Rd1e878" target="http://scta.info/resource/bgy6gt-d1e4700-d1e427">
+            l. aut facta § euentus ff. de poenis
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e387-Rd1e887">
+            § posteriore instit quibus modis testamenta infirmantur
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e387-Rd1e894" target="http://scta.info/resource/bgy6gt-d1e3291-d1e462">
+            l. generaliter § si libero homini ff. de fideicommissaris libertatibus
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e900">
+          Therefore it must be concluded that the minor is sufficiently proved,
+          namely that those peoples and nations with their kings or princes and superiors,
+          even after they have received the faith,
+          are induced to not obeying or accepting,
+          or at least deferring consent to the papal institution concerning our kings:
+          by probable and just fear.
+        </p>
+
+        <p xml:id="cy8th8-d1e387-d1e914">
+          <pc type="pilcrow">¶</pc> 
+          Therefore the truth of our principal minor proposition remains clear and unshaken,
+          namely that the peoples of those regions have most just and very reasonable cause:
+          not to accept the mentioned papal institution even after they have received the faith:
+          or at least to defer and suspend consent:
+          and consequently they do not deserve penalties,
+          neither temporal nor ecclesiastical.
+          Therefore it is lawful to no one to inflict them,
+          no more after they have received the faith:
+          <pb ed="#B" n="67-v"/>
+          than while they were infidels.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

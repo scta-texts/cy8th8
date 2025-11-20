@@ -125,12 +125,12 @@
           <pc type="pilcrow">¶</pc> Nam grauamen <sic>manum<!-- edition has "magnum" --></sic> et lesio 
           <lb ed="#B" n="22"/>magna immo maxima <add place="margin-left">ab uniuersis hominibus censetur: uel mutare dominum</add> vel alium superiorem recognoscere 
           <lb ed="#B" n="23"/>et habere plures dominos aut quod dominus eorum non sit 
-          <lb ed="#B" n="24"/>liber. Ut in c. <sic>fi. <!-- edition has Digest.--></sic> de dilationibus. Et quod ibi <sic>notat<!-- edition has rightly but silently corrected to "notant" --></sic> doctores et 
-          <lb ed="#B" n="25"/>in c. suborta de re iudicata et in l. imperialem § preterea 
-          <lb ed="#B" n="26"/>ducatus de prohibita feudi alienatione per federicum et notant <ref xml:id="cy8th8-d1e387-Rd1e289">Innocentius in c. 
+          <lb ed="#B" n="24"/>liber. Ut in <ref xml:id="cy8th8-d1e387-Rd1e279">c. <sic>fi. <!-- edition has Digest.--></sic> de dilationibus</ref>. Et quod ibi <sic>notat<!-- edition has rightly but silently corrected to "notant" --></sic> doctores et 
+          <lb ed="#B" n="25"/>in <ref xml:id="cy8th8-d1e387-Rd1e292">c. suborta de re iudicata</ref> et in <ref xml:id="cy8th8-d1e387-Rd1e294">l. imperialem § preterea 
+          <lb ed="#B" n="26"/>ducatus de prohibita feudi alienatione per federicum</ref> et notant <ref xml:id="cy8th8-d1e387-Rd1e289">Innocentius in c. 
           <lb ed="#B" n="27"/>auditis de prescriptionibus</ref> et <ref xml:id="cy8th8-d1e387-Rd1e295">hostiensis et panormitanus et Felinus, et alii, in c. di<lb ed="#B" break="no" n="28"/>lecti 
           de maioritate et obedientia, et in c. fi. eo titulo</ref>, et <ref xml:id="cy8th8-d1e387-Rd1e300">idem panormitanus 
-          <lb ed="#B" n="29"/>in c. fin. de causa possessionis et proprietatis</ref>
+          <lb ed="#B" n="29"/>in <ref xml:id="cy8th8-d1e387-Rd1e314">c. fin. de causa possessionis et proprietatis</ref></ref>
         </p>
         <p xml:id="cy8th8-d1e387-d1e306">
           <pc type="pilcrow">¶</pc> Sed si predicta gra<pb ed="#B" n="65-r"/><lb ed="#B" break="no" n="1"/>uamina 
@@ -147,22 +147,22 @@
           <lb ed="#B" n="10"/>id est nouiter conuersi ad fidem possunt prefatam institu<lb ed="#B" break="no" n="11"/>tionem 
           non habere ratam, nec illam acceptare: vel saltem 
           <lb ed="#B" n="12"/>differre consensum immo et resistere illi: per argumentum a minori 
-          <lb ed="#B" n="13"/>quod validum est in iure ut in c. quemadmodum § nam si 
-          <lb ed="#B" n="14"/>potest de iure iurando et in c. cum in cunctis de electione. Facit 
-          <lb ed="#B" n="15"/>dictum Ioannis andree in <!-- gap here --> quod si per priuile<lb ed="#B" break="no" n="16"/>gium 
+          <lb ed="#B" n="13"/>quod validum est in iure ut in <ref xml:id="cy8th8-d1e387-Rd1e354">c. quemadmodum § nam si 
+          <lb ed="#B" n="14"/>potest de iure iurando</ref> et in <ref xml:id="cy8th8-d1e387-Rd1e359">c. cum in cunctis de electione</ref>. Facit 
+          <lb ed="#B" n="15"/><ref xml:id="cy8th8-d1e387-Rd1e363">dictum Ioannis andree in <!-- gap here --></ref> quod si per priuile<lb ed="#B" break="no" n="16"/>gium 
           principis proprio motu concessum uniuersitatem aliquam 
           <lb ed="#B" n="17"/>grauiter ledi contingat est super hoc ipsius principis remedium 
-          <lb ed="#B" n="18"/>implorandum ut notatur in c. suggestum de decimis et panormitanus in 
-          <lb ed="#B" n="19"/>c. 2, de immunitate ecclesiarum columna 5.
+          <lb ed="#B" n="18"/>implorandum ut notatur in <ref xml:id="cy8th8-d1e387-Rd1e373">c. suggestum de decimis</ref> et <ref xml:id="cy8th8-d1e387-Rd1e375">panormitanus in 
+          <lb ed="#B" n="19"/>c. 2, de immunitate ecclesiarum columna 5.</ref>
         </p>
         <p xml:id="cy8th8-d1e387-d1e359">
           <pc type="pilcrow">¶</pc> Facit ad hoc notabilis sententia 
-          <lb ed="#B" n="20"/>Innocentii in c. inquisitioni de sententia excomunicationis. Ubi dicit quod si papa 
+          <lb ed="#B" n="20"/><ref xml:id="cy8th8-d1e387-Rd1e387">Innocentii in c. inquisitioni de sententia excomunicationis</ref>. Ubi dicit quod si papa 
           <lb ed="#B" n="21"/>mandat laico sibi non subiecto temporaliter quod alicui det rem
           <lb ed="#B" n="22"/>suam non tenetur ei obedire si non apparet legitima causa obe<lb ed="#B" break="no" n="23"/>diendi
           cum non sit ei subiectus temporaliter. Quod dictum fa<lb ed="#B" break="no" n="24"/>cit 
-          ad multa secundum Panormitanum in c. que in ecclesiarum de constitutionibus
-          <lb ed="#B" n="25"/>ad idem Clement. Pastoralis de re iudicata ubi ponderatur quod 
+          ad multa secundum <ref xml:id="cy8th8-d1e387-Rd1e398">Panormitanum in c. que in ecclesiarum de constitutionibus
+          <lb ed="#B" n="25"/>ad idem Clement. Pastoralis de re iudicata</ref> ubi ponderatur quod 
           Rex cecilie non suberat imperatori: tu adde quod etiam si sit 
           <lb ed="#B" n="26"/>ei subiectus potest non obedire: quando non est vel apparet legi<lb ed="#B" break="no" n="27"/>tima 
           causa uel saltem expectare secundam iussionem iuxta 
@@ -171,8 +171,8 @@
         <p xml:id="cy8th8-d1e387-d1e385">
           <pc type="pilcrow">¶</pc> Pars secunda minoris scilicet quod prin<lb ed="#B" break="no" n="29"/>cipes 
           et maiores eorum merito timere habent scandalum
-          <lb ed="#B" n="30"/>graue ac turbationem periculosam probata est in § 21 
-          <lb ed="#B" n="31"/>et videbitur etiam in § 30 in quibus memorate fuerunt 
+          <lb ed="#B" n="30"/>graue ac turbationem periculosam probata est in <ref xml:id="cy8th8-d1e387-Rd1e420">§ 21</ref> 
+          <lb ed="#B" n="31"/>et videbitur etiam in <ref xml:id="cy8th8-d1e387-Rd1e425">§ 30</ref> in quibus memorate fuerunt 
           <lb ed="#B" n="32"/>plures rationes quare merito <subst><del rend="strikethrough">timere habent scandalum</del> <add place="below-line">uniuersi habitatores illarum</add></subst> 
           <pb ed="#B" n="65-v"/>
           <lb ed="#B" n="1"/>regionum possunt: acerrime perturbari: et implacibi<lb ed="#B" break="no" n="2"/>liter 
@@ -264,14 +264,14 @@
           <lb ed="#B" n="3"/>Et Innocentius. Et hostiensis et alii in d. c. cum dilectus Inferunt quoque 
           <lb ed="#B" n="4"/>iustum metum mine et terrores potentium: et hoc si tales 
           <lb ed="#B" n="5"/>potentes solent sevire post minas: alias mine non excusa<lb ed="#B" break="no" n="6"/>rent 
-          Bartholus in d. l. metum. <pc type="pilcrow">¶</pc> Idem intelligitur de minis 
+          <ref xml:id="cy8th8-d1e387-Rd1e757">Bartholus in d. l. metum.</ref> <pc type="pilcrow">¶</pc> Idem intelligitur de minis 
           <lb ed="#B" n="7"/>et terroribus mariti vel prelati. 
         </p>
         <p xml:id="cy8th8-d1e387-d1e726">
           <pc type="pilcrow">¶</pc> Et predicta intelliguntur 
           <lb ed="#B" n="8"/>si ea vel aliquod predictorum immineant persone proprie: 
-          <lb ed="#B" n="9"/>siue filiorum, siue uxoris et huiusmodi secundum sanctam 
-          <lb ed="#B" n="10"/>Thomam vbi supra articulo 2o et in d. l. isti quidem, ff. eodem
+          <lb ed="#B" n="9"/>siue filiorum, siue uxoris et huiusmodi secundum <ref xml:id="cy8th8-d1e387-Rd1e775">sanctam 
+          <lb ed="#B" n="10"/>Thomam vbi supra articulo 2o</ref> et in <ref xml:id="cy8th8-d1e387-Rd1e780">d. l. isti quidem, ff. eodem</ref>
         </p>
         <p xml:id="cy8th8-d1e387-d1e738">
           <pc type="pilcrow">¶</pc> Minor autem scilicet quod gentes ille inducuntur ad non 
