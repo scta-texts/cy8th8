@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 23</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 23</title>
+          <date when="2025-11-16">November 16, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="60-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e361">
+        <head xml:id="cy8th8-d1e361-Hd1e97">Section 23</head>
+
+        <p xml:id="cy8th8-d1e361-d1e99">
+          <pb ed="#B" n="60-r"/>
+          § 23
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e106">
+          <pc type="pilcrow">¶</pc> 
+          But as regards the second state of those peoples,
+          namely after they have already put on Christ through the washing of the sacred bath,
+          whether they can be compelled to give such consent:
+          The following conclusion is posited.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e119">
+          Conclusion
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e124">
+          To punish or molest those peoples after their conversion by temporal or ecclesiastical penalties:
+          on account of their having denied the said consent:
+          or having been unwilling to accept the papal institution concerning our kings,
+          is lawful to no one.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e136">
+          The conclusion is proved by a single reason:
+          because no one deserves to suffer temporal or ecclesiastical penalty:
+          who does or omits what he does or omits with just and reasonable cause,
+          and thus by the authority of law.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e147">
+          But those peoples or nations after their conversion,
+          by denying the aforesaid consent and not accepting the papal institution concerning our kings,
+          do this and omit this with just and reasonable cause,
+          and thus by the authority of law.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e156">
+          Therefore they do not deserve penalty,
+          neither temporal nor ecclesiastical.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e161">
+          Therefore it is lawful to no one to punish such people with temporal or ecclesiastical penalty.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e166">
+          The first consequence is evident with the Major.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e171">
+          The Minor is proved in many ways,
+          first thus.
+          He has just and reasonable cause,
+          and thus by the authority of law,
+          not to consent or accept,
+          or at least to defer the ordinance or even the command of a prince,
+          even the Pope,
+          to whom it is not fully proved by any kind or species of juridical proof 
+          that such an ordinance or command emanated from the prince or Pope,
+          especially when the command or ordinance contains in itself something contrary to law 
+          or public utility,
+          or deviates at first sight from all honesty:
+          and in matters of great weight.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e192">
+          But it cannot be fully proved to such peoples and nations after they have received the faith,
+          by any kind or species of juridical proof:
+          that that institution of our kings over that world emanated from the Pope,
+          or that it was made by the Pope,
+          or even that the Pope could make it.
+          <pb ed="#B" n="60-v"/>
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e205">
+          Therefore those peoples and nations have just and reasonable cause,
+          and thus by the authority of law,
+          not to accept it or at least to defer it and not to give consent:
+          especially since it is contrary to natural law and the law of nations:
+          and concerns matters of great weight and great prejudice.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e218">
+          The consequence is clear,
+          the rest being proved.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e220">
+          The Major is proved expressly by the notable text in c. si quando de rescriptis,
+          where it is evident that when the letters of a prince contain something contrary to law 
+          or deviate from honesty:
+          or otherwise there is doubt concerning the mind of the prince,
+          or from their execution some scandal is feared,
+          or it is vehemently presumed that some evils are coming:
+          the mandatary ought not to obey but should await a second command.
+          Because he does this by the authority of law,
+          as there and in 
+          <ref xml:id="cy8th8-d1e361-Rd1e239">authent. ut nulli iudicum § ex hoc vero</ref>.
+          And in 
+          <ref xml:id="cy8th8-d1e361-Rd1e244">authent. de mandatis principum § deinde competens</ref>.
+          And in 
+          <ref xml:id="cy8th8-d1e361-Rd1e249">
+            aut. ut determinatus sit numerus clericorum § ex hoc quidem
+          </ref>.
+          And it is noted in 
+          <ref xml:id="cy8th8-d1e361-Rd1e254">l. fine C. si contra ius uel publicam utilitatem</ref> 
+          Whence in 
+          <ref xml:id="cy8th8-d1e361-Rd1e259">the said § deinde competens</ref>.
+          It is ordered that administrators and judges of provinces should not receive a precept 
+          contrary to law or public utility:
+          unless a second command should emanate.
+          Because it is not to be believed that such letters or such an ordinance or command 
+          proceeded from the court of the prince,
+          but rather are to be presumed false.
+          As is noted in 
+          <ref xml:id="cy8th8-d1e361-Rd1e260" target="http://scta.info/resource/cice-l1t3-Dd1e244">
+            c ad hec sumus
+          </ref>.
+          And in 
+          <ref xml:id="cy8th8-d1e361-Rd1e264" target="http://scta.info/resource/cice-l1t3-Dd1e169">
+            d. c. si quando de rescriptis
+          </ref>.
+          And to this purpose applies 
+          <ref xml:id="cy8th8-d1e361-Rd1e282">
+            the statement of Bartholus in authent. ut determinatus sit numerus clericorum in d. § et eos quidem
+          </ref> 
+          Where it is said that it is lawful not to obey imperial or papal letters,
+          according to the gloss there,
+          when it is not evident that they are imperial or papal.
+          And Bartholus adds 
+          <quote xml:id="cy8th8-d1e361-Qd1e276">
+            but certainly,
+            he says,
+            I say that if it is evident that they are imperial or papal letters:
+            it is lawful not to obey them if reasonable cause is rendered.
+            The text is in 
+            <ref xml:id="cy8th8-d1e361-Rd1e280" target="http://scta.info/resource/cice-l1t3-Dd1e169">
+              c. si quando de rescriptis
+            </ref> 
+            and 
+            <ref xml:id="cy8th8-d1e361-Rd1e285" target="http://scta.info/resource/cice-l3t5-Dd1e184">
+              de prebendis c. cum teneamur
+            </ref>
+          </quote>.
+          These words of Bartholus.
+          Also to be noted in 
+          <ref xml:id="cy8th8-d1e361-Rd1e290">c. ex parte in glossa fine de rescriptis</ref> 
+          especially by 
+          <ref xml:id="cy8th8-d1e361-Rd1e293">Felinus</ref> 
+          and others and 
+          <ref xml:id="cy8th8-d1e361-Rd1e296">the same Bartholus</ref> 
+          that judges should not receive or execute precepts of superiors which emanate 
+          <pb ed="#B" n="61-r"/>
+          contrary to law and public utility:
+          except after a second command.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e305">
+          If therefore the commissary and mandatary ought not to fulfill such letters or command,
+          far more strongly it lies upon those burdened by them not to receive,
+          obey or fulfill them.
+          To this purpose applies 
+          <ref xml:id="cy8th8-d1e361-Rd1e336">l. regni castelle per Ioannem 2m</ref> 
+          where he establishes that any city,
+          castle or place donated or alienated by the king from the royal crown may resist by arms 
+          with impunity.
+          <ref xml:id="cy8th8-d1e361-Rd1e343">
+            Gloss in l. puniri C. si contra ius vel vtilitatem publicam
+          </ref> 
+          applies.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e323">
+          <pc type="pilcrow">¶</pc> 
+          The Minor,
+          namely that it cannot be fully proved to those nations after they have received the faith 
+          by any species of proof that that institution concerning our kings was made by the Pope,
+          or that he could make it:
+          is proved by bringing forth all the species of proof.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e338">
+          The first is made by inspection,
+          as in what is notorious,
+          which is proved by the evidence of fact as in 
+          <ref xml:id="cy8th8-d1e361-Rd1e342" target="http://scta.info/resource/cice-l2t19-Dd1e108">
+            c. euidentiam
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e361-Rd1e348" target="http://scta.info/resource/cice-l2t19-Dd1e153">
+            c. proposuisti de probationibus
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e352">
+          <pc type="pilcrow">¶</pc> 
+          The second is made by several witnesses,
+          as also by one with other vehement presumptions.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e360">
+          <pc type="pilcrow">¶</pc> 
+          The third by instruments.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e368">
+          <pc type="pilcrow">¶</pc> 
+          The fourth by confession,
+          concerning these four in 
+          <ref xml:id="cy8th8-d1e361-Rd1e373" target="http://scta.info/resource/cice-l2t13-Dd1e320">
+            c. cum ad sedem de restitutione spoliatorum
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e379">
+          <pc type="pilcrow">¶</pc> 
+          The fifth by the writings of ancient books 
+          <ref xml:id="cy8th8-d1e361-Rd1e386" target="http://scta.info/resource/cice-l2t13-Dd1e275">
+            c. cum causam eo titulo.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e390">
+          <pc type="pilcrow">¶</pc> 
+          The sixth by violent presumption. 
+          <ref xml:id="cy8th8-d1e361-Rd1e396">32 q. 1 C. dixit dominus.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e400">
+          <pc type="pilcrow">¶</pc> 
+          The seventh by fame with other presumptions 
+          <ref xml:id="cy8th8-d1e361-Rd1e407" target="http://scta.info/resource/cice-l2t23-Dd1e290">
+            c. Tertio loco eo titulo
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e411">
+          <pc type="pilcrow">¶</pc> 
+          The eighth by oath 
+          <ref xml:id="cy8th8-d1e361-Rd1e417" target="http://scta.info/resource/cice-l5t39-Dd1e153">
+            de sententia excommunicationis c. si vero
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e421">
+          <pc type="pilcrow">¶</pc> 
+          And here it should be noted that that proof ought to be introduced by which the defendant 
+          can be convinced and to which he himself is bound to stand.
+          For proof is the demonstration by certain arguments or means of a doubtful thing 
+          according to 
+          <ref xml:id="cy8th8-d1e361-Rd1e459">jurists in rubrica C. eo titulo</ref>.
+          And it must necessarily conclude.
+          Now let us see by going through each one whether those peoples will be able to be convinced 
+          by any of them,
+          so that they are bound to stand by such an institution.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e440">
+          For by the evidence of fact and notoriety they will not,
+          because they have never even slightly suspected this except by violence,
+          and thus in fact contrary to all law:
+          after their conversion,
+          namely that there is such a man in the world,
+          even the Pope,
+          who can take away the dominions and jurisdiction of kingdoms which are held 
+          by the law of nations and natural law by their own and natural lords:
+          and transfer them at will to foreigners and those never known to them for ages.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e461">
+          <pc type="pilcrow">¶</pc> 
+          By the second indeed,
+          namely by witnesses:
+          they will by no means be able to be convinced either.
+          <pb ed="#B" n="61-v"/>
+          For witnesses ought to be legitimate and above all exception,
+          that is most certain and indubitable:
+          so that they cannot be repelled by any legitimate exception according to 
+          <ref xml:id="cy8th8-d1e361-Rd1e504">
+            the statement of the gloss in c. 1 de consanguinitate et affinit. 
+            et instit. de inutilibus stipulationibus § item verborum
+          </ref> 
+          And although according to the laws and also natural reason:
+          many kinds of persons are repelled from giving testimony:
+          nevertheless we are content to speak of two.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e484">
+          And indeed concerning the first:
+          All who are of the family of the plaintiff are repelled from bearing testimony. 
+          <ref xml:id="cy8th8-d1e361-Rd1e521">l. pen. ff. de eo</ref> 
+          And any other familiar 
+          <ref xml:id="cy8th8-d1e361-Rd1e523">
+            C. de his qui ad ecclesiam confugiunt l. fine § sane
+          </ref>.
+          Nor can witnesses be produced from the house of the plaintiff or accuser 
+          in a civil or criminal cause 
+          <ref xml:id="cy8th8-d1e361-Rd1e534">3 q. 5 throughout</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e361-Rd1e539">§ item in criminali 4 q. 3</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e502">
+          <pc type="pilcrow">¶</pc> 
+          Secondly no one is admitted as witness in his own cause or one common to himself and another,
+          regularly,
+          neither principally nor secondarily 
+          <ref xml:id="cy8th8-d1e361-Rd1e552">C. eo l. omnibus</ref> 
+          In a common cause someone ought not to be admitted to testimony,
+          because the common cause of two is each one's 
+          <ref xml:id="cy8th8-d1e361-Rd1e559">ff. de ritu nuptiarum l. illud</ref>.
+          And that he indeed ought to be repelled:
+          natural reason itself openly teaches.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e521">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore all Spaniards exist as being of the family and house,
+          that is of the subjection of our kings who are plaintiffs in this business:
+          and this cause is common to all of them with the king:
+          indeed most common,
+          indeed most proper according to the affection of their greed and ambition:
+          and more truly theirs than the kings',
+          since no one crosses to these regions:
+          except for seeking their own gain and ascent to a new and higher estate:
+          torn by such execrable stings of avarice:
+          and captured by the white cloud of such deadly blindness,
+          the eyes of the mind impeded by a certain lethal insanity 
+          <ref xml:id="cy8th8-d1e361-Rd1e594">c. auaritie cecitas de electione. lib. 6</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e361-Rd1e599">c. sicut 47 dist.</ref>
+          It follows that if those peoples do not stand by the testimony of Spaniards,
+          led by natural reason alone,
+          they are not to be thought to act contrary to the laws.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e557">
+          For they have the exception of suspicion.
+          And such an exception is quasi-peremptory because
+          <pb ed="#B" n="62-r"/>
+          if not directly yet obliquely it destroys.
+          For with the proof removed,
+          the right of the party remains useless as in 
+          <ref xml:id="cy8th8-d1e361-Rd1e621">c. sepe de restitatione spoliatorum</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e361-Rd1e626">l. duo sunt Titii ff. de testamentaria tutela</ref> 
+          Concerning which 
+          <ref xml:id="cy8th8-d1e361-Rd1e628">Panormitanus in c. 1 de exceptionibus</ref> 
+          And in 
+          <ref xml:id="cy8th8-d1e361-Rd1e633">c. 2</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e361-Rd1e635">a. de regulis iuris.</ref> 
+          Because also in this case the reason of certitude and infallible truth ceases,
+          through which alone those bearing testimony are believed,
+          and witnesses are made legitimate and above all exception:
+          and consequently it is necessary that belief in them cease,
+          and they refuse to have faith in them.
+        </p>
+
+        <p xml:id="cy8th8-d1e361-d1e586">
+          Therefore they cannot be convinced by Spanish witnesses,
+          nor necessarily concluded to them,
+          that that institution emanated from the Pope:
+          or that the Pope himself had power in foreign kingdoms to change proprietary kings 
+          without fault,
+          and to subrogate or institute new foreigners in their place.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
