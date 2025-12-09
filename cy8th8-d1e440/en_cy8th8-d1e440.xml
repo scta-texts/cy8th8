@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 29</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 29</title>
+          <date when="2025-10-07">October 07, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="76-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e440">
+        <head xml:id="cy8th8-d1e440-Hd1e97">Section 29</head>
+
+        <p xml:id="cy8th8-d1e440-d1e99">
+          § 29
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Our illustrious Kings of Spain,
+          as long as the peoples and inhabitants of that Indian world with their kings and princes 
+          have not freely consented to the aforesaid institution made concerning them by the Pope,
+          and hold it as valid and hand over possession,
+          have only the title,
+          that is the cause of acquiring the supreme principate of the aforesaid world,
+          and right to the thing or to the kingdoms and superiority or universal dominion over them,
+          which arises from the title:
+          but they do not have right in the thing or in the kingdoms.
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e130">
+          <pc type="pilcrow">¶</pc> 
+          For title is every cause of acquiring dominion,
+          as title as buyer,
+          as donee,
+          as heir,
+          as one's own etc.
+          According to 
+          <ref xml:id="cy8th8-d1e440-Rd1e141">the gloss, in c. fi. de officio archipresbiteri</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e440-Rd1e143" target="http://scta.info/resource/bplext-d1e116-d1e107">
+            c. dudum El. 2 de electione in the word "intitulatam"
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e150">
+          <pc type="pilcrow">¶</pc> 
+          But someone is said to have right to a thing and not in the thing whenever some right 
+          remains to be had or obtained by him so that the right to that thing may be acquired by him,
+          and thus right to the thing is not yet to have right fully acquired by someone:
+          as in one elected to some benefice or dignity.
+          For through election only right to the thing is acquired,
+          not in the thing.
+          But through confirmation or collation right in the thing is acquired according to what is noted 
+          in c. penultimo de prebendis lib. et 6 and in c. fi. de concessione preben. eo lib. 
+          and c. super his de acusationibus and in 
+          <ref xml:id="cy8th8-d1e440-Rd1e178">clemen. unica de secresta possessionum.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e182">
+          <pc type="pilcrow">¶</pc> 
+          So it is concerning our kings.
+          <pb ed="#B" n="76-v"/>
+          For they have the papal election or institution,
+          and thus title and right to those kingdoms,
+          which no king of Christians in the world has.
+          But there still remains for them another more powerful and more principal right to be obtained,
+          namely the consent of the peoples and their kings,
+          so that they may hold the said papal institution as valid:
+          by receiving them as universal lords and supreme princes:
+          by freely handing over to them possession of those kingdoms:
+          so that our kings may acquire right in the thing (that is) 
+          may obtain full power of exercising supreme jurisdiction and those things which are reserved 
+          to the supreme prince and by royal and imperial authority.
+          As manifestly appears from what has been said.
+          Therefore as long as the aforesaid peoples and inhabitants with their kings have not freely consented etc.
+          Our kings will have only the title and right to those kingdoms,
+          but not in those kingdoms (that is) 
+          they have no faculty of exercising jurisdiction or conducting themselves as supreme princes.
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e233">
+          <pc type="pilcrow">¶</pc> 
+          The consequence is proved first because the natural foundation and efficient cause 
+          of all faculty or power and jurisdiction to be exercised and of obtaining the principate itself 
+          is lacking to our kings,
+          namely the consent of the peoples and their kings.
+          For 
+          <ref xml:id="cy8th8-d1e440-Rd1e247">
+            Baldus says in c. quia propter 3 columna. de electione
+          </ref> 
+          that consent is required as the natural foundation,
+          namely so that someone may enter rightly and correctly into a dignity or magistracy.
+          And it ought to be simple,
+          that is without fold of force or fear,
+          so much so that if violence constrains the electors or the clamor of a raging people,
+          the election is said to be null by the very law:
+          because that is not called free which is constrained in any way. 
+          <ref xml:id="cy8th8-d1e440-Rd1e269">
+            ff. de conditionibus et demonstrationibus l. titio centum § 1. argument
+          </ref> 
+          <ref xml:id="cy8th8-d1e440-Rd1e274">ff. qui et quibus l. si optio.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e266">
+          <pc type="pilcrow">¶</pc> 
+          He also says there that the efficient cause of election is consent,
+          actively in the one electing,
+          passively in the one elected.
+          Where therefore the consent of those electing is lacking:
+          the natural 
+          <pb ed="#B" n="77-r"/>
+          foundation and complete efficient cause are lacking.
+          Therefore such a one can neither rightly nor correctly enter into a dignity or magistracy,
+          nor possess it.
+          So it is concerning our Catholic kings,
+          because until the aforesaid peoples and their kings shall have given consent 
+          without fold of force or fear:
+          they will not have rightly or correctly right in those kingdoms,
+          that is the exercise of royal power (except right to the thing and only title).
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e306">
+          <pc type="pilcrow">¶</pc> 
+          But that the aforesaid consent is a more powerful and more principal right (I say) 
+          namely with respect to the papal institution insofar as such,
+          is proved.
+          For if those peoples with their kings had voluntarily subjected themselves to our kings 
+          or to any other Christian prince before the said institution,
+          as they could by the law of nations and natural law since they are free peoples,
+          as 
+          <ref xml:id="cy8th8-d1e440-Rd1e343">§ it is touched upon l. ex hoc iure ff. de iustitia et iure</ref> 
+          and all there and 
+          <ref xml:id="cy8th8-d1e440-Rd1e348">Baldus in c. de quo vult deo extra. de iudiciis</ref>,
+          it is manifest that the Supreme Pontiff would not impede such subjection.
+          This is proved first because then the final cause of exercising temporal jurisdiction over them 
+          would cease.
+          For the final cause on account of which the Vicar of Christ can involve himself 
+          in temporal matters,
+          especially concerning those nations:
+          is the preaching of the faith and their conversion,
+          to which all things which are to be done in such business ought to be ordered and directed,
+          as we have proved in 
+          <ref xml:id="cy8th8-d1e440-Rd1e367">the 3rd consideration § 7</ref>.
+          And this presupposing that provision had been made equally well for those same peoples 
+          concerning their conversion to the faith with another Christian prince:
+          but otherwise if provision had not been made equally well.
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e359">
+          Which being granted,
+          the Supreme Pontiff could well impede that subjection by reason of the existence of the cause 
+          <ref xml:id="cy8th8-d1e440-Rd1e387">
+            excellent argument C. Venerabilem with what is noted extra de electione.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e370">
+          <pc type="pilcrow">¶</pc> 
+          Secondly it is proved because where someone disposes of his own right,
+          the consent of a stranger is not required,
+          as in § moribus si de feu fue. contio in. do. et agna. vas.
+          Which according to Baldus there is true if he disposes of his own right or in a time 
+          when he was free,
+          but otherwise if to another's prejudice as 
+          <ref xml:id="cy8th8-d1e440-Rd1e411">ff. de aqua pluuie arcenda l. in concedendo</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e440-Rd1e419">l. in diem.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e440-Rd1e421">l. receptum ff. communia prediorum</ref> 
+          <ref xml:id="cy8th8-d1e440-Rd1e426">
+            l. si per fundum ff. de seruitutibus rusticorum prediorum
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e440-Rd1e395" target="http://scta.info/resource/azsw2e-d1e2264-Dd1e241">
+            C. de contrahenda 
+            <pb ed="#B" n="77-v"/>
+            emptione l. dudum.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e404">
+          <pc type="pilcrow">¶</pc> 
+          But those peoples by subjecting themselves to any Christian prince:
+          would have disposed of their own right,
+          and consequently without anyone's prejudice.
+          Therefore the Supreme Pontiff would not have impeded such subjection.
+          Therefore with the cause of exercising such jurisdiction ceasing,
+          the jurisdiction itself should have ceased.
+          The consequence is evident:
+          because when cause is required as the foundation of jurisdiction:
+          the cause must be present and true and examined:
+          otherwise the judgment is null by the very law,
+          as we said in § 9:
+          For with the foundation of truth removed,
+          and consequently of power,
+          the edifice which consists principally from this stone of foundation is turned into ruin.
+          It is noted by 
+          <ref xml:id="cy8th8-d1e440-Rd1e470">
+            Baldus on rubrica C. si quis aliquem probibuerit 5 columna it applies c. cessante de appellationibus
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e440">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore without the knowledge and license of the Pope,
+          before the aforementioned institution concerning our kings as universal princes of that world,
+          it was lawful for those peoples with their princes to subject themselves to whichever 
+          of the Christian princes they wished,
+          whence the said papal institution by itself alone would not suffice without their consent,
+          as has been proved:
+          therefore for obtaining rightly and correctly full dominion and jurisdiction over them,
+          their consent is a more powerful and more principal right.
+          Therefore our kings having only the papal institution:
+          and lacking the consent and voluntary acceptance of that same institution by those peoples:
+          the right which is more principal is lacking to them.
+          The first consequence is evident:
+          because when two things are so related to some act to be carried out that with one existing 
+          without the other:
+          that act can be carried out,
+          and not conversely:
+          that one is more powerful and more principal.
+          Or thus according to 
+          <ref xml:id="cy8th8-d1e440-Rd1e512">the Philosopher in Topics 3</ref>.
+          Where one can be without the other:
+          that one is more principal simply,
+          indeed also better in that way.
+          This rule is evident.
+          In royal authority which can be without the authority of a proconsul:
+          that is more principal which cannot stand without the royal:
+          <pb ed="#B" n="78-r"/>
+          <ref xml:id="cy8th8-d1e440-Rd1e484" target="http://scta.info/resource/gd-p1d8-Dd1e141">
+            c. Que contra 8 dist.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e440-Rd1e487" target="http://scta.info/resource/gd-p2c11q3-Dd1e1554">
+            11 q. 3, c. Iulianus
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e493">
+          <pc type="pilcrow">¶</pc> 
+          Thirdly it is proved that the consent of the peoples and their kings themselves is more powerful 
+          and more principal than the papal institution concerning our kings insofar as such.
+          And this by a sufficiently fitting text in 
+          <ref xml:id="cy8th8-d1e440-Rd1e504">
+            l. et si non sint § veniamus ff. de auro argentoque legatis
+          </ref> 
+          where the text says that always when we seek what gives way to what,
+          we await that which is applied as the cause of what thing arises:
+          so that acceptance gives way to the principal.
+          Where at the end he adds:
+          because we await which thing is applied as the cause from which thing arises:
+          not which is more precious.
+          These words there.
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e528">
+          <pc type="pilcrow">¶</pc> 
+          But since the conversion of those peoples and nations and also their temporal utility 
+          were the final cause so that the institution or promotion or donation or concession 
+          or by whatever other name it is considered arose,
+          as was proved in § 7:
+          and without their consent the more principal right and efficient cause of the principate 
+          of our kings.
+          And since such right has hitherto been lacking to the aforesaid papal institution.
+          Therefore our kings have hitherto had only the title and right to those kingdoms:
+          but not in those kingdoms,
+          that is no juridical authority or power of exercising jurisdiction or conducting themselves 
+          as supreme princes of that world.
+          Nor will they be able to have it hereafter:
+          as long as the peoples and inhabitants with their kings of the aforesaid world 
+          do not give free consent.
+        </p>
+
+        <p xml:id="cy8th8-d1e440-d1e567">
+          <pc type="pilcrow">¶</pc> 
+          Secondly,
+          the conclusion is proved principally by the example of Saul and David,
+          the first kings of the kingdom of Israel,
+          who were directed by natural reason and divine motion and inspiration in their works and acts:
+          and nevertheless did not dare,
+          as long as they did not have the consent of the people,
+          although they had the institution or election of God:
+          and were certain they were instituted or elected by God as kings of that people,
+          <pb ed="#B" n="78-v"/>
+          to involve themselves in exercising jurisdiction in that people or to conduct themselves as kings,
+          understanding that they had only right to the kingdom:
+          but not right in the kingdom,
+          as was evidently shown above § 18 and § 19.
+          Therefore the 3rd principal conclusion is evident,
+          namely that our illustrious and Catholic kings,
+          as long as the peoples of that Indian world with their kings have not freely consented 
+          to the aforesaid papal institution made concerning them,
+          and have held it as valid and have handed over possession to them:
+          have only the title,
+          that is the cause of acquiring the supreme principate of the aforesaid world,
+          and right to the kingdoms and superiority or universal dominion over them which arises from title:
+          but they do not have right in them.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
