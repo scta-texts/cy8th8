@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 27</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 27</title>
+          <date when="2025-10-04">October 04, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="67-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e413">
+        <head xml:id="cy8th8-d1e413-Hd1e97">Section 27</head>
+
+        <p xml:id="cy8th8-d1e413-d1e99">
+          § 27
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Secondly the same is proved thus.
+          No one acts against the faith if he does not believe or doubts concerning that 
+          on which Catholic doctors hold contrary opinions,
+          until it is determined by the Church that this is against the faith:
+          or that from it something contrary to the faith follows.
+          But concerning the power of the Pope,
+          especially in temporal matters,
+          namely when he can exercise temporal jurisdiction or in what cases:
+          Catholic doctors disagree and hold contrary opinions,
+          as is evident in 
+          <ref xml:id="cy8th8-d1e413-Rd1e123" target="http://scta.info/resource/cice-l2t1-Dd1e290">
+            c. Nouit de iudicis
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e413-Rd1e128" target="http://scta.info/resource/cice-l2t2-Dd1e244">
+            c. licet de foro competenti
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e413-Rd1e131">c. uenerabilem de electione</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e413-Rd1e136" target="http://scta.info/resource/cice-l1t6-Dd1e603">
+            c. per uenerabilem extra qui filii sint legitimi.
+          </ref> 
+          And in many other places of law and treatises which they have written concerning this.
+          <pb ed="#B" n="70-r"/>
+          And especially in the very matter which we treat,
+          namely whether among infidels there are justly legitimate dominions and jurisdictions etc.
+          Therefore those peoples and nations will not act against the faith 
+          if they do not believe or doubt,
+          even after they have received the faith,
+          that the Pope could have instituted the kings of Spain as superiors of that world.
+          The Major is 
+          <ref xml:id="cy8th8-d1e413-Rd1e161">St. Thomas 1. p. q. 32 last article and quodlibet.</ref> 
+          The consequence is clear and is specially proved as is evident through 
+          <name xml:id="cy8th8-d1e413-Nd1e162">Innocent</name> 
+          and 
+          <name xml:id="cy8th8-d1e413-Nd1e167">Hostiensis</name>.
+          For the former says that among infidels there are legitimately dominions and jurisdictions,
+          nor can the Church despoil them of the same goods without fault,
+          whom a multitude of doctors,
+          both canonists and legists,
+          follow.
+          The latter indeed frankly asserts,
+          rather absurdly,
+          that at the advent of Christ all infidels were by that very law despoiled of such things,
+          and thus he makes them incapable of dominions.
+          Some follow him,
+          as it seems,
+          since they understand little of the necessary difference or distinction of infidels.
+          But from the school of Theologians there is first 
+          <ref xml:id="cy8th8-d1e413-Rd1e186">St. Thomas 2 2 q. 10 article 10</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e413-Rd1e190">q. 66 article 8 ad 2</ref> 
+          who subtly proves that among infidels there are justly dominions and jurisdictions.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e196">
+          <pc type="pilcrow">¶</pc> 
+          The same 
+          <ref xml:id="cy8th8-d1e413-Rd1e201">
+            <name xml:id="cy8th8-d1e413-Nd1e202">Augustine of Ancona</name> 
+            in tractatu de potestate pape. q. 23
+          </ref>.
+          Most recently however 
+          <ref xml:id="cy8th8-d1e413-Rd1e209">Lord Cardinal Cajetan in 2 2. q. 66</ref> 
+          where above more clearly and more intimately,
+          although in few words,
+          he pursues this doubt:
+          and renders it most open truth where he says thus: 
+          <quote xml:id="cy8th8-d1e413-Qd1e221" source="http://scta.info/resource/TAcCaj-d1e1613-d1e1747@16-215">
+            If there should be found pagans who have never been subject to the Roman empire:
+            inhabiting lands in which the Christian name has never been,
+            for the lords of these,
+            although infidels,
+            are legitimate,
+            whether they are governed by royal or political rule.
+            Concerning these I know no law as regards temporal matters.
+            Against these no king,
+            no emperor,
+            nor the Roman Church can wage war to occupy their lands or subject them temporally:
+            because no cause of just war underlies.
+            Whence we would sin most gravely if we should strive to extend the faith of Christ 
+            by this way:
+            nor would we be legitimate lords of those lands:
+            but we would commit great robberies and we would be bound to restitution 
+            as unjust warriors or occupiers
+          </quote> 
+          etc.
+          These his words.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e255">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore there is controversy concerning such matters among illustrious doctors:
+          indeed as for the most part all follow the truth which we defend,
+          namely that the Pope cannot 
+          <pb ed="#B" n="70-v"/>
+          occupy or take away the lands or dominions of infidels,
+          therefore neither can he place another lord over them against their will.
+          Therefore not to believe or to doubt after they have received the faith:
+          that the Pope cannot make the aforementioned institution concerning our kings,
+          those peoples will not incur the fault of heresy.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e279">
+          <pc type="pilcrow">¶</pc> 
+          For they are induced not to believe by an efficacious motive,
+          namely by natural reason elicited from natural law itself.
+          Because namely they have their own Kings and natural lords who govern them in justice 
+          and peace and all good political rule in their own way,
+          as without faith they can with moral virtues,
+          and therefore rightly led by natural consideration,
+          they will estimate all other rule of another foreign prince:
+          not necessary to them:
+          but superfluous,
+          because nature does not abound in superfluous things:
+          just as it does not fail in necessary things according to the Philosopher.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e309">
+          <pc type="pilcrow">¶</pc> 
+          Nor also if they are unwilling to consent to papal letters of the said institution:
+          or to obey immediately apostolic commands concerning this:
+          will they be rebels or contumacious:
+          First because they do this by the authority of law § 23 in the first reason 
+          for proving the minor.
+          Second because they have just cause not to obey nor to give consent,
+          as is widely evident above § 23 24 25.
+          Third because those peoples,
+          both kings and common people,
+          feel themselves most gravely and most enormously burdened by such promotion or institution,
+          and suffering maximum prejudice.
+          And therefore they are to be heard and not thus abruptly judged,
+          as will be shown below in the 4th principal conclusion.
+          Finally fourth because all those nations,
+          even after they have received the faith,
+          labor under probable,
+          indeed invincible ignorance,
+          as is evident § 23 and 24 and 25.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e350">
+          <pc type="pilcrow">¶</pc> 
+          But those ignorant probably or invincibly,
+          when they do this or omit it without guile and affection for erring,
+          cannot be called contumacious or rebels.
+          Whence if by impossibility any spiritual sentences or of the Church 
+          should be fulminated against them in this case:
+          they would by no means bind them in conscience as regards God nor as regards the Church.
+          This is proved because for someone to fall into excommunication,
+          true or presumed guile is especially required:
+          of which kind is broad fault: 
+          <ref xml:id="cy8th8-d1e413-Rd1e372" target="http://scta.info/resource/bgy6gt-d1e1463-d1e625">
+            l. quod nerua ff. de po
+          </ref> 
+          John Andreas holds this in cap. quanto de sententia excommunicationis where he says 
+          that no one falls into any canon:
+          unless he is in guile:
+          and 
+          <pb ed="#B" n="71-r"/>
+          <ref xml:id="cy8th8-d1e413-Rd1e385">
+            the same Innocent in c. cum medicinalis eo titulo lib. 6
+          </ref> 
+          it applies that 
+          <ref xml:id="cy8th8-d1e413-Rd1e390">
+            Bartholus notes in l. quicunque C. de servis fugitiuis
+          </ref> 
+          where he says that wherever it speaks of capital or corporal penalty,
+          guile is understood.
+          Therefore by stronger reason in this penalty which kills the soul,
+          mutilating it from the living body (that is) the holy Church.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e400">
+          <pc type="pilcrow">¶</pc> 
+          Therefore those peoples by not believing that the Pope could make the said institution:
+          or by not admitting it nor giving consent,
+          will not contract any heresy:
+          nor commit contumacy.
+          But it stands well that they do not believe this or doubt it,
+          and do not admit that,
+          nor wish to receive our kings as universal superiors:
+          and are Catholic and obedient children to apostolic commands.
+          Thence it follows consequently:
+          that neither by ecclesiastical penalties or censures:
+          as by temporal ones ought they to be punished or molested.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e421">
+          And thus the truth of the conclusion situated at the beginning of § 22 is evident.
+          Moreover it is manifestly evident how necessary it is for our kings 
+          that most gently and most sweetly,
+          by good reasons and persuasions,
+          those peoples be induced to receive them by free consent:
+          if they wish to rule rightly and correctly that world and its vast kingdoms:
+          and thus this eleventh part,
+          as contained under the order of divine and natural law,
+          is not superfluous,
+          but necessary,
+          without which nothing juridical will be done.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e439">
+          <pc type="pilcrow">¶</pc> 
+          And according to the aforesaid we wish to be understood and corrected 
+          what we said in our 
+          <ref xml:id="cy8th8-d1e413-Rd1e447">
+            confirmatory treatise concerning royal law in the proof of the first conclusion 
+            in the 2nd principal reason
+          </ref>: 
+          <quote xml:id="cy8th8-d1e413-Qd1e453">
+            namely that as soon as those peoples have received the sacred sacrament of baptism,
+            our kings have complete power in act and can exercise contentious jurisdiction over them
+          </quote> 
+          etc.
+          But it should be added there: 
+          <quote xml:id="cy8th8-d1e413-Qd1e466">
+            and after they have given free consent just as has been prescribed
+          </quote> 
+          and what I said in the 19th proposition to the royal council of the Indies,
+          namely that all the kings and natural lords,
+          communities,
+          cities and peoples of that world,
+          after they have voluntarily received the faith,
+          are bound to recognize our kings as emperors and universal lords,
+          nevertheless preserving the rights and dominions of the natural kings and lords 
+          and peoples and other individual persons,
+          as was contained in 
+          <ref xml:id="cy8th8-d1e413-Rd1e484">the 18th proposition</ref>.
+          But if before 
+          <pb ed="#B" n="71-v"/>
+          baptism they are unwilling,
+          they can be punished by right by no judge in the world on this account.
+          Where it seemed to be supposed that after baptism was received,
+          if they did not recognize,
+          they could be compelled and punished.
+          Nevertheless we wish this passage to be understood thus (namely) 
+          that both after baptism and before,
+          if they are unwilling to receive our kings as supreme princes,
+          there is no judge in the world who has power to punish them for this cause.
+          As is left determined in the conclusion posited above and its proof.
+          Since in their natural faculty they have the right of consenting or dissenting 
+          to the often-said papal institution in both their states (namely) 
+          either before or after their conversion,
+          as from very many things already proved this truth has been made evident,
+          and they have many other exceptions if this cause should be brought 
+          into contradictory judgment.
+          Nevertheless they would have been obligated to receive our kings as princes 
+          if they had not suffered evils,
+          cruelties and irreparable damages and tyrannies from our Spaniards;
+          if the faith had been preached to them peacefully and according to Christian form,
+          by an obligation which is called to the antidote.
+          Which obligation arises from that natural equity that we should do good 
+          to one doing good to us 
+          <ref xml:id="cy8th8-d1e413-Rd1e536">l. sed si lege. § consuluit. ff. de peti. here.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e413-Rd1e542" target="http://scta.info/resource/cice-l3t26-d1e210">
+            c. cum in officiis, De testamentis
+          </ref> 
+          Nor however is such an obligation like that natural one which has its origin from a pact.
+          For on account of this no action is competent 
+          <ref xml:id="cy8th8-d1e413-Rd1e549" target="http://scta.info/resource/bgy6gt-d1e1452-Dd1e155">
+            l. etiam ff. de compensationibus
+          </ref> 
+          where such obligation to the antidote cannot be brought into compensation 
+          <ref xml:id="cy8th8-d1e413-Rd1e557">l. ex hoc iure § penultim ff. de donationibus</ref> 
+          concerning this see what is noted in 
+          <ref xml:id="cy8th8-d1e413-Rd1e563" target="http://scta.info/resource/cice-l2t19-Dd1e275">
+            c. ad nostram de probationibus
+          </ref> 
+          We understand therefore in our said proposition 19 that natural kings are obligated 
+          to our kings,
+          and therefore let these things be supplied there.
+          And let what has been said concerning the second state of those peoples,
+          namely after they will be Christians and baptized,
+          suffice.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e581">
+          <pc type="pilcrow">¶</pc> 
+          But concerning their third state,
+          namely after receiving unheard-of evils through our cruel tyranny,
+          so many slaughters,
+          so many devastations and destructions of peoples,
+          towns and cities:
+          indeed of kingdoms:
+          which are now turned into deserts and made into solitude,
+          a habitation of wild beasts:
+          when they had been most full of mortals and other innumerable species of torments 
+          (I am silent about the plunderings,
+          captivities,
+          stolen treasures,
+          usurped dominions and dignities) 
+          and infinite calamities of every kind,
+          neither seen nor heard nor dreamed of anywhere on earth:
+          which they have suffered from us without cause.
+          If we speak I say concerning this state:
+          the response is manifest which any person will give you,
+          however much he may be reared in forests and barbarous by nature.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e621">
+          <pc type="pilcrow">¶</pc> 
+          For he will say not only that they are not bound to receive our kings 
+          over kingdoms not their own,
+          as they are:
+          but if they had been their own and patrimonial,
+          brought down by legitimate succession:
+          rightly and by law they are to be despoiled of them,
+          and as public enemies to be pursued in war and tortured with most cruel death.
+          For such an opinion those peoples have rightly conceived concerning our illustrious kings 
+          of Spain:
+          namely that they are strong kings,
+          robust,
+          impious,
+          unmerciful:
+          implacable and crueler and more unjust than all in the world,
+          always thirsting for human blood:
+          thinking that all the evils which they endure proceed from the very will 
+          of those kings themselves.
+          Which however is not true,
+          as will be explained below.
+        </p>
+
+        <p xml:id="cy8th8-d1e413-d1e657">
+          And to finish these things:
+          our kings can well abandon all hope:
+          that they will ever hold the principate of that world safely without scruple of conscience:
+          even if those peoples give consent:
+          since the laws will always presume that they give it compelled by most just fear:
+          but what is prior is very dangerous in the matter:
+          that neither will it be sought from them,
+          burdened as they are,
+          on account of the insensibility of the counselors:
+          nor will they themselves ever truly or interpretively give it.
+          And now let anyone,
+          even a barbarian,
+          see and judge whether this part is not 
+          (that by gentle and flattering words and reasons those peoples must be induced 
+          to give consent) 
+          so that our kings may rightly enter into the principate of that world:
+          superfluous or necessary.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

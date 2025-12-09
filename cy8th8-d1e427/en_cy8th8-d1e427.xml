@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 28</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</n>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 28</title>
+          <date when="2025-10-05">October 05, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="72-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e427">
+        <head xml:id="cy8th8-d1e427-Hd1e97">Section 28</head>
+
+        <p xml:id="cy8th8-d1e427-d1e99">
+          § 28
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e104">
+          The last part of the second principal conclusion contains that,
+          with the free consent of kings and peoples obtained,
+          and such papal institution concerning our kings voluntarily held as valid and accepted:
+          treaties should be made with them and pacts concerning the manner of ruling:
+          concerning the tributes to be paid to our kings,
+          with the rendering of oath by both parties concerning preserving the agreement and pacts,
+          and similar matters.
+          This therefore remains to be proved.
+          Which we prove thus.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e127">
+          <pc type="pilcrow">¶</pc> 
+          Natural reason dictates that a free people wishing to subject itself to someone's direction or government,
+          and to make itself subject from being free,
+          obligating their persons to keeping fidelity to another,
+          and thus to make their own condition worse as regards the diminution of their own freedom 
+          (because according to 
+          <ref xml:id="cy8th8-d1e427-Rd1e142">
+            Baldus in l. si aquam C. de seruitute et aqua pluuia
+          </ref>) 
+          although fidelity and subjection is not full servitude:
+          it is nevertheless a certain species of servitude,
+          as is noted in 
+          <ref xml:id="cy8th8-d1e427-Rd1e155" target="http://scta.info/resource/azsw2e-d1e1711-d1e110">
+            de usu fructo l. si cuius
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e427-Rd1e159" target="http://scta.info/resource/azsw2e-d1e3438-Dd1e173">
+            l. cum seruum ad fi. C. de seruis fugitiuis
+          </ref>) 
+          can reasonably seek some conditions from him:
+          because anyone in the handing over of his property can impose the pact,
+          law or condition which he wishes,
+          because in his own property anyone is the moderator,
+          disposer and arbiter 
+          <ref xml:id="cy8th8-d1e427-Rd1e172" target="http://scta.info/resource/azsw2e-d1e2231-Dd1e312">
+            l. in re mandata C. mandati
+          </ref>.
+          Much more in handing over himself can someone impose law and condition,
+          provided it be reasonable.
+          And someone can justly submit himself to one person or community in those things 
+          which are not contrary to God and which in themselves have no repugnance to natural justice,
+          in which he can better be directed by him to whom he submits than by himself,
+          as 
+          <ref xml:id="cy8th8-d1e427-Rd1e197">St. Thomas says 2 2 q. 57 article 2</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e197">
+          Hence it was the custom among all peoples and nations in the institutions or elections of kings 
+          from the beginning when they wished to create and establish 
+          <pb ed="#B" n="73-r"/>
+          magistrates or kings over themselves:
+          or in their coronations:
+          or when successors are admitted to kingdoms,
+          to make some treaty,
+          pact,
+          law or agreement or composition,
+          or to renew one already made with predecessors between both,
+          namely king and people,
+          spontaneously and in good faith:
+          preceding the administration or exercise of royal power and jurisdiction,
+          treating and making pacts:
+          The King indeed promising in words under oath and in writing,
+          and swearing tacitly or expressly that he will have due care of the people,
+          and will introduce good government,
+          and granting liberties,
+          exemptions,
+          good customs handed down from antiquity:
+          or if they do not exist or the old ones do not please the people:
+          other new ones and other things which the people demands for its preservation 
+          in good state of the whole republic,
+          profitable privileges,
+          among which there always enters or is understood,
+          even if not expressly stated,
+          that he will find or exercise no new burden to the prejudice of the people.
+          But that he will preserve all equally in peace and tranquility:
+          and as father of the whole republic will defend the fatherland.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e272">
+          For if any free man in the handing over of his property can place the law and condition 
+          which he wishes,
+          provided it be reasonable,
+          another is bound by natural law to preserve it as 
+          <ref xml:id="cy8th8-d1e427-Rd1e284" target="http://scta.info/resource/cice-l4t5-Dd1e153">
+            extra de conditionibus appositis c. verum
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e288" target="http://scta.info/resource/gd-p2c18q2-Dd1e574">
+            18. q. 2, c. Eleutherius
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e293" target="http://scta.info/resource/bgy6gt-d1e455-Dd1e104">
+            ff. de pactis l. 1.
+          </ref> 
+          Nor is there deceit to one knowing or willing. 
+          <ref xml:id="cy8th8-d1e427-Rd1e298" target="http://scta.info/resource/azsw2e-d1e734-Dd1e460">
+            C. de transactionibus l. cum donationibus
+          </ref> 
+          And pacts must be preserved 
+          <ref xml:id="cy8th8-d1e427-Rd1e303" target="http://scta.info/resource/cice-l1t35-d1e119">
+            extra de pactis c. Antigonus
+          </ref> 
+          far more strongly can a free people in the handing over of itself to a King or ruler 
+          to whom it voluntarily commits itself to be governed for its own good,
+          and for this reason obligates itself to revere him:
+          to obey and serve him:
+          and to keep fidelity perpetually,
+          <pb ed="#B" n="73-v"/>
+          to pay tributes and other burdens and royal rights.
+          It could justly and reasonably place the law and condition which pleased it,
+          and the king or ruler thus elected by the people was and now is bound to observe it 
+          by natural law,
+          as appears in 
+          <ref xml:id="cy8th8-d1e427-Rd1e334">c. 1 de probationibus</ref> 
+          with what is noted there by the canonist and legist doctors in the laws cited above.
+          But the people promised necessary honor,
+          subjection,
+          fidelity and due service with the other things which I just said:
+          decreeing to render certain tributes and annual revenues:
+          both in recognition of universal dominion and sign of subjection,
+          concerning which there is argument in 
+          <ref xml:id="cy8th8-d1e427-Rd1e347" target="http://scta.info/resource/cice-l3t39-Dd1e123">
+            c. omnis anima extra de censibus
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e350" target="http://scta.info/resource/cice-l2t12-Dd1e214">
+            de causa possessionis et proprietatis. c. fi.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e355" target="http://scta.info/resource/gd-p2c10q3-Dd1e249">
+            10, q. 3, c. illud
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e359" target="http://scta.info/resource/azsw2e-d1e81-Dd1e444">
+            C. de episcopis et clericis, l. nulli
+          </ref>.
+          Both for maintaining the honorable state of the king etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e369">
+          Behold a contract on both sides,
+          or obligation on each part arising from the will of the parties.
+          Therefore we say that by making pacts we draw diverse wills into one.
+          Whence the King or ruler or magistrate remains thereby obligated to the kingdom and republic:
+          and the kingdom and republic to the king or magistrate.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e382">
+          <pc type="pilcrow">¶</pc> 
+          And these compositions concerning exacting,
+          diminishing or augmenting tributes and services,
+          or sometimes exchanging them,
+          made between lords and subjects,
+          must be preserved,
+          nor can they be revoked by the lords:
+          because they have the force of law as to them as in 
+          <ref xml:id="cy8th8-d1e427-Rd1e400" target="http://scta.info/resource/bgy6gt-d1e3206-Dd1e355">
+            l. cesar. ff. de publicanis
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e405">
+            l. donatione. in fine. Codex de donationibus ante nuptias
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e412" target="http://scta.info/resource/azsw2e-d1e6363-Dd1e216">
+            l. illud ab vna. et what is noted there C. de annonis et tributis lib. 10
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e420">
+          The aforesaid is evident through what Samuel did and ordained,
+          or rather God through him.
+          For after he placed Saul in the midst of the people,
+          already shown as king by lot,
+          and the people voluntarily accepted him saying: Long live the king:
+          immediately he placed the law of the kingdom there:
+          But Samuel spoke to the people the law of the kingdom (that is) 
+          according to the interlinear gloss,
+          how the people ought to conduct themselves toward the king and the King toward the people,
+          and what the king should exact from the people:
+          and what the people ought to give to the king.
+          Behold the contract and pacts and obligation on both sides.
+          1 Kings 10.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e447">
+          <pc type="pilcrow">¶</pc> 
+          The same appears in David,
+          the second King of that Israelite people.
+          2 Kings 5.
+          Where it is said that David struck a covenant with the people:
+          because they made among themselves a composition as regards the law of the kingdom,
+          concerning the manner of ruling,
+          namely how much power was entrusted to kings:
+          and what burdens and services he could impose on subjects:
+          because David swore to observe these things to the people:
+          but the people swore to observe what they promised to the king.
+          And these sworn chapters were called a covenant:
+          or the law of the kingdom from the constitution of Saul as king with Samuel 
+          by the authority of God:
+          which Samuel wrote in a book and recited before all the people as was said.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e474">
+          <pc type="pilcrow">¶</pc> 
+          For a covenant was a certain manner of very strong contract in which there was a promise 
+          from one or from each part to do something and as a sign of friendship.
+          And that promise was confirmed by oath:
+          and so that it might be still firmer,
+          certain ceremonies were done (namely) 
+          that animals were killed and divided into two parts,
+          and those making the pact passed between those divisions,
+          signifying by this:
+          that whoever should violate the covenant:
+          would be divided into two parts like that animal.
+          This from Genesis 18 concerning the covenant which God made with Abraham.
+          And the people with the Lord in the time of King Hezekiah.
+          Jeremiah 34.
+          And between God and the people in the giving of the law.
+          Exodus 24.
+          And Nicholas in both places.
+          And the gloss on Nehemiah 5.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e517">
+          <pc type="pilcrow">¶</pc> 
+          It is therefore evident how in the first establishment of a king,
+          a certain contract or covenant,
+          pacts and agreements were made,
+          to which men,
+          since they are rational,
+          <pb ed="#B" n="74-v"/>
+          were induced by natural reason and prudence.
+          It was similar when successors of kings were admitted to the royal height 
+          in place of the deceased by the peoples,
+          namely that the pacts and compositions made with predecessors 
+          were either confirmed or reformed,
+          especially if they were unjust or just but violated nevertheless.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e545">
+          <pc type="pilcrow">¶</pc> 
+          This is evident in 3 Kings 12 where it is found that with Solomon dead,
+          who had too greatly burdened the people with tyrannical exactions 
+          and unbearable annual tributes,
+          when all the people of Israel were gathered at Shechem to establish his son Rehoboam 
+          as their king:
+          first they wished to settle with him concerning the diminution or relaxation of the tributes 
+          by which they were most heavily oppressed and by the harshest servitude,
+          from which while Solomon lived they could not be freed.
+          But now because a new king was being instituted,
+          and it was likely he would seek all the rights (if they deserved to be called true rights) 
+          which his father had extorted:
+          since it is the custom of rulers to invent new exactions,
+          but never to diminish the old ones;
+          they had the opportunity of freeing themselves from such a yoke and servitude 
+          by settling with their king that he not oppress them as his father had.
+          Whence thus it is said there:
+          But Rehoboam came to Shechem.
+          For there all the people of Israel had gathered to make him king.
+          And they spoke to Rehoboam saying:
+          Your father imposed a most harsh yoke upon us:
+          you therefore diminish a little from the most harsh rule of your father,
+          and from the most heavy yoke which he imposed upon us,
+          and we will serve you etc.
+          And natural reason itself demands that what the predecessor did badly and tyrannically 
+          in the kingdom,
+          burdening the people,
+          the successor should settle and amend at the people's petition,
+          and should swear henceforth to preserve it.
+          Just as if from the beginning,
+          electing or instituting a king over themselves anew,
+          they should make pacts for the same condition.
+          For subjects are no less 
+          <pb ed="#B" n="75-r"/>
+          free under the 2nd or 3rd or certainly under the thousandth king than under the first,
+          when the kings are just.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e624">
+          <pc type="pilcrow">¶</pc> 
+          If indeed the King should reign perpetually,
+          obligated by contract or covenant to procure the good and utility of the whole kingdom,
+          his own being postponed,
+          by that very fact that he consented to the election or institution made concerning himself,
+          or succeeds in the kingdom and wishes to reign,
+          he assumes the office of ruling,
+          tacitly even if nothing is said,
+          like a tutor or curator or manager of business who are obligated only from acceptance of the office,
+          because they quasi-contract,
+          although the express will of both did not intervene.
+          For although a ward having a tutor,
+          or a madman having a curator,
+          or he whose business someone ignorantly manages,
+          did not expressly contract:
+          nevertheless the tutor,
+          curator and manager of business are obligated as if they had contracted.
+          Because what is inherent,
+          even if not expressly stated:
+          nevertheless is understood to be added,
+          nor does it change or add. 
+          <ref xml:id="cy8th8-d1e427-Rd1e666">
+            C. de fideiussoribus et demonstra. l. conditiones extrinsecus
+          </ref> 
+          <ref xml:id="cy8th8-d1e427-Rd1e671">ff. de legatis. l. 1 and 3.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e676">
+          <pc type="pilcrow">¶</pc> 
+          And so kings are obligated to the kingdom and the republic.
+          For the republic is accustomed to use the right of minors 
+          <ref xml:id="cy8th8-d1e427-Rd1e689">l. res publica C. quibus ex causis maiores</ref> 
+          where the gloss says: 
+          <quote xml:id="cy8th8-d1e427-Qd1e685">
+            Just as minors are under curators:
+            so the republic under administrators
+          </quote> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e701">C. de iure respublice: l. rempublicam</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e704">C. de officio eius qui vicem alicuius l. 1.</ref> 
+          And this comes from the nature of the tacit contract through the tacit assertion of industry 
+          of one accepting the office for which he is elected 
+          <ref xml:id="cy8th8-d1e427-Rd1e715">C. mandati l. a procuratore</ref> 
+          with what is noted there and 
+          <ref xml:id="cy8th8-d1e427-Rd1e719">l. pro officio.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e722">l. sequens. C. de administratione tutorum</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e427-Rd1e724">instit. where above § tutoris quoque.</ref> 
+          Hence it is that the prince is obligated by the contract entered into with the subject as in 
+          <ref xml:id="cy8th8-d1e427-Rd1e731">d. c. 1 de probationibus</ref> 
+          and it is a good argument in 
+          <ref xml:id="cy8th8-d1e427-Rd1e735">c. nisi cum pridem § verum</ref> 
+          with what is noted there by the gloss and doctors extra de renuntiatione.
+          And 
+          <ref xml:id="cy8th8-d1e427-Rd1e740">the Cardinal in consilium 142</ref> 
+          And 
+          <ref xml:id="cy8th8-d1e427-Rd1e744">
+            Felinus in c. que in ecclesiarum column 14 de constitutionibus.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e715">
+          <pc type="pilcrow">¶</pc> 
+          From 
+          <pb ed="#B" n="75-v"/>
+          which it appears that the consent of the king to reign or wishing to reign is not sufficient alone:
+          but it is necessary that the consent of the people intervene so that the contract may be valid,
+          and consequently so that the king can reign by right.
+          For a contract is defined as the consent of two or more in the same thing,
+          and obligation on each part.
+          But if one part were lacking,
+          it will not be a contract:
+          but a violent and tyrannical entry as 
+          <ref xml:id="cy8th8-d1e427-Rd1e767">1. q. 1. c. principatus</ref> 
+          Also 
+          <ref xml:id="cy8th8-d1e427-Rd1e772">C. de sacrosanctis ecclesiis l. decernimus</ref> 
+          where 
+          <ref xml:id="cy8th8-d1e427-Rd1e778">Baldus</ref> 
+          says that 
+          <quote xml:id="cy8th8-d1e427-Qd1e744">
+            provinces which have been accustomed to be ruled by their kings and princes:
+            are said to be under their natural dominion,
+            that is by the law of nations as 
+            <ref xml:id="cy8th8-d1e427-Rd1e750">l. ex hoc iure ff. de iustitia et iure</ref>.
+            And if another takes dominion there contrary to the will of the king 
+            (you add: and of the people according to what was proved 
+            <ref xml:id="cy8th8-d1e427-Rd1e799">above § 16</ref>).
+            That one is a tyrant because,
+            he says,
+            usurped dominions are called tyrannies
+          </quote>.
+          These his words.
+          Where he also said that to those invading camps pertaining to just lords:
+          those camps cannot be conceded by the prince etc.
+          As we related above.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e770">
+          <pc type="pilcrow">¶</pc> 
+          And thus the last part of the 2nd conclusion is evident,
+          namely that it is necessary,
+          with the voluntary consent of the peoples and their kings obtained,
+          by which the said papal promotion or institution concerning our kings 
+          is pleasing to them and held as valid or accepted:
+          that a treaty or contract be made between those peoples and kings 
+          and the messengers of our kings:
+          concerning the manner of ruling:
+          and agreement concerning exhibiting obedience and tributes,
+          and observing reasonable laws and customs for them:
+          all of which things are to be confirmed by oath etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e427-d1e794">
+          And consequently the entire conclusion is left clear with all its parts:
+          which contains the order of law and the necessary circumstances which must be observed 
+          so that rightly and correctly our kings of Castile and Leon may be able to obtain 
+          the supreme principate of that Indian world.
+          With all these things omitted,
+          it will in no way be possible to justify their entry and 
+          <pb ed="#B" n="76-r"/>
+          progress into those kingdoms nor their possession of them,
+          as will be proved.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
