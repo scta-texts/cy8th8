@@ -84,7 +84,7 @@
           <lb ed="#B" n="25"/>vel communitati in his que non sunt contra Deum et que secundum se 
           <lb ed="#B" n="26"/>non habent aliquam ad naturalem iustitiam repugnantiam in 
           <lb ed="#B" n="27"/>quibus melius potest dirigi per illum cui se submittit quam per se 
-          <lb ed="#B" n="28"/>ipsum ut dicit S. Thomas 2 2e q. 57 articulo 2 
+          <lb ed="#B" n="28"/>ipsum ut dicit <ref xml:id="cy8th8-d1e427-Rd1e197">S. Thomas 2 2e q. 57 articulo 2</ref> 
         </p>
         <p xml:id="cy8th8-d1e427-d1e197">
           hinc mos fuit 
@@ -127,8 +127,8 @@
           <lb ed="#B" n="1"/>tributa et alia onera et iura regia soluenda. Poterat iuste 
           <lb ed="#B" n="2"/>ac rationabiliter legem ponere atque conditionem que sibi 
           <lb ed="#B" n="3"/>placuerat et tenebatur et nunc tenetur rex vel rector sic <!-- edition has "a" here--> 
-          <lb ed="#B" n="4"/>populo electus obseruare naturali iure ut apparet in c. 
-          <lb ed="#B" n="5"/>1o de probationibus cum ibi notatis per doctores canonistas 
+          <lb ed="#B" n="4"/>populo electus obseruare naturali iure ut apparet in <ref xml:id="cy8th8-d1e427-Rd1e334">c. 
+          <lb ed="#B" n="5"/>1o de probationibus</ref> cum ibi notatis per doctores canonistas 
           <lb ed="#B" n="6"/>et legistas in supra citatis iuribus. Populus autem pollicebatur 
           <lb ed="#B" n="7"/>necessarium honorem subiectionem fidelitatem et debitum 
           <lb ed="#B" n="8"/>famulatum cum ceteris que immediate dixi: decernens 
@@ -257,19 +257,19 @@
         </p>
         <p xml:id="cy8th8-d1e427-d1e676">
           <pc type="pilcrow">¶</pc> Itaque reges obligati sunt regno 
-          <lb ed="#B" n="18"/>et rei publice. Nam minorum iure uti solet respublica l. 
-          <lb ed="#B" n="19"/>res publica C. quibus ex causis maiores ubi ait glossa: <quote xml:id="cy8th8-d1e427-Qd1e685">sicut 
+          <lb ed="#B" n="18"/>et rei publice. Nam minorum iure uti solet respublica <ref xml:id="cy8th8-d1e427-Rd1e689">l. 
+          <lb ed="#B" n="19"/>res publica C. quibus ex causis maiores</ref> ubi ait glossa: <quote xml:id="cy8th8-d1e427-Qd1e685">sicut 
           <lb ed="#B" n="20"/>minores sunt sub curatoribus: sic respublica sud administra<lb ed="#B" n="21" break="no"/>toribus</quote> 
-          et C. de iure respublice: l. rempublicam et C. de 
-          <lb ed="#B" n="22"/>officio eius qui vicem alicuius l. 1. et hoc uenit ex natura contractus 
+          et <ref xml:id="cy8th8-d1e427-Rd1e701">C. de iure respublice: l. rempublicam</ref> et <ref xml:id="cy8th8-d1e427-Rd1e704">C. de 
+          <lb ed="#B" n="22"/>officio eius qui vicem alicuius l. 1.</ref> et hoc uenit ex natura contractus 
           <lb ed="#B" n="23"/>taciti per tacitam assertionem industrie <sic>suscipiens <!-- edition has: "suscipientis"--></sic> officium 
-          propter quam eligitur C. mandati l. a procuratore cum ibi notatis 
-          <lb ed="#B" n="24"/>et l. pro officio. et l. sequens. C. de administratione tutorum et instit.
-          <lb ed="#B" n="25"/>ubi supra §  tutoris quoque. hinc est quod obligatur princeps ex 
-          <lb ed="#B" n="26"/>contractu inito cum subdito vt in d. c. 1 de probationibus et est 
-          <lb ed="#B" n="27"/>bonum argumentum in c. nisi cum pridem §  verum cum ibi notatis 
-          <lb ed="#B" n="28"/>per glossam et doctores extra de renuntiatione. Et cardinalis in consilio 142 
-          <lb ed="#B" n="29"/>Et Felinus in c. que in ecclesiarum columna 14 de constitutionibus.
+          propter quam eligitur <ref xml:id="cy8th8-d1e427-Rd1e715">C. mandati l. a procuratore</ref> cum ibi notatis 
+          <lb ed="#B" n="24"/>et <ref xml:id="cy8th8-d1e427-Rd1e719">l. pro officio.</ref> et <ref xml:id="cy8th8-d1e427-Rd1e722">l. sequens. C. de administratione tutorum</ref> et <ref xml:id="cy8th8-d1e427-Rd1e724">instit.
+          <lb ed="#B" n="25"/>ubi supra §  tutoris quoque.</ref> hinc est quod obligatur princeps ex 
+          <lb ed="#B" n="26"/>contractu inito cum subdito vt in <ref xml:id="cy8th8-d1e427-Rd1e731">d. c. 1 de probationibus</ref> et est 
+          <lb ed="#B" n="27"/>bonum argumentum in <ref xml:id="cy8th8-d1e427-Rd1e735">c. nisi cum pridem § verum</ref> cum ibi notatis 
+          <lb ed="#B" n="28"/>per glossam et doctores extra de renuntiatione. Et <ref xml:id="cy8th8-d1e427-Rd1e740">cardinalis in consilio 142</ref> 
+          <lb ed="#B" n="29"/>Et <ref xml:id="cy8th8-d1e427-Rd1e744">Felinus in c. que in ecclesiarum columna 14 de constitutionibus.</ref>
         </p>
         <p xml:id="cy8th8-d1e427-d1e715">
           <pc type="pilcrow">¶</pc> Ex 
@@ -279,13 +279,13 @@
           <lb ed="#B" n="3"/>ut rex iure possit regnare. Contractus enim diffinitur duo<lb ed="#B" n="4" break="no"/>rum 
           vel plurium in idem consensus et ex utraque parte 
           <lb ed="#B" n="5"/>obligatio quod si una pars deesset non erit contractus: 
-          <lb ed="#B" n="6"/>sed uiolentus ingressus et tyrannicus ut 1. q. 1. c. princi<lb ed="#B" n="7" break="no"/>patus 
-          Etiam C. de sacrosanctis ecclesiis l. decernimus ubi <!-- edition has "ait" here -->
-          <lb ed="#B" n="8"/>baldus <sic>dicit</sic> quod <quote xml:id="cy8th8-d1e427-Qd1e744">prouintie que consueuerunt regi per reges et prin<lb ed="#B" n="9" break="no"/>cipes 
+          <lb ed="#B" n="6"/>sed uiolentus ingressus et tyrannicus ut <ref xml:id="cy8th8-d1e427-Rd1e767">1. q. 1. c. princi<lb ed="#B" n="7" break="no"/>patus</ref> 
+          Etiam <ref xml:id="cy8th8-d1e427-Rd1e772">C. de sacrosanctis ecclesiis l. decernimus</ref> ubi <!-- edition has "ait" here -->
+          <lb ed="#B" n="8"/><ref xml:id="cy8th8-d1e427-Rd1e778">baldus</ref> <sic>dicit</sic> quod <quote xml:id="cy8th8-d1e427-Qd1e744">prouintie que consueuerunt regi per reges et prin<lb ed="#B" n="9" break="no"/>cipes 
           suos: dicuntur esse sub eorum naturali dominio id est 
           <lb ed="#B" n="10"/>de iure gentium vt <ref xml:id="cy8th8-d1e427-Rd1e750">l. ex hoc iure ff. de iustitia et iure</ref>. Et si alius
           <lb ed="#B" n="11"/><sic>accipia<!-- edition corrects to accipiat--></sic> ibi dominium contra voluntatem regis (adde tu 
-          <lb ed="#B" n="12"/>et populi iuxta probata supra § 16). Ille est tyranus quia 
+          <lb ed="#B" n="12"/>et populi iuxta probata <ref xml:id="cy8th8-d1e427-Rd1e799">supra § 16</ref>). Ille est tyranus quia 
           <lb ed="#B" n="13"/>inquit usurpata dominia dicuntur tyranides</quote>. hec ille. 
           <lb ed="#B" n="14"/>ubi etiam dixit quod inuadentibus castra pertinentia ad iustos dominos: 
           <lb ed="#B" n="15"/>non possunt illa castra concedi per principem etc. ut supra 
