@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 26</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 26</title>
+          <date when="2025-11-20">November 20, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="67-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e400">
+        <head xml:id="cy8th8-d1e400-Hd1e97">Section 26</head>
+
+        <p xml:id="cy8th8-d1e400-d1e99">
+          § 26
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Against what has been decided,
+          it seems that something not slight can be objected:
+          namely that since to believe that the Supreme Pontiff is the Vicar of Christ 
+          and can order and work all things in the Church for the utility of the same universal Church 
+          which Christ was able to do,
+          is of the necessity of faith:
+          it seems that those peoples also are bound to believe that the Pope could order that world 
+          in favor of the faith to be preached,
+          and consequently to make the aforesaid institution.
+          For it is manifest from what was determined above,
+          especially in consideration 3,
+          that the institution itself is ordered to the preaching of the Gospel:
+          and the conversion of those peoples as for an end.
+          But if they are bound to believe,
+          therefore to obey and put into execution by working (that is) 
+          to admit that institution and freely give consent,
+          just as to other articles of faith.
+          Otherwise 
+          <quote xml:id="cy8th8-d1e400-Qd1e141" source="http://scta.info/resource/iac2_20@8-12">
+            faith without works is worth nothing
+          </quote> 
+          James.
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e146">
+          Whence they will necessarily sustain one of two inconveniences:
+          either they will not escape heresy if they do not believe:
+          or they will commit grave contumacy if they do not obey.
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e155">
+          And then the Supreme Vicar of Christ and any bishop could hurl ecclesiastical censures 
+          against them,
+          which is contrary to the conclusion.
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e163">
+          <pc type="pilcrow">¶</pc> 
+          But it should be said that this does not obstruct.
+          Indeed those peoples after they have entered through the first gate of the sacraments 
+          and have been fully instructed in those things which are of the faith for several years,
+          and sufficiently informed,
+          are bound to believe:
+          that the Pope is the Vicar of Jesus Christ,
+          the supreme and unique head of the universal Church:
+          having principate over all of it,
+          to whom God has committed the care of both the earthly and heavenly empire:
+          that is all are subject to him as regards
+          <pb ed="#B" n="68-r"/>
+          spiritual matters,
+          and in case also as regards temporal matters,
+          as we have proved extensively in our confirmatory treatise.
+          And for this reason having an inferior or equal to none,
+          but a superior and having jurisdiction over all and above all:
+          and having fullness of power:
+          and being the general prelate of all.
+          And that the Roman Pontiff himself can establish firm,
+          perpetual and immutable statutes:
+          which firmness Christ indicates saying: 
+          <quote xml:id="cy8th8-d1e400-Qd1e202" source="http://scta.info/resource/mt16_18@9-15">
+            and upon this rock I will build my church
+          </quote>:
+          as if namely Christ himself is the natural foundation 
+          <ref xml:id="cy8th8-d1e400-Rd1e213" target="http://scta.info/resource/Icor3_11">
+            1 Corinthians 3
+          </ref> 
+          but Peter and his successors are as it were the first rock in the foundation.
+          Whence he after Christ is the foundation of the Church according to Jerome,
+          Chrysostom,
+          Origen,
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e229">
+            St. Thomas: 1. p. q. 112. 2. 2 2 q. 1 article 10 c. opusculum 1. c. 65 and c. 66
+          </ref>.
+          Likewise they are bound to believe that the Pope gives strength and authority to councils 
+          and to the statutes of councils 17 dist. concilia:
+          and who finally judges all:
+          and can be judged by no one: 
+          <ref xml:id="cy8th8-d1e400-Rd1e241">40 dist. c. si papa</ref>, 
+          <quote xml:id="cy8th8-d1e400-Qd1e246" source="http://scta.info/resource/gd-p1d40-d1e202@62-66">
+            unless he is found straying from the faith
+          </quote>: 
+          <ref xml:id="cy8th8-d1e400-Rd1e249" target="http://scta.info/resource/gd-p2c9q3-Dd1e219">
+            9, q. 3, c. conquestus.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e253">
+          And all the aforesaid are proved in 
+          <ref xml:id="cy8th8-d1e400-Rd1e257" target="http://scta.info/resource/gd-p1d12-Dd1e112">
+            c. non decet 12 dist.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e261" source="http://scta.info/resource/gd-p1d19-Dd1e225">
+            19 dist. c. ita dominus
+          </ref>, 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e264" target="http://scta.info/resource/gd-p2c2q6-Dd1e311">
+            2, q. 6, c. qui se scit
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e267" target="http://scta.info/resource/wef6td-d1e1430-d1e124">
+            c. pro humani de homicidio, lib. 6
+          </ref> 
+          And in 
+          <ref xml:id="cy8th8-d1e400-Rd1e273" source="http://scta.info/resource/kdhaWs-d1e301-d1e116">
+            clemen. Romani de iureiurando
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e400-Rd1e278" target="http://scta.info/resource/gd-p1d22-Dd1e115">
+            c. omnes, 22 dist.
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e400-Rd1e281">extravagant. unam sanctam per bonifacium</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e286" target="http://scta.info/resource/gd-p1d17">
+            17 dist. throughout
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e289">2, q. 5, c. ideo</ref>, 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e298" target="http://scta.info/resource/gd-p2c3q6-Dd1e235">
+            3, q. 6, c. dudum.
+          </ref> 
+          All of which are ecclesiastical privileges of the Roman and universal Church 
+          conferred by God as in 
+          <ref xml:id="cy8th8-d1e400-Rd1e303" target="http://scta.info/resource/gd-p1d22-Dd1e115">
+            c. omnes 22 dist.
+          </ref> 
+          <quote xml:id="cy8th8-d1e400-Qd1e308">
+            which whoever does not believe or tries to take away,
+            is a heretic
+          </quote> 
+          as in 
+          <ref xml:id="cy8th8-d1e400-Rd1e313" target="http://scta.info/resource/gd-p1d22-Dd1e115">
+            d. c. omnes.
+          </ref> 
+          For all this is of divine law.
+          Whence concerning this one special article of faith is proposed to be believed by all 
+          in the Symbol:
+          I believe in the holy catholic Church.
+          Which is understood to be the universal church with its supreme head,
+          namely the pontiff,
+          that is the Pope,
+          as in 
+          <ref xml:id="cy8th8-d1e400-Rd1e333" target="http://scta.info/resource/gd-p1d22-Dd1e115">
+            d. c. omnes
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e400-Rd1e336" target="http://scta.info/resource/gd-p1d12-Dd1e112">
+            d. c. non decet
+          </ref>.
+          St. Thomas also says in opusculum contra errores Gregorum and 2 2 q. 1 article 10.
+          That because the Pope has the primacy of the universal Church,
+          <pb ed="#B" n="68-v"/>
+          to whom it pertains to determine those things which are of the faith 
+          so that they may be held by all with unshaken faith:
+          and in him principally resides the authority of the universal Church:
+          and therefore it also pertains to the faith to adhere to the determination 
+          of the Supreme Pontiff in those things which are of the faith:
+          and in those things which regard good morals.
+          Because in such matters the Church cannot err,
+          and consequently neither can its head insofar as he is head or insofar as he is pontiff.
+          Which is understood when he is questioned in doubtful matters,
+          not as a learned man or such a person,
+          but as the head of Christianity.
+          As in 
+          <ref xml:id="cy8th8-d1e400-Rd1e367" target="http://scta.info/resource/gd-p2c24q1-Dd1e283">
+            c. quoties
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e400-Rd1e370" target="http://scta.info/resource/gd-p2c24q1-d1e255">
+            c. a recta
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e400-Rd1e374" target="http://scta.info/resource/gd-p2c24q1-Dd1e313">
+            c. hec est fides 24 q. 1
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e380" target="http://scta.info/resource/gd-p2c25q1-d1e175">
+            25, q. 1, c. violatores
+          </ref>.
+          Wherefore to him belong greater matters concerning baptism and 
+          <ref xml:id="cy8th8-d1e400-Rd1e385">c. 42 dist.</ref> 
+          And generally he has the right to interpret all doubts which have arisen 
+          in the Church of God 
+          <ref xml:id="cy8th8-d1e400-Rd1e392" target="http://scta.info/resource/cice-l4t17-Dd1e214">
+            extra qui filii sint legitimi cap. per principalem
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e403">
+          <pc type="pilcrow">¶</pc> 
+          But in other matters which do not regard the faith and good morals,
+          as in sentences and determinations which pertain to particular facts,
+          as when there is a question of possessions or of crimes or of such things,
+          the Pope can err because he follows human reason which can be deceived,
+          as 
+          <ref xml:id="cy8th8-d1e400-Rd1e418">St. Thomas says Quodlibet. 9 article last</ref> 
+          And 
+          <ref xml:id="cy8th8-d1e400-Rd1e422">
+            <name xml:id="cy8th8-d1e400-Nd1e419">John of Naples</name> 
+            after him Quodlibet, 11
+          </ref> 
+          <ref xml:id="cy8th8-d1e400-Rd1e427">
+            extra de sen. excomunionis c. a nobis el. 2
+          </ref> 
+          applies,
+          where it is stated that the judgment of the Church deceives and is deceived.
+          Indeed one is not a heretic who thinks contrary to the determination of the Church 
+          in matters other than those regarding faith and good morals.
+          Just as 
+          <ref xml:id="cy8th8-d1e400-Rd1e443">
+            Pope John XXII determined in extravagant. ad conditionem
+          </ref>:
+          that right cannot be separated from use in the use of consumables:
+          and yet he says that those contradicting this sentence are contumacious 
+          and rebels of the Church,
+          but not heretics.
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e445">
+          <pc type="pilcrow">¶</pc> 
+          But of such a kind is the business which we are treating at present.
+          For it does not pertain to faith or good morals that the Supreme Pontiff has granted 
+          dominion or principate of those lands to the kings of Spain,
+          since such institution is neither included in nor founded on faith or divine 
+          or natural law or reason,
+          nor is it found in the doctrine of the saints,
+          but rather the contrary will be found.
+          But it is rather a certain determination of human law which could be otherwise,
+          and depending on human will,
+          <pb ed="#B" n="69-r"/>
+          that is of the Pope.
+          Whence even after the reception of the faith and full information of all things 
+          which regard the faith and which they are bound to know:
+          although such peoples are obligated to believe that the Pope is the Vicar of Christ 
+          and has from Christ all the authority which he has,
+          and jurisdiction over every man in the manner that has been said,
+          and other such things:
+          nevertheless they are not bound to believe:
+          that the Pope could,
+          by the authority divinely granted to him,
+          have instituted the kings of Spain as universal princes to the prejudice 
+          of the natural kings and magistrates without their fault of that entire world:
+          so that if they do not believe it,
+          they incur the fault of heresy.
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e497">
+          Which can be proved in two ways.
+          First thus:
+          No one is bound to believe except those things which fall under faith,
+          either directly and principally,
+          for instance the articles of faith,
+          which namely are concerning those things which we will see in the homeland,
+          such as the Trinity of persons:
+          or through which we come to the homeland,
+          such as the mystery of the incarnation of Christ,
+          or indirectly and secondarily,
+          such as those things from which,
+          if they were not believed:
+          the corruption of some article would follow,
+          according to 
+          <ref xml:id="cy8th8-d1e400-Rd1e526">St. Thomas 2 2 q. 11 article 2 c.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e528">q. 1 article 6 1</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e531">article 8 in the body</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e534">q. 2. article 5 c. article 7. c.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e519">
+          <pc type="pilcrow">¶</pc> 
+          All things which are in scripture pertain also to the faith by accident 
+          as declarative of the aforesaid,
+          as 
+          <ref xml:id="cy8th8-d1e400-Rd1e546">St. Thomas says where above q. 1 article 6 ad 1</ref> 
+          moreover all things which are contained in the doctrine of the Church pertain to the faith 
+          by accident.
+          Because as 
+          <ref xml:id="cy8th8-d1e400-Rd1e553">the same Holy Doctor says q. 5 article 3</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e555">3 sententiarum dist. 23, q. 3 article 3. q. 2</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e400-Rd1e560">Quodlibet 6 article 6.</ref> 
+          <quote xml:id="cy8th8-d1e400-Qd1e535">
+            Whoever does not adhere to the doctrine of the Church as to an infallible 
+            and divine rule,
+            that is does not believe all things which the Church believes and holds,
+            which proceed from the first truth manifest in the scriptures,
+            does not have the habit of faith:
+            but holds those things which are of faith otherwise than through faith
+          </quote> 
+          these from him.
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e548">
+          <pc type="pilcrow">¶</pc> 
+          But neither in the articles of faith which pertain to divinity or to humanity:
+          nor in the divine scriptures,
+          nor in the doctrine of the Church is it found that the universal principate of that world 
+          is owed to the kings of Spain because of the fact that they take care 
+          of preaching the faith in it:
+          or that the Pope can grant it:
+          nor that by not believing this the corruption of some article follows.
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e565">
+          Therefore those nations are not bound to believe that the Pope could institute our kings 
+          as universal princes of that world.
+          The Minor 
+          <pb ed="#B" n="69-v"/>
+          is clear by examining each one.
+          The consequence is proved because we are not bound to believe and adhere to all the acts 
+          and determinations of the Supreme Pontiff by necessity of faith:
+          but only to those which regard the faith and good morals,
+          as appears from what has been said.
+          Therefore neither that he could institute our kings as universal princes of that world 
+          or grant the empire of it:
+          because this does not regard faith or good morals:
+          but only regards the will of the Pope himself who wished to grant it 
+          to the aforesaid most illustrious kings:
+          which if he had not done:
+          the faith would always remain uncorrupted.
+          Nor by not believing this does the corruption of some article follow:
+          because if it would follow,
+          it would be an article:
+          it is not corrupted by this since we can think the contrary of this,
+          which is:
+          that the Pope cannot err in any case which does not regard faith or good morals:
+          and yet that article will remain uncorrupted,
+          because it is not doubted that the Pope is the Vicar of God or the head 
+          of the universal Church,
+          or that in those things which are of faith and good morals he determines things 
+          true and without error and salutary etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e400-d1e616">
+          Therefore the corruption of some article does not follow.
+          Therefore not to believe that the Pope could make such an institution:
+          the fault of heresy is not incurred.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
