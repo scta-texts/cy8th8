@@ -147,8 +147,8 @@
           <pc type="pilcrow">¶</pc> De naturali 
           <lb ed="#B" n="47"/>iure patet: quia prouintie que consueuerunt regi per reges et prin<lb ed="#B" break="no" n="48"/>cipes 
           suos <!--edition has "quemadmodum"--> vt illi populi sunt et reguntur: dicuntur sub eorum naturali 
-          <lb ed="#B" n="49"/>dominio id est de iure gentium l. ex hoc iure ff. de iustitia et 
-          <lb ed="#B" n="50"/>iure ut supra § 6 satis probatum apparuit. Unde potius 
+          <lb ed="#B" n="49"/>dominio id est de iure gentium <ref xml:id="cy8th8-d1e466-Rd1e364">l. ex hoc iure ff. de iustitia et 
+          <lb ed="#B" n="50"/>iure</ref> ut <ref xml:id="cy8th8-d1e466-Rd1e369">supra § 6</ref> satis probatum apparuit. Unde potius 
           <lb ed="#B" n="51"/>gentes et populi illi possunt probare autoritate iuris naturalis 
           <lb ed="#B" n="52"/>et gentium: <sic>esse tyranos hyspanos <!--edition has "hyspanos esse tyrannos"--></sic> qui contra ius naturale regna 
           <lb ed="#B" n="53"/>sua inuaserunt: de quo nulli dubium qui sani capitis 
@@ -171,7 +171,7 @@
           <lb ed="#B" n="7"/>illos fore alicui extraneo principi subditos prioribus et naturalibus 
           <lb ed="#B" n="8"/>sine culpa dimissis. Quinimo in suis dominiis iurisdictionibus
           <lb ed="#B" n="9"/>statibus <pc type="virgula">/</pc> et dignitatibus fuerunt eo iure confirmat et stabiliti vt 
-          <lb ed="#B" n="10"/>§ 6 probatum fuit latissime in 1a scilicet consideratione. 
+          <lb ed="#B" n="10"/><ref xml:id="cy8th8-d1e466-Rd1e449">§ 6 probatum fuit latissime in 1a scilicet consideratione</ref>. 
         </p>
         <p xml:id="cy8th8-d1e466-d1e444">
           <pc type="pilcrow">¶</pc> Sed 
@@ -183,7 +183,7 @@
         <p xml:id="cy8th8-d1e466-d1e462">
           sed restat dicendum de canonico et ecclesiastico Iure. Namque 
           <lb ed="#B" n="15"/>nihil ad nos <quote xml:id="cy8th8-d1e466-Qd1e466" source="http://scta.info/resource/Icor5_12@4-9">de his qui foris sunt iudicare</quote> <ref xml:id="cy8th8-d1e466-Rd1e469">1 Ad Corinthios 5</ref> Unde 
-          <lb ed="#B" n="16"/>canonicis constitutionibus non arctantur c. gaudemus de diuor. 
+          <lb ed="#B" n="16"/>canonicis constitutionibus non arctantur <ref xml:id="cy8th8-d1e466-Rd1e482">c. gaudemus de diuor.</ref> 
         </p>
         <p xml:id="cy8th8-d1e466-d1e474">
           <pc type="pilcrow">¶</pc> Sed an summus christi vicarius qui est super omnia iura po<lb ed="#B" break="no" n="17"/>tuit 
@@ -191,8 +191,8 @@
           <seg type="correction">domi<del rend="strikethrough">niciisque</del>niisque</seg> sine causa priuare (certe salua eius 
           <lb ed="#B" n="19"/>reuerentia obedientia et ultima diffinitione) nec facit nec unquam 
           <lb ed="#B" n="20"/>fecit <pc type="virgula">/</pc> nec faciet nisi clara et manifesta et urgentissima et 
-          <lb ed="#B" n="21"/>necessaria causa que hic nulla subest prout supra § 8 in 4a 
-          consideratione latissima disputatione determinatum habuisti.
+          <lb ed="#B" n="21"/>necessaria causa que hic nulla subest prout supra <ref xml:id="cy8th8-d1e466-Rd1e510">§ 8 in 4a 
+          consideratione latissima disputatione determinatum habuisti</ref>.
         </p>
         <p xml:id="cy8th8-d1e466-d1e500">
           <lb ed="#B" n="22"/><pc type="pilcrow">¶</pc> Cum igitur nullo iure fuerit hactenus probatum nec ostensum 
@@ -262,7 +262,7 @@
           <lb ed="#B" n="13"/>prodigus effusor: nec quieuit tributum dormiuit impiorum 
           <lb ed="#B" n="14"/>baculus: nec ablata est virga iniuste dominantium cedens po<lb ed="#B" break="no" n="15"/>pulos 
           <pc type="virgula">/</pc> imo extirpans et delens populos plaga insanabili:subii<lb ed="#B" break="no" n="16"/>ciens 
-          in furore gentes persequens crudeliter ut Isaiae 14 pre<lb ed="#B" break="no" n="17"/>nuntiatum 
+          in furore gentes persequens crudeliter ut <ref xml:id="cy8th8-d1e466-Rd1e712">Isaiae 14</ref> pre<lb ed="#B" break="no" n="17"/>nuntiatum 
           est. Que quidem ad litteram et reuera peiora et in<lb ed="#B" break="no" n="18"/>maniora 
           perpesi sunt et continue incessanterque nunc in pluri<lb ed="#B" break="no" n="19"/>bus 
           indiarum locis a nobis quippe quos numquam offenderant nec 

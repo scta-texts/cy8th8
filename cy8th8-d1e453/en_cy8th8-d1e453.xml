@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 30</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 30</title>
+          <date when="2025-10-08">October 08, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="78-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e453">
+        <head xml:id="cy8th8-d1e453-Hd1e97">Section 30</head>
+
+        <p xml:id="cy8th8-d1e453-d1e99">
+          § 30
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Our Catholic Kings of Spain have the supreme principate of that Indian world,
+          the dominion and supreme jurisdiction,
+          and all those things which by right pertain to supreme princes:
+          in potency,
+          although not fully in purified potency.
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e119">
+          <pc type="pilcrow">¶</pc> 
+          The corollary is proved because someone is said to have dominion or jurisdiction 
+          or power in potency when something is known to be lacking to him,
+          by the absence of which he is impeded from the actual exercise of power,
+          dominion or jurisdiction.
+          Which can happen in many ways.
+          Either in a delegate when by a general clause placed in a rescript 
+          without expression of things and persons,
+          jurisdiction is committed in potency and not in act.
+          But after expression 
+          <pb ed="#B" n="79-r"/>
+          of persons and things he has it in act as in 
+          <ref xml:id="cy8th8-d1e453-Rd1e143" target="http://scta.info/resource/cice-l1t3-d1e316@79-80">
+            c. pastoralis § quoniam autem de rescriptis
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e150">
+          <pc type="pilcrow">¶</pc> 
+          Or in any elected person before confirmation.
+          For by election the title of prelacy and the habit of power to be administered 
+          is conferred on the elected,
+          but by confirmation only the exercise is conferred 
+          <ref xml:id="cy8th8-d1e453-Rd1e166" target="http://scta.info/resource/gd-p1d63-Dd1e244">
+            chapter Quanto and what is noted there 63 dist.
+          </ref> 
+          The gloss notes at the end and by the doctors in 
+          <ref xml:id="cy8th8-d1e453-Rd1e171">c. si per confirmationem de electione libro 6</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e178">
+          <pc type="pilcrow">¶</pc> 
+          Likewise the prelate of a collegiate church who does not presently have a college,
+          has in potency and potentiality jurisdiction,
+          so that if today some were assumed into the college:
+          the first prelate could exercise it:
+          which previously he did not have in act because the subject was lacking to him 
+          concerning which jurisdiction would be exercised.
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e199">
+          <pc type="pilcrow">¶</pc> 
+          And similarly it is evident in a parochial presbyter having a distinct parish 
+          in which no one dwells,
+          for such a rector has care in potency and not in act,
+          concerning which see what 
+          <ref xml:id="cy8th8-d1e453-Rd1e210">Panormitanus notes in d. § quoniam autem</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e453-Rd1e216">c. de multa de prebendis</ref> 
+          whom you should also see in 
+          <ref xml:id="cy8th8-d1e453-Rd1e222">clement. 1 de priuilegiis</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e221">
+          <pc type="pilcrow">¶</pc> 
+          It is also clear through jurisdiction in a potentate or judge before he enters 
+          the territory deputed to him as in 
+          <ref xml:id="cy8th8-d1e453-Rd1e230" target="http://scta.info/resource/bgy6gt-d1e226-Dd1e138">
+            l. obseruare ff. de officio proconsulis
+          </ref>.
+          Whence jurisdiction in potency is by potentiality,
+          but in act by exercise,
+          as 
+          <ref xml:id="cy8th8-d1e453-Rd1e238">
+            Baldus notes de allodiis libro feudorum et C. de summa trinitate l. 1. 2 columna, in fin.
+          </ref> 
+          <ref xml:id="cy8th8-d1e453-Rd1e247">Baldus and ff. de officio prefecti urb. l. 1, 1 § 1.</ref> 
+          and by 
+          <ref xml:id="cy8th8-d1e453-Rd1e252">Bartholus ff. de iurisdictione omnium iudicum</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e249">
+          <pc type="pilcrow">¶</pc> 
+          But someone is said to have jurisdiction not fully in potency whenever it does not belong 
+          to someone purely in potency presently:
+          but comes to be purified from a future act:
+          just as is seen in an archbishop to whom jurisdiction does not yet belong even in potency 
+          before an appeal is interposed.
+          Whence the archbishop cannot depute an official in the decision 
+          <pb ed="#B" n="79-v"/>
+          of his suffragan concerning appeals to be interposed to him,
+          whose reason is that before the appeal is interposed he does not yet have jurisdiction 
+          even in potency:
+          but after it has been appealed.
+          Then immediately it is purified and jurisdiction presently and fully in potency belongs to him,
+          as is the notable text in 
+          <ref xml:id="cy8th8-d1e453-Rd1e280">c. Romana de officio ordinarii lib. 6</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e453-Rd1e282">c. Romana de appellationibus</ref> 
+          in that book with what is noted by Hostiensis in both places.
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e291">
+          And each jurisdiction in potency in the aforesaid modes:
+          thus is related to exercise and commission.
+          For the first which purely belongs to someone in potency presently,
+          having it can commit as much namely as to that which he has,
+          that is the habit of jurisdiction:
+          as because a potentate existing outside the territory of his jurisdiction 
+          can delegate a cause to a subject existing in the territory as in 
+          <ref xml:id="cy8th8-d1e453-Rd1e308" target="http://scta.info/resource/bgy6gt-d1e226-Dd1e138">
+            l. observare, ff. de officio proconsulis
+          </ref> 
+          and what is noted by 
+          <ref xml:id="cy8th8-d1e453-Rd1e324">gloss and doctors in c. nouit de officio legati</ref> 
+          but the exercise of a jurisdictional act:
+          he is able neither to exercise nor to commit as 
+          <ref xml:id="cy8th8-d1e453-Rd1e331">d. l. observare et § quoniam autem</ref> 
+          and the gloss and doctors there and 
+          <ref xml:id="cy8th8-d1e453-Rd1e336">gloss at the end in c. ex tenore</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e453-Rd1e341">gloss in c. ex suscepto de foro competenti</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e453-Rd1e326" target="http://scta.info/resource/nyf6td-d1e178-Dd1e17247">
+            John Monachus in c. si confirmationem de electione lib. 6
+          </ref> 
+          and in d. c. Romana § 1 de officio ordinarii libro 6
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e338">
+          <pc type="pilcrow">¶</pc> 
+          But the second belonging to someone not purely in potency presently,
+          but to be purified from a future act,
+          cannot be committed or delegated as in 
+          <ref xml:id="cy8th8-d1e453-Rd1e37x">d. c. romana</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e453-Rd1e349">Panormitanus notes in d. § quoniam autem</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e453-Rd1e354">
+            <name xml:id="cy8th8-d1e453-Nd1e355">Antonius de Butrio</name> 
+            in. d. § quoniam autem
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e453-Rd1e384">beautifully by the lords of the Rota in decision 846</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e453-Rd1e389">decision 156 in the old ones</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e362">
+          And the reason is that what does not exist cannot be committed as 
+          <ref xml:id="cy8th8-d1e453-Rd1e366" target="http://scta.info/resource/gd-p2c1q7-Dd1e476">
+            1, q. 7, c. Daibertum
+          </ref> 
+          and d. quoniam,
+          and of what does not exist judgment cannot be received 
+          <ref xml:id="cy8th8-d1e453-Rd1e371" target="http://scta.info/resource/bgy6gt-d1e662-Dd1e382">
+            ff. de iudiciis l. non potest
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e453-Rd1e376" target="http://scta.info/resource/cice-l1t3-Dd1e244">
+            de rescriptis c. ad hec.
+          </ref> 
+          And what I cannot do myself,
+          I am not able to exercise through others 
+          <ref xml:id="cy8th8-d1e453-Rd1e388" target="http://scta.info/resource/wef6td-d1e1612-d1e574">
+            de regulis iuris quod alicui libro. 6
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e453-Rd1e393" target="http://scta.info/resource/bgy6gt-d1e5058-Dd1e114">
+            ff. de administratione rerum ad ciuitatem pertinentium, l. 2.
+          </ref> 
+          He can however exercise some act concerning preparatory matters of jurisdiction,
+          as is noted in 
+          <ref xml:id="cy8th8-d1e453-Rd1e407" target="http://scta.info/resource/bgy6gt-d1e226-Dd1e138">
+            d. l. 
+            <pb ed="#B" n="80-r"/>
+            observare
+          </ref>, 
+          and in 
+          <ref xml:id="cy8th8-d1e453-Rd1e414">d. c. Romana</ref> 
+          and by the gloss and Panormitanus in d. § quoniam autem and 
+          <ref xml:id="cy8th8-d1e453-Rd1e418">d. c. nouit</ref> 
+          and other places.
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e421">
+          <pc type="pilcrow">¶</pc> 
+          And such is the jurisdiction which the Supreme Pontiff,
+          the Vicar of Christ,
+          has as regards infidels who have not yet received the faith.
+          In order that he may fully have it in potency:
+          it is necessary that through the reception of faith or through some offense 
+          which they make to the Church,
+          and thus from a future act,
+          it be purified.
+          For it is manifest that the Supreme Pontiff does not involve himself in temporal matters 
+          except among Christians and with cause,
+          and only within the Church does he have jurisdiction fully in potency:
+          and thus nearest to exercise or so that it may be reduced to act.
+          But as regards infidels,
+          since their conversion or special fault is future,
+          which is the act by which jurisdiction is to be purified,
+          that is perfected:
+          therefore presently,
+          until they are Christians:
+          it is more remote from being in act,
+          and consequently not fully in potency.
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e462">
+          Since therefore the universal dominion,
+          power and jurisdiction of that world does not depend on papal concession 
+          or institution alone (as appears from many things proved above),
+          but principally from the free consent and voluntary acceptance of those peoples 
+          and princes and nations together:
+          which consent however our kings have not yet had up to now 
+          (as will immediately be proved),
+          and consequently they come to be purified from future acts (namely) 
+          the conversion and consent of those peoples with their kings,
+          it follows that the said dominion,
+          power,
+          jurisdiction of that supreme principate belongs to our kings in potency only 
+          from the part of the title of the aforesaid institution or papal concession:
+          and thus in potency not yet presently purified but to be purified:
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e510">
+          Therefore only can they occupy themselves concerning preparatory matters,
+          namely as to this,
+          that they may lawfully go or send their messengers and legates,
+          and exercise all preparatory acts which concerning the inhabitants 
+          <pb ed="#B" n="80-v"/>
+          and dwellers of those regions and lands are to be done or exercised from the beginning.
+          Namely those which in the 2nd conclusion we have placed under the order of law 
+          to be necessarily observed and to be observed.
+          Which it is not lawful for any other Christian prince to exercise because of the express 
+          and just prohibition of the Supreme Vicar of Christ under incursion of most grave anathema:
+          indeed not even for any cause whatever to approach those parts or to send,
+          as appears in the apostolic decree concerning this.
+        </p>
+
+        <p xml:id="cy8th8-d1e453-d1e563">
+          Whence it appears that our kings can delegate no cause in those lands,
+          since the subject is lacking to them (that is) 
+          subjects concerning whom they may exercise habitual power:
+          nor do they have by right any subject there to whom they may delegate a cause,
+          as in the example of the archbishop before the interposition of an appeal.
+          And this until those peoples of their own accord submit themselves to their authority:
+          as is sufficiently proved by many things adduced above,
+          to which see immediately what I say below § 33,
+          and thus the corollary is evident.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
