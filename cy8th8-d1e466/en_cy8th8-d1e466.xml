@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 31</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 31</title>
+          <date when="2025-10-08">October 08, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="80-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e466">
+        <head xml:id="cy8th8-d1e466-Hd1e97">Section 31</head>
+
+        <p xml:id="cy8th8-d1e466-d1e99">
+          § 31
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e104">
+          Conclusion 4
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e109">
+          No King or lord or people,
+          nor even any private or particular person of that entire Indian world:
+          from the beginning of its discovery,
+          namely in the year of salvation 1493,
+          up to this day of the month of August thirtieth of the year 1561,
+          has known or accepted truly freely,
+          rightly or juridically,
+          nor correctly,
+          the illustrious kings of Spain as our lords or superiors:
+          nor the messengers,
+          leaders,
+          captains or magistrates sent by them in the name of the kings:
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e149">
+          But the obedience which up to now 
+          <pb ed="#B" n="81-r"/>
+          they have rendered and now render is and always has been violently extorted,
+          involuntary,
+          and with all forced to it,
+          since they do not have the forces to resist.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e164">
+          And this in truth not by the fault of our Catholic kings,
+          but only of the Spaniards.
+          Whence all those peoples,
+          kings and free peoples,
+          just as they were free before the aforesaid institution,
+          have always remained free by right.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e175">
+          One quite small province is excepted,
+          by the name of Verapaz,
+          concerning whose history I will touch on something below.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e182">
+          <pc type="pilcrow">¶</pc> 
+          The conclusion is proved as regards its first part.
+          First by this reason.
+          So that they might rightly,
+          that is with the order of law observed,
+          and correctly,
+          that is with due circumstances observed:
+          receive our Kings or recognize them as universal princes and superiors et Lords,
+          one of two things or rather both were necessarily required.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e200">
+          First that it be shown to them or proved that they were by some law bound to admit 
+          our kings as universal princes and lords.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e207">
+          <pc type="pilcrow">¶</pc> 
+          Second that induced and provoked by the Spaniards through some gifts,
+          good examples and sweet conduct:
+          they should receive them of their own accord,
+          without other reason being rendered or demonstration of right.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e228">
+          Not indeed the first:
+          because they never showed any right by which they would be clearly convinced 
+          that they were obligated to receive some foreign prince as superior.
+          Except that our people said and asserted to them that the true God in heaven 
+          had instituted on earth a certain man in his place,
+          by the name Pope:
+          who indeed had granted all those kingdoms to the kings of Spain.
+          You the reader judge whether from the said notification or proof they would be bound 
+          immediately or with any delay to admit our kings as universal Lords,
+          or rather would they take those words as mockery or laughter:
+          or certainly that such a legation was worthy to be prosecuted with anger 
+          and implacable hatred.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e268">
+          <pc type="pilcrow">¶</pc> 
+          You will note also what kind of beginning those legates of the faith took 
+          for sowing through that world knowledge of the true God and notifying the Gospel of Christ 
+          through peaceful and loving preaching.
+          Although truly they did not even fully understand the words themselves,
+          since they were uttered in the Spanish language.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e287">
+          Add that most often our people did not begin their legation from words but from blows.
+          And truly it is quite foolish to think that those peoples would believe or have faith,
+          even if they understood the words,
+          in such hard,
+          scandalous,
+          and disturbing words from men whom they saw armed with horrible arms 
+          and with terrible bearing:
+          whom also experience had taught them,
+          either in themselves or in their neighbors,
+          to be impious,
+          cruel,
+          inhuman and full of every kind of vice and filled with all iniquity and injustice.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e329">
+          And although the Spaniards should wish to prove that peacefully through some law:
+          nevertheless they would not find it.
+          Because it cannot be shown to them by natural law,
+          that is of nations,
+          nor by divine law that they are obligated to do it.
+          But rather all laws support and save these people and condemn the Spaniards.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e349">
+          <pc type="pilcrow">¶</pc> 
+          Concerning natural law it is evident:
+          because provinces which have been accustomed to be ruled by their kings and princes,
+          as those peoples are and are ruled:
+          are said to be under their natural dominion,
+          that is by the law of nations 
+          <ref xml:id="cy8th8-d1e466-Rd1e364">l. ex hoc iure ff. de iustitia et iure</ref> 
+          as 
+          <ref xml:id="cy8th8-d1e466-Rd1e369">above § 6</ref> 
+          appeared sufficiently proved.
+          Whence rather those peoples and nations can prove by the authority of natural law 
+          and the law of nations:
+          that the Spaniards are tyrants who invaded their kingdoms contrary to natural law:
+          concerning which there is no doubt to anyone who has been of sound mind 
+          that we have been tyrants in those lands and today are:
+          since we have despoiled the natural kings under whose natural dominion all were:
+          and all inhabitants of their natural liberty for no other cause 
+          except that we were stronger,
+          indeed more unfortunate than they,
+          and therefore now we are unjust possessors and very violent.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e401">
+          <pc type="pilcrow">¶</pc> 
+          Nor can it be proved to them by divine law.
+          Indeed they can in defense 
+          <pb ed="#B" n="82-r"/>
+          of their right:
+          allege against us and our wicked invasion and detention of foreign kingdoms 
+          that very divine law itself.
+          <pc type="pilcrow">¶</pc> 
+          For divine law of the new law,
+          just as it is not found to have derogated from natural law or the law of nations,
+          but rather to have established them according to that passage in 
+          <ref xml:id="cy8th8-d1e466-Rd1e424">Matthew 5</ref> 
+          <quote xml:id="cy8th8-d1e466-Qd1e426" source="http://scta.info/resource/mt5_17@9-13">
+            I came not to destroy the law but to fulfill it
+          </quote>:
+          so it did not establish anew that those peoples should be subjected to some foreign prince,
+          with the prior and natural ones dismissed without fault.
+          Indeed in their dominions,
+          jurisdictions,
+          estates,
+          and dignities they were by that law confirmed and established as 
+          <ref xml:id="cy8th8-d1e466-Rd1e449">
+            § 6 was most extensively proved in the 1st consideration
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e444">
+          <pc type="pilcrow">¶</pc> 
+          But you expect,
+          as I presume,
+          what I should say concerning human law.
+          For nothing to the point concerning civil law,
+          since it does not bind them,
+          for it binds those who exist in the same city or kingdom where it was established as 
+          <ref xml:id="cy8th8-d1e466-Rd1e455" target="http://scta.info/resource/azsw2e-d1e5493-d1e110">
+            C. de emancipationibus l. 1.
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e462">
+          But it remains to speak concerning canon and ecclesiastical Law.
+          For nothing to us concerning 
+          <quote xml:id="cy8th8-d1e466-Qd1e466" source="http://scta.info/resource/Icor5_12@4-9">
+            judging those who are outside
+          </quote> 
+          <ref xml:id="cy8th8-d1e466-Rd1e469">1 Corinthians 5</ref> 
+          Whence they are not bound by canonical constitutions 
+          <ref xml:id="cy8th8-d1e466-Rd1e482">c. gaudemus de diuor.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e474">
+          <pc type="pilcrow">¶</pc> 
+          But whether the Supreme Vicar of Christ who is above all laws could deprive the kings 
+          of those peoples of their kingdoms,
+          dignities and jurisdictions and dominions without cause 
+          (certainly saving his reverence,
+          obedience and final definition) 
+          he neither does nor ever did,
+          nor will do,
+          unless for clear and manifest and most urgent and necessary cause,
+          which here is entirely lacking,
+          as above 
+          <ref xml:id="cy8th8-d1e466-Rd1e510">
+            § 8 in the 4th consideration you have had determined by most extensive disputation
+          </ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e500">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore by no law has it hitherto been proved or shown to the kings or peoples of the Indies:
+          nor could we even if we wished and strove with all our might prove:
+          that they would be obligated to recognize our kings as universal princes:
+          but with frivolous and ridiculous words:
+          indeed most scandalous and efficacious for moving,
+          exasperating and inciting their spirits:
+          to anger and implacable hatred against the Christian religion 
+          and for disturbing that entire world with unheard of confusion (namely) 
+          that those kingdoms had been transferred to our nation,
+          to them at first sight 
+          <pb ed="#B" n="82-v"/>
+          horrible and insolent in appearance,
+          they took care to extort obedience from them,
+          not omitting terrible threats.
+          Therefore by this reason,
+          namely:
+          that it has been proved to the kings or inhabitants or dwellers of that world 
+          that they are obligated to recognize our kings as universal lords:
+          it cannot be understood that any of them,
+          either King or peoples,
+          voluntarily received or recognized the same kings of Spain as superiors,
+          or rendered obedience to them or to any of theirs sent hither and thither,
+          but rather the contrary.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e556">
+          Therefore the kings and peoples and all other inhabitants of the Indies remain by right 
+          in that state of liberty and integrally of their right in which they were before,
+          notwithstanding the institution of our kings as supreme princes by the Pope.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e565">
+          <pc type="pilcrow">¶</pc> 
+          The second thing which was required so that the peoples of the Indies might rightly 
+          and correctly recognize our Kings as lords and universal princes was:
+          that of their own accord and by free consent they should receive them,
+          without reason being rendered or demonstration of right,
+          but persuaded by good reasons or induced by gifts.
+          But nor by this will it be proved that they received them or held the said papal institution as valid.
+          The reason for which is that the Spaniards always began their legation (as was done) 
+          from sudden,
+          wicked and unexpected violence and invasion.
+          For at the beginning of the discovery of that world and of any part of it,
+          they never entered those kingdoms and lands except as enemies,
+          invading hostilely and occupying the boundaries of the lands and kingdoms of such peoples:
+          killing,
+          slaughtering,
+          capturing,
+          plundering,
+          devastating all things with slaughters,
+          fires,
+          rapines such as were never before seen or heard of in the entire world:
+          sparing no sex,
+          no age,
+          no dignity,
+          estate or even order.
+          And after the greatest and most cruel slaughters,
+          of which they perpetrated more and very many intentionally and deliberately.
+          Savagely so that they might cast their fear into the hearts of the inhabitants 
+          (besides the fact that by their very nature such peoples are wonderfully timid,
+          being naked and unarmed and inexperienced in the terrible fury and terror of our arms 
+          and horses) 
+          namely lest it should be permitted to them further even to think or aspire to thinking 
+          <pb ed="#B" n="83-r"/>
+          about their miserable and unhappy state and about their liberation at some time.
+          They led moreover those of them who in any way escaped their cruel sword,
+          innumerable,
+          great and small,
+          kings and subjects,
+          lords and subordinates,
+          into horrible,
+          most foul and perpetual servitude in which it was not permitted even to lift their eyes to heaven.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e666">
+          Behold what beginning our people held.
+          Behold what kind of entry theirs was when they arrived at those Indian regions.
+          Thus they began,
+          thus they continued,
+          and thus even to the present day they have continued what was impiously perpetrated by them.
+          And in this state all peoples of this kind always have been and now are:
+          nor has the exactor,
+          indeed the cruel killer,
+          prodigal shedder of human blood,
+          ceased for one day:
+          nor has the tribute been quiet,
+          the rod of the impious slept:
+          nor has the rod of those unjustly dominating been taken away,
+          striking the peoples,
+          indeed extirpating and destroying the peoples with an incurable wound:
+          subjecting the nations in fury,
+          persecuting cruelly as was foretold in 
+          <ref xml:id="cy8th8-d1e466-Rd1e712">Isaiah 14</ref>.
+          Which indeed they have suffered and continuously and incessantly now in many places 
+          of the Indies from us,
+          whom they had never offended or harmed,
+          those peoples to be lamented suffer,
+          as this egregious and never heard of crime has now been spread throughout the entire world.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e712">
+          Whence because of such crimes of our people,
+          cruel insults,
+          violences and iniquities in which they have always been involved:
+          they did not take care to fulfill what especially they carried in the commands from our kings 
+          (namely) 
+          that sweetly,
+          peacefully,
+          amicably and by good works,
+          with humble,
+          gentle and gracious conduct they should induce and attract those nations 
+          to the Christian religion and to devotion and love of our kings,
+          prohibiting wars,
+          oppressions,
+          injustices and other grievances to be done to them.
+          And therefore the inhabitants hearing nothing of this kind,
+          but feeling the cruel swords of the Spaniards in their own bodies:
+          enough care to them was to be occupied concerning their defense,
+          which principally consisted in taking flight toward mountains and hiding places.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e769">
+          Therefore they did not recognize nor do they recognize today voluntarily our kings as lords or superiors:
+          <pb ed="#B" n="83-v"/>
+          but rather as enemies and inhuman destroyers or extirpators of the entire human race.
+          The consequence is evident:
+          because the deeds done by our people,
+          the messengers of our kings,
+          against them (which are not the works of a just or legitimate king:
+          but of a dire tyrant and diabolical man:
+          or rather of irrational beasts,
+          indeed of demons) 
+          they think and rightly indeed that they are done with the consent,
+          command and will of our kings:
+          when however in truth our kings never thought to command or permit such things,
+          but always strenuously prohibited them by very many letters and actual mandates,
+          of some of which we are eyewitnesses.
+        </p>
+
+        <p xml:id="cy8th8-d1e466-d1e803">
+          Therefore how could those peoples,
+          placed in such estimation,
+          voluntarily consent to the said papal institution or accept our kings as supreme lords,
+          with such savagely oppressing tyrants?
+          Behold the great service (concerning which they themselves boast much everywhere) 
+          which they offered to their kings of Spain (namely) 
+          to defame them wickedly among all those nations:
+          which without doubt (as I said) judge that all those evils are perpetrated 
+          with the consent and command of the kings of Spain.
+          And what is more lamentable:
+          they have made the name of our Savior to stink through all those parts of so vast a world:
+          and also have always provided matter so that they may hold the Catholic faith 
+          in perpetual hatred and blaspheme and abhor the religion of Christians.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
