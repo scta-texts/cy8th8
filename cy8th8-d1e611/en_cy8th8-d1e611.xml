@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 42</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 41</title>
+          <date when="2025-12-11">December 11, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="119-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e611">
+        <head xml:id="cy8th8-d1e611-Hd1e97">Section 42</head>
+        <p xml:id="cy8th8-d1e611-d1e99">
+          <pb ed="#B" n="119-v"/>
+          § <sic>41<!-- but actual 42 --></sic>
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e110">
+          Now concerning those things which above, 
+          especially in 
+          <ref xml:id="cy8th8-d1e611-Rd1e114">§ 39</ref>,
+          have been treated (namely, 
+          how our Kings ought to conduct themselves in the exercise of the habit of power or jurisdiction which they have):
+          a doubt arises which should not be concealed. 
+          At whose expense should they do the things that are incumbent upon them.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e130">
+          For it is manifest that for the sending of messengers and preachers,
+          prelates,
+          and other ministers of the church,
+          and also those who in any way will be helpers in this matter:
+          great expenses will be necessary. 
+          Are our Catholic kings themselves bound to fulfill at their own expense those things which are incumbent upon them to do,
+          or the inhabitants themselves of the aforesaid world,
+          since all these things are ordered and directed to their benefit,
+          will they be bound by reason of affairs usefully managed on their behalf to provide expenses from their own resources? 
+          And if they should be unwilling,
+          can they be compelled to pay the expenses incurred?
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e154">
+          And certainly it seems that yes. 
+          For by natural and divine law,
+          their reward is owed to those who labor for the public good,
+          temporal or spiritual,
+          not from others,
+          from those whose benefit is procured. 
+          For no one ever serves at his own expense. 
+          Nor does anyone plant a vineyard and not eat from its fruit. 
+          And the Lord ordained that those who announce the gospel should live from the gospel: 
+          <quote xml:id="cy8th8-d1e611-Qd1e171" source="http://scta.info/resource/Icor9_11@1-12">If we sow spiritual things among you, 
+            is it not a great matter if we reap your carnal or temporal things</quote>
+          etc. All these things 
+          <ref xml:id="cy8th8-d1e611-Rd1e178">the Apostle in 1 Corinthians 9</ref>;
+          and the Lord: 
+          <quote xml:id="cy8th8-d1e611-Qd1e180" source="http://scta.info/resource/mt10_10@12-17">the laborer is worthy of his reward or his food</quote>.
+          Matthew 10,
+          where it appears this is from natural and divine law,
+          it is also from human law: 
+          <ref xml:id="cy8th8-d1e611-Rd1e191">l. 1, § sed non ob impensas in fi. C. de rei uxorie actione</ref>
+          and there the doctors,
+          where it is held that a manager of affairs can recover useful expenses if he managed usefully.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e196">
+          ¶ But the contrary seems true: 
+          because since the preaching of the gospel ought to be peaceful,
+          sweet,
+          gracious,
+          that is given freely,
+          attractive and pleasant,
+          therefore not burdensome,
+          and the hearing or listening to the same by those who are in every way outside the church,
+          and the acceptance of faith and Christianity is voluntary,
+          nor indeed can any peoples be compelled in any way to receive it,
+          it follows that it is also in their power,
+          however much they may receive the faith itself,
+          if they do not provide the expenses,
+          they cannot be disturbed or badly treated.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e230">
+          This is proven: 
+          because by Christ's command we are ordered to give the faith which we received freely and without price or our merits,
+          freely and without price we ought to give 
+          <ref xml:id="cy8th8-d1e611-Rd1e241">Matthew 10</ref>
+          and he only allowed food to be received: 
+          <quote xml:id="cy8th8-d1e611-Qd1e246">The worker, 
+            he says, 
+            is worthy of his food</quote>
+          that is according to Jerome 
+          <quote xml:id="cy8th8-d1e611-Qd1e251">receive only what is necessary for you in clothing and food</quote>.
+          And this the Apostle sufficiently declares in the words related above: 
+          <quote xml:id="cy8th8-d1e611-Qd1e258">having food and covering, 
+            with these we are content</quote>
+          <ref xml:id="cy8th8-d1e611-Rd1e263">1 Timothy 6</ref>.
+          Nor did he oblige those receiving the messengers of the gospel:
+          except to provide food,
+          as there. 
+          Therefore not to pay expenses. 
+          Which food,
+          if the hearers and receivers of the gospel together should deny it to the preachers,
+          he did not impose penalties,
+          just as he did not apply penalties in this world to those not receiving them nor his faith:
+          but reserved such punishment to himself for the day of final judgment. 
+          <quote xml:id="cy8th8-d1e611-Qd1e285" source="http://scta.info/resource/mt10_14@1-21 http://scta.info/resource/mt10_15@1-15">But whoever, 
+            he says, 
+            will not receive you nor hear your words: 
+            going out from the house or city: 
+            shake the dust from your feet. 
+            Amen I say to you: 
+            it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city</quote>
+          <ref xml:id="cy8th8-d1e611-Rd1e303">Matthew 10</ref>
+          and 
+          <ref xml:id="cy8th8-d1e611-Rd1e305">Mark at the end</ref>
+          <quote xml:id="cy8th8-d1e611-Qd1e309" source="http://scta.info/resource/mc16_16@8-12">but whoever does not believe will be condemned</quote>
+          Nor indeed did the Apostle excommunicate the Corinthians nor inflict any temporal penalty on them,
+          being unwilling out of avarice to provide the Apostle and his companions with food,
+          whence to their shame before God he will boast about this sort of thing,
+          saying: 
+          <quote xml:id="cy8th8-d1e611-Qd1e330" source="http://scta.info/resource/IIcor11_7@11-16 http://scta.info/resource/IIcor11_8@1-8 http://scta.info/resource/IIcor11_9@1-30">Because I evangelized the gospel of God to you freely: 
+            I robbed other churches,
+            receiving wages,
+            that is food,
+            for your ministry. 
+            And when I was with you and in need: 
+            I was burdensome to no one. 
+            For what I lacked the brothers who came from Macedonia supplied,
+            and in all things I kept myself without burden to you and will keep</quote>
+          etc. Sometimes also he labored with his hands seeking food and other necessities for his companions lest he be burdensome to those to whom he preached:
+          as is clear 
+          <ref xml:id="cy8th8-d1e611-Rd1e357">Acts 20.</ref>
+          While he was at Miletus he said to those to whom he had preached and converted to Christ: 
+          <quote xml:id="cy8th8-d1e611-Qd1e361" source="http://scta.info/resource/act20_33@1-7 http://scta.info/resource/act20_34@1-17 http://scta.info/resource/act20_35@1-23">Silver and gold or clothing I have coveted from no one,
+            as you yourselves know: 
+            because these hands have ministered to what was necessary for me and for those who are with me. 
+            I have shown you all things: 
+            that so laboring it is necessary to support the weak: 
+            and to remember the word of the Lord Jesus,
+            because he himself said it is more blessed to give than to receive</quote>
+          this there.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e379">
+          ¶ It does not stand in the way that by natural and divine law those hearing the word of God and receiving spiritual things are bound to provide food and necessities for those preaching,
+          and therefore in not providing out of avarice if they had the means,
+          they would sin,
+          and indeed gravely. 
+          For that sin is punishable not by men with corporal or spiritual penalty:
+          but in the next world by God himself only,
+          as appears in the natural obligation which is called antidotal and arises from that natural equity that we should benefit those who benefit us,
+          as in 
+          <ref xml:id="cy8th8-d1e611-Rd1e405">l. sed in lege § consuluit ff. de poenis</ref>
+          and in 
+          <ref xml:id="cy8th8-d1e611-Rd1e411">c. cum in officiis de testamentis</ref>.
+          For from this obligation no action is granted nor can it be brought into compensation. 
+          <ref xml:id="cy8th8-d1e611-Rd1e420">l. hoc iure § penultimo. ff. de donationibus</ref>.
+          and therefore to pay the debt which is born from this obligation no one can be compelled. 
+          Thus neither to give alms to a poor person existing in extreme necessity,
+          to which nevertheless we are bound by natural law. 
+          And so concerning other works of mercy: 
+          <quote xml:id="cy8th8-d1e611-Qd1e435" source="http://scta.info/resource/mt25_42@1-7">I was hungry and you gave me nothing to eat</quote>
+          etc Matthew 25,
+          for the omission of which no one is punished by man temporally or spiritually. 
+          And this is because works of piety to be exercised are left to each one's judgment whether he wishes or not to fulfill them,
+          so in the proposed matter Christ left it to each one's judgment to provide food for the preachers of the gospel:
+          although these perhaps sin more gravely than those by reason of ingratitude,
+          because they ought to be grateful to them for the benefit received:
+          for that antidotal obligation,
+          see Felinus in 
+          <ref xml:id="cy8th8-d1e611-Rd1e458">c. <add place="margin-right">ad nostram de probationibus circa finem</add></ref>
+          <ref xml:id="cy8th8-d1e611-Rd1e476"><add place="margin-right">et panor in c.</add> consuluit de vsuris.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e467">
+          ¶ Similarly it does not stand in the way:
+          that we usefully manage the business of those etc. 
+          First because a necessity lies upon the church or its supreme pastor from the command given absolutely by Christ that the gospel be preached throughout the entire world to all peoples without any condition about price or about expenses according to that 
+          <quote xml:id="cy8th8-d1e611-Qd1e486">at the end of Mark</quote>
+          <quote xml:id="cy8th8-d1e611-Qd1e488">Going into the whole world preach the gospel to every creature</quote>.
+          And 
+          <ref xml:id="cy8th8-d1e611-Rd1e493">at the end of Matthew</ref>
+          <quote xml:id="cy8th8-d1e611-Qd1e498">Go teach all nations</quote>
+          etc. and the Apostle in 1 Corinthians 9: 
+          <quote xml:id="cy8th8-d1e611-Qd1e508">For if I evangelize, 
+            it is not glory for me: 
+            for necessity lies upon me. 
+            For woe to me if I do not evangelize</quote>
+          that is according to the gloss and St. Thomas: 
+          <quote xml:id="cy8th8-d1e611-Qd1e515">surely my heavenly glory would be emptied if I preached in order to receive expenses. 
+            For if I evangelize only,
+            not therefore out of love of God and neighbor do I do these things,
+            nor by free will: 
+            it is not glory for me before God,
+            for the necessity of the command which I dare not omit lies upon me. 
+            For woe,
+            that is eternal damnation,
+            is mine if I do not evangelize as it has been commanded to me</quote>.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e541">
+          From this it follows secondly that because by divine ordinance evangelical preaching is already owed to all peoples of the world. 
+          For this is owed to each which is ordained to it,
+          it is owed to all according to the order of divine wisdom,
+          as St. Thomas says,
+          1, q. 21, article 1 ad 3,
+          and therefore for paying a debt it is not permitted to seek expenses from the creditor. 
+          For the Supreme Pontiff and other ministers of the church are debtors and the peoples to be converted are creditors according to that in Romans 1 
+          <quote xml:id="cy8th8-d1e611-Qd1e563">to Greeks and to barbarians,
+            to the wise and to the foolish,
+            I am a debtor: 
+            so that what is in me is ready also to you who are at Rome to evangelize</quote>
+          And 
+          <ref xml:id="cy8th8-d1e611-Rd1e573">blessed Bernard book 3 to Eugene</ref>:
+          <quote xml:id="cy8th8-d1e611-Qd1e575">therefore,
+            he says, 
+            if you recognize that you are a debtor,
+            not a lord,
+            to the wise and foolish,
+            it must be most carefully cared for by you and considered with all vigilance how those who do not know may know,
+            and those who know may not become foolish,
+            and those who have become foolish may recover their senses. 
+            But there is no kind of foolishness greater than infidelity,
+            therefore you are also a debtor to unbelievers: 
+            to Jews and Greeks and Gentiles. 
+            Therefore it is your interest to give effort as much as you can that unbelievers may be converted to the faith:
+            <add place="margin-left">the converted not be turned away</add></quote>
+          etc. This is Bernard.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e605">
+          ¶ Third because Christ by command constrained the preachers of the Gentiles to give the gospel freely. 
+          And he allows only food and necessities to be received.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e616">
+          ¶ Fourth because if we should seek expenses from those hearing and also receiving the gospel,
+          they would think that we were selling it not freely but for a price. 
+          So Jerome says on Matthew that if the apostles should receive gold and silver:
+          they would seem to preach not for the sake of the salvation of men but of profit
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e628">
+          ¶ Fifth because from the management of business for the sake of piety no obligation arises in the one whose business is managed. 
+          Whence the manager of business does not recover expenses made for the sake of piety,
+          as in 
+          <ref xml:id="cy8th8-d1e611-Rd1e662">l. ex duobus § 1 ff. de negotiis gestis</ref>
+          and
+          <ref xml:id="cy8th8-d1e611-Rd1e667"> there Bartolus.</ref>
+          But what greater cause of piety than this which is done for religion? 
+          as in 
+          <ref xml:id="cy8th8-d1e611-Rd1e671">l. sunt persone in fi. ff. de religiosis et sumptibus funerum</ref>.
+          Especially when something is carried out concerning someone from precise necessity,
+          as because from natural or divine precept someone is constrained to do something,
+          as here. 
+          Because then expenses are not recovered. 
+          As appears in the mother who spends concerning the person of her son from precise necessity,
+          as because the son is within three years,
+          or because the son does not have other means to live,
+          because the marriage has been dissolved by divorce through his fault:
+          and the burden of the children pertains to the mother,
+          as in 
+          <ref xml:id="cy8th8-d1e611-Rd1e691">l. nec filium C. de patria potestate</ref>
+          and 
+          <ref xml:id="cy8th8-d1e611-Rd1e69Z">l. si quis a liberis § siue parens ff. de liberis agnoscendis</ref>
+          in this case the mother does not have recovery even if she had protested that she would do it with the intention of recovering,
+          as the gloss holds and after it 
+          <ref xml:id="cy8th8-d1e611-Rd1e708">Bartolus in l. alimenta</ref>
+          and in 
+          <ref xml:id="cy8th8-d1e611-Rd1e712">l. 1a et 2a C. de negotiis gestis</ref>
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e679">
+          ¶ There is another case when the necessity is causative:
+          for instance when expenses are made on that person to whom the care is enjoined to do something because he ought to do it at his own expense,
+          as 
+          <ref xml:id="cy8th8-d1e611-Rd1e726">l. suo victu ff. de operis libertorum</ref>.
+          Example in the mother of a ward,
+          because since the care of the ward is enjoined to the mother,
+          as 
+          <ref xml:id="cy8th8-d1e611-Rd1e731">l. 2 § si mater ff. ad rebeli</ref>
+          and 
+          <ref xml:id="cy8th8-d1e611-Rd1e697">l. diuus ff. qui petant tutores</ref>
+          she ought to do it at her own expense per 
+          <ref xml:id="cy8th8-d1e611-Rd1e702">d. l. suo victu</ref>
+          Whence the expenses which the mother has made in seeking a guardian for her ward son:
+          can in no way be sought by reason of the care enjoined to her by natural and human law. 
+          Nor will it help if she had protested that she does it with the intention of recovering. 
+          For that protest declaratory of will:
+          has no effect in those things which do not depend on our will:
+          but are decided by law according to Bartolus,
+          in 
+          <ref xml:id="cy8th8-d1e611-Rd1e720">d. l. alimenta.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e723">
+          ¶ Since therefore the necessity of preaching the gospel throughout the whole world in all peoples is precise,
+          as indeed enjoined and commanded by Christ's precept,
+          and thus from divine right or law as has been seen,
+          therefore expenses which may happen to be expended for such preaching and conversion of peoples can in no way be recovered,
+          therefore at his own expense the pope or king or any other Christian who should undertake this burden or care of preaching and such conversion is bound to provide. 
+          Nor will it help him if he protests that they do it with the intention of recovering the expenses which they have made:
+          since when the preaching of faith and conversion of peoples are decided by divine law and thus are owed and do not depend on their will,
+          therefore that protest declaratory of will will be of no effect.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e763">
+          ¶ Similarly the same must be concluded from causative necessity. 
+          For since the care has been enjoined by God first to the supreme Vicar of Christ and to the prelates of the church:
+          indeed to all Christians because 
+          <quote xml:id="cy8th8-d1e611-Qd1e774">God commanded each one concerning his neighbor</quote>
+          Ecclesiasticus 17,
+          especially to whom that shepherd has enjoined the care itself of preaching the gospel and leading the other sheep which Christ must draw to his fold through his ministers,
+          it follows that whoever should assume such care or to whom it should be enjoined by Christ's vicar is bound to carry it out at his own expense:
+          nor ever rightly to recover,
+          however much he may have protested,
+          just as a mother seeking a guardian for her son. 
+          So the Apostle certainly was carrying out the care enjoined to him of teaching and illuminating the Gentiles 
+          <ref xml:id="cy8th8-d1e611-Rd1e796">1 Thessalonians 2</ref>
+          <quote xml:id="cy8th8-d1e611-Qd1e798" source="http://scta.info/resource/Ith2_7@8-20 http://scta.info/resource/Ith2_8@1-20 http://scta.info/resource/Ith2_9@1-21 http://scta.info/resource/Ith2_10@1-16 http://scta.info/resource/Ith2_11@1-9 http://scta.info/resource/Ith2_12@1-4">But we became little ones in your midst as if a nurse should cherish her sons,
+            so desiring you ardently we wished to give to you: 
+            not only the gospel of God: 
+            but also our souls because you had become most dear to us. 
+            For you remember,
+            brothers,
+            our labor and weariness night and day working lest we might burden anyone,
+            we preached to you the gospel of God. 
+            You are witnesses and God how holily and justly and without complaint we were with you who believed,
+            as you know how each one of you as a father his sons,
+            beseeching you and consoling</quote>
+          etc And elsewhere 
+          <quote xml:id="cy8th8-d1e611-Qd1e820" source="http://scta.info/resource/Icor3_1@13-16 http://scta.info/resource/Icor3_2@1-6">as to little ones in Christ, 
+            I gave you milk to drink, 
+            not solid food</quote>
+          <ref xml:id="cy8th8-d1e611-Rd1e824">1 Corinthians 3</ref>
+          Behold the Apostle as mother and father was cherishing and nursing and consoling the Gentiles with the teaching of Christ like his own sons at his own expense,
+          not just any:
+          but which he labored for night and day with his hands. 
+          And this was little for him but also he desired to expose his soul,
+          that is life,
+          for their salvation,
+          and yet he did not care to recover expenses nor did he protest.
+        </p>
+        <p xml:id="cy8th8-d1e611-d1e840">
+          ¶ And to such a degree did the blessed Apostle judge it illicit for preachers of the gospel to intend recovery of expenses:
+          that he even abstained from seeking food which was owed to him by natural and divine right,
+          while he was among those who did not give spontaneously:
+          and he worked with his hands. 
+          <quote xml:id="cy8th8-d1e611-Qd1e857" source="http://scta.info/resource/act20_35@1-9">I have shown you all things,
+            he says, 
+            that thus laboring it is necessary to support the weak</quote>
+          etc. As I related a little above from 
+          <ref xml:id="cy8th8-d1e611-Rd1e867">Acts 20</ref>
+          And so it is clear that that which was alleged to the contrary by human laws does not stand in the way,
+          namely concerning the management of affairs usefully done. 
+          And by these things the error of 
+          <ref xml:id="cy8th8-d1e611-Rd1e876">John Major</ref>
+          (which among others he has 
+          <ref xml:id="cy8th8-d1e611-Rd1e881" corresp="#cy8th8-d1e611-Qd1e893 #cy8th8-d1e611-Qd1e898">on book 2 of the Sentences distinction 44 question 3 in the matter of unbelievers</ref>)
+          is manifestly refuted,
+          who erring both in law and in fact concerning such Indian nations said that because in all things to be done concerning them great expenses are required which another king does not provide,
+          it is permitted to take them: 
+          <quote xml:id="cy8th8-d1e611-Qd1e893" source="http://scta.info/resource/jb2v19-d111866-d1e326@167-172">because another,
+            he says, 
+            ought reasonably to wish this</quote>.
+          and below that: 
+          <quote xml:id="cy8th8-d1e611-Qd1e898" source="http://scta.info/resource/jb2v19-d111866-d1e326@259-274">if an unbelieving king should wish to accept the faith with others paying for the expenses incurred,
+            he is not to be deposed from his kingdom</quote>
+          etc. This from him. 
+          But because in our apology written in Latin and vernacular language we have most extensively refuted this error with others of 
+          <name xml:id="cy8th8-d1e611-Nd1e930">John Major</name>
+          therefore in the present circumstances on this matter it should be passed over.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
