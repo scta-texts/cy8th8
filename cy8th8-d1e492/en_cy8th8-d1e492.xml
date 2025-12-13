@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 33</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 33</title>
+          <date when="2025-12-13">December 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="87-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e492">
+        <head xml:id="cy8th8-d1e479-Hd1e97">Section 33</head>
+        
+        <p xml:id="cy8th8-d1e492-d1e100">
+          § 33
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e111">
+          Conclusion 5
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e116">
+          ¶ Our Catholic Kings of the Spains are now in that state with regard to dominion 
+          and actual jurisdiction or the exercise of royal power over that world of the Indies 
+          in which they were when their institution over that world was made in Rome by the 
+          Supreme Roman Pontiff.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e132">
+          ¶ The conclusion is proven in multiple ways and first thus, 
+          namely by argument from correlatives. 
+          Concerning which according to 
+          <ref xml:id="cy8th8-d1e492-Rd1e140">
+            Baldus in l. conuenticula C. de episcopis et clericis
+          </ref> 
+          and by the second mode in which said argument is formed, 
+          namely destructively. 
+          So that the removal of one of the correlatives follows the removal of the other. 
+          A notable text in 
+          <ref xml:id="cy8th8-d1e492-Rd1e145">
+            l. fi. ff. de acceptiliationibus
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e492-Rd1e147">
+            l. 1, C. de Cypressis libro 11o
+          </ref> 
+          and what is denied or corrected in one is denied or corrected concerning the other. 
+          The text is in 
+          <ref xml:id="cy8th8-d1e492-Rd1e161">
+            l. fi., C., de iudii. vidua.
+          </ref> 
+          and there the 
+          <ref xml:id="cy8th8-d1e492-Rd1e169">
+            legists.
+          </ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e172">
+          ¶ For our kings and all those peoples are correlative with regard to universal 
+          jurisdiction: 
+          but the right or burden of having or recognizing our kings as superiors and 
+          of granting consent to this has always been removed from all the kings, 
+          inhabitants and peoples of that world: 
+          since always and now the right of actual dominion and of exercising actual 
+          jurisdiction or royal power throughout that entire world of the Indies is removed 
+          from our most illustrious and Catholic kings, 
+          therefore our kings are in that state etc.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e201">
+          ¶ Secondly the conclusion is proven because just as then our kings had a right 
+          to the thing and not in the thing with respect to that Indian world: 
+          so also now they have a right to the thing and not in the thing as in conclusion 3.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e212">
+          ¶ Thirdly because just as then they had only a title to those kingdoms, 
+          so now they have only a title to those kingdoms as appeared in the same 
+          3rd conclusion.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e223">
+          ¶ Fourthly because just as then they had dominion in habit and jurisdiction 
+          and not in act: 
+          so now they have these not in act but in habit and still not fully in habit. 
+          As is clear in the preceding corollary.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e235">
+          ¶ Fifthly because just as then those twelve things required and necessarily to 
+          be observed which conclusion 2 contains, 
+          namely the order of natural and divine law committed to execution, 
+          had not yet been fulfilled: 
+          so also now and in the intermediate time they have never been observed: 
+          but the contrary has been done in every way as evidently appears throughout 
+          this entire treatise.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e253">
+          ¶ Sixthly because just as then our kings did not have the consent of the kings 
+          and peoples by which they would ratify said papal institution and by free will 
+          deliver themselves to their rule and empire 
+          (which is the foundation and efficient cause of this whole affair as has been proven) 
+          so also now they lack the aforesaid foundation and efficient cause as was proven 
+          in the penultimate part of conclusion 2.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e273">
+          ¶ Seventhly because just as then none of the kings and peoples of that world 
+          rightly, 
+          that is juridically: 
+          nor correctly, 
+          that is with due circumstances, 
+          recognized our kings as superior lords: 
+          so now there is no one who rightly or correctly from that time until now has 
+          recognized or recognizes our kings as superiors as conclusion 4 sufficiently declares.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e297">
+          ¶ Finally eighthly the conclusion is proven: 
+          because just as then when the apostolic letters of the aforesaid institution 
+          were expedited in Rome our kings had not yet apprehended rightly or correctly 
+          the possession of that world or of any part of it: 
+          so also now no possession has been apprehended rightly nor correctly on the part 
+          of our kings: 
+          nor do they have any juridical possession now.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e316">
+          ¶ We speak here of possession with respect to those nations inhabiting the 
+          aforementioned world of whose right we treat here. 
+          But with respect to other kings of the world, 
+          especially Christians, 
+          it is otherwise. 
+          Since it is true that the first admiral or sea captain who first discovered the 
+          aforesaid world and all other ambassadors of our kings in whatever place to which 
+          they first came apprehended juridical corporal possession. 
+          Whence no prince of the world especially of Christians has anything to do in that 
+          entire world of the Indies except the Kings of Castile and Leon our lords on account 
+          of said institution made concerning these our kings by the Roman pontiff: 
+          and the simultaneous apostolic prohibition that no other whatsoever of whatever 
+          condition or dignity dare to intrude himself as we touched upon above for any cause 
+          of going or sending without the license and good pleasure of our kings to that world.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e356">
+          ¶ But that no possession has been apprehended rightly or correctly thus far on 
+          the part of our kings in that entire world: 
+          certainly through many of those things which have been disputed and declared above 
+          it can be seen in clear light.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e370">
+          Nevertheless we wish to prove this anew and especially. 
+          And first, 
+          thus.
+          ¶ Possession is not to be taken from anyone before cognizance of the cause: 
+          nor should the possessor be expelled without him being summoned and heard: 
+          even if someone has license to expel. 
+          Otherwise what is done is worthless: 
+          and the one expelling falls from his right if he has any in it.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e395">
+          But all the peoples of that entire world of the Indies were in possession of it: 
+          from whom nevertheless all possession has been taken away by the Spaniards both of 
+          dominions, 
+          jurisdictions and rights (public and private) corporal and incorporeal: 
+          as well as of lands, 
+          woods, 
+          mountains, 
+          rivers, 
+          waters and all things that were born in the aforesaid: 
+          as in the mines of gold and silver, 
+          salt works: 
+          of gold and silver and other metals, 
+          salt: 
+          pearls, 
+          gems, 
+          unions, 
+          precious stones and other things of price and estimation incomparable: 
+          and thus possessors and proprietary lords of so many and such great things and of 
+          immense value of which like things Solomon in all his glory neither had nor saw 
+          nor could nature of things dream: 
+          they were expelled and despoiled before cognizance of the cause without them being 
+          summoned or heard.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e441">
+          Therefore the apprehension or rather the taking of such possession by the Spaniards, 
+          indeed the violent despoliation and usurpation was not done rightly nor correctly 
+          on the part of our kings: 
+          and consequently it is worth nothing or was worth nothing: 
+          and if they had had any right in that world they would fall from it. 
+          How much more so having acquired no right in the aforesaid world.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e454">
+          ¶ Moreover cognizance of a cause 
+          (according to the jurists) 
+          is the deliberation of a judge from the assertion of the plaintiff and the 
+          contradiction of the adversary solemnly made to investigate the truth of causes in 
+          which the right is deposited as in 
+          <ref xml:id="cy8th8-d1e492-Rd1e468" target="http://scta.info/resource/azsw2e-d1e924-Dd1e126">
+            l. 3, ff. De restitutione in integrum
+          </ref>
+          <ref xml:id="cy8th8-d1e492-Rd1e475" target="http://scta.info/resource/bgy6gt-d1e965-d1e986">
+            l. si ex plagis, $ in cliuo, ff., Ad Legem Aquiliam.
+          </ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e479">
+          ¶ The minor through evidence of the fact is clear to the whole world. 
+          ¶ Moreover the consequence with the major is proven first by 
+          <ref xml:id="cy8th8-d1e492-Rd1e489" target="http://scta.info/resource/azsw2e-d1e5001-Dd1e157">
+            l. meminerint C. unde vi
+          </ref> 
+          where it appears that 
+          <quote xml:id="cy8th8-d1e492-Qd1e496">
+            if the pope or emperor grants castles to someone he cannot occupy them by his 
+            own authority unless the order of law is observed. 
+            But if he invades the possession he is deprived of his right. 
+            Likewise if a judge gives license to someone it is not valid unless the order of 
+            law is observed and those abusing it fall from their right. 
+            For the order of judgments is to be observed. 
+            In which judgment the possessor must be cited if he is found otherwise a procurator 
+            is cited who denounces to him
+          </quote>
+          <ref xml:id="cy8th8-d1e492-Rd1e513">
+            these things Baldus in the summary of said law: meminerint
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e492-Rd1e518" target="http://scta.info/resource/azsw2e-d1e5001-Dd1e170">
+            l. si quis in tantam C. eo titulo
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e492-Rd1e523" target="http://scta.info/resource/azsw2e-d1e5013-Dd1e119">
+            C. si per vim l. 2
+          </ref> 
+          where it is said that the possessor not summoned nor cited should not be disturbed 
+          in his possession even by rescript of the prince or interlocution of the judge, 
+          these things from that. 
+          And in 
+          <ref xml:id="cy8th8-d1e492-Rd1e533">
+            capitulo conquerente de restitutione spoliatorum
+          </ref> 
+          where possession taken without judicial order is to be restored before all else.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e542">
+          ¶ But since those entire peoples disturbed by so many violences, 
+          not summoned: 
+          not heard: 
+          and with the order of law not observed, 
+          were despoiled of the possession of all their rights by the Spaniards, 
+          therefore no possession has been apprehended rightly nor correctly until now on 
+          the part of our kings nor do they have any juridical possession now in that entire 
+          world. 
+          And consequently our kings are in that state today which conclusion 5 declares.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e567">
+          ¶ Secondly the same is proven. 
+          Because if possession is not to be taken from heretics without a declaratory sentence 
+          although they lose the dominion of their things by the law itself as is expressly 
+          provided in 
+          <ref xml:id="cy8th8-d1e492-Rd1e583">
+            c. cum secundum de hereticis libro 6
+          </ref> 
+          in the word 
+          <mentioned>confiscationis</mentioned> 
+          where 
+          <ref xml:id="cy8th8-d1e492-Rd1e589">
+            petrus de ancharano
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e492-Rd1e596">
+            c. licet de prebendis eo libro
+          </ref> 
+          says that 
+          <quote xml:id="cy8th8-d1e492-Qd1e598">
+            although in the case of heresy and similar cases dominion is acquired without 
+            tradition or the heretic loses it by the law itself: 
+            nevertheless he does not lose possession
+          </quote> 
+          as is 
+          <ref xml:id="cy8th8-d1e492-Rd1e607">
+            a notable gloss in l. fi. C. de sacrosanctis ecclesiis
+          </ref> 
+          How much less therefore is possession to be taken from those who justly possess: 
+          nor are they deprived or to be deprived of their dominions like the aforesaid nations. 
+          Whence 
+          <ref xml:id="cy8th8-d1e492-Rd1e623">
+            Ancharanus adds in c. licet
+          </ref> 
+          that 
+          <quote xml:id="cy8th8-d1e492-Qd1e624">
+            no disturbance or violence is to be inflicted on one possessing peacefully that 
+            he might not use his possession until by sentence another is declared lord even 
+            if at first sight it is unjust. 
+            For such injustice must be established before the judge as judge. 
+            Which cannot happen unless the party is summoned as 
+            <ref xml:id="cy8th8-d1e492-Rd1e637">
+              l. fi. C.
+            </ref> 
+            si per vim vel alio modo.
+          </quote>
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e642">
+          The reason for which according to the same Ancharranus is because from some cause 
+          a right of retaining can be competent to him from which 
+          (he says) 
+          <quote xml:id="cy8th8-d1e492-Qd1e648">
+            note that however much common law makes against one possessing so that his 
+            possession is patently improper, 
+            nevertheless it is not to be taken away without him being summoned. 
+            And hence it is that in notorious crimes citation is required according to what 
+            is noted in 
+            <ref xml:id="cy8th8-d1e492-Rd1e661">
+              c. uestra de cohabitatione clericoram et mulierum
+            </ref> 
+            for there is no crime so notorious: 
+            that it does not have an excuse for avoiding punishment as says singularly 
+            <ref xml:id="cy8th8-d1e492-Rd1e673">
+              Innocentius in c. preterea de dilationibus
+            </ref> 
+            to this 
+            <ref xml:id="cy8th8-d1e492-Rd1e675">
+              c. cum dilecti de accusationibus
+            </ref> 
+            where plundering, 
+            rapine, 
+            and Simony can be excused: 
+            although by confession in judgment they become notorious
+          </quote> 
+          these things Ancharanus. 
+          And 
+          <ref xml:id="cy8th8-d1e492-Rd1e698">
+            baldus says in c. inter quatuor de maioritate et obediendia
+          </ref> 
+          that possession is the legitimate shield and sword of the possessor until he is 
+          defeated by the judge as indeed 
+          <ref xml:id="cy8th8-d1e492-Rd1e708">
+            ff. de euictionibus l. habere licet
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e492-Rd1e710">
+            C. de iure fiscis l. prohibitum lib. 10
+          </ref>
+          <ref xml:id="cy8th8-d1e492-Rd1e714">
+            C. de meta. l. deuotum. lib.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e492-Rd1e716">
+            C. si per vim vel alio modo l. fi.
+          </ref>
+          <ref xml:id="cy8th8-d1e492-Rd1e721">
+            C. si propter publicam poenam l. si deserit.
+          </ref> 
+          And what is done without citation: 
+          must be revoked without citation. 
+          So that just as the judge was easy in sending, 
+          so he should be prompt in correcting 
+          <ref xml:id="cy8th8-d1e492-Rd1e706">
+            l. 1, § 1, ff. simul ven. enim
+          </ref> 
+          where there is a singular text. 
+          these things baldus.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e715">
+          ¶ Since therefore even notoriously unjust possessors and those against whom common 
+          law makes: 
+          are not to be disturbed or any molestation inflicted on them that they might not 
+          peacefully use and enjoy their possession. 
+          Until they are summoned and heard and all those things which the order of law 
+          requires are observed: 
+          and finally by sentence it is declared and it is established to them possessing 
+          wrongly how rightly and correctly they should be despoiled, 
+          how much more these things should be observed and should have been observed with 
+          the Indian peoples in whose favor all common law, 
+          indeed all laws natural divine and human, 
+          make. 
+          Since however none of these things has been observed with them: 
+          but in the manner of thieves, 
+          plunderers, 
+          robbers: 
+          invading that world and any part of it, 
+          our Spaniards have thus far violently and terribly entered: 
+          laying waste all things, 
+          usurping, 
+          slaughtering, 
+          depopulating as if fire sent down from heaven devoured all things: 
+          it follows that the apprehension or taking of such possession by the Spaniards: 
+          was not done rightly: 
+          not correctly: 
+          not with the order of law observed: 
+          but with all law violated, 
+          was done usurped tyrannical and condemned by all law: 
+          and therefore our kings have no juridical possession today: 
+          whence they are now in the aforesaid primordial state etc.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e789">
+          ¶ All things which we have deduced concerning this are confirmed and this can also 
+          be a third proof through the example which we read in divine scripture concerning 
+          Abraham and his posterity. 
+          For as is found in Genesis 12 although God had promised to Abraham and to his seed 
+          after him to give the land of Canaan and thus Abraham had a most just title and 
+          right to that land, 
+          nevertheless he did not decree that Abraham should take possession of that land nor 
+          Isaac nor Jacob until the party should be cited and heard, 
+          that is the sins of those peoples should be completed which appealed to the judge 
+          God as it were as plaintiff against them and by sentence the judge should decree 
+          that actually the children of Israel should be sent into possession. 
+          Which was then done and the sentence pronounced: 
+          when their crimes were completed: 
+          in the time namely of Joshua as is clear in Joshua throughout whence in 
+          <ref xml:id="cy8th8-d1e492-Rd1e827">
+            chapter 11 of the same book
+          </ref> 
+          it is said 
+          <quote xml:id="cy8th8-d1e492-Qd1e833">
+            for it was the sentence of the Lord that their hearts should be hardened and they 
+            should fight against Israel and fall and deserve no mercy and perish
+          </quote> 
+          etc. 
+          Whence in all that running time namely before God had decreed to take that land 
+          from such peoples and transfer it to the Israelites nothing of right was acquired 
+          to Abraham nor to his successors nor did they have any dominion in all that land: 
+          except the title and right to it: 
+          but they were always strangers and pilgrims in a foreign land namely of their 
+          natural possessors and lords and therefore those peoples justly held it as to 
+          property and possession.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e870">
+          Unless perhaps it might be objected that some saints hold that land was namely of Sem 
+          the firstborn of 
+          <name xml:id="cy8th8-d1e492-Nd1e874">Noah</name>: 
+          who indeed when he divided the world among his three sons gave that land to 
+          <name xml:id="cy8th8-d1e492-Nd1e878">Sem</name> 
+          for himself and his posterity. 
+          Which afterward the sons of Cham tyrannically and violently with the sons of 
+          <name xml:id="cy8th8-d1e492-Nd1e885">Sem</name> 
+          expelled possessed for many years in barbaric fashion. 
+          The Lord however because he is just to restore the land to the children of Israel 
+          who from Abraham: 
+          Abraham indeed who from the sons of Noah proceeded, 
+          after so many thousands of years decreed and yet concerning this injustice of the 
+          sons of Canaan perhaps it was not established to Abraham nor to the children of 
+          Israel: 
+          since they could not know except by revelation which is not made to all. 
+          And although they knew since nevertheless it was not established to all: 
+          therefore men could judge that land as to property and legitimate possession to 
+          have been of the Canaanites. 
+          Abraham following human judgment and his sons and their posterity: 
+          although they knew otherwise by revelation and reckoning as if that land had not 
+          been usurped from their predecessors but the Canaanites were true and legitimate 
+          lords: 
+          they did not build firm houses for themselves: 
+          but they remained in huts and tabernacles which are mobile and portable houses as 
+          these things appear 
+          <ref xml:id="cy8th8-d1e492-Rd1e923">
+            ad Hebreos 11
+          </ref> 
+          where the Apostle says concerning Abraham and his sons. 
+          <quote xml:id="cy8th8-d1e492-Qd1e927" source="http://scta.info/resource/hebr11_9@2-19">
+            He dwelt in the land of promise of the same
+          </quote> 
+          these things there. 
+          And in Acts 7 it is said of Abraham 
+          <quote xml:id="cy8th8-d1e492-Qd1e934" source="http://scta.info/resource/act7_4@11-26 http://scta.info/resource/act7_5@1-22">
+            after his father died God transferred him (namely) 
+            Abraham into this land in which you now dwell. 
+            And he did not give him an inheritance in it not even the step of a foot but he 
+            promised to give it to him in possession and to his seed after him
+          </quote> 
+          these things there.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e950">
+          Moreover the promise of some grace: 
+          does not confer any right on him to whom it is promised as is clear in Abraham and 
+          for that reason Abraham was never bold to usurp anything as his own in that land 
+          until that promise should be decreed to be fulfilled with effect by the judge God 
+          himself. 
+          This is clear: 
+          when needing a place for burying Sarah his wife he bought from the inhabitants of 
+          that land namely from Ephron son of Seor a field in which was the double cave: 
+          nor did he wish to accept it freely: 
+          but gave four hundred shekels of silver of approved public money as appears in 
+          Genesis 23 and there he said 
+          <quote xml:id="cy8th8-d1e492-Qd1e976" source="http://scta.info/resource/gen23_4@1-15">
+            I am a stranger and pilgrim among you give me the right of burial with you that 
+            I may bury my dead
+          </quote> 
+          etc.
+        </p>
+        
+        <p xml:id="cy8th8-d1e492-d1e985">
+          If therefore the land promised by God to the children of Israel in which those 
+          sinful peoples dwelt: 
+          and who were to be deprived entirely of dominion and possession and every right by 
+          divine decree: 
+          indeed by the sentence of the Lord they were to be destroyed: 
+          he did not wish that the Israelites who were to be the future lords by divine 
+          concession should take possession until by the sentence of the judge it should be 
+          established to them namely to the Hebrews that this was done according to the will 
+          and command of God: 
+          because for all that time those peoples justly possessed at least as to human 
+          judgment: 
+          how much more in these cases these things were to be observed namely not to 
+          despoil them: 
+          but with the order of law observed and due circumstances to attract sweetly and 
+          persuade gently that of their own accord they themselves might deliver the 
+          possession itself. 
+          Who indeed are not only not to be destroyed or despoiled by the sentence of the 
+          Lord but rather to be vivified by knowledge of the true God: 
+          and to be clothed and informed with faith and the doctrine of salvation by strict 
+          precept of divine law.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e1042">
+          Therefore the apprehension of the possession of that world and of any part of it 
+          on the part of our kings was never rightly or correctly held by the Spaniards thus 
+          far but such possession was always unjustly apprehended.
+        </p>
+        <p xml:id="cy8th8-d1e492-d1e1053">
+          ¶ And since our kings have no juridical possession of that world: 
+          it is manifest that they are in that state with regard to dominion and actual 
+          jurisdiction and exercise of royal power: 
+          in which they were when their institution concerning that world was made in Rome by 
+          the Roman pontiff.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
