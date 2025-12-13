@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 34</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 34</title>
+          <date when="2025-12-13">December 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="92-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e506">
+        <head xml:id="cy8th8-d1e506-Hd1e97">Section 34</head>
+
+        <p xml:id="cy8th8-d1e506-d1e99">
+          § 34
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e104">
+          <pc type="pilcrow">¶</pc> The conclusion is proven because nothing legally valid was done after the 
+          promulgation of the aforesaid institution carried out in Rome,
+          up to the present day regarding the entry and progress of the Spaniards throughout that 
+          entire world:
+          but all things were and remain legally null
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e117">
+          therefore our Kings now stand in that condition just as if the papal institution were now 
+          being promulgated in Rome etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e124">
+          The consequence is clear. 
+          <pb ed="#B" n="92-v"/>
+          The antecedent is proven in many ways. First,
+          because the Spanish messengers of our kings,
+          contrary to the law of nations and natural and divine law,
+          without cause or reason in the manner of brigands,
+          made their first work from which they began their mission to invade those kingdoms 
+          living peacefully in a hostile and impious manner:
+          fields dripping with human blood on their hands. Where there was no count of those 
+          slaughtered of either sex and age and dignity nor of those who were led captive to cruel 
+          servitude as to a slaughterhouse
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e156">
+          <pc type="pilcrow">¶</pc> As has long been known throughout the entire world.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e164">
+          <pc type="pilcrow">¶</pc> Second,
+          because the order of law and those things which must necessarily be observed under it,
+          namely those twelve things which are enumerated in conclusion 2,
+          were never observed.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e179">
+          <pc type="pilcrow">¶</pc> Third,
+          because since all things which these men perpetrated in their entry and progress 
+          throughout that entire world were the works of cruel tyrants:
+          it is manifest that all things are null,
+          about which no one who is of sound mind doubts.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e191">
+          <pc type="pilcrow">¶</pc> Fourth,
+          because those peoples never consented to the aforesaid institution concerning our kings,
+          nor did they give consent to any matter which would grant some right to the Spaniards or 
+          the kings of Spain.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e203">
+          <pc type="pilcrow">¶</pc> Fifth,
+          because no king or people of that entire world recognized the kings of Spain as lords or 
+          supreme princes.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e214">
+          Sixth,
+          because they never voluntarily handed over possessions either of that world or of any part 
+          of it,
+          although they were the true lords and proprietors. But they were violently and contrary to 
+          the order of natural and divine law despoiled of these things.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e226">
+          <pc type="pilcrow">¶</pc> Seventh,
+          because they occupied and the Spaniards usurped the kingdoms and provinces which were 
+          accustomed to be ruled by their natural kings and princes and were under their natural 
+          lordship,
+          that is by the law of nations:
+          against the will of their kings and natural lords,
+          which is properly characteristic of tyrants,
+          because usurped dominions are called tyrannies 
+          <pb ed="#B" n="93-r"/>
+          therefore all things remained legally null. As is clear from what is noted in 
+          <ref xml:id="cy8th8-d1e506-Rd1e248">l. decernimus C. de sacrosanctis ecclesiis</ref>
+          and above all things exist broadly proven
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e254">
+          <pc type="pilcrow">¶</pc> Eighth and finally:
+          because everything that the Spaniards perpetrated in that world from the beginning of its 
+          discovery until now:
+          and those peoples suffered from them,
+          was always instilling terrible fear in the most steadfast men,
+          as appears from very many things said and is most well known,
+          therefore all things were of no validity.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e274">
+          <pc type="pilcrow">¶</pc> The reason for the nullity of all the aforesaid is because they lack 
+          the foundation of power and jurisdiction,
+          even if kings and powerful men of the world they may be in their kingdoms,
+          having all manner of power:
+          because in evil and unjust acts they are reduced to the status of private persons as 
+          <ref xml:id="cy8th8-d1e506-Rd1e290">l. 3 de officio presidis</ref>
+          and in regula ea que Cum ibi notatis 
+          <ref xml:id="cy8th8-d1e506-Rd1e294">de regulis iuris lib. 6</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e297">
+          For jurisdiction is the substance and foundation of all things which a King or ruler or any 
+          judge does in the entire republic,
+          which ought to precede the office of the one declaring law. For it is born before it is 
+          exercised into act as is clear 
+          <ref xml:id="cy8th8-d1e506-Rd1e307">C. qui pro sua iurisdictione l. 1</ref>
+          and note in 
+          <ref xml:id="cy8th8-d1e506-Rd1e310">l. instar C. de iure fisci lib. 10</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e313">
+          therefore where there is no jurisdiction or whose jurisdiction on account of the injustice 
+          which he commits,
+          abusing his jurisdiction,
+          is suspended,
+          things done do not stand by force:
+          because he is private 
+          <ref xml:id="cy8th8-d1e506-Rd1e322">D. l. 3 ff. de officio presidis</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e328">
+          <pc type="pilcrow">¶</pc> Therefore,
+          since the messengers of our kings had no jurisdiction,
+          which if they had had would have been suspended on account of their horrible works:
+          but they were private persons and truly tyrants existed and most true bandits,
+          who would dare to doubt that all things done by them,
+          whatever they may be,
+          are null and of no strength or validity
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e349">
+          <pc type="pilcrow">¶</pc> For nullity,
+          if taken in the concrete,
+          is a vice or defect of the thing done arising from transgression of law. But if it is taken 
+          as in the abstract and in the faculty of acting and legal remedy and subject:
+          thus it is described 
+          <pb ed="#B" n="93-v"/>
+          (according to 
+          <ref xml:id="cy8th8-d1e506-Rd1e368">Sebastianus Vantius in his treatise de nullitatibus</ref>) 
+          it is a right and common remedy for voiding or declaring void the act which is in question,
+          pertaining to the matter
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e380">
+          <pc type="pilcrow">¶</pc> After the establishment of law arose the cognition and remedy of 
+          nullity. For the law would have been established in vain if against its transgressors and in 
+          favor of public law and the oppressed some salutary remedy had not arrived. For anyone 
+          could have been deprived and despoiled of their property and proper patrimony unheard,
+          with no preceding cause and cognition,
+          even by a non-judge,
+          contrary to natural justice and the proper substance of law according to what 
+          <ref xml:id="cy8th8-d1e506-Rd1e404" target="http://scta.info/resource/inleiv-d1e71-Dd1e781">Innocentius</ref>
+          placed in c. que in ecclesiarum de constitutionibus. And thus deprived and despoiled,
+          as if naked and unarmed without help and the support of law,
+          they would have remained. Therefore,
+          through this remedy those not summoned shall be summoned,
+          those not heard shall be heard,
+          those not defended shall be defended,
+          the merits of causes shall be examined,
+          and all deceit,
+          fraud and machination shall be excluded:
+          and innocence shall remain safe among the wicked. And therefore not undeservedly the law 
+          calls this remedy a common help and holds it to be a mere defense according to the 
+          doctors.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e438">
+          Therefore nullity is a remedy of law,
+          the protection of laws,
+          the punishment of the rash,
+          a common help and true defense of the oppressed,
+          and introduced on account of a public cause. And since God has given no power to men,
+          even to kings or princes,
+          however much they shine with dignity,
+          of doing injustice and iniquity to the ruin or damage or prejudice of men. Therefore 
+          against the evils which,
+          abusing the power handed over to them by God,
+          especially princes and great men work:
+          no other remedy can be imagined except that whatever unjust thing they have done contrary 
+          to natural or divine law does not stand by law:
+          as 
+          <pb ed="#B" n="94-r"/>
+          <ref xml:id="cy8th8-d1e506-Rd1e478"><name xml:id="cy8th8-d1e506-Nd1e479">Prepositus</name>
+          in c. si dominus 11 q. 3</ref>
+          notably says,
+          where he says That if the iniquity and injustice which the supreme prince commits depends 
+          on such a law by which the prince is bound,
+          such as the law of nations or natural or divine law:
+          and then because the pope,
+          emperor or any other prince:
+          cannot remove that:
+          then if such a sin is notorious or clear and evident,
+          and especially if it is grave:
+          he is not to be obeyed as 
+          <ref xml:id="cy8th8-d1e506-Rd1e506">d. c. si Dominus</ref>
+          and 
+          <ref xml:id="cy8th8-d1e506-Rd1e508">c. non, el. 2 ea causa</ref>
+          and questione and 
+          <ref xml:id="cy8th8-d1e506-Rd1e515">c. iulianus</ref>
+          and note by 
+          <ref xml:id="cy8th8-d1e506-Rd1e517">hostiensis in c. proposuit de concessione prebendarum</ref>. 
+          and the reason is because the sentence cannot remove that law because in this he has no 
+          power,
+          in this respect he is private:
+          And therefore one ought not obey him thus commanding outside his jurisdiction:
+          especially in a case in which this is notorious or evident as 
+          <ref xml:id="cy8th8-d1e506-Rd1e543">ff. de officio presidis. l. 3</ref>
+          and Codex de iurisdictione omnium iudicum and it is an excellent argument 
+          <ref xml:id="cy8th8-d1e506-Rd1e540">de privilegiis c. cum olim</ref>
+          And especially because that case is supposed which is such:
+          that it cannot be repaired through a superior in the manner of an appeal or restitution or 
+          simple matter,
+          for the reason that he who carried out such an act has no one to whom recourse can be had.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e553">
+          And the reason for this is because while the support of positive law ceases:
+          recourse must be had to the support of the law of nations or natural law as is clear in 
+          the declaration of wars and reprisals as is clear 
+          <ref xml:id="cy8th8-d1e506-Rd1e577">ff. de iustitia et iure l. ex hoc iure</ref>
+          and 
+          <ref xml:id="cy8th8-d1e506-Rd1e566">23. q. 2. c. dominus noster</ref>
+          But the equity of natural law demands and requires that one not be enriched with another's 
+          loss 
+          <ref xml:id="cy8th8-d1e506-Rd1e573">l. nam hoc natura ff. de conditione indebiti</ref>
+          and an inferior not be evidently unduly burdened or oppressed by a superior 
+          <ref xml:id="cy8th8-d1e506-Rd1e580">ff. de his qui sunt sui vel alieni iuris l. 2 § dominorum</ref>
+          and 
+          <ref xml:id="cy8th8-d1e506-Rd1e585">C. unde vi, l. 1.</ref>
+          But the remedy of the law of nations or natural law is this,
+          that if there is no superior who can retract an unjust act:
+          that it be null 
+          <pb ed="#B" n="94-v"/>
+          and held as not done. Because another remedy cannot be imagined. And through this 
+          <ref xml:id="cy8th8-d1e506-Rd1e602">ff. quibus ad libertatem proclamare non licet l. 2</ref>
+          works excellently. For in these matters,
+          since no other remedy remains,
+          it is permitted by one's own authority to act against:
+          and not to obey a superior:
+          indeed to declare law for oneself. all these things prepositus in form.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e614">
+          The sentence of 
+          <ref xml:id="cy8th8-d1e506-Rd1e616">baldus in de pace constantie, c. in nomine Christi</ref>
+          which we placed above § 9 works well. 
+          <quote xml:id="cy8th8-d1e506-Qd1e623">
+          But nullity is expressed in these terms namely:
+          null:
+          void:
+          vain:
+          useless:
+          of no strength or validity to exist:
+          not to be valid:
+          not to hold:
+          to have no force:
+          and not to subsist by force:
+          and not by law:
+          not rightly or correctly or badly or wrongly and ineffectively done:
+          to be weak:
+          not to have firmness:
+          and to be held as not judged,
+          undone,
+          annulled,
+          void,
+          null and not ratified and similar things
+          </quote>
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e642">
+          <pc type="pilcrow">¶</pc> Therefore,
+          since those western peoples living in their own kingdoms and lands without injury to any 
+          other people or nation were not summoned nor heard:
+          Indeed without a preceding cause and cognition by the Spaniards who were not judges,
+          they were deprived and despoiled not only of their property and proper patrimony but also 
+          of royal dignities,
+          principalities,
+          liberty,
+          wives,
+          children with all other goods,
+          even life itself with the greatest torments,
+          and there is no superior today in the world,
+          at least in fact,
+          to whom recourse can be had:
+          and thus the wretched and pitiable ones remain naked,
+          deprived,
+          despoiled,
+          unarmed,
+          without help and in every way undefended,
+          therefore no remedy remains for them nor can another be devised:
+          except (which in truth it is) all things done concerning and against them are to be held as 
+          undone.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e694">
+          Not indeed that such a remedy will profit them anything:
+          both for those already killed and damned in hell,
+          <pb ed="#B" n="95-r"/>
+          since thousands of thousands have died without faith and sacraments:
+          and for the living and oppressed destitute of all hope of redemption on account of the 
+          insatiable gullet of avarice to be filled. I seem to think this remedy and consolation 
+          alone could at some time be had for them:
+          namely by seeing on the day of judgment when all will be summoned and heard and the 
+          merits of their cause will be examined just like all the others,
+          and all deceit and machination of the tyrants and the nullity of their works will be 
+          revealed,
+          and they will be destined for eternal punishments by the sentence of the just judge. But 
+          the innocence of those who suffered evils here from them (unless other sins from elsewhere 
+          impede) will remain manifest,
+          defended and safe.
+        </p>
+
+        <p xml:id="cy8th8-d1e506-d1e727">
+          Therefore all things which were done by the Spaniards from the beginning of the discovery 
+          of that world until now are null by law,
+          and consequently our Catholic Kings are in that state in which they were when the 
+          apostolic letters were being drawn up in Rome.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
