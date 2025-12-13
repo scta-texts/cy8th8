@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 36</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 36</title>
+          <date when="2025-12-13">December 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+          </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+          John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+      url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="98-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e532">
+        <head xml:id="cy8th8-d1e532-Hd1e97">Section 36</head>
+        <p xml:id="cy8th8-d1e532-d1e99">
+          § 36
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Concerning the first impediment (namely) war,
+          something should be considered, 
+          and indeed not with a slight consideration 
+          (namely) that since the indigenous peoples of that Indian world,
+          and indeed all of them,
+          on account of our iniquities (as I have said) 
+          and the evils that they have innocently suffered from us,
+          have the right to wage war against us,
+          not only defensive, 
+          and for the recovery of their liberty and their dominions and possessions:
+          but also for vengeance,
+          even to the point of destroying their name from the earth inclusively:
+          I say perpetual war) as was touched upon in the preceding §,
+          and most extensively in a certain treatise of ours whose title is 
+          "On the War of Jalisco."
+          But we truly lack any right whatsoever to harm them in any way
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e137">
+          from this follows a necessary consequence,
+          that absolutely speaking,
+          the Spanish who wish to kill those peoples through war,
+          or to expel them from their lands,
+          cannot defend themselves by war against them.
+          Yet they could flee, 
+          and in the best way they can,
+          without harm or injury to the Indians pursuing them,
+          withdraw themselves,
+          and exit and leave the foreign land.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e153">
+          The first point (namely) that they could not defend themselves is clear:
+          first because by natural law those peoples waging just war against us Spaniards were:
+          indeed they are our legitimate judges on account of our crimes,
+          since the kings and natural lords and they themselves have complete jurisdiction,
+          not recognizing a superior,
+          as was proven above in § 5 and 6.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e173">
+          <pc type="pilcrow">¶</pc> 
+          Against one's proper judge,
+          however,
+          it is not permitted to defend oneself when one is guilty:
+          just as a thief or malefactor,
+          although he can flee,
+          yet without injury or harm to another.
+          For Saint Thomas said, 
+          <ref xml:id="cy8th8-d1e532-Rd1ex7a">2a 2e question 69 article 4</ref>
+          that divine, natural, and human law 
+          obliges anyone not to resist a judge proceeding justly.
+          Hence one sins mortally by resisting legitimate authority,
+          <ref xml:id="cy8th8-d1e532-Rd1e197">Romans 13</ref>:
+          <quote xml:id="cy8th8-d1e532-Qd1e199" source="http://scta.info/resource/rom13_2@2-14">
+          whoever resists authority resists the ordinance of God,
+          and acquires damnation for himself
+          </quote>
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e205">
+          <pc type="pilcrow">¶</pc> 
+          Secondly, it is proved,
+          since the common rule of the jurists is in 
+          <ref xml:id="cy8th8-d1e532-Rd1e214">l. ut vim ff. de iustitia et iure</ref>
+          that wherever an offense is permitted and lawful by law:
+          there defense is denied.
+          Just as, on the contrary,
+          where offense is prohibited,
+          defense is permitted and lawful,
+          by argument from opposites.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e224">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore a criminal offends someone,
+          and the judge, by natural law,
+          and the law of nations,
+          indeed by divine law is the avenger of that crime, 
+          <ref xml:id="cy8th8-d1e532-Rd1e233" target="http://scta.info/resource/rom13_2 http://scta.info/resource/rom13_3">
+          Romans 13
+          </ref>
+          it follows that he cannot defend himself from the judge who wishes to punish him.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e239">
+          <pc type="pilcrow">¶</pc> 
+          The second point (namely) that such a delinquent can flee is proved,
+          because according to St. Thomas,
+          it is lawful for anyone to act for the protection of his own body:
+          whatever he reasonably can,
+          provided it is without prejudice to another.
+          But when a malefactor is sought unto death,
+          if he flees so as not to be found,
+          or hides himself:
+          he does not prejudice the judge,
+          because he takes nothing away from his right,
+          nor does he even offend when he is held by him and flees without striking him,
+          he does not sin:
+          because he does not offend him,
+          because he acts with the intention of using that defense which is naturally permitted,
+          since a natural desire is innate in man to preserve his life.
+          For whoever acts through nature's inclination:
+          if he does not act against any law,
+          he does not sin.
+          Hence defense is always lawful when it is done or exercised without prejudice to or 
+          offense of anyone:
+          and by so acting he does not resist authority,
+          as appears from what has been said,
+          therefore such a criminal can flee without sin.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e285">
+          So it is with all the Spaniards who are in those regions of the Indians,
+          because since they are truly aggressors or unjust invaders of foreign kingdoms,
+          and properly tyrants,
+          and the Indians wage just war against them in natural defense,
+          and therefore carry the person of a judge proceeding criminally,
+          it is not lawful for the Spaniards to defend themselves from them,
+          by fighting, striking back,
+          or killing,
+          or harming them in any way:
+          but they are bound in the best way they can to flee or hide themselves,
+          so that they may save their own lives,
+          indeed to depart entirely from the lands of the Indians:
+          unless something else should stand in the way,
+          about which I will speak immediately.
+          And this is so lest they add sins to sins,
+          by which their state has always been worse in malice:
+          by attacking, subjugating,
+          and utterly destroying innocent people,
+          and very often those who deserved well of them.
+          Therefore they sinned most gravely as often as they defended themselves 
+          with injury or prejudice to the Indians.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e325">
+          <pc type="pilcrow">¶</pc> 
+          I said, unless something else should stand in the way:
+          namely as regards departing from the land,
+          because in some case they would not be bound to do so (namely) 
+          on account of favor to the faith.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e336">
+          <pc type="pilcrow">¶</pc> 
+          Indeed, if in some region some of the indigenous people have already been converted to God,
+          they would not be bound to abandon that land entirely:
+          but they would be bound to remain even with danger to their own life,
+          for the sake of preserving the faith in those people,
+          defending themselves,
+          yet with the moderation of blameless defense.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e358">
+          This is clear,
+          because any Christian is bound by the necessity of salvation to defend and preserve 
+          the faith of Christ,
+          insofar as it is in him,
+          namely when divine honor or the utility of one's neighbor would be endangered,
+          as 
+          <ref xml:id="cy8th8-d1e532-Rd1e368">St. Thomas teaches 2a 2e q. 3, article 3</ref>
+          and elsewhere.
+          And in 
+          <ref xml:id="cy8th8-d1e532-Rd1e371" target="http://scta.info/resource/gd-p1d96-Dd1e134">
+          decretis 96. distinctione c. nos ad fidem
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e532-Rd1e376">c. vbi nam legisti</ref>.
+          But if the Spaniards were to abandon such a region entirely:
+          undoubtedly the faith and divine honor would be endangered,
+          and thence the utility and salvation of the souls of those Indians would perish,
+          because perhaps,
+          and without perhaps,
+          those nations would not be well founded in those things which are of the faith,
+          and because of the extreme detestation and implacable hatred which they bear 
+          against the Spaniards:
+          thinking that the religious or preachers of the faith are accomplices of the same 
+          in the evils which they have suffered from them,
+          they would kill them.
+          Whence it seems probable that they would despise and reject the received faith,
+          or little by little the faith in them would totally fail,
+          for lack of teaching and exercise of the sacraments
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e408">
+          therefore it would be illicit for the Spaniards,
+          and they would sin mortally,
+          by deserting such a region:
+          to which otherwise,
+          the cause of faith ceasing,
+          they were obliged even by necessity of salvation,
+          as has been said.
+          For the favor of faith is preferred to all utilities and favors,
+          on account of which many singular things have been introduced:
+          as in 
+          <ref xml:id="cy8th8-d1e532-Rd1e423">c. in fidei. favorem de hereticis lib. 6</ref>
+          and 
+          <ref xml:id="cy8th8-d1e532-Rd1e428">2, quaestione 7, c. si hereticus</ref>.
+          And what is noted in 
+          <ref xml:id="cy8th8-d1e532-Rd1e440">c. Magne de voto</ref>
+          likewise the utility of the Church of God and the salvation of souls.
+          For there is no greater reason, or more favorable,
+          than that which acts for religion,
+          as in 
+          <ref xml:id="cy8th8-d1e532-Rd1e437" type="http://scta.info/resource/bgy6gt-d1e1121-Dd1e686">
+          l. sunt persone ff. de religiosis et sumptibus funerum.
+          </ref>
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e443">
+          <pc type="pilcrow">¶</pc> 
+          Nevertheless, this favor of faith and religion does not extend so far 
+          that for the sake of preserving the faith and its ministers,
+          and lest the faith be endangered:
+          Christians can invade or become aggressors through war of the kingdoms and lands of peoples,
+          living in peace, 
+          and who have never attacked us or inflicted any evil or even the slightest thing upon us:
+          especially since they rather wage just war against us 
+          (as has been proven) 
+          and indeed a war strengthened by such multiple right and full justice.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e466">
+          This is proved,
+          because evil things are not to be done that whatever good things may result:
+          of whom (namely) those who do the contrary,
+          their damnation is just.
+          As 
+          <ref xml:id="cy8th8-d1e532-Rd1e472" target="http://scta.info/resource/rom3_8">
+          the Apostle teaches in Romans 3
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e532-Rd1e475" target="http://scta.info/resource/gd-p2c30q1-Dd1e146">
+          3 quaestione 1, c. nosse
+          </ref>,
+          and 
+          <ref xml:id="cy8th8-d1e532-Rd1e479" target="http://scta.info/resource/gd-p2c23q4-Dd1e270">
+          23. q. 4 c. forte
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e532-Rd1e486" target="http://scta.info/resource/gd-p2c33q5-Dd1e112">
+          33, q. 5, c. si dicat
+          </ref>
+          For it never pleases God that anyone sin mortally,
+          indeed not even venially,
+          for the sake of whatever good that could proceed from it,
+          however much it may redound to the glory of God.
+          Nay rather it greatly displeases God,
+          because God does not want such profit to be compensated with such loss. 
+          <ref xml:id="cy8th8-d1e532-Rd1e497" target="http://scta.info/resource/gd-p2c33q5-Dd1e112">
+          d. c. si dicat
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e532-Rd1e503" target="http://scta.info/resource/gd-p1d14-Dd1e115">
+          14 dist., c. quod ait
+          </ref>.
+          And no one is to be led to salvation with the help of a venial lie:
+          how much less with mortal sin,
+          as 
+          <ref xml:id="cy8th8-d1e532-Rd1e516" target="http://scta.info/resource/gd-p2c22q2-Dd1e248">
+          22, q. 2, c. Primum est
+          </ref>;
+          and 
+          <ref xml:id="cy8th8-d1e532-Rd1e520" target="http://scta.info/resource/gd-p2c22q2-Dd1e352">
+          c. faciat homo
+          </ref>
+          And 
+          <ref xml:id="cy8th8-d1e532-Rd1e525">23, q. 5, c. cum nemo.</ref>
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e530">
+          <pc type="pilcrow">¶</pc> 
+          Therefore, only for the favor of faith is it lawful for such men 
+          (that is) for Spaniards constituted in such an article of necessity,
+          by divine and human law,
+          to protect themselves against the Indians,
+          not in any manner whatsoever:
+          but with the strict moderation of blameless defense,
+          and to do that only to this extent,
+          that which is contained within the bounds of merely natural defense,
+          for preserving themselves and the bishops and religious or preachers of the faith 
+          and other ministers of the Church,
+          without injury, wrong,
+          or harm voluntarily inflicted on the Indians.
+          Which otherwise outside this case would be utterly denied to them by both laws:
+          since all the Indian nations of that entire world always have the right to wage war,
+          and wage just war against us Spaniards,
+          as sufficiently appears from what has been said.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e569">
+          <pc type="pilcrow">¶</pc> 
+          From all of which can be gathered the clarity of that truth 
+          which some turn into doubt (namely) whether the kings of Spain are bound to abandon 
+          that world and the Spaniards to depart from it entirely:
+          since they have used it so badly:
+          both in entrance and tyrannical invasions:
+          and in progress (that is) iniquitous,
+          indeed impious government,
+          and several reasons can be adduced for the affirmative part.
+          But it must be said that our kings are not bound to abandon entirely the aforesaid world,
+          except in a certain manner,
+          nor are the Spaniards to depart from it:
+          but rather by divine precept our kings are bound to retain those kingdoms perpetually:
+          the Spaniards also are obliged by the same precept to remain.
+          Unless some are so criminal and harmful to the Indians that by public edict 
+          they should deservedly be condemned to perpetual exile from those lands.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e611">
+          <pc type="pilcrow">¶</pc> 
+          Concerning the kings,
+          and generally concerning all Spaniards indeed,
+          it is clear by the common reason assigned above (namely) 
+          because every Christian is bound to help, defend,
+          and preserve the faith.
+          Also by a particular reason as regards those who have inflicted evils on those peoples,
+          <ref xml:id="cy8th8-d1e532-Rd1e640">below § 38 will be proved in corollary 2</ref>
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e631">
+          But concerning our kings in particular,
+          it is manifest that they are obliged.
+          Both because the universal care of that world was imposed on them by the vicar of Christ,
+          and by virtue of necessary restitution and satisfaction,
+          from the fact that they permitted so many unheard-of unjust evils to be inflicted 
+          on innocent nations living in peace in their own lands and homes.
+          Or because they did not prevent them when they could,
+          by which nevertheless that entire world lies devastated.
+          Also on account of the infinite weights of gold and silver and precious things 
+          which have come to our kings from that world for nearly seventy years,
+          of indeed incomparable price.
+          About this again I will say something below.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e674">
+          I said "except in a certain manner" because in truth the King of Spain,
+          perpetually remaining in Spain:
+          can in no way usefully govern that world without it going into devastation,
+          as we see by sufficient evidence of fact.
+          Since between him and the peoples of those nations,
+          and on account of the magnitude of the regions, kingdoms,
+          and provinces,
+          there is known to be so great a distance of seas and lands,
+          as we have proven by very many and urgent reasons in a certain work of ours,
+          on not alienating wealth from the royal crown,
+          nor selling public offices.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e698">
+          And therefore our King is bound,
+          and indeed by necessity of salvation,
+          to leave that world in this manner (namely) 
+          by establishing in each province or kingdom someone as king of royal blood:
+          who being present may rightly provide for the government and utility of those kingdoms 
+          and peoples,
+          and may preserve, defend,
+          and as far as possible exalt and extend the faith,
+          as befits and is binding upon a truly Christian King.
+          Having therefore from what has been predetermined that it is lawful for some Spaniards 
+          to inhabit,
+          indeed they are bound to inhabit and to choose a perpetual settlement in the Indian regions,
+          in which (namely) some of the indigenous people have already been converted to the faith,
+          yet without prejudice or injury to them voluntarily procured:
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e729">
+          it follows that it is also lawful for them to gather themselves all together in some part 
+          of the land or of such a province,
+          in which the indigenous people are known to be less burdened,
+          and first of all to build a tower with some concealment for their protection,
+          and a colony or settlements.
+          And there they should seek food for themselves,
+          either by laboring with their own hands,
+          or by exchange with the indigenous people themselves:
+          which will be very easy if,
+          with peace offered and kept inviolably,
+          by good works and Christian examples and by some small gifts from Spain with all diligence,
+          they should strive to placate them and to conciliate their minds to themselves.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e754">
+          With these things indeed fully observed,
+          the indigenous people of such a province will little by little begin to consign 
+          to oblivion the multitude of injuries which they have received from them,
+          and to be of good and placated mind:
+          and therefore,
+          although tacitly,
+          to give to them that part of the land in which they have received themselves:
+          and also to approve even their perpetual settlement.
+          And these things indeed we ought reasonably to presume from the fact that those peoples 
+          are naturally peaceful as a whole race,
+          and gentle and of good will,
+          inflicting evil on no one (unless they first received it).
+          Whence, when they shall have known by experience that the Spaniards converse with them 
+          peacefully and humbly,
+          without doubt they will love them no less than if they were their own brothers and fathers,
+          and for the Spaniards afterwards there is acquired the right of communicating 
+          and acquiring and enjoying acquired things:
+          whatever temporal goods are found in the land.
+          Which right has in no way been acquired by them hitherto in that entire world,
+          as is clear from what has been said and will be said.
+        </p>
+        <p xml:id="cy8th8-d1e532-d1e799">
+          <pc type="pilcrow">¶</pc> 
+          But our King from that time can be considered to have subjects in such a province,
+          and not before,
+          to whom he can delegate those things which he has in habit,
+          according to what will be said 
+          <ref xml:id="cy8th8-d1e532-Rd1e810">below § 40</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
