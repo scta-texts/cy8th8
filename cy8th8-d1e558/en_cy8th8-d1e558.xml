@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 38</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 38</title>
+          <date when="2025-12-13">December 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e558">
+        <head xml:id="cy8th8-d1e558-Hd1e97">Section 38</head>
+        <p xml:id="cy8th8-d1e558-d1e99">
+          § 37
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e108">
+          ¶ From the preceding corollary and its proofs follows another Corollary 2
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e117">
+          ¶ All gold, 
+          silver, 
+          precious stones, 
+          pearls, 
+          gems, 
+          any other metal and whatever other precious things which the Spanish had under the earth or under water or above, 
+          from the time when that world was discovered until now, 
+          except that which the inhabitants from the beginning of the aforesaid discovery, 
+          before they had received evils from the Spanish, 
+          either gave as a gift or freely, 
+          or by reason of exchange made in certain places voluntarily, 
+          all was stolen, 
+          unjustly usurped and extracted as wrongfully taken, 
+          and consequently the Spanish committed theft or robbery, 
+          and it was and now is subject to restitution.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e164">
+          ¶ Here we do not speak of things stolen through wars and violent invasions, 
+          which either kings and lords or private persons had in their goods, 
+          because concerning these who could doubt that they were taken unjustly and tyrannically and are subject to restitution, 
+          unless he be a bestial man. 
+          But we understand in this corollary concerning those precious things which were extracted from gold and silver mines and from the sea or rivers by the industry of the Spanish.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e189">
+          ¶ The corollary is proved because all those things had a lord and lords, 
+          and now in many places they have their own, 
+          namely kings and princes of provinces, 
+          or the peoples themselves and communities, 
+          or certain particular persons in whose fields or estates or land they are found.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e204">
+          Therefore without the permission of the prince or magistrate or of the people itself or the lord, 
+          it was not lawful for anyone to seek, 
+          take away or carry off those things. 
+          Therefore it was robbery and unjustly usurped, 
+          etc.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e220">
+          The antecedent is clear from those things which were 
+          <ref xml:id="cy8th8-d1e558-Rd1e224">discussed and proved in the first consideration</ref> 
+          <ref xml:id="cy8th8-d1e558-Rd1e229">§ 5</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e558-Rd1e231">6</ref>, 
+          where it was shown that that entire world which is in the highest Ocean sea and the kingdoms which it contains, 
+          and all things that are in them, 
+          belong to no men or peoples of the world except to those Indian nations and their kings, 
+          with complete jurisdiction by natural and civil law confirmed by divine law, 
+          old and new.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e251">
+          Therefore all those things which the corollary contains had and have proper lords.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e256">
+          ¶ Moreover the first consequence is proved. 
+          Both because it is not lawful for anyone to cross the boundaries of others, 
+          as it is said in 
+          <ref xml:id="cy8th8-d1e558-Rd1e265" target="http://scta.info/resource/prov22_28">Proverbs 22</ref>, 
+          after the division or distinction of things and provinces. 
+          As 
+          <ref xml:id="cy8th8-d1e558-Rj28ddd" corresp="#cy8th8-d1e558-Qd82asd">l. ex hoc iure ff. de iustitia et iure</ref>, 
+          there: 
+          <quote xml:id="cy8th8-d1e558-Qd82asd" source="http://scta.info/resource/bgy6gt-d1e59-d1e162@14-17">"the kingdoms are distinguished."</quote>
+          
+          Because although before the division of provinces and kingdoms all things were most common, 
+          after the division was made, 
+          however, 
+          they became not so common but public, 
+          that is, 
+          belonging to whatever people or nation which first occupied them. 
+          Whence they did not remain common to all nations as before, 
+          but to the nation first occupying them and the members of the same, 
+          as is expressly proved in 
+          <ref xml:id="cy8th8-d1e558-Rd1e301">Inst. de rerum divisione § fere</ref>, 
+          there: 
+          <quote xml:id="cy8th8-d1e558-Qd1e307">"For what before was no one's is granted by natural reason to the one occupying it"</quote>
+          
+          And 
+          <ref xml:id="cy8th8-d1e558-Rd1e312" target="http://scta.info/resource/bgy6gt-d1e5147-Dd1e297">ff. de verborum significatione l. inter publica</ref> 
+          with the notes there.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e318">
+          ¶ Both because it is not lawful for anyone to disturb another or inflict injury, 
+          much less a king or an entire city or community. 
+          For one disturbs and does injury (as 
+          <ref xml:id="cy8th8-d1e558-Rd1e329">appeared in the preceding §</ref>) 
+          by simple entry into another's land or house without the permission of the lord, 
+          and if he takes anything from it, 
+          especially something precious, 
+          all the more so, 
+          as is clear in 
+          <ref xml:id="cy8th8-d1e558-Rd1e338" target="http://scta.info/resource/bgy6gt-d1e903-Dd1e296">ff. de servitutibus rusticorum praediorum l. divus</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e558-Rd1e343" target="http://scta.info/resource/bgy6gt-d1e2502-Dd1e216">ff. de usufructu per legatum l. heres</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e558-Rd1e345" target="http://scta.info/resource/bgy6gt-d1e926-d1e253">ff. si servitus vindicetur l. sicut § Aristo</ref>, 
+          in which laws it is prohibited to enter into the fields or lands of others or to take anything from them or to do anything without the permission of the lords. 
+          But by entering into a foreign kingdom, 
+          especially with an army, 
+          and taking from it anything, 
+          especially precious things, 
+          without the permission of the king or people, 
+          one does injury and disturbs both the king and the entire community of the kingdom, 
+          as above § 5 and from many other things above it is clear. 
+          Therefore such a one does something illicit.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e371">
+          ¶ But our people without the permission of either kings or peoples, 
+          indeed against their will, 
+          violently stealing, 
+          killing, 
+          slaughtering, 
+          devastating, 
+          with slaughter, 
+          with fires, 
+          despoiled the proper lords (namely those peoples, 
+          their kings and all the peoples) of their Dominions, 
+          jurisdictions, 
+          dignities, 
+          lands, 
+          forests, 
+          mountains, 
+          fields, 
+          rivers, 
+          waters of the sea, 
+          minerals or veins of gold and silver, 
+          and all other things which were born in them and which nature produced for the common necessity, 
+          ornament, 
+          sufficiency and utility of the common good of each kingdom or community and the solace of the inhabitants, 
+          as appeared above § in the proof of the 5th conclusion, 
+          and from them they usurped and carried away infinite weights of gold and silver and pearls and gems and other precious things. 
+          Therefore all gold, 
+          silver and whatever precious things, 
+          etc., 
+          which our people had throughout all the aforesaid time were stolen and unjustly usurped and wrongfully taken. 
+          And consequently they committed theft, 
+          robbery and the greatest tyranny. 
+          Both parts of this consequence 
+          <ref xml:id="cy8th8-d1e558-Rd1e477">appeared clear above § 3</ref> 
+          in the proof of a certain conclusion and in what follows.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e482">
+          ¶ Of this opinion was the most learned 
+          <ref xml:id="cy8th8-d1e558-Rd1e488">
+            
+            <name xml:id="cy8th8-d1e558-Nd1e489">Master Friar Dominic de Soto</name> 
+            in De iustitia et iure, 
+            Book 5, 
+            Question 3, 
+            Article 3, 
+            Argument 2, 
+            in a certain doubt: 
+            Whether it is lawful for anyone of one nation to travel to another seeking gold</ref>. 
+          For it appears that this is lawful to each by the same reason, 
+          namely by which little stones found on the seashore become by the law of nations the property of the finder, 
+          after the shores remained common by the law of nations. 
+          He responds that this 
+          <quote xml:id="cy8th8-d1e558-Qd1e508">"by law is not entirely lawful unless the inhabitants themselves consented, 
+            or held those same treasures as abandoned. 
+            For regions are divided by the law of nations. 
+            And therefore, 
+            although those things of that region are common to the peoples of that region, 
+            nevertheless foreigners cannot usurp those same things against the will of the inhabitants. 
+            For neither would the French be able to penetrate to us for this reason, 
+            nor we to them against their will"</quote>
+          
+          these are his words.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e536">
+          I add whether our most serene king Philip would patiently endure, 
+          and also the kingdom of Castile, 
+          that the King of France or the French of the same kingdom would come without his permission, 
+          penetrating all the way to the silver mines of Guadalcanal or other places, 
+          and from there would collect silver or even gold or other precious things. 
+          And if in fact they entered, 
+          they would be held for theft or robbery if violently. 
+          Likewise they would do injury and disturb the kingdom of Spain. 
+          Again, 
+          would the king of Spain then sleep with hand upon hand? 
+          Do you believe not? 
+          Without doubt no.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e576">
+          From these things arises another corollary
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e581">
+          Corollary 3
+          Every part of the earth, 
+          fields, 
+          mountains, 
+          lands, 
+          forests, 
+          rivers in which the Spanish built cities, 
+          towns and places, 
+          constructed buildings and have estates, 
+          meadows, 
+          pastures, 
+          or common fields where their cattle and herds (if indeed they are theirs) graze, 
+          were usurped and unjustly possessed by them and tyrannically held, 
+          and unless they restore them to the proper lords or communities or particular persons, 
+          they cannot be saved. 
+          Nor does it relieve or excuse them that the Catholic kings or governors whom they send there either donate or grant permission to take lands and fields, 
+          mountains, 
+          etc.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e629">
+          And whatever they built and planted belongs to the land and to the lords of the land.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e640">
+          ¶ The first part of this corollary appears sufficiently from the 2nd and from the 1st corollaries and from other preceding things,
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e648">
+          both first because without the permission of the natural kings and their peoples, 
+          indeed against the will of all of them, 
+          by force and hostilely, 
+          with injuries and disturbances and irreparable damages and evils, 
+          they entered those foreign lands and occupied the aforesaid things, 
+          and today they do not cease to occupy them, 
+          with the proper lords and natural possessors wrongfully despoiled, 
+          as appears superabundantly from things said and proved.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e665">
+          ¶ Both second because the tyranny of the Spanish is now permanent and actual, 
+          by which they oppress all those peoples and are consumed.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e674">
+          ¶ Both third because the right of war to pursue their enemies the Spanish, 
+          to kill them and to destroy their name from the earth is perpetual among those peoples, 
+          as 
+          <ref xml:id="cy8th8-d1e558-Rd1e685">was proved in § 29 in the proof of the corollary placed there</ref>. 
+          From which things it is manifestly shown that those peoples always have and most deservedly maintain perpetual hatred of the Spanish, 
+          and always consider themselves and their things unwillingly detained by them, 
+          and consequently think night and day about expelling them and shaking off from themselves their tyrannical and intolerable yoke. 
+          Which they have shown in deed a thousand times and a hundred thousand times in various places when they tried to rebel or rise up against them, 
+          although they were not able to achieve or accomplish this because they are unarmed, 
+          naked, 
+          weak, 
+          and inexperienced in war compared to our people.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e706">
+          Both fourth because all things which were done by the Spanish were always void by law and are void, 
+          lacking force. 
+          As done by tyrants, 
+          with the order of natural and divine law being despised by them. 
+          Concerning all of which things, 
+          evidence has been made sufficiently above in various places. 
+          Therefore all those things which the corollary contains were usurped and unjustly held and tyrannically possessed by the Spanish. 
+          And that they cannot be saved unless they restore them is clear, 
+          because sin is not forgiven unless what was taken is restored, 
+          as was proved in §.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e730">
+          ¶ The second part of the corollary, 
+          namely that it does not relieve or excuse the Spanish that our kings grant permission to take those things or make a grace of such things, 
+          etc.,
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e746">
+          is proved because our Kings have no jurisdiction, 
+          no royal power in that entire world of the Indies in act, 
+          as was concluded at the end of § 29.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e753">
+          Both first because none of the kings nor any particular person has thus far rightly and correctly received our kings as lords and universal princes, 
+          nor has ever consented to the aforesaid papal institution, 
+          as is clear in 
+          <ref xml:id="cy8th8-d1e558-Rd1e764">§ 31, 4th conclusion</ref> 
+          with its proof.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e767">
+          ¶ Both second because the said papal institution concerning our kings is not of greater efficacy than was the election of God concerning Saul and David, 
+          the first kings among the Jewish people. 
+          But the election of God does not suffice alone without the consent and acceptance of the people 
+          so that the aforesaid kings would have right in that kingdom, 
+          that is, 
+          the exercise of royal power and of jurisdiction. 
+          And consequently they did not make any grace nor could they make it, 
+          since they lacked actual jurisdiction and the exercise of royal power, 
+          nor did they occupy themselves in anything concerning the rule or disposition of the people, 
+          as was shown evidently in § 18 and 19. 
+          Therefore neither does the aforesaid papal institution suffice or sufficed alone without the consent and acceptance of the peoples with their kings of that world, 
+          so that he might have right in it and the exercise of jurisdiction or royal power, 
+          and consequently our people could not occupy themselves with the rule or disposition of those peoples, 
+          nor with any grace to be made to the Spanish, 
+          especially in such notorious prejudice to those peoples.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e812">
+          ¶ Both third because, 
+          as was clearly shown in conclusion 3 and in its proof, 
+          our illustrious kings have only a title to those kingdoms, 
+          that is, 
+          a cause of acquiring dominion or supreme principate of that world, 
+          with the order of law being observed and the due circumstances which are numbered in conclusion 2. 
+          That is to say that they have only a right to those kingdoms, 
+          lacking all actual jurisdiction, 
+          at least coercive, 
+          and they can attend only to preparatory matters, 
+          as appears from things said above.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e834">
+          ¶ Both fourth because, 
+          as was declared in the following corollary after the 3rd conclusion with its proof, 
+          our kings have the principate and royal power in habit only, 
+          and not yet fully in purified habit, 
+          but to be purified when those things which the 2nd conclusion contains shall have been fulfilled.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e853">
+          ¶ Both fifth because our kings, 
+          as was also determined in conclusion 5 with its proof, 
+          as to actual dominion and jurisdiction and juridical possession or the exercise of royal power, 
+          now are and always have been in that state in which they were when their promotion or institution was made in Rome.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e872">
+          ¶ Both sixth, 
+          and it appeared in its proof, 
+          the often-mentioned institution concerning our kings remained suspended and pending, 
+          and now it is so from the time when our Spanish wrongfully entered those lands, 
+          and such will it remain until the tyranny which is continuous ceases and satisfaction for damages or voluntary remission is made, 
+          according to things said above § 35.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e891">
+          ¶ Both seventh because our kings have no juridical possession, 
+          but an improper and usurped one, 
+          on account of the malice and tyranny of the Spanish, 
+          as was concluded above § 33.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e905">
+          ¶ Both eighth because all things which were done by the messengers or officials of our kings in the royal name, 
+          as to entry and progress, 
+          were void of all juridical effect, 
+          as we have proved at length and manifestly in 
+          <ref xml:id="cy8th8-d1e558-Rd1e926">§ 34 in the 9th proof of the 5th Conclusion</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e932">
+          ¶ Both finally ninth because even if our kings had actually had complete jurisdiction and also the free exercise of royal power, 
+          they could not have granted such ample graces in such enormous prejudice to those inhabiting those lands and their proper lords, 
+          such as those things which the Spanish have usurped. 
+          For the prince cannot dispose at will concerning the substance of his subjects, 
+          nor do anything in prejudice of the people itself without its assent being required, 
+          as 
+          <ref>Innocent and others note in c. quae in ecclesiarum de constitutionibus</ref> 
+          and 
+          <ref>the legists in l. fi. C. si contra ius vel utilitatem publicam</ref> 
+          and in 
+          <ref>c. inquisitioni de sententia excommunicationis by Innocent</ref> 
+          and 
+          <ref>c. quanto de iureiurando by Panorimitanus</ref>. 
+          Therefore it does not relieve or excuse the Spanish in those things which they have tyrannically occupied, 
+          namely parts of lands, 
+          fields, 
+          forests, 
+          pastures, 
+          etc., 
+          that the Catholic kings our lords made a grace of such things or gave permission to take them, 
+          or even their governors.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e989">
+          Nor does 
+          <ref>l. bene a Zenone C. de quadriennii praescriptione</ref> 
+          stand in the way, 
+          where a donation by the prince of another's thing is validated after four years have elapsed, 
+          so that the lord of the thing is no longer heard, 
+          although he whose thing it is can act for the price against the fisc. 
+          But truly 
+          <ref>said l. bene a Zenone</ref> 
+          does not stand in the way in those things which are stolen against the law of nature because they are void, 
+          nor can the prince validate them, 
+          since he can do nothing against the rules of reason or natural law, 
+          to which like other men he is subject, 
+          as is clear in the 2nd consideration. 
+          Nor does it avail even if he says "supplying every defect," 
+          as in 
+          <ref xml:id="cy8th8-d1e558-Rd1e1021">Clementine Pastoralis de re iudicata</ref> 
+          with the notes there. 
+          Nor does the tolerance of the prince justify the act, 
+          however much time passes, 
+          in those things which are not obtainable without the approval of law, 
+          as 
+          <ref>Geminian says in a similar case in c. licet de praebendis lib. 6</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e1030">
+          ¶ Likewise 
+          <ref>said l. bene a Zenone</ref> 
+          does not have place when the prince does not possess the thing either alienated or conceded, 
+          according to 
+          <ref>Bartolus in said l. fi. C. si contra ius vel utilitatem publicam</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e1042">
+          ¶ The same if he alienates before delivery, 
+          according to 
+          <ref>Baldus in c. 1 § fi. de nova forma fidelitatis</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e1052">
+          ¶ But our kings have neither juridical possession, 
+          but one against all law (as has been proved), 
+          nor have those things nor any part of that world been rightly or correctly delivered to them. 
+          For the praetor does not protect an unjust possession, 
+          <ref xml:id="cy8th8-d1e558-Rd1e1063">ff. de publicis l. cum sponsus § si res</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e1069">
+          ¶ Moreover the last part, 
+          namely that whatever the Spanish built in those lands they lose and it belongs to the land and to the lords of the places, 
+          is proved.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e1079">
+          Both first because a building regularly belongs to the land, 
+          as Institutes de rerum divisione § cum autem in suo.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e1084">
+          Both second because one building on another's land knowingly and in bad faith, 
+          as these do, 
+          loses the part of his thing, 
+          namely the material if he placed it.
+        </p>
+        <p xml:id="cy8th8-d1e558-d1e1089">
+          And he is said to offend, 
+          Inst. de re divisione § si quis rei, 
+          ff. de rei vindicatione, 
+          and it can be destroyed by the proper authority of the lord of the land. 
+          Bartolus and the doctors in 
+          <ref xml:id="cy8th8-d1e558-Rd1e1097">l. sed si inter ff. de servitutibus urbanorum praediorum</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e558-Rd1e1102">l. quemadmodum ff. ad legem Aquiliam § 1</ref>. 
+          And the building must be removed at the expense of the one who built illicitly, 
+          Speculator de censibus actionibus § 1 verbis ut autem, 
+          and thus is clear the 
+          <ref>3rd corollary</ref>.
+        </p> 
+      </div>
+    </body>
+  </text>
+</TEI>
