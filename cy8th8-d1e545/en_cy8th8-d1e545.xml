@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 37</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 37</title>
+          <date when="2025-12-13">December 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+          John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+      url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="101-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e545">
+        <head xml:id="cy8th8-d1e545-Hd1e97">Section 37</head>
+
+        <p xml:id="cy8th8-d1e545-d1e99">
+          § 37
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e104">
+          <pc type="pilcrow">¶</pc> From what has been concluded and determined 
+          through the conclusions and their corollaries,
+          with their proofs,
+          there follow other things for the response to the doubt touched upon above 
+          <ref xml:id="cy8th8-d1e545-Rd1e5">§ 5</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e121">
+          First Corollary
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e126">
+          <pc type="pilcrow">¶</pc> It is not lawful for our kings of Castile and Leon,
+          our lords (saving justice),
+          just as it is not for other kings of the world,
+          without the permission and good pleasure of King Inca or his successors,
+          and similarly for the other kings of that world:
+          to interfere or to order inquiry to be made concerning treasures that are 
+          in those kingdoms or other precious things,
+          or to take them from there.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e148">
+          <pc type="pilcrow">¶</pc> The corollary is proven in multiple ways.
+          First,
+          because as to entry into those regions without permission of the natural 
+          kings and lords or peoples:
+          it was no more lawful for our kings (saving justice) than for other kings 
+          of the world,
+          since during all that time when those nations with their kings did not 
+          consent to said institution and did not spontaneously accept our kings as 
+          universal lords or princes,
+          they would have had no acquired right,
+          indeed they do not have it in the thing but only to the thing,
+          they have nothing else but a title:
+          not act but habit,
+          and not yet fully in habit,
+          nor any juridical but only an occupied possession,
+          as has been most fully proven above in many places,
+          especially in conclusion 2 through all its sections,
+          most especially through the eleventh,
+          and in conclusion 3 and the following corollary,
+          and in the 5th conclusion with its proofs.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e185">
+          Therefore it is no more lawful for our kings (saving justice) without 
+          permission of King Inca or his successors to interfere in inquiring about 
+          or taking treasures by their order or command than for the other kings of 
+          the world.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e196">
+          The consequence is clear because,
+          setting aside the papal institution and other qualities that proceed from it,
+          and which nevertheless do not help toward properly and correctly assuming 
+          the principate of that world in act and exercising royal power without 
+          those things that are necessarily required for observing the order of law,
+          as is contained in conclusion 2,
+          it is manifest that the same reasoning applies to our kings as to the 
+          other kings of the world.
+          And thus the oft-mentioned papal institution does not stand in the way,
+          which above 
+          <ref xml:id="cy8th8-d1e545-Rd1e196">§ 5</ref> 
+          was opposed as standing in the way.
+          Therefore it is no more lawful for our kings,
+          saving justice,
+          to do those things etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e222">
+          <pc type="pilcrow">¶</pc> Secondly,
+          the corollary is proven because if any king of the world or people of that 
+          world should attempt to enter to search out and take treasures and other 
+          precious things without permission of King Inca and other kings his 
+          successors,
+          and more forcefully if they should contend against his or their will,
+          they would do injury to them and gravely disturb them,
+          committing violence,
+          theft or rapine,
+          as was deduced above 
+          <ref xml:id="cy8th8-d1e545-Rd1e241">§ 5</ref>.
+          Therefore similarly if our kings should attempt to do the same things,
+          they would inflict injury on King Inca,
+          they would commit violence,
+          theft,
+          and rapine (saving the reverence of their highness),
+          since our Catholic kings themselves are subject to natural and eternal or 
+          divine law and reason just as much as the others,
+          as appears in consideration 2.
+          Therefore etc.
+          For the vicar of Christ does not grant permission to our kings or their 
+          messengers by said institution to disturb,
+          scandalize,
+          despoil that whole world and to place it in implacable hatred against the 
+          Christian religion and Christ's name,
+          as appears in the 3rd and 4th considerations.
+          Therefore our kings can in no way (saving justice),
+          just as other kings of the world cannot,
+          order entry to search out or seek treasures etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e285">
+          <pc type="pilcrow">¶</pc> Indeed,
+          the messengers sent by our Spanish kings greatly disturbed all those 
+          nations,
+          although certainly against the will of our kings,
+          as has been said.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e301">
+          <pc type="pilcrow">¶</pc> For it was seen above 
+          <ref xml:id="cy8th8-d1e545-Rd1e301">§ 21</ref> 
+          that someone disturbs another by simple entry into his possession against 
+          his will.
+          They indeed entered the lands and foreign possessions against the will of 
+          all kings and peoples universally like a most turbulent wind.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e323">
+          <pc type="pilcrow">¶</pc> Someone disturbs by taking away fruits.
+          Thus our men disturbed those peoples by carrying away all the fruits of 
+          those lands,
+          of forests,
+          mountains,
+          rivers,
+          waters,
+          gold,
+          silver,
+          metals and the rest etc.,
+          as appeared above 
+          <ref xml:id="cy8th8-d1e545-Rd1e345">§ 33 in the proof of the 5th conclusion</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e348">
+          <pc type="pilcrow">¶</pc> Again,
+          someone disturbs by plowing and sowing etc.
+          Thus our men disturbed and disturb by usurping all those lands not their 
+          own,
+          with which they do and dispose of whatever they please at will.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e363">
+          <pc type="pilcrow">¶</pc> Moreover,
+          someone disturbs by resistance:
+          behold these disturb and have disturbed by most unjust bloody wars,
+          impiously slaughtering all the inhabitants universally,
+          and those whom they leave alive,
+          reducing to servitude.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e377">
+          <pc type="pilcrow">¶</pc> Someone also disturbs by selling another's thing 
+          and handing it over to a buyer.
+          Behold all things that these have wrongly seized,
+          as if they possessed by best right and were owners,
+          they sell,
+          transfer,
+          give,
+          and do whatever they wish with them.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e391">
+          <pc type="pilcrow">¶</pc> Moreover,
+          someone disturbs who asserts that he has servitude in another's thing.
+          But these not only assert:
+          but they seize and usurp violently,
+          and not only in the things of others but innumerable persons themselves,
+          like notorious kidnappers,
+          reducing them to most bitter servitude.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e410">
+          <pc type="pilcrow">¶</pc> Finally,
+          he disturbs who brings annoyances and provides impediment to another's 
+          right.
+          But who,
+          I ask,
+          ever brought such bitter annoyances to men and provided impediments to 
+          foreign rights as these have?
+          Both through wars,
+          through captivities,
+          through insults,
+          through bereavements,
+          through deprivations of dignities even royal,
+          honors,
+          dominions,
+          jurisdictions and absolutely all goods,
+          through violations of wives and daughters,
+          and through immense other calamities,
+          our men have disturbed and today disturb (as has been proven),
+          and the whole world is witness,
+          and consequently they have provided most effective impediment,
+          denying that they might use peacefully every right that pertained to them 
+          either publicly or privately,
+          as is manifest from what has been said.
+          Therefore the Spanish messengers of our kings have inflicted the greatest 
+          injuries on King Inca and other kings,
+          and they have greatly disturbed by entering those lands or kingdoms and 
+          their places to search out or inquire about treasures or other precious 
+          things without their permission,
+          especially against their will,
+          committing execrable violence,
+          thefts and rapine.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e484">
+          <pc type="pilcrow">¶</pc> Thirdly,
+          the corollary is proven:
+          Our kings of the Spains are obliged by necessity of justice and salvation 
+          to avoid all things that can irritate or scandalize the aforesaid 
+          inhabitants,
+          disturb them,
+          and impede or retard them from receiving the faith,
+          and every irregularity,
+          injustice,
+          scandal or other undue work and not done according to reason or against 
+          the order of law,
+          which is of itself apt to generate in such infidels a sinister or perverse 
+          opinion about the faith or Christian religion etc.,
+          as was proven at length in the 5th consideration.
+          But to enter into those lands and kingdoms and to inquire or search for 
+          treasures and other precious things and to take them without permission 
+          and good pleasure of the kings and lords would be against the order of law,
+          unjust,
+          scandalous,
+          disorderly,
+          disturbing,
+          irritating,
+          defamatory of the Catholic faith,
+          and impeding that infidels might be converted,
+          and productive of sinister and perverse opinion about the Christian faith 
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e575">
+          Therefore our kings are bound by necessity of justice and salvation to 
+          avoid such things.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e580">
+          Therefore it is no less illicit for our kings to order or procure those 
+          things than for other rulers of the world,
+          and thus the same as before.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e591">
+          And this is understood even if such peoples and nations had received the 
+          faith and been initiated in the sacraments,
+          provided they had not given free consent by handing over to our kings the 
+          supreme principate of that world,
+          since before their consent our kings have no power to enter by themselves 
+          or through their agents into that world,
+          even if those peoples meanwhile should be converted to Christ by receiving 
+          the sacrament of faith.
+          And all these things are sufficiently clear from the foregoing.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e617">
+          <pc type="pilcrow">¶</pc> Fourthly,
+          finally the corollary is proven,
+          or the things proven are confirmed:
+          first because our kings have no voluntary subject in that whole world from 
+          among the natives.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e629">
+          <pc type="pilcrow">¶</pc> Secondly because all their power is in habit,
+          indeed not yet fully in habit.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e638">
+          <pc type="pilcrow">¶</pc> Thirdly because they are in that state in which 
+          they were when the letters of the aforesaid institution of the Roman 
+          Apostolic See were issued.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e648">
+          <pc type="pilcrow">¶</pc> Fourthly because the papal institution now sleeps 
+          and is suspended or remains in pendency.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e662">
+          <pc type="pilcrow">¶</pc> Fifthly because the Spaniards viciously and 
+          improperly,
+          and therefore in no way validly,
+          delivered to our kings the usurped possession of that world.
+        </p>
+
+        <p xml:id="cy8th8-d1e545-d1e672">
+          <pc type="pilcrow">¶</pc> Sixthly,
+          finally,
+          because all things that from the beginning have been done by the Spaniards 
+          throughout that whole world up to this very day inclusive have lacked 
+          force,
+          and thus have remained entirely void.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
