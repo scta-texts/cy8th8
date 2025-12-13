@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 35</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 35</title>
+          <date when="2025-12-13">December 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="95-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e519">
+        <head xml:id="cy8th8-d1e519-Hd1e97">Section 35</head>
+
+        <p xml:id="cy8th8-d1e519-d1e99">
+          § 35
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e104">
+          Corollary From what has been said and proven for the verification of the 5th conclusion,
+          it is clear: that said papal institution or concession concerning our kings,
+          from the time when our Spaniards wrongfully entered those lands until now,
+          has remained suspended and in a pending state:
+          just as if it had been granted and issued in Rome today.
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e128">
+          ¶ Some jurisdiction or faculty, or power,
+          is said to be suspended or in a pending state or also that it sleeps:
+          when the subject or matter about which it is to be exercised is lacking,
+          or when something necessary must be added.
+          Which is nothing else in reality than to have it in potentiality.
+          As is clear from those things which are read and noted in 
+          <ref xml:id="cy8th8-d1e519-Rd1e148">c. ex tenore, through the Gloss</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e519-Rd1e150">
+            the Doctors, in c. licet ex suscepto de foro competere
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e519-Rd1e160">c. Pastoralis at the end de rescriptis</ref> 
+          and through the 
+          <ref xml:id="cy8th8-d1e519-Rd1e165">doctors in c. si confirmationem de electione lib. 6</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e519-Rd1e171">c. Romana de officio ordinarii</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e519-Rd1e173">c. Romana de appellationibus in that book</ref> 
+          I omit other ways by which the jurisdiction of some judge is usually suspended,
+          because it falls under excommunication or suspension by law or imposed by a person:
+          because they do not pertain to our purpose.
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e185">
+          ¶ The corollary is proven first because,
+          when said promotion or institution of our kings existed in Rome,
+          in order for it to achieve its effect (that is,
+          so that by its power our kings might rightly and properly assume in act the principality of
+          that world of the Indies and thus have full faculty of exercising jurisdiction and royal
+          power),
+          there was lacking most principally and necessarily something to be added or supplied,
+          namely to observe those twelve things which the order of natural law contains,
+          as we showed in the 2nd conclusion,
+          most especially the eleventh particular of that same conclusion,
+          namely the free consent of the kings and peoples of those nations,
+          by which they would approve the aforesaid promotion and hold it ratified,
+          and by free will receive our kings as universal lords:
+          without which it will be impossible to possess that principality by law:
+          as has been most fully proven: 
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e220">
+          so from the entry of the Spaniards through all continuous time until now,
+          there has always been lacking and now is lacking that most principal and necessarily to be
+          added or supplied thing:
+          namely: those twelve things,
+          as is clear from very many things related and decided. 
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e229">
+          Therefore such a promotion or papal institution has remained and now remains suspended or
+          impeded.
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e236">
+          ¶ The corollary is proven secondly because throughout that entire time there have been
+          certain legal impediments preventing said papal promotion or institution from achieving
+          its effect,
+          which impediments,
+          as long as they endure,
+          the aforesaid institution will always sleep and be pending and suspended.
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e256">
+          ¶ The first impediment is:
+          because on account of our iniquities,
+          impieties,
+          tyrannical invasions,
+          violences,
+          approach and entry condemned by all law into those lands and foreign kingdoms,
+          by which we brought such enormous calamities,
+          losses,
+          and irreparable damages to their inhabitants without cause:
+          and on account of the continuous,
+          harsh,
+          and most atrocious servitude by which they are incessantly afflicted daily,
+          by which they are irremediably diminished and perish:
+          to which all indifferently,
+          great and small,
+          kings and subjects,
+          have been reduced:
+          namely that which they called <mentioned>repartimiento</mentioned> or 
+          <mentioned>comenda</mentioned>:
+          which truly has depopulated almost that entire world:
+          all the inhabitants and dwellers of that entire world have gained the right to wage public
+          war against us as against most vile public enemies and destroyers and cruel enemies of
+          their entire race.
+          War, (I say) not only of defense:
+          but truly also of vengeance:
+          avenging (namely) and vindicating the injuries and damages received from us:
+          occupying our goods if we should have any,
+          and capturing persons,
+          and slaughtering:
+          and also reducing into servitude and all other things which are permitted to a supreme
+          prince having a just war.
+          For they have just pure and mixed empire and all manner of jurisdiction and the rights of
+          a prince recognizing no superior.
+          And so their princes or kings have as much power in their kingdoms as the emperor has
+          among the Christian people,
+          as has been proven above in § 5 and following and in many of our treatises,
+          especially in De bello Xalisquino
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e334">
+          ¶ And pertinent to our purpose is the notable text in 
+          <ref xml:id="cy8th8-d1e519-Rd1e341">
+            c. si quis episcopus de supplenda negligentia prelatorum
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e519-Rd1e347">the gloss there in the word <mentioned>libertati</mentioned></ref> 
+          where it is held that if a bishop is captured by pagans or schismatics:
+          he becomes their slave 
+          <ref xml:id="cy8th8-d1e519-Rd1e356">insti. de iure personarum § ultimo</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e519-Rd1e358">ff. de captiuis et postliminio lib. l. 5</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e519-Rd1e363">ff. de regulis iuris, l. seruus</ref>.
+          Whence it is not permitted for Christians thus captured by those Indian nations or by any
+          infidels waging a just war,
+          as in this case,
+          to flee or depart from their infidel masters,
+          nor to steal their goods,
+          nor to free other Christians captured by them:
+          otherwise they are bound to make restitution in the forum of conscience:
+          unless there should be imminent danger of the captive abandoning the faith,
+          according to 
+          <ref xml:id="cy8th8-d1e519-Rd1e382">
+            Hostiensis in summa de penitentis et remissionibus § quibus et qualiter. 12. column with
+            the words <mentioned>Quid ergo</mentioned>
+          </ref> 
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e389">
+          ¶ Since therefore they wage the most just war against us,
+          it is manifest that by the best right they can resist said papal promotion or institution
+          and bitterly complain about it,
+          indeed they will consider the vicar of Christ himself who made the institution to be an
+          unjust and public enemy of the entire human race,
+          since relying on the authority of the aforesaid institution emanating from him,
+          the Spaniards have done to them,
+          and they see themselves suffering such great and such evils.
+          Therefore while this complaint endures and the war itself is terminated (which however the
+          right of waging war against us,
+          unless interrupted by truce or peace,
+          or satisfaction of those causing harm,
+          or voluntary remission of those harmed,
+          will have no end),
+          said institution will be suspended,
+          sleeping,
+          and pending.
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e446">
+          ¶ Another legal impediment is recognized to be true from this:
+          because regarding the evils and damages which we have inflicted on these nations through
+          nefarious wars and oppressions through such servitude:
+          we have never made satisfaction,
+          nor is there any hope among them that at some future time we will make satisfaction,
+          nor will they voluntarily remit:
+          because we do not cease to offend them,
+          as will be said immediately.
+          Therefore they will perpetually have the right to attack us with war.
+          Therefore perpetually also the aforesaid institution will sleep and remain pending and
+          suspended.
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e473">
+          ¶ There is a third impediment and indeed one most strongly confirmed and manifest by
+          natural law:
+          namely: because personal force and injury is continuously and incessantly inflicted on
+          them (as has been said) since they are always held in the same most bitter servitude
+          (namely the <mentioned>repartimiento</mentioned> or <mentioned>comenda</mentioned>),
+          by which both the kings and natural lords,
+          magistrates,
+          nobles and ignobles of them,
+          and all subjects universally are deprived of their natural liberty,
+          dominion,
+          jurisdictions,
+          dignities,
+          nobility,
+          rights,
+          and privileges:
+          and all the peoples falling under are harshly and inhumanly oppressed perpetually.
+          Whence force or violence is committed against them daily and continually,
+          and is always being born and is in the process of happening and in a permanent or flowing
+          act:
+          by which continuous force is inflicted not only on the subjects and common people,
+          compelling them through fear to obey tyrants and violent lords,
+          as are each of our people:
+          but also force is inflicted on their legitimate lords and kings.
+          Indeed compulsive on those,
+          but expulsive on these:
+          therefore always and perpetually and continuously it can by law be resisted and repelled.
+          Both to repel present violence or tyranny:
+          both to protect their liberty:
+          both to recover the possession of which they have been unjustly despoiled:
+          both to reclaim things taken from them:
+          both finally to avenge the injuries and offenses done to them.
+          As is sufficiently proven in 
+          <ref xml:id="cy8th8-d1e519-Rd1e536">c. dominus noster. 23. q. 2</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e519-Rd1e538">C. de probationibus l. vis eius</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e519-Rd1e540">C. de sacrosanctis ecclesiis l. decernimus</ref> 
+          and notably 
+          <ref xml:id="cy8th8-d1e519-Rd1e545">
+            Baldus in l. data opera C. Qui accusare non possunt penultimate column
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e519-Rd1e553">repetitione l. 1. C. vnde vi.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e556">
+          ¶ For it is the rule that it is permitted to anyone to defend his possession which he
+          peacefully possesses:
+          and against one attacking and attempting to eject him,
+          to protect himself with arms:
+          and far more strongly one having jurisdiction in a place can rush to remove every
+          obstacle prepared for him,
+          both against persons disturbing or impeding,
+          and against the doors and walls of the place and other impediments,
+          thus breaking them so that he may freely use his thing or his right.
+          And if he has been ejected,
+          by his own authority even if he exists as a private person,
+          he can recover after many years,
+          especially where there is no superior who administers justice to him.
+          Which is proven by 
+          <ref xml:id="cy8th8-d1e519-Rd1e589">
+            capitulum olim el. 1o de restitutione spoliatorum
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e519-Rd1e593">Innocentius and the doctors there</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e519-Rd1e595">
+            c. dilecto de sententia excomunicationis lib. 6
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e519-Rd1e600">c. significasti de homicidio</ref> 
+          and in many other laws 
+          <ref xml:id="cy8th8-d1e519-Rd1e602">Baldus in l. 1 C. vnde vi, 9 column</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e608">
+          ¶ Since therefore we do not cease to offend those peoples,
+          holding all in that tyranny (I mean the repartimiento or comenda),
+          not restoring the kings and nobles or chieftains to their dominions and dignities and
+          other rights:
+          and the rest of the inhabitants to their pristine liberty:
+          so that thus all tyranny might cease:
+          but rather adding injuries to injuries,
+          evils to evils,
+          burdens to burdens:
+          worse things to bad things and worst to worst,
+          more and more every day:
+          it follows that those who exist will never be placated,
+          nor will they voluntarily consent to the papal institution,
+          and less will they remit the things and goods taken from them by force,
+          the injuries and irreparable damages inflicted on them.
+          And therefore the potentiality which our kings have acquired by virtue of the
+          aforementioned papal institution:
+          will not be able to come into act in perpetuity:
+          both from the permanence and long duration of tyranny:
+          both from the impossibility of restitution and satisfaction,
+          as is clear in itself.
+          Therefore meanwhile the aforesaid institution will endure suspended and pending. 
+        </p>
+
+        <p xml:id="cy8th8-d1e519-d1e663">
+          And consequently our Catholic kings have no power (if it is permitted to confess the
+          truth) of exercising jurisdiction or royal power,
+          nor should they or can they (saving justice) be concerned about taking possession or about
+          ordering or disposing of dominion or government throughout that entire world against the
+          will of those peoples.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
