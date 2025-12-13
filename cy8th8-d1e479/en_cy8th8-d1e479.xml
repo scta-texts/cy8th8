@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 32</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 32</title>
+          <date when="2025-12-13">December 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="83-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e479">
+        <head xml:id="cy8th8-d1e479-Hd1e97">Section 32</head>
+        
+        <p xml:id="cy8th8-d1e479-d1e99">
+          § 32
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e104">
+          <pc type="pilcrow">¶</pc> 
+          Nor is it valid to say what the tyrants mendaciously fabricate,
+          that in certain places of the same world and in the city of Mexico they consented of their own free will to our kings,
+          transferring all dominion,
+          jurisdiction and power to them,
+          abdicating from themselves all right which pertained to them;
+          but in this,
+          as in very many things,
+          the tyrants plainly lie to their own detriment:
+          seeking to conceal or excuse or at least mitigate their nefarious injustices and cruel violence before our king,
+          boasting to themselves and flattering the king at the same time as if they,
+          who by their labors and strength (as they boast) had given him great kingdoms for obsequiousness or great service,
+          as we said above:
+          and therefore had merited a reward or payment more than eternal.
+          When in truth on account of their criminal and innumerable and cruel deeds they had merited to suffer eternal punishments with bodily death itself.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e141">
+          <pc type="pilcrow">¶</pc> 
+          But that they do not speak the truth can be persuaded by many reasons.
+          And first:
+          because no one is presumed to cast away his own property willingly or foolishly,
+          even if it be one obol,
+          as 
+          <ref xml:id="cy8th8-d1e479-Rd1e152" target="http://scta.info/resource/bgy6gt-d1e1789-Dd1e370">
+            ff. de probationibus, l. cum de indebito
+          </ref>.
+          By what reasoning,
+          I ask,
+          should that great 
+          <name xml:id="cy8th8-d1e479-Nd1e158">Montezuma</name> 
+          be thought to have willingly wished to transfer into the hands of enemies in the name of the king of Spain,
+          whom he had not provoked:
+          but rather considered should be subject and serve him,
+          such a great principality:
+          such vast and wealthy kingdoms:
+          such a distinguished and great city in which he was worshipped as a certain deity.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e175">
+          <pc type="pilcrow">¶</pc> 
+          Secondly,
+          how could he have willingly ceded the rights of so many and such great kingdoms and such vast riches and glory to the kings of Spain,
+          or rather to the first tyrant:
+          who had first invaded that region and the city of Mexico in sheep's clothing,
+          that is humbly and peacefully,
+          though in deceit:
+          and on the very day he entered the city threw that great king 
+          <name xml:id="cy8th8-d1e479-Nd1e196">Montezuma</name> 
+          into chains using a certain diabolical and cunning fraud?
+          Is anything also valid by our law that is done or a donation or contract entered into with those who are captured by enemies or otherwise without liberty?
+          And especially if the other party is oppressing and inflicting violence.
+          The text is in 
+          <ref xml:id="cy8th8-d1e479-Rd1e212">l. qui in arcere ff. quod metus causa</ref> 
+          concerning which 
+          <ref xml:id="cy8th8-d1e479-Rd1e214">Innocent and the doctors in c. cum locum</ref> 
+          on betrothal,
+          and extensively by 
+          <ref xml:id="cy8th8-d1e479-Rd1e219">Alexander in l. qui a latronibus</ref> 
+          on testaments,
+          by Angelus in 
+          <ref xml:id="cy8th8-d1e479-Rd1e225">l. si mulier ff. quod metus</ref> 
+          causa.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e217">
+          <pc type="pilcrow">¶</pc> 
+          Thirdly,
+          how quickly could King Montezuma have understood our language,
+          that in such few days in which he survived from his capture or imprisonment he would have understood the stipulations of the aforesaid first robber by which was sought the renunciation of the kingdom or cession of the entire royal status.
+          Can contracts be valid by law unless the parties understand each other?
+          Or if they are deceived by some error.
+          Since he who errs does not seem to consent as 
+          <ref xml:id="cy8th8-d1e479-Rd1e239" target="http://scta.info/resource/bgy6gt-d1e5159-Dd1e1340">
+            ff. de regulis iuris, l. nihil consensui
+          </ref> 
+          <ref xml:id="cy8th8-d1e479-Rd1e242" target="http://scta.info/resource/bgy6gt-d1e310-Dd1e271">
+            l. si per errorem ff. de iurisdictione omnium iudicum
+          </ref> 
+          where it is said 
+          <quote xml:id="cy8th8-d1e479-Qd1e249">
+            nothing is so contrary to consent as error:
+            which reveals ignorance.
+          </quote>
+          Nor should a distinction be made between errors of law or fact as the gloss says there,
+          as in 
+          <ref xml:id="cy8th8-d1e479-Rd1e259" target="http://scta.info/resource/bgy6gt-d1e662-Dd1e114">
+            l. 2 ff. de iudiciis
+          </ref> 
+          especially in giving or transferring jurisdiction as there and 
+          <ref xml:id="cy8th8-d1e479-Rd1e264" target="http://scta.info/resource/azsw2e-d1e2566-Dd1e339">
+            C. locato l. ad probationem
+          </ref>.
+          And certain transactions require express and free will as in this case 
+          <ref xml:id="cy8th8-d1e479-Rd1e272" target="http://scta.info/resource/bgy6gt-d1e5159-Dd1e148">
+            l. in negotiis ff. de regulis iuris
+          </ref> 
+          and there the gloss and 
+          <ref xml:id="cy8th8-d1e479-Rd1e275" target="http://scta.info/resource/bgy6gt-d1e505-Dd1e187">
+            ff. de procurationibus, L. filius, § inuitus
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e479-Rd1e280" target="http://scta.info/resource/bgy6gt-d1e892-Dd1e148">
+            ff. de seruitutibus urbanorum prediorum l. inuitum.
+          </ref>
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e286">
+          <pc type="pilcrow">¶</pc> 
+          Fourth,
+          when the aforesaid King heard of the arrival of the Spanish and that they had landed at the port of the great town of Cempoala,
+          understanding that they especially worshipped gold:
+          did he not send to the tyrant a figure of the sun from purest gold and an image of the moon from silver:
+          that is two wheels,
+          golden and silver,
+          similar in size to a great cart wheel,
+          and many other precious gifts,
+          persuading him through his messengers that having accepted these,
+          he should return to his homeland with his companions as soon as possible?
+          This certainly happened once when we were together,
+          that oppressor of men and I,
+          in the same city of Mexico in familiar conversation (for we were once friends):
+          speech turned to that invasion of his and tyrannical entry into those kingdoms.
+          For he affirmed that that 
+          <name xml:id="cy8th8-d1e479-Nd1e317">King Montezuma</name> 
+          had ceded the whole kingdom to him in the name of the king of Spain.
+          And when I denied it and asserted that it was done through fear and terror of horses and gunpowder machines (if indeed it was done,
+          which I scarcely believe),
+          and when a certain person who was then with us asked:
+          Did that King 
+          <name xml:id="cy8th8-d1e479-Nd1e331">Montezuma</name> 
+          not send messengers to you with gifts asking that you and your companions leave his kingdom?
+          He answered laughing with guffaws:
+          certainly this more than thirty times!
+          Behold how from his own mouth I plainly convicted him of lying.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e347">
+          <pc type="pilcrow">¶</pc> 
+          Fifth,
+          was there not sufficient cause for the aforesaid king 
+          <name xml:id="cy8th8-d1e479-Nd1e354">Montezuma</name> 
+          to fear,
+          and indeed fear falling upon a most constant man:
+          since he had heard from very many most certain reports of a bearded cruel people,
+          sitting upon certain large and very swift animals,
+          that is horses,
+          who seem horse and horseman to be one unheard-of animal:
+          with terrible apparatus of war,
+          namely machines breathing forth through their mouths so violent a flame of fire with force and most terrible sound by which with one blow thirty and forty men suddenly fell lifeless.
+          Likewise carrying swords with which once drawn they cut through the middle,
+          slaughtering naked and delicate bodies:
+          iron lances also (that I may be silent about arrows with hateful art and other iron instruments and defensive and offensive arms) with which one horseman in the space of one hour alone slew a thousand mortals pierced through.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e396">
+          <pc type="pilcrow">¶</pc> 
+          But what,
+          I ask,
+          could 
+          <name xml:id="cy8th8-d1e479-Nd1e403">King Montezuma</name> 
+          have felt in his heart when he heard that in the town of Tabasco at the bank of the river which the Spanish called 
+          <name xml:id="cy8th8-d1e479-Nd1e410">Grijalva</name>,
+          as soon as they descended from the ships onto land they slaughtered a great multitude of men.
+          Then that in the great town of Cempoal,
+          afterwards in the most populous province of 
+          <name xml:id="cy8th8-d1e479-Nd1e418">Tlaxcala</name> 
+          and other adjacent peoples,
+          they made terrible slaughters among small and great.
+          Finally in the illustrious city called Cholula where was the chief sanctuary of that whole great kingdom,
+          which was distant from the city of Mexico by twenty leagues:
+          that wretch,
+          acting in deceit and a certain cunning simulation,
+          had a great multitude of both sexes gathered in a certain great courtyard,
+          all unarmed indeed and naked,
+          almost as is the custom among all:
+          like another Herod he ordered his satanic satellites:
+          that innocent persons,
+          more than fifteen thousand men,
+          infants,
+          boys,
+          youths,
+          old men and women be cruelly and impiously killed with swords and lances.
+          When indeed Montezuma heard these things,
+          and even saw in the midst of his own city,
+          twenty-two great rulers or lords burned alive by order of the tyrant,
+          which crime the tyrant himself very impudently boasting related to me conversing familiarly with him:
+          we can sufficiently conjecture how terror of him and his satellites rushed upon King Montezuma who was in chains,
+          and upon his entire kingdom:
+          and all the inhabitants of the earth cried out:
+          or if any spirit remained to them at their entrance.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e473">
+          But if things done through fear,
+          especially in conceding or seeking jurisdiction,
+          are worth nothing by law as is known among lawyers,
+          and perhaps will be treated more explicitly below,
+          and in this case there was present the greatest fear of a severe tyrant with the greatest and terrible army and never otherwise considered by these weak and fearful nations,
+          therefore whatever King Montezuma did in the cession of his empire to that or into that tyrant was certainly worth nothing:
+          even if it were true that he had made such a cession as that cunning tyrant fabricated,
+          as in 
+          <ref xml:id="cy8th8-d1e479-Rd1e494" target="http://scta.info/resource/cice-l1t40-Dd1e153">
+            c. ad audientiam
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e479-Rd1e496">
+            c. sacris de his que vi metusve causa fiunt
+          </ref> 
+          and in many other laws.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e502">
+          For nothing is so contrary to consent (which sustains good faith and justice) as force or fear,
+          which it is against good morals to approve,
+          as 
+          <ref xml:id="cy8th8-d1e479-Rd1e512">ff. de regulis iuris l. nihil consensui</ref>,
+          and 
+          <ref xml:id="cy8th8-d1e479-Rd1e517" target="http://scta.info/resource/bgy6gt-d1e662-Dd1e114">
+            l. 2 de iudiciis
+          </ref>.
+          Thus someone is presumed to give something unwillingly,
+          however much he gives it voluntarily,
+          dreading the office of judge as in 
+          <ref xml:id="cy8th8-d1e479-Rd1e524">
+            l. 1 C. ne rusticani ad nullum obsequium libro. 10.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e479-Rd1e526">
+            C. de salgamo hospitibus l. unica lib.
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e479-Rd1e534">C. de raptu virginum l. vnica</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e479-Rd1e539">
+            ff. de liberis et posthumis l. 2 § si quis violentiam
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e546">
+          How much more therefore could King Montezuma have rightly feared with his nobles or magnates and the whole kingdom subject to him such fierce enemies who very easily and as nothing considered slaughtering all and devastating everything.
+          For it is of human custom that he should be feared by whose judgment and will one is now raised up,
+          now cast down 
+          <ref xml:id="cy8th8-d1e479-Rd1e561" target="http://scta.info/resource/gd-p2c16q2-Dd1e109">
+            16 q. 2 c. visis.
+          </ref>
+          Sixth,
+          this is also evident through those things which Bartolus says in the treatise on the tyrant and in § 16 we recited (namely) that if a city having the election of a rector and compelled by a tyrant should elect a rector:
+          the election is not valid.
+          Whence sentences delivered by that rector will be null.
+          For which well suits 
+          <ref xml:id="cy8th8-d1e479-Rd1e577">l. 2 ff. de iudiciis</ref> 
+          where free consent is required in transferring or extending jurisdiction.
+          From which it is also inferred according to 
+          <ref xml:id="cy8th8-d1e479-Rd1e581">
+            Panoramitanus in c. licet de evitanda de electione
+          </ref> 
+          that if a tyrant went to a free city with a large army,
+          and on account of fear of the army the city elected the tyrant as lord,
+          transferring all jurisdiction to him,
+          what he does with such fear is not valid,
+          and consequently the acts of such a tyrant will not be valid.
+          It excellently suits what is noted in 
+          <ref xml:id="cy8th8-d1e479-Rd1e597" target="http://scta.info/resource/azsw2e-d1e70-Dd1e308">
+            l. decernimus C. de sacrosanctis ecclesiis
+          </ref>,
+          the same words which 
+          <ref xml:id="cy8th8-d1e479-Rd1e600">
+            Bartolus cites,
+            Angelus de Perugia in his repetition
+          </ref> 
+          <ref xml:id="cy8th8-d1e479-Rd1e606" target="http://scta.info/resource/bgy6gt-d1e1150-Dd1e439">
+            l. ciuitas ff. de rebus creditis
+          </ref> 
+          as we have already said above.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e612">
+          <ref xml:id="cy8th8-d1e479-Rd1e614">
+            Baldus also, in l. nec si volens through that text C. de liberali causa
+          </ref> 
+          says that 
+          <quote xml:id="cy8th8-d1e479-Qd1e622">
+            if the King of France makes some city confess to be his and swear fidelity to him when it is not his:
+            such a confession is not valid nor the oath.
+            The same for the pope and emperor.
+            Because they are reduced to the likeness of a tyrant.
+            Whence if the city of Perugia were not of the Roman church,
+            all instruments made to the contrary would be void and totally invalid.
+            Which for God's sake note and hold perpetually in mind
+          </quote>.
+          These are Baldus's words.
+          <ref xml:id="cy8th8-d1e479-Rd1e640">
+            <name xml:id="cy8th8-d1e479-Nd1e641">Gerard</name> 
+            relates and holds these in his singularia 38 6o
+          </ref>.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e651">
+          By what law could Montezuma have transferred to a foreign king the kingdom and dominion without the free consent of the nobles of the kingdom,
+          indeed of the kings and rulers subject to him and magnates,
+          since a lord or king cannot alienate or submit his subjects to another king or lord without consent:
+          just as neither can subjects determine for themselves:
+          or subject themselves to another in prejudice to the king or that lord,
+          his consent not being sought.
+          Would it be tolerable that the king of Castile should alienate or subject the kingdoms of Spain to the rule of the king of France against the consent of the kingdom or without the will of the kingdom?
+          Or conversely that the kingdom or kingdoms themselves should hand themselves over without the consent of our king?
+          For the right of the lord or king or prince and the right of subjects or of the whole community are judged equally in almost all things.
+          And this doctrine is given by the clear text in cap. 1 § ex eadem de lege contradictoria according to 
+          <ref xml:id="cy8th8-d1e479-Rd1e688">
+            Jacobus de Alvarotis and others in c. 1o de forma fidelitatis 22, q. 5.
+          </ref> 
+          where it is stated that the lord is held and bound by the same faith to his subject or vassal as the vassal to the lord etc.
+          But more fully on these things elsewhere.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e703">
+          Since therefore all these things are true and most true and now most certain to the whole world:
+          it is evident to be most false that Montezuma ceded the royal right which pertained to him by law of nations and which he actually possessed peacefully:
+          nor even if he wished could he have done so by law:
+          which if he did,
+          whatever act that intervened on this matter was worth nothing by the aforementioned reasons and laws.
+          Although that first robber and invader of the kingdom and kingdoms of the great king Montezuma,
+          boasting to our king that Montezuma had voluntarily transferred those kingdoms into his hands for the king of Spain,
+          had concealed it.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e729">
+          And thus it appears that neither the king and monarch of the kingdoms which we now call New Spain,
+          nor any ruler or people of his kingdom ever consented to the said papal institution,
+          nor received our kings of Spain as superiors or supreme princes:
+          nor any other king or people in that whole world of the Indies,
+          especially with the harsh and fierce tyranny (which immediately after the most wicked wars arose and began (namely) the numerical division or subjection by which those peoples and nations were handed over to torturers,
+          that is to the servitude of individual Spaniards which they call repartimiento or encomienda:
+          under which innumerable men have perished until now in both and are now perishing) raging without interruption in being done and remaining in act.
+          If indeed one and the same is the reason concerning all the kings and peoples of that whole world,
+          therefore none of them recognized nor today rightly and correctly recognizes our kings as lords and universal princes:
+          but the obedience which they have rendered until now and render now has always been and is extorted,
+          violent and tyrannical:
+          because they could never resist their enemies the Spanish who prostrated them and led them down to the depths or abyss of miseries,
+          diminished and annihilated them.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e786">
+          And therefore they remained free by law though not in condemned fact just as they were free before the papal institution.
+          And thus the first part of the conclusion is evident.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e794">
+          <pc type="pilcrow">¶</pc> 
+          The second part indeed,
+          namely that not by fault of our kings but of the Spanish were our kings not received nor recognized as superiors by such kings and peoples,
+          who did not keep the commands of our kings any more than of God as we said in the preceding §,
+          but always did the contrary,
+          devastating everything so that they might fill the gluttony by which they burned for seizing gold.
+          Moreover if they had had a peaceful entry,
+          if they had conversed sweetly and amicably,
+          and also properly and with Christian familiarity with those peoples:
+          it would have been very easy that they would admit the king of Spain as universal prince over them.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e826">
+          <pc type="pilcrow">¶</pc> 
+          Finally the third part of our conclusion which excepted a certain little province called truly of peace etc.
+          For we excepted it because we with our companions,
+          brothers of the order of preachers,
+          by the peaceful and Christian way (with God's help) brought them to the faith and bosom of the holy Roman church,
+          not without great dangers to our life,
+          so much had the inhabitants of that little province been aggrieved,
+          irritated and exasperated by unjust wars,
+          robberies,
+          slaughters and oppressions by the Spanish.
+          Which nevertheless as we were able we persuaded:
+          that they should receive and recognize our King as king and supreme prince voluntarily,
+          no violence being applied on our part—God forbid.
+          And although they seemed in external appearance to promise obedience:
+          because nevertheless they saw and see daily the provinces near and neighboring to them all actually vexed by tributes and exactions and lying under the same fatal tyranny:
+          we very much doubt that they gave consent from pure will.
+        </p>
+        
+        <p xml:id="cy8th8-d1e479-d1e885">
+          And we say the same of other provinces,
+          if there are any which by the persuasions either of religious or of royal magistrates of Spain were induced to this.
+          For they are presumed to act from fear,
+          not freely or of their own accord.
+          Because since those peoples lie under the same very harsh servitude as is evident from things said and to be said,
+          so long lasts the fear of the tyrant as the tyrant lives or his tyranny lasts.
+          Because the same cause of fear remaining or lasting:
+          it is necessary that the same effect,
+          that is fear,
+          remain.
+          As is proved by the first chapter with the things noted there 
+          <ref xml:id="cy8th8-d1e479-Rd1e913">
+            de his que vi metusve causa fiant
+          </ref>,
+          whence whatever the oppressed person does,
+          he is presumed to do unwillingly and from cause of fear.
+          Which undoubtedly happens in this case.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
