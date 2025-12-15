@@ -113,16 +113,17 @@
           <lb ed="#B" n="25"/>refert. qui quasi monstrum fuit attenta gloria et uirtutibus 
           <lb ed="#B" n="26"/>patris: a quibus ipse plurimum degenerauerat et ob maculas 
           <lb ed="#B" n="27"/>sue turpitudinis vitiorum inter ceteras sibi ignominias illatas: 
-          cum a populo Romano eidem collatus fuisset honor preture: uel 
-          <lb ed="#B" n="28"/>a quodam scriba patris sui cui Romanus populus concesse<lb ed="#B" break="no" n="29"/>rat: 
+          <lb ed="#B" n="28"/>cum a populo Romano eidem collatus fuisset honor preture: uel 
+          <lb ed="#B" n="29"/>a quodam scriba patris sui cui Romanus populus concesse<lb ed="#B" break="no" n="30"/>rat: 
           propinqui et consanguinei eius reputantes quod dignitatem 
-          <lb ed="#B" n="30"/>illam propter vitia et turpitudines suas erat polluturus quodque 
-          <lb ed="#B" n="31"/>opprobrium et dedecus illius in omnes eos redundaret: ita 
-          <lb ed="#B" n="32"/>terruerunt eum ut non auderet ponere sellam pretoriam: 
-          <lb ed="#B" n="33"/>aut ius dicere inter litigantes. Et super hec detraxerunt de 
-          <lb ed="#B" n="34"/>manu eius annulum in quo erat sculptum capud africani 
-          <lb ed="#B" n="35"/>maioris. Et subdit Ualerius dii boni quas tenebras e quo 
-          <lb ed="#B" n="36"/>fulmine passi estis nasci id est offuscationes claritatis nomi<lb ed="#B" break="no" n="37"/>nis 
+          <lb ed="#B" n="31"/>illam propter vitia et turpitudines suas erat polluturus quodque 
+          <lb ed="#B" n="32"/>opprobrium et dedecus illius in omnes eos redundaret: ita 
+          <lb ed="#B" n="33"/><!-- line coord error -->
+          <lb ed="#B" n="34"/>terruerunt eum ut non auderet ponere sellam pretoriam: 
+          <lb ed="#B" n="35"/>aut ius dicere inter litigantes. Et super hec detraxerunt de 
+          <lb ed="#B" n="36"/>manu eius annulum in quo erat sculptum capud africani 
+          <lb ed="#B" n="37"/>maioris. Et subdit Ualerius dii boni quas tenebras e quo 
+          <lb ed="#B" n="38"/>fulmine passi estis nasci id est offuscationes claritatis nomi<lb ed="#B" break="no" n="39"/>nis 
           et fame passi estis nasci.
         </p>
         <p xml:id="cy8th8-d1e97-d1e302">
@@ -149,24 +150,24 @@
           <pc type="pilcrow">¶</pc>  Ra<lb ed="#B" break="no" n="17"/>tio 
           autem predictorum est quoniam tota cognatio facit unum corpus 
           <lb ed="#B" n="18"/>cuius partes uel membra faciunt singuli de cognatione illa. Ut
-          in <ref xml:id="cy8th8-d1e97-Rvn1fh2" target="http://scta.info/resource/azsw2e-d1e7587-Dd1e375">l. cum scimus, Codex de agricolis et censitis libro 11o<!-- edition says Cod 11.47.22, but I have it has 11.48.22--></ref>. Unum quippe 
-          <lb ed="#B" n="19"/>cum parentibus sumus <ref xml:id="cy8th8-d1e97-Rf1aazz" target="http://scta.info/resource/gd-p2c33q3d4-d1e258">de penitentia, dist. 4, c. Quid est quod dicitur</ref>. 
-          <lb ed="#B" n="20"/>Nam pater et filius pro uno capite et pro una persona reputantur
-          <lb ed="#B" n="21"/>ut in <ref xml:id="cy8th8-d1e97-Rja1ccc" corresp="#cy8th8-d1e97-Qd1e368">l. fine ff. <!--edition says Codex without footnote or app entry--> de impuberum et substitutionibus</ref> ubi dicitur <quote xml:id="cy8th8-d1e97-Qd1e368" source="http://scta.info/resource/azsw2e-d1e3717-d1e234@18-27">cum ex natura pater 
-          <lb ed="#B" n="22"/>et filius haec eadem esse persona pene intelligantur sunt una 
-          <lb ed="#B" n="23"/>caro</quote> <ref xml:id="cy8th8-d1e97-Rd1e400">35, q. 3, § hac autoritate</ref>. Item filius pars est patris ut 
-          <lb ed="#B" n="24"/>dicit <ref xml:id="cy8th8-d1e97-Rd1e377">Philosophus 5 Ethicorum</ref> <quote xml:id="cy8th8-d1e97-Qd1e379">sanguis
+          <lb ed="#B" n="19"/>in <ref xml:id="cy8th8-d1e97-Rvn1fh2" target="http://scta.info/resource/azsw2e-d1e7587-Dd1e375">l. cum scimus, Codex de agricolis et censitis libro 11o<!-- edition says Cod 11.47.22, but I have it has 11.48.22--></ref>. Unum quippe 
+          <lb ed="#B" n="20"/>cum parentibus sumus <ref xml:id="cy8th8-d1e97-Rf1aazz" target="http://scta.info/resource/gd-p2c33q3d4-d1e258">de penitentia, dist. 4, c. Quid est quod dicitur</ref>. 
+          <lb ed="#B" n="21"/>Nam pater et filius pro uno capite et pro una persona reputantur
+          <lb ed="#B" n="22"/>ut in <ref xml:id="cy8th8-d1e97-Rja1ccc" corresp="#cy8th8-d1e97-Qd1e368">l. fine ff. <!--edition says Codex without footnote or app entry--> de impuberum et substitutionibus</ref> ubi dicitur <quote xml:id="cy8th8-d1e97-Qd1e368" source="http://scta.info/resource/azsw2e-d1e3717-d1e234@18-27">cum ex natura pater 
+          <lb ed="#B" n="23"/>et filius haec eadem esse persona pene intelligantur sunt una 
+          <lb ed="#B" n="24"/>caro</quote> <ref xml:id="cy8th8-d1e97-Rd1e400">35, q. 3, § hac autoritate</ref>. Item filius pars est patris ut 
+          <lb ed="#B" n="25"/>dicit <ref xml:id="cy8th8-d1e97-Rd1e377">Philosophus 5 Ethicorum</ref> <quote xml:id="cy8th8-d1e97-Qd1e379">sanguis
             nempe eius est</quote>: <ref xml:id="cy8th8-d1e97-Rd1e411" target="http://scta.info/resource/bgy6gt-d1e673-d1e139">ff. de inofficioso testamento 
-          <lb ed="#B" n="25"/>l. non enim <!--edition has "est"--></ref> et <ref xml:id="cy8th8-d1e97-Rd1e417">vox patris est tanquam vox filii instit de inutilibus 
-          <lb ed="#B" n="26"/>stipulationibus, § ei qui</ref> et heres una persona cum defuncto censetur 
-          <lb ed="#B" n="27"/>in authent. de iure iurando a moriente prosa <!--edition has "prestito"--> in principio. Scilicet pro ea parte 
-          <lb ed="#B" n="28"/>qua est heres nota. <ref xml:id="cy8th8-d1e97-Rd1e429">ff. de pretoriis stipulationibus, l. 2, in glossa ultima</ref>. Imo natura 
-          <lb ed="#B" n="29"/>patris ambulat in persona filii: et memoria parentum in li<lb ed="#B" break="no" n="30"/>beris 
-          <lb ed="#B" n="31"/>et per liberos conservatur in eum <ref xml:id="cy8th8-d1e97-Rd1e437" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2303">ff. de uerborum significatione l. mulier, 
+          <lb ed="#B" n="26"/>l. non enim <!--edition has "est"--></ref> et <ref xml:id="cy8th8-d1e97-Rd1e417">vox patris est tanquam vox filii instit de inutilibus 
+          <lb ed="#B" n="27"/>stipulationibus, § ei qui</ref> et heres una persona cum defuncto censetur 
+          <lb ed="#B" n="28"/>in authent. de iure iurando a moriente prosa <!--edition has "prestito"--> in principio. Scilicet pro ea parte 
+          <lb ed="#B" n="29"/>qua est heres nota. <ref xml:id="cy8th8-d1e97-Rd1e429">ff. de pretoriis stipulationibus, l. 2, in glossa ultima</ref>. Imo natura 
+          <lb ed="#B" n="30"/>patris ambulat in persona filii: et memoria parentum in li<lb ed="#B" break="no" n="31"/>beris 
+          et per liberos conservatur in eum <ref xml:id="cy8th8-d1e97-Rd1e437" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2303">ff. de uerborum significatione l. mulier, 
           <lb ed="#B" n="32"/>§ cum proportionaretur<!-- target uncertain; not clear what cum proportionaretur refers too --></ref>. Et appellatione parentis non tantum 
-          pater sed et auus et proauus et deinceps omnes superiores in 
-          <lb ed="#B" n="33"/>infinitum continentur sed et mater et auia et pro auia. <ref xml:id="cy8th8-d1e97-Rd1e446" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2573">ff. 
-          <lb ed="#B" n="34"/>de uerborum significatione, l. appellatione</ref> et <ref xml:id="cy8th8-d1e97-Rd1e451" target="http://scta.info/resource/bgy6gt-d1e343-d1e144">ff. de in ius uocando l. 4. § pre<pb ed="#B" n="7-r"/><lb ed="#B" break="no" n="1"/>tor</ref> 
+          <lb ed="#B" n="33"/>pater sed et auus et proauus et deinceps omnes superiores in 
+          <lb ed="#B" n="34"/>infinitum continentur sed et mater et auia et pro auia. <ref xml:id="cy8th8-d1e97-Rd1e446" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2573">ff. 
+          <lb ed="#B" n="35"/>de uerborum significatione, l. appellatione</ref> et <ref xml:id="cy8th8-d1e97-Rd1e451" target="http://scta.info/resource/bgy6gt-d1e343-d1e144">ff. de in ius uocando l. 4. § pre<pb ed="#B" n="7-r"/><lb ed="#B" break="no" n="1"/>tor</ref> 
           et <ref xml:id="cy8th8-d1e97-Rd1e457" target="http://scta.info/resource/bgy6gt-d1e343-d1e150">§ parentes</ref>. <pc type="pilcrow">¶</pc>  Similiter liberorum appellatione nepotes 
           <lb ed="#B" n="2"/>et pronepotes et omnes qui ex eodem genere descendunt et orti sunt 
           <lb ed="#B" n="3"/>comprehenduntur et faciunt cognationem ut in <ref xml:id="cy8th8-d1e97-Rd1e468" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2573">l. liberorum ff. de 
@@ -259,7 +260,7 @@
           <lb ed="#B" n="31"/>lapillos uel gemmas que ibi nascuntur que in nullius bonis sunt et 
           <lb ed="#B" n="32"/>proinde inuentoris fiunt. Hee probantur <ref xml:id="cy8th8-d1e97-Rd1e670">instit. de rerum diuisione 
           <lb ed="#B" n="33"/>§ ultimus</ref> et <ref xml:id="cy8th8-d1e97-Rd1e675">ff.  de furtis l. <del rend="strikethrough">si finita §</del> falsus § si iactum</ref> et <ref xml:id="cy8th8-d1e97-Rd1e682">ff. 
-          <lb ed="#B" n="34"/>damno infecto, l. si finita § si quis metu.</ref>
+          <lb ed="#B" n="34"/>de damno infecto, l. si finita § si quis metu.</ref>
         </p>
         <p xml:id="cy8th8-d1e97-d1e619">
           <pc type="pilcrow">¶</pc>  Hoc modo dicen<lb ed="#B" break="no" n="35"/>dum 
