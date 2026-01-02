@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 13</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 13</title>
+          <date when="2026-01-02">January 02, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="35-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e229">
+        <head xml:id="cy8th8-d1e229-Hd1e97">Section 13</head>
+
+        <p xml:id="cy8th8-d1e229-d1e99">
+          § 13
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e104">
+          Part 5
+          Humble and gracious greeting and address etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e116">
+          Namely,
+          that by showing just and due honor and reverence to princes and lords,
+          or to magistrates of places or peoples,
+          they may attract and win over their minds,
+          and thus be considered peaceful and humane men.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e127">
+          For men are accustomed in the beginnings of their words,
+          especially to strangers,
+          to use greeting out of courtesy:
+          so that the invocation of good things which is made through greeting may be the beginning of their speech.
+          Moreover,
+          one who does not use a benevolent greeting is judged to be rude and uncouth.
+          Hence,
+          greeting is now almost necessary among men by custom in the beginnings of speeches:
+          and therefore Christ instructed the Apostles that they should precede others in greeting,
+          because it is a virtue to bestow honor before receiving it;
+          on account of which 
+          <ref xml:id="cy8th8-d1e229-Rd1e148">at Romans 12 the apostle said</ref>
+          <quote xml:id="cy8th8-d1e229-Qd1e153" source="http://scta.info/resource/rom12_10@5-7">Let each of you outdo one another in showing honor</quote>
+          that is,
+          let each one strive to honor the other before being honored by him.
+          Thus said 
+          <ref xml:id="cy8th8-d1e229-Rd1e160">Chrysostom in homily 31 on Matthew</ref>:
+          <quote xml:id="cy8th8-d1e229-Qd1e162">Do not think that because you are teachers it is therefore necessary for you to wait until a greeting is brought to you by them:
+          but rather you should precede them in honor and greet them first</quote>
+          these are his words
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e181">
+          And that honor and reverence is owed even by the faithful to the kings of unbelievers was shown at length above in the first consideration.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e189">
+          Part 6
+          Exemplary,
+          gentle and Christian conduct,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e201">
+          ¶ Since the norm of living well and right works is necessary,
+          so that we may gain the nations which do not know God:
+          and thus our kings,
+          to whom this pertains,
+          may enjoy the attainment of the intended end.
+          For the works of Christians,
+          even if few,
+          are more efficacious for the conversion of unbelievers,
+          than words however persuasive they may be and however numerous.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e222">
+          Indeed,
+          there would be no need for words if our life shone with the light of holiness,
+          whence Chrysostom,
+          on the first chapter of Genesis,
+          homily 8,
+          says thus:
+          for God does not wish that a Christian should be content with himself alone,
+          but that he should edify others not through teaching alone but also through life and conduct.
+          Nor does he lead us into the way of truth so much as into care for life.
+          For what we do is not considered as much as what we say.
+          And so that you may know that this is the case,
+          though we may philosophize infinitely with words and discourse on patience,
+          and when the time comes we do not demonstrate it with works,
+          words will not profit as much as works will harm.
+          But if after words we exhibit a specimen of works,
+          we shall be deemed worthy to admonish others of those things which we fulfill through works;
+          because Christ called those blessed,
+          saying,
+          <quote xml:id="cy8th8-d1e229-Qd1e260">Blessed is he who does and teaches</quote>
+          <ref xml:id="cy8th8-d1e229-Rd1e262">Matthew 5.</ref>
+          See that he placed work first:
+          and then teaching.
+          And so,
+          with work preceding,
+          even if teaching does not follow:
+          the works themselves suffice more clearly than light to teach those who look upon us.
+          Therefore let us consider this in all ways,
+          that we teach first by works and then by words:
+          so that we may not also hear from 
+          <ref xml:id="cy8th8-d1e229-Rd1e279">blessed Paul</ref>,
+          <quote xml:id="cy8th8-d1e229-Qd1e275">You who teach another,
+          do you not teach yourself?</quote>
+          And when we wish to admonish another to do something necessary in an honest manner:
+          let us first strive to do this same thing ourselves,
+          whereby we may have greater confidence in speaking:
+          and let all our care be in the salvation of souls.
+          And in whatever way we can,
+          let us restrain the lusts of the flesh,
+          etc.
+          these are Chrysostom's words
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e284">
+          ¶ Indeed,
+          the norm which the first messengers of our kings ought to maintain when entering those parts of the Indies,
+          so that the necessary order of entering them may be observed,
+          is set forth fully by the 
+          <ref xml:id="cy8th8-d1e229-Rd1e303">apostle at 2 Thessalonians chapter</ref>
+          among other things saying:
+          <quote xml:id="cy8th8-d1e229-Qd1e299">You are witnesses,
+          and God,
+          how holily and blamelessly and justly and without complaint we were among you who believed</quote>:
+          thus before as after your conversion,
+          as the 
+          <ref xml:id="cy8th8-d1e229-Rd1e318">interlinear gloss</ref>
+          says,
+          etc.
+          How holily (that is) toward God according to 
+          <ref xml:id="cy8th8-d1e229-Rd1e322">the same gloss</ref>
+          and according to 
+          <ref xml:id="cy8th8-d1e229-Rd1e324">Athanasius</ref>
+          (that is) observing all things necessary to be done in piety and worship toward God;
+          but according to Anselm,
+          <quote xml:id="cy8th8-d1e229-Qd1e314">how holily:
+          with regard to the purity of our most clean conduct we were to you;
+          how justly (namely) toward our neighbor,
+          doing what is due and not doing what is undue</quote>.
+          According to the interlinear gloss or according to Athanasius:
+          that is,
+          <quote xml:id="cy8th8-d1e229-Qd1e326">inflicting injury on no one by demanding money.
+          And without complaint,
+          without offense of any kind</quote>.
+          Or according to Anselm,
+          <quote xml:id="cy8th8-d1e229-Qd1e338">how justly,
+          with regard to maintaining equity toward neighbors,
+          doing what is due;
+          and how without complaint (that is) how innocently and irreproachably we were to you,
+          because we did nothing to you on account of which you could complain about us:
+          or we were without complaint to you because we never complained about you when we bore your weakness;
+          in such a manner we conducted ourselves toward you (that is) for your benefit,
+          as you yourselves know</quote>
+          etc.
+          And in the 
+          <ref xml:id="cy8th8-d1e229-Rd1e356">later epistle to the Thessalonians chapter 3</ref>
+          <ref xml:id="cy8th8-d1e229-Rd1e378">Anselm</ref>
+          says on that passage,
+          <quote xml:id="cy8th8-d1e229-Qd1e360">you yourselves know</quote>
+          etc.
+          <quote xml:id="cy8th8-d1e229-Qd1e363">It is not necessary that I explain to you that tradition,
+          because you know it.
+          You know,
+          namely,
+          how those who wish to walk rightly ought to walk through the way by which we walk,
+          that is,
+          follow our examples</quote>
+          these are his words.
+          But Polycarp,
+          the disciple of blessed John the Evangelist,
+          in his 
+          <ref xml:id="cy8th8-d1e229-Rd1e394">epistle to the Philippians</ref>:
+          <quote xml:id="cy8th8-d1e229-Qd1e374">Considering your conduct irreproachable among the nations,
+          so that from your good works you yourselves may receive praise and the Lord may not be blasphemed in you.
+          But woe to that man through whom the name of the Lord is blasphemed</quote>.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e384">
+          ¶ Therefore the preliminary form of drawing unbelievers to Christ is clear:
+          namely,
+          holy life and exemplary conduct shining with virtuous works and without offense,
+          whose piety and in every way from every part is irreproachable.
+          For he who intends to teach others ought to put forth exemplary works of his words,
+          so that he may teach more by work than by speech:
+          just as the apostles who taught first by examples of life,
+          then by words.
+          Indeed,
+          there was no need even for words when the works cried out.
+          And so much did their works testify to living a most holy life,
+          that no one would indeed criticize their life,
+          but they detracted from their preaching,
+          according to Chrysostom:
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e412">
+          Finally,
+          for the sake of preaching,
+          they bore calumnies as if they were seducers.
+          But hardly anyone ever presumed to vituperate their life.
+          Wherefore,
+          no one ever charged the apostles with the crime of fornication or shamelessness or avarice:
+          but they called them only seducers,
+          which only refers to doctrine.
+          For whoever is conspicuous by the brilliance of life and venerable to them,
+          it is necessary that truth itself also stop the mouths of enemies.
+          Indeed,
+          that it is not right to assail with curses and reproaches those who live irreproachably,
+          you may hear Christ say,
+          <quote xml:id="cy8th8-d1e229-Qd1e437" source="http://scta.info/resource/mt5_16@2-19">Let your light shine before men,
+          that they may see your good works and glorify your Father who is in heaven</quote>.
+          Therefore,
+          just as no one would call the sun dark,
+          not even if he were blind:
+          for he will be ashamed to oppose the opinions of men.
+          So also no one presumes to blame him who is very conspicuous by beauty and illustrious by honesty of character.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e451">
+          ¶ Therefore,
+          let us so live that the name of God may not be blasphemed by the nations:
+          nor indeed let us seek human glory,
+          nor again let us lack the worst opinion;
+          let us do what is good and right:
+          but let us honor God in both ways.
+          Shine among whom (he says 
+          <ref xml:id="cy8th8-d1e229-Rd1e485">at Philippians 2</ref>)
+          as lights in the world.
+          For this reason indeed he chose us,
+          that we should be as lights and become as leaven,
+          and be made teachers of the rest:
+          that we may live as angels among men on earth:
+          as men with infants and children:
+          as spiritual men with fleshly men:
+          that they may acquire great profits from our company;
+          that we may be seeds,
+          so that we may bring forth the widest fruit.
+          There would be no need for words if in this way our life shone with the light of holiness.
+          There would be no need for teachers if we displayed honest acts of virtue.
+          Indeed,
+          no one would be a pagan,
+          if we ourselves took care to be Christians as we ought;
+          if we obeyed the commands and decrees of God;
+          if,
+          having suffered injuries,
+          we did not repay in kind;
+          if,
+          provoked by curses,
+          we blessed;
+          if we repaid good things for evil.
+          No one would be such a wild beast that he would not immediately run to the worship of true religion,
+          if he saw these things being done by men.
+          And so that you may learn that it is so,
+          Paul was indeed one man,
+          and he drew so many to the teaching of God.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e498">
+          If we were all of this kind,
+          how many worlds of lands could we ourselves attract.
+          For disciples always look upon the life of their teachers;
+          but if indeed they see us also desiring the same things with them,
+          coveting the same things:
+          seeking honors and primacy:
+          how will they be able to admire the Christian religion?
+          Behold,
+          they see the reprehensible life of Christians,
+          earthly minds and cast down to the ground;
+          they admire money no differently than themselves.
+          Indeed,
+          even much more;
+          they similarly dread death;
+          they equally fear poverty;
+          they bear diseases with the same impatience;
+          they love glory and power no less than themselves;
+          they destroy themselves for the sake of avarice;
+          they serve themselves:
+          whence will they be able to believe?
+          Perhaps from signs?
+          But these are not now done.
+          Or truly for the sake of holiness of life?
+          But that has plainly perished.
+          Or for the sake of charity?
+          But nowhere is any trace of it seen.
+          Wherefore,
+          we shall give an account not only of our sins but also of another's disadvantage,
+          of which we ourselves are the cause.
+          Let us come to our senses at last,
+          let us be vigilant,
+          I pray:
+          let us display a heavenly manner of life on earth.
+          Let us say with the apostle:
+          <quote xml:id="cy8th8-d1e229-Qd1e544">Because our conversation is in heaven</quote>
+          <ref xml:id="cy8th8-d1e229-Rd1e546">at Philippians 3</ref>.
+          Let us undergo struggle and battle on earth.
+          But perhaps you will say there were great men among us.
+          But the pagan will respond and say:
+          How shall I believe that?
+          For I do not see you doing the same things which you proclaim those illustrious men did with words.
+          For if it is right to believe such narrations everywhere,
+          we ourselves could also bring forward great and admirable philosophers into the midst,
+          for the sake of life and character.
+          But show me Paul and another John.
+          For now you are each prepared to kill for the sake of a penny.
+          You stir up innumerable quarrels for the sake of an earthly clod,
+          etc.
+          All these things are from 
+          <ref xml:id="cy8th8-d1e229-Rd1e595">Chrysostom on chapter 3 of the first to Timothy,
+          homily 10.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e571">
+          And on the first to Corinthians,
+          homily 4,
+          the same Chrysostom reasons thus:
+          therefore in this way let us overthrow if we fight:
+          and far more than by words,
+          we shall strike their souls by the rectitude of life.
+          This is the greatest struggle;
+          this is the most certain syllogism which is accomplished through works.
+          For even if we frequently philosophize with words,
+          we would not therefore exhibit a better life;
+          no profit would accrue to us.
+          For men do not attend to words but scrutinize works and say:
+          You first obey your words,
+          then admonish others.
+          And if you say that there are innumerable good things in the future age,
+          and yet you seem to be attached to present things as if they were not,
+          your works will persuade me more than words.
+          For when I notice a plunderer of others' property grieving excessively for lost things,
+          liable to many other crimes,
+          for what reason shall I believe you about the resurrection?
+          And although they do not say this,
+          they nevertheless turn it over in thought and mind.
+          And this is what prevents unbelievers from becoming Christians.
+          Therefore,
+          let us call them back by the example of our life.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e616">
+          For many uneducated men in this way struck the minds of philosophers,
+          as if they were showing philosophy by the thing itself:
+          emitting a voice clearer than a trumpet by goodness of life and philosophy.
+          For this very thing is more powerful than the tongue.
+          When,
+          therefore,
+          I say that it is not permitted to be angry with anyone,
+          and then I afflict the pagan with innumerable evils:
+          in what way will I be able to attract him with words when I drive him away with works?
+          Wherefore,
+          let us attract them by integrity of life,
+          and let us build the church through their souls,
+          and let us acquire such riches.
+          For nothing can be compared to the soul:
+          not even the entire world,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e644">
+          ¶ And in homily 9 on superstition to the people of Antioch:
+          <quote xml:id="cy8th8-d1e229-Qd1e651">Meanwhile,
+          it is necessary to say this to your charity:
+          just as God glorified us through so great a creature,
+          so also we glorify him through pure conduct.
+          The heavens declare the glory of God:
+          not so much speaking as being silent and bringing all things into admiration by the brightness of life.
+          For let your light shine before men,
+          that they may see your good works and glorify your Father who is in heaven.
+          For when an unbeliever sees you,
+          a believer,
+          composed,
+          modest,
+          adorned,
+          he will marvel and say:
+          Truly great is the God of the Christians,
+          what kind of men he has established,
+          what he is like,
+          what kind of men he has made.
+          He has made angels out of men.
+          If anyone makes an insult,
+          they do not revile.
+          If anyone strikes,
+          they do not retaliate;
+          they pray for those who have harmed them.
+          They have no enemy.
+          They do not know how to harbor anger;
+          they have not learned to lie</quote>
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e688">
+          And on Matthew 5 in the imperfect work:
+          So let your light shine,
+          etc.
+          He who teaches (he says) and does what he teaches,
+          truly teaches.
+          But he who does not do what he teaches does not teach another but condemns himself.
+          And it is better to do and not teach than to teach and not do.
+          Because he who does,
+          even if he is silent,
+          corrects some people by example.
+          But he who teaches and does not do not only corrects no one but still scandalizes many.
+          For who would not be moved to sin if he sees the very teachers of piety sinning?
+          Therefore,
+          through those teachers who teach and do not do,
+          God is blasphemed.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e712">
+          For example,
+          if priests teach well and live better,
+          seeing this,
+          the pagans say:
+          <quote xml:id="cy8th8-d1e229-Qd1e716">Blessed be God who has such servants.
+          Truly their God is the true God</quote>.
+          For unless he were just,
+          he would never hold his people thus concerning justice.
+          For the discipline of the lord is demonstrated by the character of the family.
+          But if they teach well and conduct themselves badly,
+          seeing this,
+          they say:
+          <quote xml:id="cy8th8-d1e229-Qd1e731">What kind of God is theirs,
+          who do such things?
+          Would he tolerate them doing such things unless he consented to their works?</quote>
+          You see how God is blasphemed through evil Christians.
+          Nor can the lord have a good reputation who has a bad family.
+          Whence it was said to the people of God:
+          For the name of God is blasphemed among the nations through you,
+          <ref xml:id="cy8th8-d1e229-Rd1e779">Isaiah 52,</ref>
+          and 
+          <ref xml:id="cy8th8-d1e229-Rd1e781">Ezekiel 36,</ref>
+          and 
+          <ref xml:id="cy8th8-d1e229-Rd1e783">Romans 2</ref>.
+          These are from Chrysostom.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e752">
+          We could cite many other testimonies both from Chrysostom himself and from Jerome,
+          Cyprian and Augustine,
+          and the teachings of other holy doctors in confirmation of the present conclusion of the part,
+          namely that exemplary,
+          gentle and Christian conduct is necessary,
+          etc.,
+          so that the entry of the Spaniards,
+          especially the first entry,
+          into those parts and kingdoms of the Indies may be ordered and not lack justice.
+        </p>
+
+        <p xml:id="cy8th8-d1e229-d1e771">
+          ¶ We have added in this part that there ought to be made an offering of some small gifts on the part of our king,
+          so that their arrival may be more pleasing and acceptable to those kings and peoples,
+          because by these things which are alluring,
+          namely,
+          they will begin to be affected toward our kings,
+          and thus disposed to more easily give consent when it will be negotiated with them about receiving them as universal lords.
+          Moreover,
+          this offering of small gifts will be useful for more willingly hearing the preaching and receiving the faith:
+          just as it is read of blessed Sylvester that he called Jews and other unbelievers to come to the faith by gifts and presents.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
