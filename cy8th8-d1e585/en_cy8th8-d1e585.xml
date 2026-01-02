@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 40</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 40</title>
+          <date when="2025-12-18">December 18, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+          John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+      url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="111-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e585">
+        <head xml:id="cy8th8-d1e585-Hd1e97">Section 40</head>
+
+        <p xml:id="cy8th8-d1e585-d1e99">
+          § <sic>39<!-- but actual 40 --></sic>
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e108">
+          Indeed concerning the things predetermined above,
+          we still must consider that while our kings are and will be in the state of which 
+          the fifth conclusion with its proofs treats:
+          in two ways they can conduct themselves by right (whatever today is done in fact) 
+          concerning the condition of power and jurisdiction which (as we said) they have. 
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e126">
+          In one way with respect to the inhabitants of the aforesaid world 
+          who now are already initiated in the sacred mysteries,
+          and in another way with respect to those who have not yet become Christians. 
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e135">
+          And indeed with respect to the inhabitants who have already received the faith 
+          and are baptized,
+          who are now within the Church and subject to the Roman Pontiff as regards spiritual matters:
+          so that he has over them jurisdiction fully in habit:
+          and consequently it seems that Christ's vicar through that condition 
+          transferred it through the said institution insofar as of this kind into our kings,
+          as he constituted them his delegates,
+          because he could concede to them what he had of which they are capable,
+          and all things that were necessary for the expedition 
+          or explanation of the preaching of the Gospel 
+          and the conversion and maintenance in the faith received of the inhabitants:
+          as is proved through 
+          <ref xml:id="cy8th8-d1e585-Rd1e172">
+          c. preterea de officio delegati cum sua materia</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e174">
+          l. 2 ff. de iurisdictione omnium</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e179">
+          l. qui procuratorem dat ff. de procuratoribus</ref>.
+          Therefore our kings have that condition fully purified at present 
+          as regards the aforesaid explanation.
+          Hence care befalls our kings through the provision,
+          presentation and sending of prelates,
+          preachers and other ministers of the Church to preserve those in the faith received 
+          and to do other things which are of voluntary jurisdiction,
+          that is of the voluntary forum without any coercion. 
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e192">
+          And since they already have subjects there in habit by reason of the aforesaid:
+          they can subdelegate,
+          and our kings can have in habit over some of those who are newly made Christians,
+          namely that they of their own kind exhort others 
+          who have not yet put on Christ through faith and baptism to receive the Christian faith.
+          While others may persevere in the good begun 
+          and similar other things which are of voluntary jurisdiction.
+          For our Kings can subdelegate them as delegates of the prince,
+          that is of the supreme vicar of Christ,
+          because simply they have from law that they can delegate,
+          as in 
+          <ref xml:id="cy8th8-d1e585-Rd1e218">
+          c. Pastoralis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e220">
+          c. fi. de officio delegati</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e222">
+          c. cum causam que de appellationibus</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e227">
+          C. de indiciis l. a iudice</ref>, 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e229">
+          C. qui pro sua iurisdictione l. unica.</ref> 
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e235">
+          ¶ But if the kings or natural lords should permit by their own good pleasure 
+          some or any of the Spanish to remain in the territory of their jurisdiction and dominion:
+          our Catholic kings will be able to commit or delegate the same to them.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e249">
+          But concerning sins of those already converted to the faith which are to be punished,
+          whatever and however grave they may be,
+          or committed against their republics or against particular or private persons,
+          it does not pertain to our kings to care for,
+          nor can they commit or delegate from defect of coercive or contentious jurisdiction,
+          that is of the contentious forum:
+          since they do not have the exercise of royal power:
+          until those peoples and nations submit themselves to their rule 
+          by their own and free consent,
+          approving and accepting the aforesaid papal institution,
+          as has been abundantly proved in the above.
+          For those nations have their own and proper judges,
+          kings and magistrates,
+          with full jurisdiction and royal power:
+          with whom they stand or fall. 
+          <quote xml:id="cy8th8-d1e585-Qd1e275" source="http://scta.info/resource/rom14_4@1-12">
+          You (says the Apostle) who are you who judge another's servant.
+          To his own lord he stands or falls</quote> 
+          <ref xml:id="cy8th8-d1e585-Rd1e282">
+          to the Romans 14</ref>.
+          For they must judge concerning them,
+          unless they are prevented in fact by the Spanish.
+          But because the supreme vicar of Christ by the authority of his apostleship 
+          can correct and punish any mortal sin of any Christian,
+          as in 
+          <ref xml:id="cy8th8-d1e585-Rd1e295">
+          c. nouit de iudiciis</ref> 
+          cum sua materia.
+          Therefore I would think it could be said not absurdly that in the case 
+          where the kings and magistrates of the Indians should neglect 
+          the punishment of public crimes in their communities:
+          our kings could reduce that condition to act,
+          not by their own but by apostolic authority,
+          punishing those crimes with reasonable and pious exhortation first to their Kings 
+          that they punish them.
+          However because we suppose our kings to be by right through their ambassadors 
+          outside their own territory,
+          indeed to exist in another's namely of those peoples (as has been shown many times),
+          therefore they can delegate that temporal condition 
+          pertaining to the pope in such a case to some of the already converted 
+          or of the Spanish in the manner and reason said according to those things which in 
+          <ref xml:id="cy8th8-d1e585-Rd1e325">
+          § 30</ref> 
+          were determined,
+          but in this article it must be especially guarded against scandal 
+          which can easily arise from this license 
+          <ref xml:id="cy8th8-d1e585-Rd1e332">
+          1 to Corinthians 8</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e334">
+          to Romans 14</ref>,
+          but all things should be weighed according to what will be said immediately.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e339">
+          ¶ But voluntary jurisdiction is that which is rendered only among the willing,
+          because through it they cannot be coerced unless they wish,
+          as in 
+          <ref xml:id="cy8th8-d1e585-Rd1e349">
+          l. omnes, ff. de officio proconsulis</ref> 
+          and noted in 
+          <ref xml:id="cy8th8-d1e585-Rd1e351">
+          c. per venerabilem extra qui filii sint legitimi</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e357">
+          c. sicut extra ne clerici vel monachi</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e585-Rd1e362">
+          c. nouit. de officio legati</ref> 
+          and it extends to foreigners provided that they consent,
+          as 
+          <ref xml:id="cy8th8-d1e585-Rd1e368">
+          C. De emancipationibus liberorum l. 1</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e585-Rd1e373">
+          c. fi. de feriis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e376">
+          bartholus and baldus and others super d. l. omnes</ref>,
+          Whose acts are to adopt,
+          to emancipate,
+          to enter into contracts etc. in which cognition of the cause is not required,
+          as 
+          <ref xml:id="cy8th8-d1e585-Rd1e385">
+          C. de feriis l. actus</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e388">
+          ¶ But if it should happen that these sometimes decline from the faith received (which may it not be),
+          when ecclesiastical judges request the aid of the secular arm:
+          our Kings can and should lead that condition in a certain way to act,
+          indeed they are bound to bring help:
+          not indeed as judges having jurisdiction in act,
+          but as ministers of the Catholic Church in favor of the faith.
+          As in 
+          <ref xml:id="cy8th8-d1e585-Rd1e409">
+          c. excommunicamus el. 2o § <sic>moneam<!--moneantur,--></sic> de hereticis</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e585-Rd1e416">
+          c. presidentes eo titulo lib. 6</ref> 
+          with those noted there,
+          where it is evident that secular power,
+          even if it does not have jurisdiction except in fact:
+          is bound at the requisition of ecclesiastical judges against heretics 
+          to furnish its power. 
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e429">
+          ¶ Moreover with respect to those inhabitants of that world 
+          who have not yet professed the name of Christ,
+          from this kind of condition,
+          since our kings do not have it at present purified,
+          that is perfected:
+          nothing at all befalls the royal highness to act concerning their sins,
+          however grave,
+          whether of idolatry or unnatural acts which within the boundaries 
+          of their infidelity they commit or are found to have committed:
+          except to provide as diligently as possible that through the teaching 
+          and examples of good men who first do what they teach:
+          they may be illuminated so that with divine grace assisting they may be led to Christ:
+          if however they wish to hear the word of life voluntarily.
+          But if they are unwilling they cannot be compelled to hear:
+          but the dust should be shaken from the feet over them 
+          according to the form which Christ ordained and commanded in his Gospel in preaching.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e470">
+          ¶ For by this way which Christ followed and the form which he used 
+          and whoever were his true disciples,
+          the whole world which was in darkness and in the filth of all evils 
+          and indeed the worst:
+          saw a great light and left its crimes.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e484">
+          ¶ But if perhaps meanwhile it should come to the notice of our kings 
+          that some of these infidels kill the innocent either for sacrificing to their gods 
+          or that they kill them for eating as Anthropophagi (that is) feeding on human corpses 
+          (for if they eat those already dead or by plague or captured in war or otherwise:
+          nothing pertains to the royal highness concerning those who are outside),
+          certainly in this kind of case:
+          Our Kings should strive by all possible peaceful ways to show them 
+          what a grave evil they commit,
+          and to persuade them with gracious words and examples many times and again 
+          that they leave off such things at least gradually.
+          But if they should pertinaciously refuse to cease from such things,
+          moderate force can be brought against them.
+          Not indeed that they punish them for those crimes 
+          nor subject them to themselves as slaves:
+          since this is not properly war but a certain defense:
+          just as private persons can against those oppressing themselves and bringing them aid.
+          Since from the defect of power and jurisdiction which our kings do not have 
+          except in habit,
+          not yet fully with respect to those infidels who have not received the faith,
+          as has been proved often:
+          they cannot punish them:
+          because again nothing to us concerning the crimes of infidels 
+          committed within their infidelity and district: 
+          <ref xml:id="cy8th8-d1e585-Rd1e536">
+          1 To Corinthians 5</ref>.
+          But insofar as they bring aid to the oppressed 
+          and only liberate those who suffer injury.
+          As we have proved most extensively in book 2 concerning the one way of calling 
+          all peoples to the true religion and in the first part of the apology 
+          both in the Spanish idiom and in Latin we have written.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e550">
+          ¶ However concerning this case two things must be much observed by our kings:
+          One that namely under the pretext of such crimes 
+          or of freeing the innocent from unjust death:
+          the inexplicable cupidity of having of wicked men (who always seek occasions) 
+          may not falsely feign what is not true in the reality of the matter:
+          so that they seek opportunity for seizing the goods of the Indians 
+          and subjecting their persons to themselves.
+          Which tyrants and robbers strive with all effort;
+          and has been most frequent hitherto in those western lands.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e577">
+          ¶ The other is that before that force is brought,
+          it should be most exactly weighed:
+          whether more innocents who have committed no such thing will be killed in war 
+          if it is moved against them:
+          than those whom they strive to liberate from destruction.
+          Or even if the scandal which it is necessary to arise from such a fight preponderates,
+          so that the faith is rendered hateful to the peoples 
+          and an obstacle is made to preaching by the liberation of the few 
+          who may at length be liberated from the hand of the cruel.
+          Then indeed from such a way of liberating the innocents 
+          one should certainly cease by divine precept and dissemble with them:
+          since such an act would be vicious,
+          existing against the rule of reason which says that the lesser evil 
+          should be chosen both in one and the same person and in many and diverse:
+          both in evils of fault and of punishment,
+          as is evident through 
+          <ref xml:id="cy8th8-d1e585-Rd1e608">
+          the philosopher 2 Ethics c. 9</ref> 
+          from 
+          <ref xml:id="cy8th8-d1e585-Rd1e610">
+          3o ethics c. 5</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e615">
+          5o c. 6</ref> 
+          and elsewhere it is evident also through 
+          <ref xml:id="cy8th8-d1e585-Rd1e617">
+          c. duo mala</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e585-Rd1e622">
+          c. sequenti nota. 13 dist.</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e624">
+          14 dist. c. 1o</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e626">
+          22, q. 4, c. non solum</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e585-Rd1e631">
+          l. 1 § penultimo ff. de periculo et commodo rei uendite</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e634">
+          ¶ For it is a lesser evil truly without comparison to permit 
+          some to suffer innocently and to be unjustly killed by idolaters and Anthropophagi,
+          than that we for rescuing them from unjust death should accomplish 
+          through cruel wars (which are called and are a calamity of the human race) 
+          the greatest slaughters of men,
+          among whom indeed thousands of thousands of innocents it is necessary also to be slain.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e657">
+          ¶ For not all are those who feed on human flesh:
+          even where men are infected with this vice,
+          nor did all or always immolate human victims to idols:
+          but very few with respect to those who did not do such things or do them.
+          From which would undoubtedly follow another maximum evil,
+          namely that the name of Christ would be horrible and most hateful 
+          to hear for that whole world:
+          and also the Christian religion will be deemed cruel and unjust,
+          therefore it will be better and holier and thus more eligible 
+          to permit the few innocent to perish,
+          dissembling the crimes of the killers,
+          than that for liberating them we kill thousands of thousands of innocents. 
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e686">
+          ¶ This consequence is proved from the rule which the redeemer of the world 
+          himself established for us:
+          Matthew 13 in the parable concerning the weeds growing amid the wheat.
+          Hence Saint Thomas speaking of this kind in diverse places says:
+          that: the Lord commanded that one should abstain from rooting out the weeds 
+          lest the wheat be spared,
+          that is the good.
+          Which indeed is done when the evil cannot be killed 
+          unless at the same time the good are killed,
+          either because they are hidden among the good:
+          or because they have many followers:
+          so that without danger of the good they cannot be killed,
+          as Augustine says against Permenian.
+          Hence the Lord teaches that it is better to allow the evil to live 
+          and vengeance to be reserved until the final judgment:
+          than that the good be killed at the same time etc.
+          these things Saint Thomas upon the said parable and 
+          <ref xml:id="cy8th8-d1e585-Rd1e745">
+          2. 2o q. 1o article 8, ad 1m</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e747">
+          22. q. 64. article 2 ad primum</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e585-Rd1e749">
+          4 distinction 13 question 2 article 3o ad 3</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e754">
+          3 contra gen c. 146</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e757">
+          quodlibet 10 article 15 ad 1m</ref> 
+          and in many other places.
+          Very many laws reason similarly to the aforesaid 
+          <ref xml:id="cy8th8-d1e585-Rd1e762">
+          c. denique, 14, q. 5</ref>, 
+          where 
+          <ref xml:id="cy8th8-d1e585-Rd1e764">
+          Ambrose</ref> 
+          says: 
+          <quote xml:id="cy8th8-d1e585-Qd1e723">
+          if one cannot be helped unless the other is harmed,
+          it is better that neither be helped than that one be burdened etc</quote>. 
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e735">
+          And for this makes that which very many laws have.
+          For they prohibit exercising rigor or vengeance 
+          when the delinquents cannot be precisely distinguished from those who are not culpable,
+          lest the innocent unjustly suffer.
+          And as often as they are reasonably believed to be likely to perish more than are those 
+          to whom we strive to bring help.
+          Which in war is always not doubted to happen.
+          these are evident. 
+          <ref xml:id="cy8th8-d1e585-Rd1e796">
+          23, q. 4, c. non potest</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e798">
+          1. q. 7. c. Quotiens, el. 2o</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e803">
+          de temporibus ordinatio c. 2, and 23, q. 5, c. ipsa pietas</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e808">
+          9, q. 1 c. ordinationes</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e811">
+          50 dist. c. ut constituerentur</ref>
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e816">
+          44 dist. c. comensationes</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e818">
+          4 dist. c. denique</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e760">
+          ¶ Outside this kind of case nothing befalls our kings (as we said) 
+          except to occupy themselves concerning those things which in the 2nd conclusion are included:
+          and are preparatory for their principality or for having the principality in act,
+          as 
+          <ref xml:id="cy8th8-d1e585-Rd1e771">
+          above § 30</ref> 
+          it was proved.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e774">
+          ¶ And although it is said in the above that one having power or jurisdiction 
+          in habit can subdelegate it:
+          however with those infidels who never received the faith nor heard 
+          or committed any fault against the Church,
+          our kings cannot subdelegate by the things said above,
+          namely because neither the Church nor the supreme pontiff have power 
+          or jurisdiction in habit at present purified,
+          that is perfected,
+          as long as they do not come to the faith voluntarily:
+          and consequently they do not have there subjects to whom they can commit a cause 
+          or delegate.
+          According to those things which are read and noted in 
+          <ref xml:id="cy8th8-d1e585-Rd1e799">
+          c. pastoralis, § quoniam autem de rescriptis</ref> 
+          and many laws in the preceding alleged,
+          therefore neither can our kings do or delegate these things.
+          For what the first cause which has to influence into the second cannot,
+          much less can the second,
+          taking the argument from the greater power of the efficient cause.
+          And taking the argument from the effect of the efficient cause,
+          as baldus argues in a similar way in 
+          <ref xml:id="cy8th8-d1e585-Rd1e819">
+          l. cunctos populos C. de summa trinitate</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e825">
+          ¶ Furthermore concerning this kind of infidels only does the supreme vicar 
+          of Christ obtain power or jurisdiction which jurists call voluntary 
+          or similar to voluntary.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e837">
+          Which is evident first thus.
+          Because since principally the power of the Church and of its head 
+          and the chief act of power through which the building or construction 
+          of the Church began consists in the preaching of the faith 
+          and the gathering of the faithful from infidels. 
+          <ref xml:id="cy8th8-d1e585-Rd1e847">
+          To Ephesians 2</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e850">
+          to Romans 10</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e852">
+          c. cum ex iniuncto de hereticis</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e857">
+          de statu monachorum c. quod dei timorem</ref>.
+          And this ought to be sweet and persuasive to the intellect 
+          and alluring to the will:
+          showing charity and benevolence so that men may be moved voluntarily 
+          and incited to hear and receive the word of God and thus the Catholic faith itself,
+          because to believe is an act of the will which it is impossible to coerce:
+          it follows that this kind of ecclesiastical power of preaching the Gospel 
+          can be called voluntary jurisdiction or to be similar to voluntary jurisdiction.
+        </p>
+
+        <p xml:id="cy8th8-d1e585-d1e876">
+          <pc type="pilcrow">¶</pc> 
+          2nd it is evident and better because since to adopt someone as a son who is not a son 
+          but a stranger or foreigner is an act of voluntary jurisdiction,
+          as it were art imitates nature (For adoption or adoptio is of a foreign person 
+          as a son or grandson or thereafter a gratuitous and legitimate assumption:
+          or as we may say more fully for the purpose abrogation which is a species of adoption 
+          and perfectly imitates natural filiation through which the adoptee is reduced 
+          into the power of the adopter voluntarily however:
+          because unless the adoptee voluntarily receives,
+          the adoption is not valid,
+          as in 
+          <ref xml:id="cy8th8-d1e585-Rd1e908">l. necque ff. De adoptionibus</ref>.
+          And therefore the adoptee succeeds the adopting father intestate etc. 
+          in the end de adoptionibus § femine in the gloss. 
+          and 
+          <ref xml:id="cy8th8-d1e585-Rd1e919">
+            S. Thomas, in 4 sententiarum dist. 42 q. 2, articulo 1o</ref>.
+          And infidels of this kind are foreign persons and foreigners:
+          because they are totally outside the Church and its forum,
+          nor subjects as regards coercive or contentious jurisdiction which is exercised 
+          against the unwilling,
+          as something was touched upon above near the end of § 30 and in our apology 
+          and in our other treatises most extensively proved it is evident:
+          it follows that if they are to be adopted as sons of God,
+          this is to be done through faith of Jesus Christ by receiving the most holy 
+          sacrament of baptism according to that 
+          <ref xml:id="cy8th8-d1e585-Rd1e945">ad Romanos 8</ref>: 
+          <quote xml:id="cy8th8-d1e585-Qd1e950" source="http://scta.info/resource/rom8_15@10-18">
+            you have received the spirit of adoption of sons of God: in which we cry abba father</quote>:
+          and therefore voluntarily:
+          so that they themselves freely without any coercion or violence wish to be adopted 
+          as sons of God (that is) wish to be Christians according to that 
+          <ref xml:id="cy8th8-d1e585-Rd1e960">ioannis 1.</ref> 
+          <quote xml:id="cy8th8-d1e585-Qd1e963" source="http://scta.info/resource/io1_12@5-16">
+            he gave them the power to become sons of God: to those who believe in his name</quote> 
+          (that is) he left them in the power of free will so that if they wish they may become 
+          sons of God by believing in him etc.
+          For if they were unwilling and forced to believe the adoption would not be valid.
+          And this is what Ambrose says: 
+          <quote xml:id="cy8th8-d1e585-Qd1e979">Christ chose a voluntary soldier</quote>: 
+          <ref xml:id="cy8th8-d1e585-Rd1e981">15, q. 1, c. non est</ref>. 
+        </p>
+        
+        <p xml:id="cy8th8-d1e585-d1e984">
+          <pc type="pilcrow">¶</pc> 
+          Since therefore this power of the Church or of the supreme pontiff of drawing 
+          and inviting and persuading the infidels that they wish to be adopted 
+          and to be sons of God through faith and reception of the sacrament of faith 
+          namely baptism:
+          and thus to enter the Church or to be numbered among the faithful who are 
+          the inheritance of God has its foundation in the liberty and voluntary acceptance 
+          of the free will of the infidels themselves supposing the grace of God as 
+          <ref xml:id="cy8th8-d1e585-Rd1e1005">
+            s. Thomas docet: 3 par. q. 8, articulo 3o ad primum</ref> 
+          saying that 
+          <quote xml:id="cy8th8-d1e585-Qd1e1010">
+            those who are infidels even if in act they are not of the Church are nevertheless 
+            of the ecclesiastical power.
+            Which power indeed is founded in two things.
+            First indeed and principally in the virtue of Christ which is sufficient for 
+            the salvation of the whole human race.
+            Second in the liberty of free will</quote> 
+        </p>
+        
+        <p xml:id="cy8th8-d1e585-d1e1033">
+          It follows that this kind of power or jurisdiction of the Church which can regularly 
+          extend itself to infidels who never either received or heard the faith is a power 
+          or voluntary jurisdiction or similar to that which jurists call voluntary.
+          And this very thing could be delegated and committed by the pope to the kings 
+          and by the kings to other suitable ministers of the Church:
+          since it is nothing other than to move,
+          to command,
+          to order or to exhort that peacefully,
+          gently,
+          benevolently,
+          charitably and by example those peoples may be led and drawn to the faith.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
