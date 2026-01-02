@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 41</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 41</title>
+          <date when="2025-11-05">November 05, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="116-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e598">
+        <head xml:id="cy8th8-d1e598-Hd1e97">Section 41</head>
+
+        <p xml:id="cy8th8-d1e598-d1e99">
+          § 40
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e108">
+          Against the things determined above,
+          certain things can be opposed and objected,
+          especially concerning the taking of possession of that world without summoning or citing the inhabitants,
+          or observing the order of law.
+          Because it seems that it is not necessary to summon or cite them,
+          or to observe the order of law concerning these things,
+          nor to await their consent:
+          but the papal institution alone suffices,
+          by virtue of which our kings could take possession of that new world by their own authority,
+          and therefore exercise complete dominion and jurisdiction,
+          likewise all things that pertain to the judgment of royal or imperial power.
+          For these things seem able to be proved thus.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e150">
+          First,
+          because he who confers a title can give license to apprehend possession by one's own authority,
+          as in 
+          <ref xml:id="cy8th8-d1e598-Rd1e160">c. Pastoralis de privilegiis</ref>
+          .
+          The same is true of a seller,
+          as in 
+          <ref xml:id="cy8th8-d1e598-Rd1e165">l. predia ff. de acquirenda possessione</ref>
+          :
+          The same is true of a judge,
+          as in 
+          <ref xml:id="cy8th8-d1e598-Rd1e170">l. iuste ff. eo.</ref>
+           and it is noted in 
+          <ref xml:id="cy8th8-d1e598-Rd1e172">c. qualiter et quando, el. 2o de accusationibus</ref>
+           and it is noted in 
+          <ref xml:id="cy8th8-d1e598-Rd1e177">c. cum nostris de concessione prebend.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e169">
+          Second,
+          because when the pope gives something to someone from the fullness of his power,
+          those to whom he gives immediately become possessors.
+          So notes 
+          <ref xml:id="cy8th8-d1e598-Rd1e192">Innocent in c. bone, el. 2o de postulatione prelatorum.</ref>
+          The same seems true of the emperor if he grants jurisdiction or a privilege or a sentence,
+          so that it is valid even with subjects not cited.
+          Because he judges concerning the right of his own dominion,
+          not that of his subjects,
+          as 
+          <ref xml:id="cy8th8-d1e598-Rd1e204">l. fi. ff. de seruitutibus prediorum vrbanorum secundum baldum in margarita verbo <mentioned>papa</mentioned>
+          </ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e193">
+          Third,
+          because with cause the prince or pope can omit citation in a definitive sentence,
+          as is the notable gloss in 
+          <ref xml:id="cy8th8-d1e598-Rd1e202">l. antepenultima in fi. ff. ex quibus causis</ref>
+           and the express text in 
+          <ref xml:id="cy8th8-d1e598-Rd1e229">c. de causis de officio delegati</ref>
+           and 
+          <ref xml:id="cy8th8-d1e598-Rd1e231">Baldus notes in l. 2. circa principium C. quomodo et quando iudex</ref>
+          .
+          Likewise,
+          the pope,
+          when delivering a sentence against those holding the property of the church,
+          the sentence is valid even though they were not cited,
+          according to 
+          <ref xml:id="cy8th8-d1e598-Rd1e239">John of Andrea in c. cum olim de sententia et re iudicata</ref>
+           etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e216">
+          Fourth,
+          because the prince is above the law and can remove civil law: 
+          <ref xml:id="cy8th8-d1e598-Rd1e223">C. proposuit de concessione prebendarum</ref>
+           and 
+          <ref xml:id="cy8th8-d1e598-Rd1e254">Innocent in c. que in ecclesiarum de constitutionibus</ref>
+          .
+          And he can remove the solemnities of law,
+          as in 
+          <ref xml:id="cy8th8-d1e598-Rd1e235">Speculator title de legato § 4 at the words «sed nunquid legatus</ref>
+          .
+          Likewise,
+          he is not bound to the cognition of a cause: 
+          c. cum ad monasterium de statu monachorum and 
+          <ref xml:id="cy8th8-d1e598-Rd1e273">John of Imola in c. cum venissent de institutionibus</ref>
+           that it suffices to propose a fact before the pope,
+          nor is a petition required.
+          This is supported by 
+          <ref xml:id="cy8th8-d1e598-Rd1e279">the gloss in l. relegati ff. de poenis</ref>
+           that in the prince,
+          his will is a great cause.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e251">
+          He can also supply defects of law and every defect of omitted solemnity,
+          as the 
+          <ref xml:id="cy8th8-d1e598-Rd1e292">Cardinal notes in clement. 2 § ceterum de re indicata in 2o notabili</ref>
+          .
+          Therefore,
+          since the pope is the supreme prince in the entire universal church and has granted or given that entire world of the Indies to our kings of the Spanish kingdoms,
+          there being a great,
+          indeed the greatest,
+          cause,
+          namely the preaching of the faith and the conversion of souls.
+          For the highest reason is that which is done for religion 
+          l. sunt persone in 
+          <ref xml:id="cy8th8-d1e598-Rd1e310">fi. ff. de religiosis et sumptibus fine</ref>
+          .
+          It is clear that neither the summoning or citing of the peoples was necessary,
+          nor the observing of the order of law or solemnities of law,
+          nor cognition of the cause,
+          nor awaiting the consent of the inhabitants.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e286">
+          Because all these things seem to have been supplied by the supreme prince,
+          namely the pope,
+          when indeed he made the aforesaid institution and granted or gave it from the fullness of his power.
+          Therefore our king could take possession of that entire world by his own authority,
+          and therefore freely exercise in all things jurisdiction and the other rights of royal power.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e303">
+          But certainly these objections hardly stand against the things determined above and are easily resolved:
+          because they are not applicable but very impertinent to the present case.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e314">
+          For these things are to be understood within the church (that is),
+          concerning and insofar as they pertain to the Christian people and in spiritual matters,
+          where the pope has his power in full and purified possession at present:
+          otherwise it is outside the church as regards infidels who have never received the faith and their temporal goods:
+          who in every way are outside it:
+          over whom he has no other power or jurisdiction except voluntary or similar to voluntary,
+          namely to provide that the nations who exist outside the gates of the church may be peacefully and graciously invited,
+          summoned,
+          and induced to enter it,
+          and be drawn in without any offense,
+          according to the precept of 
+          <ref xml:id="cy8th8-d1e598-Rd1e344">Paul, 1 Corinthians 10</ref>
+          : 
+          <quote xml:id="cy8th8-d1e598-Qd1e349" source="http://scta.info/resource/Icor10_32@1-9 http://scta.info/resource/Icor10_33@1-19">Be without offense to the Jews and to the Gentiles and to the church of God:
+          as I also in all things please all men,
+          not seeking my own profit,
+          but that of many,
+          that they may be saved</quote>
+          .
+          For it is manifest that unless those nations voluntarily ratified the aforesaid institution by the pope concerning our kings,
+          and thus by free consent received our kings as universal princes and lords and handed over possession of that world,
+          observing first those things which must be done concerning them and which we set forth in the second conclusion § 11:
+          and they contain the natural order necessarily to be observed:
+          they would be greatly offended and their salvation would be impeded,
+          since certainly,
+          most certainly,
+          without doubt there would exist great scandals thence arising throughout that entire world and impediments to the faith:
+          against the intention of God and the purpose of the vicar of Christ,
+          as in § 7 of the third consideration and in the second also in the first conclusion § 11 was very extensively proved.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e394">
+          It was not (I say),
+          nor will it ever be,
+          the intention of the vicar of Christ that our kings should transgress,
+          confound,
+          and overturn all divine,
+          natural,
+          and human laws,
+          unless in all things that had to be done concerning those nations,
+          namely the application of his messengers to the lands and that world,
+          in their entrance,
+          in the signification of the final cause of their arrival,
+          and thus in the summoning or citing to hear,
+          most importantly in awaiting the consent of those kings and peoples,
+          and in the apprehension of possession of those kingdoms,
+          and the exercise of royal or imperial jurisdiction,
+          they observed most exactly the order of natural and divine and human law:
+          so that all things might be done properly and correctly,
+          justice not be violated,
+          those nations not be injured,
+          the faith not be impeded or blasphemed,
+          and thus finally the laws,
+          both human and divine,
+          might remain in their vigor.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e433">
+          Indeed,
+          if by the impossible the supreme pontiff intended otherwise (which it would be impious and sacrilegious not to say to believe but even only to suspect),
+          our kings themselves would be bound by divine precept not to accept or to not fulfill the pope's mandate.
+          This is proved by those things which were proved in 
+          <ref xml:id="cy8th8-d1e598-Rd1e452">the second consideration § 7</ref>
+           and quite openly 
+          <ref xml:id="cy8th8-d1e598-Rd1e454">11, q. 3, c. si dominus</ref>
+           and 
+          <ref xml:id="cy8th8-d1e598-Rd1e459">c. Iulianus</ref>
+           and 
+          <ref xml:id="cy8th8-d1e598-Rd1e461">c. imperatores</ref>
+           and 
+          <ref xml:id="cy8th8-d1e598-Rd1e464">c. qui resistit</ref>
+           and it is extensively noted by the canonists there and in 
+          <ref xml:id="cy8th8-d1e598-Rd1e468">c. si quando de rescriptis</ref>
+           and in 
+          <ref xml:id="cy8th8-d1e598-Rd1e472">c. Que in ecclesiarum de constitutionibus</ref>
+           where they say that when the prince commands something against divine or natural law or something unjust,
+          the mandatary ought not,
+          indeed is bound not to obey,
+          because he does this by the authority of law,
+          as in the aforesaid places and in authent. vt nulli iudicum collatio 9.
+          Whence whenever through the execution of a mandate great scandal is feared,
+          or it deviates at first sight from honesty,
+          or otherwise there is doubt about the mind of the prince,
+          the mandatary can and ought licitly not to execute it and to write to the prince why he ought not to obey and await a second order.
+          Nor ought the prince to be disturbed by this delay,
+          as is expressly clear in 
+          <ref xml:id="cy8th8-d1e598-Rd1e495">d. c. si quando</ref>
+           and in 
+          <ref xml:id="cy8th8-d1e598-Rd1e544">d. authent. vt nulli iudicum</ref>
+          .
+          And there exists for this the notable 
+          <ref xml:id="cy8th8-d1e598-Rd1e552">saying of Innocent in c. inquisitioni de sententia excomunicationis</ref>
+           where he says that if the mandate of the pope contained heresy or it was strongly presumed that the state of the church would be disturbed or other evils would come,
+          the subject ought not to obey,
+          because he ought to oppose the evil and not assist it.
+          Which saying Panormitanus says in 
+          <ref xml:id="cy8th8-d1e598-Rd1e512">d. c. si quando</ref>
+           must always be kept in mind.
+          From which it is inferred according to him that if the prince commands something from whose execution scandal is presumed to come to the city,
+          one ought not to obey.
+          The same must be said if the prince commands something against God:
+          he is not to be obeyed,
+          even if the prince believes he is acting justly and it is known to you alone that the command contains sin,
+          as is proved in 
+          <ref xml:id="cy8th8-d1e598-Rd1e528">c. litteras de restitutione spoliatorum</ref>
+          .
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e531">
+          Therefore,
+          since from the disordered application or access of the messengers of our kings to that world and to the individual parts of it,
+          from the harmful entrance and against the will of those peoples,
+          from the sudden and unexpected invasion,
+          from the apprehension,
+          indeed usurpation,
+          of possession by their own authority,
+          from the untimely exercise of jurisdiction and royal power with those not summoned but despised,
+          indeed unwilling,
+          indeed killed or captured and despoiled,
+          or oppressed,
+          with the natural kings and princes and all peoples stripped of natural liberty and subjected to the yoke of dire servitude,
+          finally with the order of natural and divine law abandoned,
+          which must necessarily be observed,
+          without which nothing is valid,
+          which contains twelve parts,
+          as was seen in 
+          <ref xml:id="cy8th8-d1e598-Rd1e574">the second conclusion</ref>
+          ,
+          which we have called <mentioned>preparatory</mentioned>
+          ,
+          so great scandals and disturbances of all the kingdoms,
+          provinces,
+          peoples and all inhabitants dwelling there must necessarily come,
+          so much ignominy of the Christian name,
+          so much infamy and disgrace to the Christian religion,
+          to the Catholic faith,
+          so many and most efficacious impediments,
+          so much,
+          alas,
+          most cruel slaughter of bodies and souls,
+          as we have abundantly seen with our own eyes:
+          it is manifest that even if the pope commanded or had commanded,
+          our kings would be bound under penalty of eternal death to proceed according to the order of law in all things,
+          since they are no less subject to natural and divine law and the dictate of right reason than the pope.
+          How much more,
+          therefore,
+          ought our kings to observe all those things and avoid the contrary,
+          since the supreme vicar of Christ in the aforesaid grant or institution is understood to have commanded these,
+          and if they are not expressly stated,
+          as in 
+          <ref xml:id="cy8th8-d1e598-Rd1e610">consideration § 7</ref>
+           and in 
+          <ref xml:id="cy8th8-d1e598-Rd1e613">conclusion 1 § 11</ref>
+          ,
+          and through these things the responses to the objections appear generally.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e618">
+          Nevertheless,
+          it will not trouble us to respond to each one individually.
+          To the first,
+          therefore,
+          we say that he who confers a title can give license to apprehend possession,
+          etc.
+          This is true in those things which are subject to the power of the giver and with the order of law observed,
+          as is noted in the laws which are alleged there.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e640">
+          To the second,
+          that when the pope gives or does something from the fullness of his power,
+          etc.
+          It is responded that 
+          <ref xml:id="cy8th8-d1e598-Rd1e655">when the Pope does something from the fullness of his power, he does not by this invert the possession from any possessor, because neither does he by this acquire any new possession, according to Innocent</ref>
+          .
+          This says Baldus in 
+          <ref xml:id="cy8th8-d1e598-Rd1e718">l. si quam, C. de seruitutibus et aqua pluuie arcenda, column 5.</ref>
+          And also because this fullness of power in the pope is in benefices and in spiritual jurisdiction only,
+          not in temporal matters,
+          according to 
+          <ref xml:id="cy8th8-d1e598-Rd1e739">Baldus in the same place</ref>
+          .
+          He cites 
+          <ref xml:id="cy8th8-d1e598-Rd1e741">Innocent</ref>
+          .
+          And since in our matter we are treating of temporal things and among or against non-subjects over whom he does not have jurisdiction even in complete and purified possession at present,
+          therefore fullness of power does not stand in the way.
+          But what is added in the objection about the emperor is false if the subjects can claim any interest.
+          Because neither the emperor nor the king can do anything or grant a privilege or establish a law or exercise jurisdiction or pronounce a sentence to the prejudice of subjects with those not summoned and even with them consenting,
+          as is clear through 
+          <ref xml:id="cy8th8-d1e598-Rd1e766">the second consideration</ref>
+           and 
+          <ref xml:id="cy8th8-d1e598-Rd1e770">in other things proved above in § 7</ref>
+          .
+          And there are almost innumerable laws by which this is proved.
+          For which see what the doctors say in 
+          <ref xml:id="cy8th8-d1e598-Rd1e777">c. Que in ecclesiarum de constitutionibus</ref>
+           and in 
+          <ref xml:id="cy8th8-d1e598-Rd1e779">c. dilecti</ref>
+           and 
+          <ref xml:id="cy8th8-d1e598-Rd1e783">c. humilis de maioritate et obedientia</ref>
+           and in 
+          <ref xml:id="cy8th8-d1e598-Rd1e785">c. quia plerique de immunitate ecclesiarum</ref>
+          .
+          After 
+          <ref xml:id="cy8th8-d1e598-Rd1e791">Innocent</ref>
+          .
+          And 
+          <ref xml:id="cy8th8-d1e598-Rd1e794">Bartolus in prima conclusion ff. § omnes.</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e716">
+          To the third,
+          that the pope can omit citation in a definitive sentence,
+          etc.
+          This is true in benefices and ecclesiastical matters,
+          with legitimate cause and among subjects within the church.
+          But outside it nothing pertains to him to use coercive jurisdiction or to judge through it,
+          as is clear through many things already proved.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e735">
+          To the fourth,
+          that the prince is above the law,
+          etc.
+          This is absolutely false,
+          but he is above positive law only.
+          And he can remove it with cause,
+          but not without legitimate cause except with sin,
+          as 
+          <ref xml:id="cy8th8-d1e598-Rd1e831">we proved in § 7</ref>
+          .
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e749">
+          He can also supply defects of law and solemnities which are not founded in natural law.
+          Nor is it valid if the prince or pope says in his disposition that he supplies every defect from the fullness of his power,
+          because defects of purely civil law are understood,
+          not however of natural law,
+          etc.,
+          as in 
+          <ref xml:id="cy8th8-d1e598-Rd1e765">clement. Pastoralis de re iudicata</ref>
+          .
+          And there 
+          <ref xml:id="cy8th8-d1e598-Rd1e769">by the cardinal § penultimate</ref>
+          .
+          And therefore the first consequence is denied,
+          and the reason is that although the supreme pontiff could have instituted our kings,
+          as far as in him lay,
+          as universal princes of that world for the cause of preaching the faith and converting those nations,
+          it is understood,
+          however,
+          without notable prejudice to the kings,
+          lords,
+          and their rights,
+          and of the peoples and inhabitants inhabiting that world,
+          and with the order of law observed and with the free consent obtained of these same persons holding the said institution as ratified,
+          and with the other conditions and due circumstances founded in natural law which are clear in the second conclusion.
+          Which no prince,
+          king or emperor or pope can supply so that acts (with these omitted) may be valid,
+          as has been proved.
+          From which things also it is not obscurely seen how much the second consequence is valid.
+        </p>
+
+        <p xml:id="cy8th8-d1e598-d1e812">
+          And thus we believe we have most fully satisfied the doubt or objection raised 
+          <ref xml:id="cy8th8-d1e598-Rd1e903">above in § 5</ref>
+          ,
+          namely:
+          that although it would not be lawful for all the kings of the world,
+          without the license of the king Inca or his successors,
+          to inquire or search for or take treasures from tombs with the intention of retaining them,
+          etc.,
+          as the responsive conclusion to the principal question posed in 
+          <ref xml:id="cy8th8-d1e598-Rd1e922">§ 4</ref>
+           states,
+          nevertheless our kings did not seem to be contained in that generality by reason of the papal institution.
+          But this does not stand,
+          as is now clear,
+          that we should affirm no less of our kings than of the other princes of the world that the aforesaid conclusion concerning such matters ought to be understood.
+          And therefore neither for themselves nor that other Spaniards may acquire riches for them can our kings grant the authority to inquire for and take such treasures,
+          as long as the aforesaid institution remains suspended and their jurisdiction is in potency.
+          Whence whoever takes the aforesaid treasures or any precious things from tombs,
+          gold or silver,
+          pearls and other things from mines,
+          with the license of our kings or their governors,
+          commits theft and is bound to restitution,
+          as the other conclusion which preceded the responsive conclusion states.
+          And through this it can easily be conjectured to what our kings are bound to that entire world.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
