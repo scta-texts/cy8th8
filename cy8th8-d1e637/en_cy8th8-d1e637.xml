@@ -1,2 +1,565 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 44</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 44</title>
+          <date when="2025-11-09">November 09, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, Brown University, ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="123-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e637">
+        <head xml:id="cy8th8-d1e637-Hd1e97">Section 44</head>
 
+        <p xml:id="cy8th8-d1e637-d1e99">
+          § <sic>43<!-- but actual 44 --></sic>
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e108">
+          Up to this point we have endeavored in a by no means avaricious course 
+          to make evident in what manner or by what right it would not be lawful 
+          for our kings of Spain without the license and gracious consent of the Inca king 
+          or his descendants to whom it would belong according to their laws 
+          to succeed in their goods or dignities: 
+          to inquire into or investigate and much less to carry away 
+          or command such things to be done regarding the treasures 
+          and riches of the tombs with the intention of retaining them, etc., 
+          as contained in 
+          <ref xml:id="cy8th8-d1e637-Rd1e135">
+            a certain responsive conclusion to the principal question in § IV
+          </ref>.
+          Where, expanding the matter so that the truth might be made more lucid and robust, 
+          we strive to exhaust thoroughly from the foundation of the principles of natural 
+          and divine law in what state the royal right existed in that world from the beginning 
+          of its discovery and how it now exists.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e157">
+          ¶ But then indeed let the discourse return from where it has wandered at greater length 
+          (namely) what will be the right concerning treasures found and to be found in tombs: 
+          of which there exists no memory whose they are or to whom they belong 
+          from the antiquity of time. 
+          For previously through the first four §§§§ 
+          matters are treated and understood concerning things found whose owners 
+          or their heirs are known or can easily be known. 
+          And therefore concerning those now it must be treated: 
+          whether they belong to the finder. 
+          Or to the one whose place or land in which they are found belonged 
+          or to the prince himself, the Inca, or his treasury.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e189">
+          ¶ For the clarification of this doubt it seems it must be said with this distinction: 
+          that either those who now in those parts inquire, investigate, find, 
+          and take away are Indians or natural inhabitants of that world 
+          or they are Spaniards now in fact inhabitants there with the natives. 
+          If indeed they are natural inhabitants and individual persons 
+          who inquire into or find treasures, then we say thus: 
+          that if such treasures are in some property or estate 
+          or field or house or part of the land belonging to someone, 
+          and by chance or industry he seeks whatever is precious, 
+          the whole belongs to the finder by natural right according to all doctors 
+          and likewise Saint Thomas in 2 2ae q. 66, article 5 ad 2 thinks 
+          and the gloss on the Institutes de rerum divisione § Thesauros 
+          because natural law itself gives him the faculty of seeking 
+          and justly enjoying what he has found. 
+          Whence from that point of time when he has found it he acquires ownership of them for himself. 
+          This d. Thesauros gives to understand, where it is thus said: 
+          <quote xml:id="cy8th8-d1e637-Qd1e234">
+            Treasures which anyone has found in his own place: 
+            the divine Adrian following natural equity granted to him who found them
+          </quote>
+          and in 
+          <ref xml:id="cy8th8-d1e637-Rd1e240">l. unica C. de Thesauris lib. 10</ref>
+          where it is said: 
+          <quote xml:id="cy8th8-d1e637-Qd1e241">
+            we grant free faculty to use what has been found: 
+            lest further the benefit of God be pursued by envious calumny
+          </quote>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e250">
+          ¶ But if he finds in the place of some private person, 
+          or in the place of Caesar or a public place of the treasury or city, 
+          either this happens by chance, as if perhaps plowing or otherwise cultivating 
+          another's land or by any other chance, 
+          because it seems by fortune or better by God's benefit 
+          that good was conceded to him, it was owed to the finder by natural right. 
+          But the civil laws (of which Saint Thomas makes mention in the above place) 
+          have established for the sake of preserving peace among citizens 
+          that half the part should belong to the owner of the soil 
+          and the other half should fall to the finder, as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e273">d. l. unica</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e275">l. non intelligitur § si in locis ff. de iure fisci</ref>.
+          Similarly half a part must be given to the treasury or city 
+          if it is found in a public place as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e282">d. § thesauros</ref>.
+          But if from intention and industry with deliberate effort, 
+          or even against the will and objection of the owner, 
+          all that he has found will belong to the owner of the soil as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e299">d. l. unica</ref>.
+          Because such a one is considered a thief. 
+          In Spain the aforementioned laws are observed to the letter, 
+          as appears in 
+          <ref xml:id="cy8th8-d1e637-Rd1e305">l. 44 titulo 28 3e partite</ref>.
+          But in the business of the natural inhabitants of that world it must be noted 
+          what laws or customs prevailed among them concerning those things 
+          which were found by chance or industry or deliberate effort, 
+          and according to them judgment will have to be made by reason of 
+          <ref xml:id="cy8th8-d1e637-Rd1e316">
+            l. venditor § si constat ff. communia prediorum
+          </ref>.
+          But our laws do not bind them. 
+          But if we cannot use their laws or customs for the decision of such doubts, 
+          it must be had recourse to what should be done according to natural equity. 
+          For if anyone finds treasures or any precious things deliberately and with effort 
+          in another's property or field, especially if against the will 
+          and prohibition of the owner, he is bound to restore the whole to him 
+          whose property or field it is, to whom he does an injury worthy of punishment, 
+          as is clear through 
+          <ref xml:id="cy8th8-d1e637-Rd1e339">l. 3 ff. de acquirendo rerum dominio</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e344">ff. de iniuriis l. iniuriarum § si quis me prohibeat</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e349">d. l. unica C. de thesauris lib. 10</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e351">l. quosdam C. de metallavus lib. 11o</ref>.
+          And the reason for these laws is the injury which is inflicted upon the owner 
+          of the property or little land or soil without his knowledge and license 
+          by entering into his property, especially if violently when the owner objects.
+          Thus says 
+          <ref xml:id="cy8th8-d1e637-Rd1e370">d. l. uenditor § si constat</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e364">
+          ¶ Nor can the Inca king grant license for inquiring into 
+          or investigating treasure in the property of some private person against his will, 
+          especially if some harm would result to him from it, by reason of 
+          <ref xml:id="cy8th8-d1e637-Rd1e384">d. l. vnica de thesauris</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e390">d. l. quosdam</ref>.
+          Unless there were a custom, or unless the Inca king when he granted 
+          <add place="margin-left">
+            <unclear>that land if indeed he granted it</unclear>
+          </add>
+          reserved to himself the treasures or any other precious things 
+          which might sometime be found in that property or land. 
+          And then something must be given to him whose land it is 
+          for the damage perhaps which he received in the property, 
+          and let the damage not be grave, as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e412">d. l. cuncti C. de metallariis</ref>.
+          But if it were grave, the Inca king could not grant it against the owner's will 
+          because it would be against natural law, 
+          since no one is to be advantaged with another's injury or loss, 
+          as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e421">regula iuris locupletari lib. 6</ref>.
+          And if such a custom prevailed in that place or kingdom it would be corruption 
+          and diabolical, as 
+          <ref xml:id="cy8th8-d1e637-Rd1e409">
+            Baldus says in l. sicut C. de servitutibus et aqua pluuie arcenda
+          </ref>.
+          And 
+          <ref xml:id="cy8th8-d1e637-Rd1e432">l. quosdam preallegata</ref>
+          supports this, where it is prohibited to dig in another's place 
+          for the sake of seeking stones or marbles where the owner of the place would have damage, 
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e418">ff. de damno infecto l. fluminum § fi</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e423">ff. d. l. venditor in fi</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e426">
+          ¶ Hence it is apparent that marble quarries, chalk pits, silver mines, 
+          or gold mines, or veins of another metal which are in the soil of any private person 
+          cannot be inquired into nor taken from there without his license, 
+          nor can the king take them from private persons or give license for taking 
+          without injustice, because by natural right they belong to him, 
+          unless a certain quota which at the beginning in election the people established for him. 
+          And thus are understood those things which are regalia.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e464">
+          ¶ Likewise the Inca king cannot give license for inquiring into these things to others 
+          or for being dug or taken against the will of the owners for the same reason 
+          by which reason the kings of Castile dispose that no one with harm to anyone 
+          and without the license of the owner of the soil should inquire into 
+          or dig up metals, as will be shown below. 
+          Whence just as by common law I can find treasure by my labor in my own property 
+          and take it as mine, as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e510">d. l. unica and instit. de rerum diuisione § Thesauros</ref>,
+          by the same reason if in my property there are quarries, gold mines, 
+          silver mines or metal, I can dig those things, because it is the same reason. 
+          And therefore it is the same right because a reason for diversity cannot be given: 
+          <ref xml:id="cy8th8-d1e637-Rd1e505">ff. de fonte l. 1</ref>
+          <ref xml:id="cy8th8-d1e637-Rd1e508">
+            ff. de verborum obligationibus l. a titio according to 
+            <name xml:id="cy8th8-d1e637-Nd1e510">Andreas de Isernia</name>
+            in titulo Que sint regalia super verbo argentarie
+          </ref>.
+          Where he proves that that text "argentarie" is not understood absolutely 
+          that mines or metals wherever they are found belong to the king, 
+          but only those which are in the property of the king: 
+          but not concerning mines and metals which are in the places of private persons. 
+          For these can be by common law founded in natural reason in the places of private persons, 
+          as is the express text in 
+          <ref xml:id="cy8th8-d1e637-Rd1e534">l. 3, in fi. ff. de rebus eorum</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e536">ff. soluto matrinonio l. diuortio, § si vir</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e541">ff. de censibus l. forma</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e544">ff. de vsufructu per legatum, l. generaliter § uxori</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e549">ff. de usufructu l. item si fundi</ref>.
+          And in these mines and metals which are in the places of private persons, 
+          the aforementioned 
+          <name xml:id="cy8th8-d1e637-Nd1e556">Andreas de Isernia</name>
+          says that custom is observed where they are, by the text in 
+          <ref xml:id="cy8th8-d1e637-Rd1e560">d. l. venditor § si constat</ref>.
+          But when custom is lacking concerning metals found in the soil of a private person, 
+          the royal treasury has the tenth part according to 
+          <ref xml:id="cy8th8-d1e637-Rd1e597">d. l. vnicam</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e604">d. l. cuncti preallegatam</ref>.
+          And concerning this revenue of metals speaks 
+          <ref xml:id="cy8th8-d1e637-Rd1e609">
+            the text in l. inter publica in fi. ff. de verborum significatione
+          </ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e613">the gloss there</ref>
+          declares: 
+          <quote xml:id="cy8th8-d1e637-Qd1e577">
+            Where the text says: we must understand public revenues 
+            from which the treasury receives: such is the revenue of the port 
+            or of things for sale. Likewise of salt works and of metals
+          </quote>,
+          the gloss says: 
+          <quote xml:id="cy8th8-d1e637-Qd1e587">
+            <mentioned>Of metals</mentioned>
+            concerning which a tenth is given to the treasury from metals, as in 
+            <ref xml:id="cy8th8-d1e637-Rd1e629">l. cuncti</ref>
+          </quote>,
+          etc. This is the gloss. 
+          From which it appears that those things which are said to be regalia 
+          by that title in the uses of feuds are not totally and simply of the kings. 
+          Since some are public and common, not fiscal or patrimonial, 
+          which are in the ownership of the prince, 
+          but are public in the use of all of the kingdom or principality, 
+          according to what is said in 
+          <ref xml:id="cy8th8-d1e637-Rd1e607">ff. de acquirendo rerum dominio l. quod in littore</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e6Z9">instit. de rerum diuisione § 1</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e614">§ littora</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e617">ff. eo titulo. l. 2 in fine</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e619">l. sequen</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e622">
+          ¶ Therefore regalia are shores and public roads and navigable rivers 
+          as to defense and protection, so that the king may prohibit anything to be done there 
+          if the use of the shore and public road would be impeded, 
+          <ref xml:id="cy8th8-d1e637-Rd1e641">d. l. littora</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e643">l. sequen</ref>.
+          For they are not in the patrimony of the king, because these public things differ 
+          from those which are in the ownership of the treasury or Caesar: 
+          <ref xml:id="cy8th8-d1e637-Rd1e647">d. l. 2. § 1</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e650">
+          ¶ Whence in these roads and shores the prince ought not to grant 
+          things which are contrary to common and public law, 
+          because by sacred oracles or pragmatic sanctions 
+          granted against the utility of the world, rights are to be annulled, etc., 
+          as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e666">
+            C. de aqueducto l. diligenter circa finem lib. 11o
+          </ref>.
+          Nor is there commerce of them, 
+          <ref xml:id="cy8th8-d1e637-Rd1e671">ff. de contrahenda Emptione l. sed et celsus</ref>.
+          Nor will the prince donate these things, nor can he donate them, 
+          because they are not his, just as fiscal and patrimonial things, as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e726">ff. ne quid in loco publico l. 2 § hoc interdictum</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e731">§ sequen</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e682">
+          ¶ But certain regalia are those in which the king has only a quota 
+          or the fifth or the tenth part, or that which the peoples at the beginning 
+          established for kings for the maintenance of their honorable status, 
+          such as ports, that is, revenues or tribute which come from those things 
+          which are carried in the port or from the port. 
+          These are regalia because they are public in the strict mode, 
+          that is, in the patrimony of the king. 
+          River rights in the same way, proceeds and revenues coming from these. 
+          For banks and their use is public, just as the sea and navigable rivers, 
+          which are also called regalia as to the protection of the prince 
+          and are inalienable, 
+          <ref xml:id="cy8th8-d1e637-Rd1e713">l. riparum ff. de rerum diuisione</ref>.
+          And then they are called regalia as to the protection of the prince 
+          because they are not alienated, 
+          <ref xml:id="cy8th8-d1e637-Rd1e720">d. l. sed celsus</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e723">
+          ¶ The same is said concerning metals or veins of metals and salt works, 
+          which are regalia, namely as to the quota part which should reasonably be imposed, 
+          if at the beginning of the election of the king by the people it was not imposed. 
+          Thus it is in Spain, and the same common laws or their reasons are observed. 
+          For it is said in 
+          <ref xml:id="cy8th8-d1e637-Rd1e795">l. 6 titulo 28 partine 3e</ref>
+          that the revenues of ports, salt works and fisheries and iron works 
+          and other metals and taxes are of the prince, and also of tolls, 
+          which were granted for the honorable sustenance of kings 
+          and the defense of the kingdom against the aggression of infidels 
+          and for the cutting off of importunate exactions. 
+          And these are commonly said properly to belong to the royal crown. 
+          For thus that law says in the Spanish vernacular: 
+          <quote xml:id="cy8th8-d1e637-Qd1e757">
+            The revenues of the ports and of the tolls which merchants give 
+            for reason of the things which they take from the sea or from the land, 
+            and the revenues of the fisheries and of the iron works and of the other metals, 
+            and the taxes and tributes which men give, belong to the emperors and to the kings. 
+            And all these things were granted to them so that they might have 
+            with which to maintain themselves honorably in their expenses, 
+            with which they could protect their lands and their kingdoms 
+            and wage war against the enemies of the faith, 
+            and because they could excuse their peoples from imposing many taxes 
+            and from doing other burdens to them
+          </quote>.
+          This is that law in form.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e780">
+          ¶ And in 
+          <ref xml:id="cy8th8-d1e637-Rd1e843">the laws of ordinances lib. 6 titulo 1o l. 8</ref>
+          it is declared that minerals, namely veins of gold mines and of other metals, 
+          and salt works as well as springs or salty wells from which salt is made, 
+          are regalia, nor is it lawful for anyone without license or privilege 
+          to dig or usurp anything of them for himself. 
+          And in 
+          <ref xml:id="cy8th8-d1e637-Rd1e854">titulo 12 of the same book l. 8</ref>
+          <quote xml:id="cy8th8-d1e637-Qd1e798">
+            license is granted to all indifferently for seeking, digging, 
+            and taking gold, quicksilver and marble stones in their own fields or properties. 
+            Likewise in others' properties, but without prejudice to the owners 
+            and with their consent. But from all that anyone will have obtained from there, 
+            after all expenses which he made for himself have been deducted, 
+            let him retain the third part, and let him pay two parts to the treasury or king
+          </quote>.
+          This is there.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e818">
+          ¶ From which it can be gathered that the patrimony of the king is twofold: 
+          the entire kingdom itself, just as the subjects or natural inhabitants of the kingdom, 
+          the cities and all things which are in it and annexed to the kingdom and treasury. 
+          For the kingdom or republic, the treasury, and the prince are supposed 
+          as if for the same thing, as notes 
+          <ref xml:id="cy8th8-d1e637-Rd1e835">C. de seruis fugitinis l. penultima</ref>.
+          And Baldus on the feuds of marquisates, duchies and counties, 
+          where he says that 
+          <quote xml:id="cy8th8-d1e637-Qd1e839">
+            the kingdom or republic is like the liveliness of the senses, 
+            the treasury is the stomach of the republic, the sack and firmness, 
+            the prince the head. Whence the prince or emperor would be as a tyrant 
+            if he did not conduct himself as the republic, 
+            and many other kings who would deal for their own private utility, 
+            because he is a robber who does not attend to the utility of the master 
+            but to his own, 
+            <ref xml:id="cy8th8-d1e637-Rd1e923">ff. de negotiis gestis l. si pupilli § 2</ref>.
+            And this Innocent notes 
+            <ref xml:id="cy8th8-d1e637-Rd1e865">extra. de religiosis domibus c. cum venerabilis</ref>.
+            And 
+            <name xml:id="cy8th8-d1e637-Nd1e871">Joannes Andreas</name>
+            also does what is noted in 
+            <ref xml:id="cy8th8-d1e637-Rd1e939">
+              C. de sacrosantis ecclesiis. l. neminem per glossam
+            </ref>
+            and Cinus
+          </quote>.
+          This Baldus says.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e877">
+          ¶ This patrimony the prince cannot alienate, 
+          nor do any harm to it without the will of the kingdom. 
+          The reason is that he is not the owner but the administrator, 
+          nor did he receive it for alienating and making it worse, 
+          but for governing, improving and preserving it in its liberty. 
+          Nor is it properly his but of the inhabitants of the kingdom, 
+          according to what Baldus says in the above place: 
+          <quote xml:id="cy8th8-d1e637-Qd1e898">
+            Whose is the city of Bologna? Of the Church. Rather of the Bolognese, 
+            because the Church has nothing of authority there except as the republic, 
+            whose image and name of the republic it bears. 
+            Likewise it is asked: whose is the city of Siena? 
+            It is answered: of Caesar. Rather more of the Sienese
+          </quote>.
+          This from Baldus.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e910">
+          ¶ Nor also can the king alienate those things which are annexed to the treasury, 
+          namely the royal revenues concerning which above, 
+          because by this the royal status is weakened and would be rendered more impotent 
+          both for governing and for defending the kingdom against enemies 
+          who would more easily rise up knowing the king's poverty. 
+          Whence he would have necessity to burden and oppress the people anew 
+          with importunate exactions beyond what they can bear, 
+          against the reason and end of the aforementioned law.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e932">
+          ¶ The king or prince has another patrimony which the common laws call 
+          the private goods of the king, such as the patrimonial goods proper to the prince himself 
+          which he possesses as a private person or can have 
+          and which can newly come to him from diverse causes, 
+          such as those things which on account of the crime of treason, proscription, vacancy, 
+          or on account of another cause, goods will have been devolved to his private treasury, 
+          as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e955">ff. de iure fisci l. 1</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e957">2 C. <sic>poenis bonorum subl.</sic> l. 1 lib. 10</ref>
+          and 
+          <ref xml:id="cy8th8-d1e637-Rd1e1035">C. de bonis uacantibus. l. 3</ref>
+          and through
+          <ref xml:id="cy8th8-d1e637-Rd1e1037">the whole lib 10</ref>,
+          as if from moneys which came from the revenues of the kingdom 
+          he should buy some possessions or castles or places from private persons, 
+          or also those which by his industry he acquired by just war against infidels, 
+          as in 
+          <ref xml:id="cy8th8-d1e637-Rd1e1045">
+            c. abbate sanc. § pro parte in fine de re iudicata. lib. 6
+          </ref>,
+          speaking of the king of Aragon acquiring by just war against infidels 
+          certain places which were counted among his own and private treasury or patrimony, 
+          where it is said that since 
+          <quote xml:id="cy8th8-d1e637-Qd1e980">
+            the king himself by his worth and effort conquered the above-mentioned places 
+            from infidels
+          </quote>
+          and below 
+          <quote xml:id="cy8th8-d1e637-Qd1e985">
+            since they became his own property and seemed to be separated from other hereditary goods
+          </quote>,
+          etc. This is there. 
+          And in 
+          <ref xml:id="cy8th8-d1e637-Rd1e1067">l. 2 de aqueductu in fine lib. 11o</ref>
+          it is said: 
+          <quote xml:id="cy8th8-d1e637-Qd1e989">
+            Let him know that the same property, marked by the prescription of fiscal title, 
+            is to be aggregated to our private goods
+          </quote>.
+          This is there. 
+          Therefore concerning this patrimony of the king, the king can make donations and grants, 
+          always however moderately, lest the patrimony being exhausted from frequent donations, 
+          he be forced to extend his hand to the goods of subjects 
+          (with justice trampled as sometimes happens) 
+          and easily from king be turned into a tyrant according to Tully in book 2 de officiis. 
+          But concerning this we will speak more diffusely elsewhere, God helping. 
+          Mention is made of each patrimony of princes in 
+          <ref xml:id="cy8th8-d1e637-Rd1e1091">
+            Authent. vt omnes obediant iudicibus prouinciarum § si vero col.
+          </ref>,
+          there: 
+          <quote xml:id="cy8th8-d1e637-Qd1e1013">
+            either to the sacred patrimony, that is, to imperial things or the empire, 
+            or to sacred private things, that is, to the private goods of the prince
+          </quote>,
+          and in 
+          <ref xml:id="cy8th8-d1e637-Rd1e1101">
+            l. bene a Zenone C. de quadriennii prescriptione § sancimus
+          </ref>,
+          there: 
+          <quote xml:id="cy8th8-d1e637-Qd1e1020">
+            Concerning those things which proceed from the most sacred emperors, 
+            not from fiscal goods, but from their private substance
+          </quote>,
+          etc.
+        </p>
+
+        <p xml:id="cy8th8-d1e637-d1e1024">
+          ¶ Behold therefore what are the regalia of princes, 
+          and it seems it must be said thus concerning other kingdoms, 
+          that these are regalia and patrimonial or fiscal in any kingdom, 
+          unless the contrary appears from the institution of the people or the reigning one, 
+          or from the approved custom of that kingdom. 
+          And we ought to follow this provided it is reasonable. 
+          On account of this Baldus used to say in 
+          <ref xml:id="cy8th8-d1e637-Rd1e1048">l. 3 C. ad rebellianam</ref>
+          and in 
+          <ref xml:id="cy8th8-d1e637-Rd1e1050">rubrica ff. de rerum diuisione</ref>
+          that 
+          <quote xml:id="cy8th8-d1e637-Qd1e1053">
+            the whole world observes that kings have regalia, that is, 
+            revenues of certain things which cannot be alienated, 
+            and other things which they can moderately donate
+          </quote>,
+          as appears from what has been discussed above. 
+          Therefore as it touches those Indian nations, 
+          always as we have said, custom or laws are to be awaited, 
+          and thus judgment is to be made concerning the present matter.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
