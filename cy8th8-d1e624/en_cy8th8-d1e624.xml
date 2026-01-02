@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 43</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 43</title>
+          <date when="2025-11-06">November 06, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="123-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e624">
+        <head xml:id="cy8th8-d1e624-Hd1e97">Section 43</head>
+
+        <p xml:id="cy8th8-d1e624-d1e99">
+          § 43
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e108">
+          It must be considered again concerning the aforementioned:
+          that since the supreme Vicar of Christ is in place of Christ as head of the universal church,
+          because he holds the office on earth not of a mere man,
+          but of the true God c. quanto de translatione prelatorum,
+          and consequently it is incumbent upon him to expand the church and preserve it once expanded,
+          as appears from the words of blessed Bernard:
+          similarly through 
+          <ref xml:id="cy8th8-d1e624-Rd1e127">Chrysostom on Matthew 16, homily 55</ref>:
+          <quote xml:id="cy8th8-d1e624-Qd1e126">The Son granted to Peter throughout all lands the power which belongs to the Father and to the Son himself,
+          and gave to a mortal man authority over all things that are in heaven by giving him the keys,
+          so that he might amplify the church throughout all lands,
+          and all Christian princes are bound,
+          all communities,
+          both secular and ecclesiastical republics,
+          to obey his commands as if they were the express commands of the Lord Jesus Christ</quote>:
+          just as blessed Cyril teaches most extensively and beautifully in the book of Treasures 
+          <quote xml:id="cy8th8-d1e624-Qd1e149">The Son of God gave (he says) to Peter fully and perfectly the keys of the kingdom of heaven.
+          For just as he himself received from the Father the leadership and scepter of the church of the Gentiles,
+          coming forth from Israel over every principality and power and over everything whatsoever:
+          so that at his name every knee should bow with fullest power:
+          so also to Peter and his successors,
+          that is his successors,
+          not less but most fully</quote> 
+          and below:
+          <quote xml:id="cy8th8-d1e624-Qd1e166">to whom all by divine right bow their heads and the princes of the world obey as to Christ the Lord Jesus</quote>
+          etc. thus Cyril.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e173">
+          Therefore the Roman Pontiff could and was able to impose upon any Christian prince,
+          kingdom or community,
+          ecclesiastical or secular:
+          or even upon the entire Christian people:
+          that having first fulfilled their own necessities,
+          from the remainder they should provide the expenses necessary for the preaching of the Gospel throughout that world and for the conversion and salvation of those peoples' souls:
+          and they would be bound to obey,
+          humbly accepting the imposed burden.
+          Hence St. Thomas on the words of the apostle cited above 
+          <quote xml:id="cy8th8-d1e624-Qd1e197" source="http://scta.info/resource/IIcor11_8@1-3">I robbed other churches</quote>
+          <ref xml:id="cy8th8-d1e624-Rd1e201">II Corinthians 11</ref>
+          and 
+          <ref xml:id="cy8th8-d1e624-Rd1e209">Philippians 4</ref>
+          near the end says that 
+          <quote xml:id="cy8th8-d1e624-Qd1e211">the pope for the necessity of one church or country can receive support from other parts of the world.
+          The reason is that the church is like one body.
+          We see indeed in the natural body that nature,
+          when strength fails in one member,
+          supplies humors and strength received from other members</quote>.
+          thus St. Thomas.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e225">
+          Using this power,
+          <name xml:id="cy8th8-d1e624-Nd1e229">Pope Alexander VI</name>
+          imposed this burden in this manner on the kings of Spain,
+          understanding that at their own expense they should devote effort to the aforementioned preaching and conversion.
+          Whence our kings themselves were bound and are bound today at their own expense,
+          if conveniently without disturbance of the inhabitants they could not or cannot obtain the necessary expenses from those lands:
+          having first fulfilled (as I said) the necessities of their own kingdoms,
+          to make those expenses.
+          This is clear through those words contained in the apostolic letters of the aforementioned institution and burden:
+          <quote xml:id="cy8th8-d1e624-Qd1e251">We exhort you (it says) most strongly in the Lord through the reception of the sacred washing by which you are obligated to apostolic commands,
+          and by the tender mercies of our Lord Jesus Christ we earnestly require:
+          that since you intend with ready mind to pursue and undertake this expedition altogether with zeal for the orthodox faith,
+          you should wish and ought to induce the peoples living in such islands and lands to receive the Christian religion</quote>.
+          and below adding a formal precept:
+          thus it says:
+          <quote xml:id="cy8th8-d1e624-Qd1e273">And moreover we command you by virtue of holy obedience (as you also promise and we do not doubt that you will do this because of your very great devotion and royal magnanimity) that you should send to the aforesaid firm lands and islands upright men fearing God,
+          learned,
+          skilled,
+          and experienced to instruct the aforesaid inhabitants and dwellers in the Catholic faith and imbue them with good morals,
+          and you must apply all due diligence in the aforesaid matters</quote>
+          these things there in form.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e302">
+          Where it appears expressly that the pope wished to bind our kings by formal precept importing necessity:
+          and through this to the aforementioned (namely) to devoting effort so that faith be preached throughout that world and the conversion and salvation of those peoples' souls be procured:
+          and consequently to expending the necessary expenses.
+          The consequence is clear:
+          because the end imposes necessity on those things which are toward the end (that is) the suitable means without which we cannot attain the end itself:
+          From Physics Book 2.
+          Whence to whom something is imposed or commanded as an end:
+          also those things are commanded without which the end cannot be acquired.
+          For since a precept imports the notion of what is due,
+          and something is due in two ways,
+          first per se and second on account of something else:
+          per se in any business is that which is the end,
+          because it has the notion of good per se:
+          but due on account of something else is that which is ordered to the end,
+          just as to a doctor it is due per se that he heal:
+          but on account of something else that he give medicine for healing.
+          So therefore because it is commanded to our kings and due per se as an end that they diligently cause the gospel to be preached through suitable ministers:
+          it is also commanded and due that for the sake of achieving the end,
+          they provide expenses and all necessary things:
+          so that the church of Christ may attain the end which it intends (namely) the preaching of the gospel with effect and the conversion of those peoples.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e351">
+          Indeed for these things,
+          of their own accord our kings obligated themselves through their promise made to the Vicar of Christ and to the entire church of God.
+          And concerning this there was a certain pact celebrated on the part of our kings with the supreme pontiff.
+          For a promise is merely the promise of the offerer when the acceptor is not present but is absent:
+          but it passes into a pact when he to whom someone promises accepts through a messenger or through letters.
+          Because there is the consent of two:
+          <ref xml:id="cy8th8-d1e624-Rd1e368">l. pactum. ff. de pollicitatione</ref>.
+          see for this the gloss in clement. Romani de iure iurando
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e373">
+          ¶ One is obligated from a promise:
+          when one promises to a city,
+          university,
+          clergy,
+          church,
+          or the poor of some place:
+          and from a cause,
+          for instance for the honor of God or such things.
+          <ref xml:id="cy8th8-d1e624-Rd1e398">ff. de pollicitatione l. 1 § 1</ref>
+          it makes 
+          <ref xml:id="cy8th8-d1e624-Rd1e403">glossa in c. scimus, 12, q. 1</ref>
+          which said that from a promise made to God one can be sued,
+          <ref xml:id="cy8th8-d1e624-Rd1e408">22, q. 5, c. iuramenti</ref>
+          is alleged.
+          so,
+          from a bare promise made to the republic.
+          <ref xml:id="cy8th8-d1e624-Rd1e420">ff. de eo, d. l. 1</ref>
+          is alleged.
+          it makes 
+          <ref xml:id="cy8th8-d1e624-Rd1e423">c. ex parte de sensibus</ref>
+          and 
+          <ref xml:id="cy8th8-d1e624-Rd1e425">Panormitanus in prohemio decretalium</ref>
+          and in 
+          <ref xml:id="cy8th8-d1e624-Rd1e428">d. c. ex parte</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e417">
+          ¶ Since therefore our princes promised to the Roman pontiff,
+          the vicar of Christ,
+          and through this to God himself and to the universal church of God,
+          and with great cause indeed the greatest of all,
+          a legitimate and final cause,
+          namely to extend the divine honor and worship through that so vast world of the Indies:
+          and to draw through the preaching of the faith to Christ their creator and redeemer and introduce into his church so many innumerable infidel nations:
+          it follows that our most illustrious princes remained bound by an indissoluble and perpetual obligation even in the external forum by reason of the pact celebrated,
+          and as to conscience through a precept obliging under mortal sin:
+          because civilly and naturally.
+          Since in one act there concurs natural obligation from a promise and with the solemnity of law which is called civil obligation.
+          Because solemnly to the Vicar of Christ our Kings offered the aforesaid promise of their own accord:
+          and solemnly they assumed into care and administration that entire world,
+          as is clear instit. de obligationibus que ex quasi contracto nascuntur.
+          Whence they are obligated to the said preaching and conversion and to expending expenses and costs however many are necessary.
+          And it makes 
+          <ref xml:id="cy8th8-d1e624-Rd1e463">l. 1, § 1 ff. si vsufructus petatur</ref>
+          and in 
+          <ref xml:id="cy8th8-d1e624-Rd1e466">c. preterea de officio delegati cum sua materia</ref>
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e469">
+          And these things indeed would be understood as true and indubitable even if our kings had never had anything from those peoples and lands,
+          as if we were in that time when that world was discovered and those peoples were untouched by our tyranny just as they were in their original state.
+          But truly after they have been diminished,
+          dissipated,
+          and now reduced to nothing by such foul barbarity:
+          and moreover so many thousands of leagues which were full of mortals have been desolated:
+          who would be so senseless as not to understand that our kings are obligated by way of restitution to expend all necessary things for providing preachers,
+          prelates and other ecclesiastical or secular ministers of the church,
+          by whatever name or office they may be judged,
+          without taking or having even the smallest thing from those peoples or lands.
+          For although the violence,
+          injustices,
+          tyrannies,
+          injuries,
+          robberies and other execrable crimes,
+          evils and irreparable damages which those peoples throughout that entire world have suffered from our people have always displeased our kings:
+          nevertheless our illustrious kings are not free from the restitution of all the aforesaid damages and injuries.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e519">
+          This is proved:
+          First because after they assumed the aforesaid care upon their shoulders and obligated themselves both civilly and naturally,
+          they were bound to defend those peoples especially from our people,
+          and to send such messengers or ministers who would not exceed the boundaries of those things which we said are called preparatory (namely) those twelve things which the second conclusion contains.
+          Indeed rather to have such counselors in their council:
+          who would not be ignorant that those kingdoms belong to their natural inhabitants and are free,
+          nor would they lose their dominions and freedom on account of the faith being preached:
+          and would understand that not by the very fact that our kings were constituted by the supreme vicar of Christ as universal princes of that world:
+          was license given to them to invade that world as if the kingdoms were of enemies or heretics and thus vacant,
+          to invade hostilely and disturb all things,
+          ravage and devastate:
+          just as alas they lie devastated and deserted.
+          For all these things could be found clear in law:
+          if they took care to examine them diligently as the matter required.
+          And therefore the royal council is not excused from guilt and perhaps inexpiable.
+          For it was not permitted to them to be ignorant of laws concerning which they were occupied 
+          <ref xml:id="cy8th8-d1e624-Rd1e581">l. 2 ff. de origine iuris</ref>
+          therefore the Catholic kings themselves are obligated to restitution of all the aforesaid damages.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e566">
+          ¶ Second,
+          this is proved by 
+          <ref xml:id="cy8th8-d1e624-Rd1e572">l. in re mandata C. mandati</ref>
+          where every commission and neglect in a matter which someone has received into his care:
+          is not free from guilt.
+          And it is a notable text.
+          The same in 
+          <ref xml:id="cy8th8-d1e624-Rd1e587">l. tutori: C. de negotiis gestis</ref>.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e590">
+          Third it is proved because just as a Bishop is bound to restitution of damages unjustly given or injuriously by his official or vicar,
+          without doubt much more secular princes are bound for the offenses of their officials,
+          since indeed they are more powerful to punish and correct their offenses.
+          This is clear through what the doctors determine.
+          <ref xml:id="cy8th8-d1e624-Rd1e638">de restitutione spoliatorum c. 1</ref>
+          and 
+          <ref xml:id="cy8th8-d1e624-Rd1e640">there by John Andreas on the word <mentioned>men</mentioned>
+          </ref>
+          where he says after Hostiensis that the lord is bound for violence inflicted by his men,
+          see there more fully Panormitanus.
+          And also it is imputed to him who uses the work of evil men 
+          <ref xml:id="cy8th8-d1e624-Rd1e653">ff. de actionibus et obligationibus l. ex maleficio</ref>
+          and 
+          <ref xml:id="cy8th8-d1e624-Rd1e655">institut. de obligationibus que ex quasi delicto nascuntur § sibi enim debet imputare</ref> 
+          he who chose such men 
+          <ref xml:id="cy8th8-d1e624-Rd1e630">ff. de minoribus l. cum mandato</ref>
+          and 
+          <ref xml:id="cy8th8-d1e624-Rd1e632">l. 2 C. de periculo nominatorum</ref>
+          and 
+          <ref xml:id="cy8th8-d1e624-Rd1e637">l. unica C. de periculo eo lib. 11o</ref> 
+          for this let the text be seen vt iudices sine quoquo suffragio § licet eos in fine.
+          for this noted by 
+          <ref xml:id="cy8th8-d1e624-Rd1e644">the gloss</ref>
+          and more fully 
+          <ref xml:id="cy8th8-d1e624-Rd1e681">Hostiensis ut lite non contestata c. 1 facit ff. de officio prefecti l. 4</ref>,
+          proficisci in 
+          <ref xml:id="cy8th8-d1e624-Rd1e686">authent. de iudiciis § nullo cum § sequenti</ref>
+          and there noted 
+          <ref xml:id="cy8th8-d1e624-Rd1e650">C. de custodia reorum l. consentanei</ref>
+          <quote xml:id="cy8th8-d1e624-Qd1e659">C. quod metus causa l. si per impressionem in fi</quote>
+          for this that the fraud of a general procurator harms the lord 
+          <ref xml:id="cy8th8-d1e624-Rd1e665">ff. de exactionibus do. l. apud celsum § quesitum in fine</ref>
+          <ref xml:id="cy8th8-d1e624-Rd1e672">ff ad rebellionem l. procurator in principio</ref>
+          especially if he could prohibit him and is not free from the scruple of secret partnership:
+          who ceases to oppose a manifest crime:
+          <ref xml:id="cy8th8-d1e624-Rd1e682">34 dist., c. error</ref>
+          <ref xml:id="cy8th8-d1e624-Rd1e688">de sententia excomunicationis, c. quanto</ref> 
+          with those noted there,
+          or after he knew he did not correct:
+          because then he seems a partner tacitly or expressly by argument 
+          <ref xml:id="cy8th8-d1e624-Rd1e736">C. de falcidia, l. 1 § domus</ref>
+          <ref xml:id="cy8th8-d1e624-Rd1e740">C. de his que a latronibus § § 1 princeps</ref>
+          for the prince is bound for all things and seems to be the author of all things,
+          because since he could correct all things:
+          he is deservedly a participant in those things which he did not wish or neglected to amend,
+          as 
+          <ref xml:id="cy8th8-d1e624-Rd1e751">the Policraticus says lib. 4 final chapter</ref>
+          this also 
+          <ref xml:id="cy8th8-d1e624-Rd1e753">St. Thomas holds 2 2e q. 62, article 7</ref>
+          let this be seen in decisionibus de rota decisio 431 in the old ones.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e717">
+          ¶ Therefore our Kings are obligated by divine,
+          natural and human law to repair fully all irreparable damages,
+          all injuries,
+          injustices,
+          cruelties,
+          devastations of so many kingdoms,
+          so many vast and devastated lands,
+          so many immense treasures and riches seized:
+          the slaughters of innumerable mortals killed,
+          I pass over what evils were inflicted on those peoples throughout that entire world by the messengers,
+          captains or leaders and the rest of their companions whom they sent in the royal name,
+          although not from royal will.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e756">
+          ¶ O when and whence will they repair or satisfy for so many and such great things.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e764">
+          ¶ Nevertheless,
+          although these things are certainly true,
+          nevertheless it is not necessary for our kings to despoil Spain to supply the necessary expenses for this expedition:
+          taking from the revenues which it has in it:
+          so that they might clothe the Indians and make them wealthy.
+          But what is incumbent upon the kings from the necessity of salvation is this:
+          that whatever advantages or proceeds in gold and silver and other precious things come to them in any way (by right however) from the kingdoms and lands of the Indians:
+          they allow to remain there;
+          so that for completing the necessary expenses they may be prudently expended for the spiritual and temporal utility and necessity of those peoples:
+          nor should they order any of those things to be transported to Spain.
+          Indeed if they do not take such advantages or proceeds from there,
+          so that they be carried to the utility of Spain or their other kingdoms,
+          or expend them in other uses,
+          such as for instance the fifth part of gold and silver from minerals and pearls:
+          and what from commerce or exchanges,
+          which will be very frequently contracted between the natives and the Spaniards,
+          if they know,
+          not indeed in words but in deed and truth that they are free and will no longer suffer violence from them,
+          justice being preserved,
+          moreover,
+          what from customs,
+          tolls,
+          road taxes,
+          excises and duties,
+          which from commerce from Spanish merchants:
+          for those things which are brought there from Spain,
+          or are taken away from there,
+          or are sold there,
+          and from many other utilities arising for the time.
+          These things,
+          I say,
+          which from the enumerated things our kings collect,
+          and can abundantly accrue to them daily,
+          will most sufficiently provide indeed not only for whatever necessities for this expedition,
+          but even the revenues will exceed the expenses.
+          But if the natives themselves were obligated to contribute something:
+          these would undoubtedly satisfy them to the maximum.
+          Indeed all those advantages are theirs,
+          and proceed from lands owed to them by natural and the law of nations,
+          and for their final cause,
+          that is for their own good,
+          they finally had their origin.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e849">
+          ¶ I said advisedly for necessary expenses,
+          since many things are expended today which are not necessary for the maintenance of those peoples in faith and in peace,
+          but very superfluous:
+          nor for their sake or respect can they be said to be provided.
+          Such are the expenses for courts or royal forums,
+          commonly called audientias,
+          which the Indians do not need.
+          But the Spaniards,
+          who do not know how to live in peace and without lawsuits,
+          and therefore such expenses and similar ones should not be computed among those things which necessarily pertain to the good of those peoples:
+          For indeed it suffices as far as the security of the Indians is concerned,
+          that our kings provide,
+          so that in some provinces there be some garrison of two hundred or three hundred soldiers,
+          who may look out for the protection of the land.
+          Which soldiers themselves will indeed accomplish,
+          not with much labor,
+          and therefore they will be content with small pay:
+          especially because that entire land being fortunate and abundant in riches,
+          they will be able to acquire in diverse ways a richer fortune than they so greatly love and indefatigably pursue.
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e895">
+          ¶ From all of which things it finally appears that our kings of Spain cannot exact from the peoples and populations of the Indians,
+          not even one penny,
+          even if the tyranny by which they are now oppressed should cease:
+          and those peoples and populations offering most free consent to receive them as supreme princes:
+          but the Catholic kings themselves are bound to procure every spiritual and temporal utility of those people until the end of the world at their own expenses however great they may be with utmost diligence:
+        </p>
+
+        <p xml:id="cy8th8-d1e624-d1e924">
+          and would that through these things satisfaction be made to divine justice for all Spain.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
