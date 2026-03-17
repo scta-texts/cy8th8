@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Section 3</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Section 3</title>
+          <date when="2024-11-19">November 19, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">
+            John Carter Brown Library, 
+            Brown University, 
+            ms Codex Sp 5
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="cy8th8-d1e97">
+        <head xml:id="cy8th8-d1e97-Hd1e107">Section 3</head>
+        <p xml:id="cy8th8-d1e97-d1e109">
+          §. 3
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e116">
+          Proposition 2: 
+          Not only does this good of honor and good opinion 
+          among posterity accrue to the dead,
+          which is in a certain way to live perpetually and always, 
+          as has been said,
+          but it also greatly matters to the living 
+          who were joined to the deceased 
+          either by blood or affinity or even friendship.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e132">
+          The proposition is proved: 
+          <!-- TODO: trans triage -->
+          Just as the nobility of parents 
+          which they acquired through virtues,
+          riches, 
+          knowledge, 
+          industry, 
+          eloquence, 
+          military affairs, 
+          administration of the republic,
+          or greater dignity or any other uncommon excellence 
+          descends as if by propagation to posterity,
+          so that they follow the condition of their ancestors. 
+          As is excellently proved in 
+          <ref xml:id="cy8th8-d1e97-Rd1e149">
+            l. 1 where 
+            <name xml:id="cy8th8-d1e97-Nd1e151">Bartholus</name>
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e155">
+            <name xml:id="cy8th8-d1e97-Nd1e156">Johannes de Platea</name>
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e97-Rd1e158">l. si senator</ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e97-Rd1e161">
+            l. mulieres, 
+            Codex on dignities, 
+            book 12
+          </ref> 
+          and in 
+          <ref xml:id="cy8th8-d1e97-Rd1e166" target="http://scta.info/resource/bgy6gt-d1e148-Dd1e158">
+            l. senatoris filium, 
+            Digest on the senate
+          </ref> 
+          and from that nobility and virtues 
+          by which predecessors attained it,
+          posterity and descendants 
+          glory and often boast themselves vigorously. 
+          So if their ancestors were marked 
+          by some disgrace or infamy of morals especially,
+          or some injury is inflicted upon them,
+          without doubt all descendants are struck 
+          by the confusion of the same reproach,
+          and the honor of all of them is detracted from. 
+          For if some honor is shown to parents already dead,
+          such as when their memory is praised and celebrated,
+          it is manifest that such honor redounds 
+          to sons and grandsons and great-grandsons and to all descendants. 
+          On the contrary, however,
+          if some dishonors were done to them,
+          for example if they were exhumed or their bones were burned,
+          great injury would be inflicted 
+          on the living and sons and other descendants and relatives. 
+          Similarly indeed there redound to deceased parents 
+          the good or evil which come 
+          to sons, grandsons, great-grandsons and other posterity of theirs,
+          namely both prosperities and dishonors,
+          infamies or misfortunes,
+          that is good and bad operations from which honors or dishonors proceed. 
+          For he is more illustrious who leaves excellent successors 
+          than he who leaves none or bad ones,
+          thus 
+          <ref xml:id="cy8th8-d1e97-Rd1e216">
+            <name xml:id="cy8th8-d1e97-Nd1e217">the Philosopher</name>
+          </ref> 
+          argues and concludes in 
+          <ref xml:id="cy8th8-d1e97-Rd1e221">Ethics 1</ref>.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e224">
+          All these things are clear from that passage of 
+          <ref xml:id="cy8th8-d1e97-Rd1e226">
+            Ecclesiasticus chapter 3
+          </ref>: 
+          <quote xml:id="cy8th8-d1e97-Qd1e231">
+            Do not glory in the dishonor of your father,
+            for it is not glory to you but confusion,
+            for the glory of man is from the honor of his father,
+            and a father without honor is the disgrace of the son
+          </quote>.
+          And 
+          <ref xml:id="cy8th8-d1e97-Rd1e238">chapter 41</ref>: 
+          <quote xml:id="cy8th8-d1e97-Qd1e240">
+            Be ashamed before father and mother of fornication
+          </quote>.
+          And a little below: 
+          <quote xml:id="cy8th8-d1e97-Qd1e245">
+            Of an impious father the sons complain because through him they are in reproach
+          </quote>.
+          Whence injury is inflicted on sons from the fornicating birth of their mother,
+          as in 
+          <ref xml:id="cy8th8-d1e97-Rd1e253">
+            Authenticum on restitutions and that which gives birth,
+            final paragraph of the collation
+          </ref>. 
+          Likewise it is disgraceful to a father if a son takes a dishonorable wife, 
+          <ref xml:id="cy8th8-d1e97-Rd1e260">
+            Digest on contracting purchase,
+            law 3
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e264">
+          It is relevant to the proposition 
+          what <ref>Valerius relates in book 3 chapter 5</ref> 
+          or according to <ref>another volume chapter 305</ref> concerning Aeneas Scipio,
+          son of Scipio Africanus the Elder,
+          who was like a monster considering the glory and virtues of his father,
+          from which he himself had greatly degenerated,
+          and on account of the stains of his shameful vices 
+          among other ignominies inflicted upon him,
+          when the honor of the praetorship had been conferred upon him 
+          by the Roman people or by a certain scribe of his father 
+          to whom the Roman people had granted it,
+          his relatives and kinsmen,
+          considering that he was going to pollute that dignity 
+          on account of his vices and shamefulness 
+          and that the reproach and disgrace of him 
+          would redound to all of them,
+          so terrified him that he did not dare 
+          to place the praetorian seat 
+          or to pronounce judgment among litigants. 
+          And moreover they took from his hand the ring 
+          in which the head of Africanus the Elder was sculpted. 
+          And Valerius adds: 
+          <!-- TODO: quote; trans triage -->
+          Good gods,
+          what darkness from what lightning did you suffer to be born,
+          that is,
+          what obscurations of the brightness of name 
+          and fame did you suffer to be born.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e302">
+          It is clear therefore that 
+          all relatives and those who are of the same genealogy or kinship 
+          are damaged by the reproach or ignominy of any one of them. 
+          From this it is that one who offends someone or some people in person 
+          or in goods is said to offend 
+          not only them but also whoever is 
+          from the kinship of the offended. 
+          This is proved by 
+          <ref xml:id="cy8th8-d1e97-Rf1a333">
+            the chapter "olim" on injuries and damage done
+          </ref>,
+          where an injury inflicted on a bishop 
+          seems to be inflicted on all subject churches 
+          because he is the spouse of those churches. 
+          Whence inferior churches can act for an injury inflicted upon them,
+          as there. 
+          <!-- TODO: trans triage -->
+          And on account of this,
+          power of vengeance is sometimes given to the same kinsmen,
+          as in 
+          <ref xml:id="cy8th8-d1e97-Rx32aaa">
+            l. raptores,
+            Codex on sacrosanct churches
+          </ref>,
+          where it is said that the power of killing 
+          by their own authority is given to the kinsmen of virgins 
+          and women dedicated to God who have been raped. 
+          And from these things 
+          <ref xml:id="cy8th8-d1e97-Rd1e337">
+            the gloss on l. lex cornelia,
+            Digest on injuries
+          </ref>: 
+          because an injury inflicted on one of the kinship seems done to the whole kinship. 
+          This is also clear in <ref>Genesis 14</ref> 
+          from the deed of Abraham who avenged the plunder 
+          committed against Lot his nephew 
+          when he went against four kings,
+          and Simeon and Levi against the rapists of Dinah 
+          their sister having been killed.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e350">
+          The reason for the aforesaid things 
+          is that the whole kinship makes one body,
+          of which the individual parts or members 
+          make individuals of that kinship, 
+          as in 
+          <ref xml:id="cy8th8-d1e97-Rvn1fh2">
+            l. cum scimus,
+            Codex on farmers and those registered,
+            book 11
+          </ref>. 
+          For we are one with our parents, 
+          <ref xml:id="cy8th8-d1e97-Rf1aazz">
+            on penance,
+            distinction 4,
+            chapter "What is said"
+          </ref>. 
+          For father and son are reckoned as one head and as one person,
+          as in 
+          <ref xml:id="cy8th8-d1e97-Rja1ccc" corresp="#cy8th8-d1e97-Qd1e368">
+            l. fine,
+            Digest on minors and substitutions
+          </ref>,
+          where it is said: 
+          <quote xml:id="cy8th8-d1e97-Qd1e368">
+            Since from nature father and son are understood to be almost the same person,
+            they are one flesh
+          </quote>, 
+          <ref xml:id="cy8th8-d1e97-Rd1e400">
+            question 35.3,
+            paragraph "by this authority"
+          </ref>. 
+          Likewise a son is part of his father,
+          as 
+          <ref xml:id="cy8th8-d1e97-Rd1e377">
+            the Philosopher says in Ethics 5
+          </ref>: 
+          <quote xml:id="cy8th8-d1e97-Qd1e379">
+            for he is his blood
+          </quote>, 
+          <ref xml:id="cy8th8-d1e97-Rd1e411" target="http://scta.info/resource/bgy6gt-d1e673-d1e139">
+            Digest on undutiful testament,
+            law "non enim"
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e417">
+            the voice of the father is as the voice of the son,
+            Institutes on useless stipulations,
+            paragraph "ei qui"
+          </ref>,
+          and the heir is considered one person with the deceased 
+          in the 
+          <ref>Authenticum on oath sworn by one dying at the beginning</ref>,
+          namely for that part by which he is heir,
+          note 
+          <ref xml:id="cy8th8-d1e97-Rd1e429">
+            Digest on praetorian stipulations,
+            law 2,
+            in the last gloss
+          </ref>. 
+          Indeed the nature of the father 
+          walks in the person of the son,
+          and the memory of parents is conserved in children and through children in the same way, 
+          <ref xml:id="cy8th8-d1e97-Rd1e437">
+            Digest on the signification of words,
+            law "mulier,"
+            paragraph "cum proportionaretur"
+          </ref>. 
+          And by the appellation of parent 
+          not only father but also grandfather and great-grandfather 
+          and thenceforth all superiors to infinity are contained,
+          but also mother and grandmother and great-grandmother, 
+          <ref xml:id="cy8th8-d1e97-Rd1e446">
+            Digest on the signification of words,
+            law "appellatione"
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e451" target="http://scta.info/resource/bgy6gt-d1e343-d1e144">
+            Digest on summoning to court,
+            law 4,
+            paragraph "praetor"
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e457" target="http://scta.info/resource/bgy6gt-d1e343-d1e150">
+            paragraph "parentes"
+          </ref>. 
+          Similarly by the appellation of children,
+          grandsons and great-grandsons a
+          nd all who descend from the same stock 
+          and are born are comprehended and make a kinship,
+          as in 
+          <ref xml:id="cy8th8-d1e97-Rd1e468" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2573">
+            law "liberorum,"
+            Digest on the signification of words
+          </ref>. 
+          They also make a family,
+          house and people,
+          that is consanguinity,
+          as is proved in 
+          <ref xml:id="cy8th8-d1e97-Rd1e475">
+            law "pronuntiato,"
+            paragraph "familie,"
+            element 2
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e481">
+            paragraph "communi iure,"
+            Digest in that title
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e426">
+          Since therefore the whole one kinship,
+          family, 
+          house and people,
+          that is consanguinity,
+          makes one mystical or imagined body, 
+          <quote xml:id="cy8th8-d1e97-Qd1e435">
+            and individually they are members of one another
+          </quote>,
+          as 
+          <ref xml:id="cy8th8-d1e97-Rd1e500">
+            the Apostle says to the Romans 12
+          </ref>,
+          and by natural inclination 
+          <quote xml:id="cy8th8-d1e97-Qd1e440">
+            the members are solicitous 
+            for each other in the same thing,
+            and if one member suffers,
+            all members suffer together;
+            but if one member is glorified,
+            all members rejoice together
+          </quote>,
+          as also 
+          <ref xml:id="cy8th8-d1e97-Rd1e512">
+            the Apostle says in 1 Corinthians 12
+          </ref>. 
+          Therefore if a father or superior 
+          or any of the ascendants of any family,
+          house or people or kinship and consanguinity,
+          or a son or grandson or great-grandson 
+          or any of the descendants 
+          or even collateral relatives acts 
+          or suffers some injury 
+          or reproach or disgrace 
+          or something shameful,
+          injurious or dishonorable,
+          similarly on account of the illustrious deeds of any of them 
+          or glory and honor attained on account of merits,
+          it redounds to the whole family or kinship etc.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e467">
+          Therefore not only does any good of honor or happy opinion 
+          among posterity accrue to the dead 
+          (which is in a certain way to live perpetually),
+          but it also matters to the living 
+          who were joined to the deceased either 
+          by blood, family, kinship, affinity or even friendship, 
+          because from such honor or honoring,
+          glory or disgrace of the dead 
+          they themselves receive advantage or disadvantage. 
+          And thus the second proposition is clear.
+        </p>
+        <!-- end second proposition -->
+        <!-- begin third proposition -->
+        <p xml:id="cy8th8-d1e97-d1e483">
+          The third proposition 
+          which follows from the preceding ones: 
+          To store great treasures or riches with the bodies of the deceased 
+          is a manifest argument that 
+          neither the dead who ordered them to be buried with themselves 
+          nor the living successors who permit them to remain in the tombs of their ancestors 
+          placed them there with that intention 
+          <!-- TODO: trans triage -->
+          or allow them to be there so that they would have them 
+          or have them as abandoned things,
+          or renounced tacitly or expressly 
+          the right and ownership which they had in them. 
+          And consequently that the aforesaid treasures and riches 
+          have an owner and are another's property.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e511">
+          The proposition is proved 
+          first from the first proposition,
+          because the intention and mind of the dead and living 
+          who ordered them to be buried with themselves 
+          and who permit them to remain in the tombs 
+          is so that from this they may obtain 
+          honor, glory, and praise among posterity 
+          and so that their glorious status, wealth, and magnificence 
+          may become known to future ages,
+          and so they may live perpetually in the opinions of men. 
+          And this is a great interest to them. 
+          Therefore neither the living nor the dead had the intention 
+          to leave the riches and treasures aforesaid as abandoned things.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e537">
+          Secondly, it is proved by a sign thus: 
+          When things which are found and whose owner is not known 
+          are precious and of great value,
+          it is a sign that 
+          they are not held or were held as abandoned things 
+          wherever they are found. 
+          Whence they ought not be thought 
+          to lack an owner or owners, dead or living,
+          since no one throws away such things from themselves,
+          but either possesses and preserves them or gives them away. 
+          But the treasures and riches and those things 
+          which were stored in the aforesaid tombs with kings and nobles 
+          were most precious things. 
+          Therefore it is a sign 
+          that they were not held as abandoned things. 
+          For it is not likely 
+          that such precious things would be so disdained.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e561">
+          Thirdly, it is proved from the places in which they are found. 
+          For they are found in tombs or in temples of their gods,
+          and they guarded the doors with locks and bars lest they be taken by thieves,
+          as was said in the beginning. 
+          Therefore it is a sign 
+          that they did not hold them as abandoned things.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e575">
+          Fourthly, 
+          it is proved from a similar case: 
+          for if someone finds in the sea or on the seashore 
+          something which was cast out from a ship for the sake of lightening the ship,
+          on account of the place in which it is found 
+          no one ought to presume or think 
+          that it is held as abandoned,
+          but rather not the contrary. 
+          Since those things which are cast into the sea 
+          for the sake of lightening the ship 
+          are not held as abandoned things,
+          because they are not cast with that mind 
+          that they not be possessed further 
+          or that the owners lose 
+          or throw away their ownership of them,
+          but because the possessing owner wishes to save his life 
+          which is more precious to him than riches. 
+          Whence it is clear that to find things in the sea or on the seashore 
+          is a sign that the owner of them did not hold them as abandoned things; 
+          things, I say, 
+          which are not accustomed to be on the seashore 
+          except very rarely and by chance on account of them;
+          <!-- TODO: trans triage -->
+          I say namely little stones or gems which are born there 
+          which are in no one's goods and therefore become the finder's. 
+          These things are proved in 
+          <ref xml:id="cy8th8-d1e97-Rd1e670">
+            the Institutes on the division of things,
+            final paragraph
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e675">
+            Digest on thefts,
+            law "falsus,"
+            paragraph "si iactum"
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e682">
+            Digest on threatened damage,
+            law "si finita,"
+            paragraph "si quis metu"
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e619">
+          In this way 
+          it must be said that 
+          if someone was carrying great burdens on the road 
+          and could not carry further and left them,
+          or if fleeing enemies 
+          he could not carry his things 
+          and therefore leaves them on the road,
+          although he thinks that he will not find them 
+          when he returns or that perhaps he will never have them,
+          he will not be said to hold them as abandoned things.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e640">
+          These therefore are manifest signs 
+          which make a vehement presumption by reason of place 
+          that things which are found are not held as abandoned things 
+          nor do they lack an owner,
+          and thus they are another's property.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e653">
+          Thus therefore 
+          it is concerning treasures and other precious things 
+          which are found in tombs or in temples of their gods,
+          because certainly they were not placed there 
+          so that they would be held as abandoned things,
+          but so that they would be best preserved there perpetually 
+          and from this would bring honor, praise, and good opinion 
+          to the owners now deceased and their living descendants. 
+          On this see 
+          <ref>
+            Hostiensis in his Summa,
+            title on the cause of property,
+            paragraph "what property is,"
+            at the word "Likewise through tradition."
+          </ref>
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e674">
+          And the aforesaid things are confirmed by an example 
+          which we both understand and see manifestly among us. 
+          Let us ask, I say,
+          whether kings and magnates and noble and Catholic men 
+          have held as abandoned those precious things,
+          namely those standards 
+          or insignia or shields of gold and silver,
+          tombs covered with cloths of silk and woven with gold 
+          which the deceased fathers and their ancestors 
+          placed in the chapels of churches where they were buried. 
+          And whether the dead and the surviving living descendants of them would be offended 
+          if someone should try to take those things either by theft or violently. 
+          For it is manifest that 
+          not only the dead and the living,
+          but also the whole kinship, house, and family 
+          would be offended and would take it as injuries.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e704">
+          Fifthly, the proposition is proved 
+          because those precious things 
+          which were stored with the bodies of the deceased in tombs 
+          are not properly treasures,
+          which are in the goods of no one 
+          which are acquired entirely by the finder 
+          if he finds them in his own ground. 
+          For that is properly a treasure 
+          to which the definition of treasure applies,
+          which is placed in 
+          <ref xml:id="cy8th8-d1e97-Rd1e789">
+            law "unica,"
+            Codex on treasures,
+            book 10
+          </ref>:
+          <!-- TODO: possible quotation here -->
+          a treasure is money hidden 
+          from unknown owners in more ancient time,
+          of which disposition no memory exists,
+          as 
+          <ref xml:id="cy8th8-d1e97-Rd1e795">there</ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e797">
+            Institutes on the division of things,
+            paragraph "thesauros"
+          </ref>. 
+          From unknown owners,
+          that is, 
+          money was hidden by some men 
+          who never recovered it, 
+          and it remained there for the longest time,
+          so much so that now through forgetfulness 
+          it has gone out from the possession and ownership of humans 
+          according to 
+          <ref xml:id="cy8th8-d1e97-Rd1e811">
+            Johannes de Platea on said law "unica"
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e736">
+          But improperly a treasure is said, 
+          according to the same author, 
+          when memory exists,
+          as when someone hid it for the sake of profit or fear or custody,
+          add also of honor or some other good consideration. 
+          And nothing is owed to the finder from this,
+          rather he commits theft,
+          but it belongs to him who hid it or to his heirs,
+          as is the text in 
+          <ref xml:id="cy8th8-d1e97-Rd1e835">
+            law "nunquam,"
+            paragraph "thesaurus,"
+            Digest on acquiring ownership of things at the end
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e839">
+            law "thesaurus,"
+            Digest on exhibition
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e842">
+            law "item habeo,"
+            Digest on dividing the estate
+          </ref> 
+          and 
+          <ref xml:id="cy8th8-d1e97-Rd1e848">
+            law "a tutore,"
+            Digest on rescinding a sale
+          </ref>.
+        </p>
+        <p xml:id="cy8th8-d1e97-d1e764">
+          Since therefore 
+          those precious things were placed in tombs 
+          for the sake of custody and honor, praise, and glory 
+          of the living and deceased 
+          and of the whole kinship of kings 
+          and other great men,
+          ascendants and descendants,
+          of whom memory exists through succession,
+          namely of king Inca or successors of the kings of those kingdoms,
+          and so in other kingdoms of that world,
+          therefore they are not treasures properly but improperly,
+          and consequently they are not owed to finders. 
+          The conclusion is clear 
+          because they have not gone out 
+          from the possession and ownership of those people,
+          and thus they have owners. 
+          And thus concerning the third proposition.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
