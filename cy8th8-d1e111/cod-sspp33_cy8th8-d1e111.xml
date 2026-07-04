@@ -19,7 +19,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+          <p>Published under a <ref>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -66,456 +66,566 @@
           siue in uasis aureis vel argenteis: siue in sup<lb ed="#Sa" n="31"/>pellectibus 
           et quibuscumque aliis preciosis rebus: quae 
           <pb ed="#Sa" n="12-r"/>
-          <lb ed="#Sa" n="1"/>dominus posuerit in quocunque loco vel in arcis vel in tem<lb ed="#Sa"/>plo, 
-          vel in sepulchro, vel sub terra quantumcunque antiqui<lb ed="#Sa"/>tate uetutescerit: si dominus adhuc superest aut aliquis 
-          <lb ed="#Sa"/>ad quos de iure succedere pertineat /.
+          <lb ed="#Sa" n="1"/>dominus posuerit in quocunque loco vel in arcis vel in tem<lb ed="#Sa" break="no" n="2"/>plo, 
+          vel in sepulchro, vel sub terra quantumcunque antiqui<lb ed="#Sa" break="no" n="3"/>tate uetutescerit: si dominus adhuc superest aut aliquis 
+          <lb ed="#Sa" n="4"/>ad quos de iure succedere pertineat /.
         </p>
         <p xml:id="cy8th8-d1e111-d1e132">
-          <lb ed="#Sa"/>Hec conclusio adeo est catholica et manifesta quam quod 
-          <lb ed="#Sa"/>probatione indigeat: quinimo qui ausus fuerit negare 
-          <lb ed="#Sa"/>illam: vel stultus erit vel non euadet heresim. Et 
-          <lb ed="#Sa"/>ratio huius conclusionis est quia thesauri vel diui<lb ed="#Sa"/>tiae 
+          <lb ed="#Sa" n="5"/>Hec conclusio adeo est catholica et manifesta quam quod 
+          <lb ed="#Sa" n="6"/>probatione indigeat: quinimo qui ausus fuerit negare 
+          <lb ed="#Sa" n="7"/>illam: vel stultus erit vel non euadet heresim. Et 
+          <lb ed="#Sa" n="8"/>ratio huius conclusionis est quia thesauri vel diui<lb ed="#Sa" break="no" n="9"/>tiae 
           aut res pretiosae illae sunt res alienae habentes 
-          <lb ed="#Sa"/>proprios dominos, vel illos qui in locis predictis ea 
-          <lb ed="#Sa"/>posuerunt vel ponere ibi mandaverunt, vel eorum 
-          <lb ed="#Sa"/>heredes. Qui autem tollit vel contradicat res alienas in<lb ed="#Sa"/>uito 
-          domino: furtum comittit vel rapinam. fur<lb ed="#Sa"/>tum 
+          <lb ed="#Sa" n="10"/>proprios dominos, vel illos qui in locis predictis ea 
+          <lb ed="#Sa" n="11"/>posuerunt vel ponere ibi mandaverunt, vel eorum 
+          <lb ed="#Sa" n="12"/>heredes. Qui autem tollit vel contradicat res alienas in<lb ed="#Sa" break="no" n="13"/>uito 
+          domino: furtum comittit vel rapinam. fur<lb ed="#Sa" break="no" n="14"/>tum 
           quidem si ablatio illa est occulta: rapinam 
-          <lb ed="#Sa"/>vero si adhibetur violentia. Et dicitur dominus 
-          <lb ed="#Sa"/>inuitus et si videat quamuis non contradicat ex timo<lb ed="#Sa"/>re 
-          vel verecundia: <ref xml:id="cy8th8-d1e111-Rd1e157" target="http://scta.info/resource/bgy6gt-d1e4246-d1e1609">ff. de furtis l. penultima</ref>
+          <lb ed="#Sa" n="15"/>vero si adhibetur violentia. Et dicitur dominus 
+          <lb ed="#Sa" n="16"/>inuitus et si videat quamuis non contradicat ex timo<lb ed="#Sa" break="no" n="17"/>re 
+          vel verecundia: <ref xml:id="cy8th8-d1e111-Rd1e157">ff. de furtis l. penultima</ref>
         </p>
         <p xml:id="cy8th8-d1e111-d1e163">
-          ergo est peccatum mortale:
-          tum quia est contra 
-          iustitiam Omne autem quod est contra iustitiam est peccatum mortale 
-          secundum <ref xml:id="cy8th8-d1e111-Rd1e169" target="http://scta.info/resource/TAca84-d1e1577-Dd1e785"><!-- target uncertain: edition says 59, a. 4, but then lists the question heading for 69, a. 4; since Casas says 59, we us the id for 59, a. 4, assuming the editor meant q59a4 and then accidently wrote down the question title for q69a4-->S. Thomam 2 2e quaestione 59</ref>.
+          ergo est pec<lb ed="#Sa" break="no" n="18"/>catum 
+          mortale: tum quia est contra Iustitiam. omne 
+          <lb ed="#Sa" n="19"/>autem quod est contra Iustitiam est peccatum morta<lb ed="#Sa" break="no" n="20"/>le 
+          secundum <ref xml:id="cy8th8-d1e111-Rd1e169">S. Thomam 2a 2e quaestione 59</ref>.
         </p>
         <p xml:id="cy8th8-d1e111-d1e175">
-          Tum quia est contra preceptum 
-          diuinum ubi prohibetur non solum furtum proprie dictum 
-          sed etiam omnis illicita rei aliene usurpatio. <ref xml:id="cy8th8-d1e111-Rd1e181" target="http://scta.info/resource/bible-ex20"><!-- target precise; reference is "passim" -->Exodi 20</ref>, et <ref xml:id="cy8th8-d1e111-Rd1e185" target="http://scta.info/resource/gd-p2c14q5-d1e292">14, 
-            quaestione 5, c. penali</ref>, et in specie <ref xml:id="cy8th8-d1e111-Rd1e190" target="http://scta.info/resource/gd-p2c14q5-d1e185">c. si quid inuenisti</ref> et <ref xml:id="cy8th8-d1e111-Rd1e194" target="http://scta.info/resource/gd-p2c14q5-d1e215">c. Multi</ref>, et <ref xml:id="cy8th8-d1e111-Rd1e197">quaestione 6. 
-          c. 1</ref>, ubi dicitur: <quote xml:id="cy8th8-d1e111-Qd1e202" source="http://scta.info/resource/gd-p2c14q6-d1e117@1-27">si res aliena propter quam peccatum est <sic>reddi</sic> potest et 
-          non redditur: penitentia non agitur. sed simulatur: si autem 
-          veraciter agitur non remittitur peccatum nisi restituatur ablatum</quote>. 
-          Et in <ref xml:id="cy8th8-d1e111-Rd1e213" target="http://scta.info/resource/wef6td-d1e1612-d1e133">regula peccatum de regulis iuris lib 6</ref> De his <ref xml:id="cy8th8-d1e111-Rd1e216">Raymundus 
-          in summa titulo de furtis §. 9.</ref> ubi Item <ref xml:id="cy8th8-d1e111-Rd1e221">quid si aliquis</ref> et <ref xml:id="cy8th8-d1e111-Rd1e224">panormitanus 
+          Tum quia est contra 
+          <lb ed="#Sa" n="21"/>preceptum diuinum ubi prohibetur non solum fur<lb ed="#Sa" break="no" n="22"/>tum 
+          proprie dictum: sed etiam omnis illicita rei alienae 
+          <lb ed="#Sa" n="23"/>usurpatio. <ref xml:id="cy8th8-d1e111-Rd1e181">Exodi 20</ref> et <ref xml:id="cy8th8-d1e111-Rd1e185">14, quaestione 5, c. penali</ref> 
+          <lb ed="#Sa" n="24"/>et in specie <ref xml:id="cy8th8-d1e111-Rd1e190">c. si quid inuenisti</ref> et <ref xml:id="cy8th8-d1e111-Rd1e194">c. multi</ref> 
+          <lb ed="#Sa" n="25"/>et <ref xml:id="cy8th8-d1e111-Rd1e197">quaestione 6. c. 1</ref> vbi dicitur. <quote xml:id="cy8th8-d1e111-Qd1e202">si res aliena propter quam 
+          <lb ed="#Sa" n="26"/>peccatum est <sic>reddi</sic> potest et non redditur: peni<lb ed="#Sa" break="no" n="27"/>tentia 
+          non agitur. Sed simulatur: si autem veraci<lb ed="#Sa" break="no" n="28"/>ter 
+          agitur, non remittitur peccatum nisi restitua<lb ed="#Sa" break="no" n="29"/>tur 
+          ablatum</quote>. Et in <ref xml:id="cy8th8-d1e111-Rd1e213">regula peccatum de regulis iuris 
+          <lb ed="#Sa" n="30"/>lib. 6</ref> De his <ref xml:id="cy8th8-d1e111-Rd1e216">Raymundus in suma titulo de fur<lb ed="#Sa" break="no" n="31"/>tis 
+          §. 9.</ref> ubi Item <ref xml:id="cy8th8-d1e111-Rd1e221">quid si aliquis</ref> Et <ref xml:id="cy8th8-d1e111-Rd1e224">Panormitanus 
           in capitulo finali de furtis</ref>  
         </p>
         <p xml:id="cy8th8-d1e111-d1e233">
-           Quantum ergo ad propositum nostrum 
-          et questionem propositam in principio:
-          ponitur hec conclusio responsiua
+          <lb ed="#Sa" n="32"/>Quantum ergo ad propositum nostrum et 
+          <lb ed="#Sa" n="33"/>quaestionem propositam in principio:
+          <lb ed="#Sa" n="34"/>haec conclusio responsiua proponitur
         </p>
         <p xml:id="cy8th8-d1e111-d1e242">
-           Nemini hominum de mundo nec etiam hispaniarum 
-          regi <sic>(<!-- no closing paranthesis in this witness --></sic> quod cum omni reuerentia quam celsitudini Regiae 
-          debemus dictum esse volumus absque licentia et libera nec non 
-          gratiosa voluntate Regis ynga vel suorum descendentium 
-          ad quos de iure secundum leges illorum vel consuetudine 
-          in bonis suis succedere pertinebat: licere inquire re aut 
-          structari  fodere aut tollere thesauros vel diuitias seures preciores 
-          animo retinendi eas quas in sepulchris et Guacas 
-          dictas cum suis de functis sepelierunt. Quod si contrarium fecerunt 
-          peccatum mortale furti vel rapine comittet Et nisi ea restituerint 
-          et pertinentiam de peccato egerint salvari erit in<pb ed="#B" n="9-v"/>ossibile. 
-          Et non solum de peccato furti uel rapine oportet 
-          eos penitere <sic>veru mentiam<!-- perhaps should be "verum etiam"--></sic> de iniuria quam potissimum irrogant 
-          prefatis successoribus seu descendentibus uiuentibus eorum quorum 
-          sepulchra violant honori et laudi utrorunque (scilicet) uiuorum 
-          et mortuorum derogando et memoriam cessare faciendo. 
-          Pro quo etiam satisfacere illis tenentur 
+          <pb ed="#Sa" n="12-v"/>
+          <lb ed="#Sa" n="1"/><pc type="pilcrow">¶</pc> Nemini hominum de mundo nec etiam hyspa<lb ed="#Sa" break="no" n="2"/>niarum 
+          regi (quod cum omni reuerentia quam cel<lb ed="#Sa" break="no" n="3"/>situdini 
+          regiae debemus dictum esse volumus) absque 
+          <lb ed="#Sa" n="4"/>licentia et libera nec non gratiosa voluntate regis 
+          <lb ed="#Sa" n="5"/>ynga vel suorum descendentium ad quos de iure secundum 
+          <lb ed="#Sa" n="6"/>leges illorum vel consuetudine in bonis suis succe<lb ed="#Sa" break="no" n="7"/>dere 
+          pertinebat: licet inquirere aut structari / fode<lb ed="#Sa" break="no" n="8"/>re 
+          aut tollere thesauros vel diuitias seu res precio<lb ed="#Sa" break="no" n="9"/>sas 
+          animo sibi retinendi eas, quas in sepulchris 
+          <lb ed="#Sa" n="10"/>et Guacas dictas cum suis de functis sepelierunt. 
+          <lb ed="#Sa" n="11"/>Quod si contrarium fecerint peccatum mortale furti 
+          <lb ed="#Sa" n="12"/>vel rapinae <sic>comittent</sic>: Et nisi ea restituerint: et 
+          <lb ed="#Sa" n="13"/>penitentiam de peccato egerint, salvari erit imos<lb ed="#Sa" break="no" n="14"/>sibile. 
+          Et non solum de peccato furti vel rapinae 
+          <lb ed="#Sa" n="15"/>oportet eos penitere: verum etiam de iniuria quam 
+          <lb ed="#Sa" n="16"/>potissimum irrogant praefatis successoribus seu 
+          <lb ed="#Sa" n="17"/>descendentibus viuentibus eorum quorum sepulchra 
+          <lb ed="#Sa" n="18"/>violant: honori et laudi utrorumque scilicet viuorum 
+          <lb ed="#Sa" n="19"/>et mortuorum derogando et memoriam <del rend="strikethrough">derogar</del> ces<lb ed="#Sa" break="no" n="20"/>sare 
+          faciendo. Pro quo etiam satisfacere illis te<lb ed="#Sa" break="no" n="21"/>nentur <pc type="virgula">/</pc>. 
         </p>
         <p xml:id="cy8th8-d1e111-d1e299">
-           Ynga uocabantur nomine appellativo reges vel potius imperatores 
-          regnorum del Peru: quemadmodum Reges Egipti prius 
-          Pharaones deinde <name xml:id="cy8th8-d1e111-Nd1e308">Ptolomei</name> appellari consueuerunt.
+          <lb ed="#Sa" n="22"/><pc type="pilcrow">¶</pc> Ynga vocabantur nomine appellativo Reges 
+          <lb ed="#Sa" n="23"/>vel potius imperatores regnorum del Peru: quem<lb ed="#Sa" break="no" n="24"/>admodum 
+          reges Egiptii prius Pharaones deinde 
+          <lb ed="#Sa" n="25"/><name xml:id="cy8th8-d1e111-Nd1e308">Ptolomei</name> appellari consueuerunt <pc type="virgula">/</pc> .
         </p>
         <p xml:id="cy8th8-d1e111-d1e311">
-           Prima pars conclusionis huius satis apparet ex iam dictis quia 
-          videlicet thesauri et res preciose in sepulchris inuente sunt res 
-          aliene et sic habent dominos scilicet Regem ynga qui est legitimus
-          successor et heres Guaynacaba. Et quidem magni et 
-          prudentissimi regis ut omnes hispani fatentur: qui in regione 
-          illa morantur. Qui successerat plurimis preclaris regibus 
-          qui per nongentos fere annos in regnis illis feliciter regnarunt. 
-          Successerat etiam prefato Guaynacaba alius filius eius scilicet 
-          Athabaliba in regno quod quito appellabatur: et huic extant 
-          hodie filii et filie. Similiter supersunt successores regulorum qui 
-          regum Ynga et Athabalibe regimini erant subiecti et habebant 
-          sua sepulchra plena thesauris et suppellectilibus diuersis 
-          preciosissimis ergo absque licentia <sic>ynga<!-- edition has "ynge" but it is clearly "ynga"--></sic> et Athabalibe et ceterorum 
-          regulorum habentium sua sepulchra nemini licitum fuit inquirere 
-          scrutari et tollere animo retinendi sibi res illas preciosas.
+          <lb ed="#Sa" n="26"/><pc type="pilcrow">¶</pc> Prima pars conclusionis huius satis apparet 
+          <lb ed="#Sa" n="27"/>ex Iam dictis: quia videlicet thesauri et res preciosae 
+          <lb ed="#Sa" n="28"/>in sepulchris inuente sunt res alienae et sic ha<lb ed="#Sa" break="no" n="29"/>bent 
+          dominos scilicet regem ynga, qui est legiti<lb ed="#Sa" break="no" n="30"/>mus
+          successor et heres Guaynacabae; Et quidem 
+          <lb ed="#Sa" n="31"/>magni et prudentissimi regis, vt omnes hyspani 
+          <lb ed="#Sa" n="32"/>fatentur: qui in regione illa morantur. Qui 
+          <lb ed="#Sa" n="33"/>successerat plurimis praeclaris regibus, qui per non 
+          <lb ed="#Sa" n="34"/>gentos fere annos in regnis illis feliciter regnarunt. 
+          <pb ed="#Sa" n="13-r"/>
+          <lb ed="#Sa" n="1"/>Successerat etiam prefato Guaynacaba alius filius 
+          <lb ed="#Sa" n="2"/>eius scilicet Athabaliba in regno quod Quito ap<lb ed="#Sa" break="no" n="3"/>pellabatur: 
+          et huic extant hodie filii et filiae. Simi<lb ed="#Sa" break="no" n="4"/>liter 
+          supersunt successores regulorum, qui regum Yn<lb ed="#Sa" break="no" n="5"/>ga 
+          et Athabalibae regimini erant subiecti, et habe<lb ed="#Sa" break="no" n="6"/>bant 
+          sua sepulchra plena thesauris et suppellecti<lb ed="#Sa" break="no" n="7"/>libus 
+          diuersis preciosissimis ergo absque licentia <sic>yn<lb ed="#Sa" break="no" n="8"/>ga</sic> 
+          et Athabalibae et ceterorum regulorum habenti<lb ed="#Sa" break="no" n="9"/>um 
+          sua sepulchra: nemini licitum fuit inquirere 
+          <lb ed="#Sa" n="10"/>scrutari, et tollere animo retinendi sibi res illas 
+          <lb ed="#Sa" n="11"/>preciosas.
         </p>
         <p xml:id="cy8th8-d1e111-d1e354">
-           2a pars scilicet quod si contrarium facerent peccarent 
-          mortaliter peccato furti uel rapine patet 
+          <pc type="pilcrow">¶</pc> 2a pars scilicet quod si contrarium fa<lb ed="#Sa" break="no" n="12"/>cerent 
+          peccarent mortaliter peccato furti vel rapinae 
+          <lb ed="#Sa" n="13"/>patet 
         </p>
         <p xml:id="cy8th8-d1e111-d1e363">
-          tum 1o quia faciunt 
-          contra iustitiam<!-- typo here in edition -->
+          tum 1o quia faciunt contra iustitiam.
         </p>
         <p xml:id="cy8th8-d1e111-d1e372">
           Tum 2o quia inferunt eis iniuriam tollentes 
-          mortuis et vivis in quantum in se est honorem et famam 
-          que consistunt in hoc quod memoria suorum mortuorum non 
-          deleatur: sed uiuant perpetuo in hominum opinionibus. 
-          Et hoc est magnum interesse utrorumque ut per primam 
-          et secundam propositiones est probatum.
+          <lb ed="#Sa" n="14"/>mortuis et vivis in quantum in se est honorem et fa<lb ed="#Sa" break="no" n="15"/>mam, 
+          quae consistunt quod memoria suorum mor<lb ed="#Sa" break="no" n="16"/>tuorum 
+          non deleatur: sed viuant perpetuo in ho<lb ed="#Sa" break="no" n="17"/>minum 
+          opinionibus. Et hoc est magnum interesse 
+          <lb ed="#Sa" n="18"/>vtrorumque ut per 1am et 2am propositiones est pro<lb ed="#Sa" break="no" n="19"/>batum.
         </p>
         <p xml:id="cy8th8-d1e111-d1e388">
-          Tum 3o quia 
-          transgrediuntur preceptum diuinum.
+          Tum 3o quia transgrediuntur diuinum
+          <lb ed="#Sa" n="20"/>preceptum.
         </p>
         <p xml:id="cy8th8-d1e111-d1e393">
-          Tum 4o quia etiam 
-          leges humane id prohibent et puniunt acriter scilicet 
-          ultimo supplicio ut apparet in <ref xml:id="cy8th8-d1e111-Rd1e399">l. 2 § Diuus Adrianus
-          ff. de sepulchro uiolato</ref> ubi sic dicitur: <quote xml:id="cy8th8-d1e111-Qd1e404" source="http://scta.info/resource/bgy6gt-d1e4358-d1e152@1-23">Adversus eos 
-          qui cadauera spoliant presides seuerius interuenire solent: 
-          maxime si manu armata aggrediantur. Ut si armati more 
-          latronum id egerint etiam capite plectantur</quote>. hec ibi 
-          <pb ed="#B" n="10-r"/>
-          et <ref xml:id="cy8th8-d1e111-Rd1e418" target="http://scta.info/resource/azsw2e-d1e5822-Dd1e156">Codex eo titulo, l. pergit audacia</ref>. Ubi etiam punitur eadem 
-          pena qui vestem mortui aut ornamenta sepulchri abstulerit 
-          ut sacrilegus: <quote xml:id="cy8th8-d1e111-Qd1e425">si cum armis capite si sine armis metallo damnatur<!-- per marginal note, quote may be form abulensis I parli 10, q. 8--></quote>. 
+          Tum 4o quia etiam leges humanae id 
+          <lb ed="#Sa" n="21"/>prohibent et puniunt acriter scilicet ultimo sup<lb ed="#Sa" break="no" n="22"/>plicio, 
+          vt apparet in <ref xml:id="cy8th8-d1e111-Rd1e399">l. 2 § Diuus Adrianus 
+          <lb ed="#Sa" n="23"/>ff. de sepulchro violato</ref> ubi sic dicitur: <quote xml:id="cy8th8-d1e111-Qd1e404">Adver<lb ed="#Sa" break="no" n="24"/>sus 
+          eos, qui cadauera spoliant presides seuerius 
+          <lb ed="#Sa" n="25"/>interuenire solent: maxime si manu armata ag<lb ed="#Sa" break="no" n="26"/>grediantur. 
+          Ut si armati more latronum id 
+          <lb ed="#Sa" n="27"/>egerint, etiam capite plectantur</quote>. hec ibi. Et <ref xml:id="cy8th8-d1e111-Rd1e418">Codex 
+          <lb ed="#Sa" n="28"/>eo titulo, l. pergit audacia</ref>. Vbi etiam punitur ea<lb ed="#Sa" break="no" n="29"/>dem 
+          pena qui vestem mortui aut ornamenta 
+          <lb ed="#Sa" n="30"/>sepulchri abstulerit. Ut sacrilegus: <quote xml:id="cy8th8-d1e111-Qd1e425">si cum armis 
+          <lb ed="#Sa" n="31"/>capite, si sine armis metallo damnatur</quote>. 
         </p>
         <p xml:id="cy8th8-d1e111-d1e430">
-           Secundum leges regni castelle idem prohibetur 
-          et morte punitur ut patet in <ref xml:id="cy8th8-d1e111-Rd1e440">l. 1a titulo 18, libro 11o</ref> 
-          Ubi ponuntur hec verba. <quote xml:id="cy8th8-d1e111-Qd1e439"><foreign xml:lang="es">El que quebrantare sepulchro 
-          de muerto y sacare alguna cosa de ay muera por ello. y si no 
-          sacara nada peche cient sueldos de oro: la mitad al Rey y la 
-          otra mitad a los parientes del finado</foreign></quote> . Erat autem quodlibet
-          sueldo ualoris centum et trium aureorum siue ducatorum 
-          ut habetur per <ref xml:id="cy8th8-d1e111-Rd1e459">glossam super l. 1am titulo 5 lib. 2o fori.</ref>
+          <pc type="pilcrow">¶</pc> Se<lb ed="#Sa" break="no" n="32"/>cundum 
+          leges regni castellae idem prohibetur 
+          <pb ed="#Sa" n="13-v"/>
+          <lb ed="#Sa" n="1"/>et morte punitur ut patet in <ref xml:id="cy8th8-d1e111-Rd1e440">l. 1a titulo 18 
+          <lb ed="#Sa" n="2"/>libro 14 fori</ref>. <!--- missing ref here in cod-hgy7ss --> Et in <ref>foro Ieugo l. 1a et 2a titul.  
+          <lb ed="#Sa" n="3"/>2o libro 11o</ref> vbi ponuntur haec verba. <quote xml:id="cy8th8-d1e111-Qd1e439"><foreign xml:lang="es">El que que<lb ed="#Sa" break="no" n="4"/>brantare 
+          sepulchro de muerto y sacare alguna cosa 
+          <lb ed="#Sa" n="5"/>de ay muera por ello. y si no sacara nada peche cient 
+          <lb ed="#Sa" n="6"/>sueldos de oro: la meytad al rey: y la otra meytad 
+          <lb ed="#Sa" n="7"/>a los parientes del finado</foreign></quote>. Erat autem quodlibet suel<lb ed="#Sa" break="no" n="8"/>do 
+          valoris centum et trium aureorum siue ducatorum 
+          <lb ed="#Sa" n="9"/>vt habetur per <ref xml:id="cy8th8-d1e111-Rd1e459">glosam super l. 1am titulo 5 lib. 
+          <lb ed="#Sa" n="10"/>2o fori.</ref>
         </p>
         <p xml:id="cy8th8-d1e111-d1e455">
-           Et 
-          quia ex grauitate pene que infligitur in prohibitionem alicuius 
-          actus arguitur grauitas culpe: ideo quotiens <sic>legis<!-- edition has "leges" but cleary "legis" in this ms --></sic> humane aliquem
-          actum prohibent sub pena mortis aut mutilationis uel damnationis 
-          in metalum: semper contrarium faciendo peccatur mortaliter 
-          <seg type="correction">se<subst><del rend="strikethrough">a</del><add place="above-line">cundum</add></subst></seg> doctores et s. Thomam, cum leges humane iuste obligent 
-          in foro conscientie quia non infligitur talis pena: nisi pro eo quod 
-          multum esset lesiuum iustitie ac bono reipublice facit ad <ref xml:id="cy8th8-d1e111-Rd1e487" target="http://scta.info/resource/azsw2e-d1e5822-Dd1e137">supra dicta 
-          l. qui sepulchra Codex eo titulo</ref> Quanquam de huiusmodi legibus executioni 
-          mandandis parum immo nulla cura fuit nostris magistratibus
-          in indiarum partibus ubi dicitur: <quote xml:id="cy8th8-d1e111-Qd1e497" source="http://scta.info/resource/azsw2e-d1e5822-d1e141@3-23">qui sepulchra uiolant 
-          domos (ut ita dixerim) defunctorum geminum uidentur facinus 
-          perpetrare. Nam et sepultos spoliant destruendo: et uiuos 
-          polluunt fabricando</quote>. Polluunt uidelicet iniuriam inferendo etc.
+          <pc type="pilcrow">¶</pc> Et quia ex grauitate pene quae infligi<lb ed="#Sa" break="no" n="11"/>tur 
+          in prohibitionem alicuius actus, arguitur graui<lb ed="#Sa" break="no" n="12"/>tas 
+          culpae: Ideo quotiens <sic>leges</sic> humanae aliquem
+          <lb ed="#Sa" n="13"/>actum prohibent sub pena mortis aut mutilatio<lb ed="#Sa" break="no" n="14"/>nis 
+          vel damnationis in metallum: semper contra<lb ed="#Sa" break="no" n="15"/>rium 
+          faciendo peccatur mortaliter secundum doctores et 
+          <lb ed="#Sa" n="16"/>S. Thomam Cum leges humanae iuste obligent in 
+          <lb ed="#Sa" n="17"/>foro conscientiae. quia non infligitur talis pena: 
+          <lb ed="#Sa" n="18"/>nisi pro eo quod multum esset lesiuum iustitiae 
+          <lb ed="#Sa" n="19"/>ac bono reipublicae. facit ad <ref xml:id="cy8th8-d1e111-Rd1e487">supra dicta l. qui 
+          <lb ed="#Sa" n="20"/>sepulchra C. eo titulo</ref> Quanquam de huiusmodi legibus 
+          <lb ed="#Sa" n="21"/>executioni mandandis parum immo nulla cura fuit 
+          <lb ed="#Sa" n="22"/>nostris magistratibus in Indiarum partibus Ubi 
+          <lb ed="#Sa" n="23"/>dicitur: <quote xml:id="cy8th8-d1e111-Qd1e497">qui sepulchra violant, domos (vt ita dixerim) 
+          <lb ed="#Sa" n="24"/>defunctorum <pc type="virgula">/</pc> geminum videntur facinus perpe<lb ed="#Sa" break="no" n="25"/>trare: 
+          Nam et sepultos spoliant destruendo: et uiuos polluunt fabricando</quote>. Polluunt videlicet in<lb ed="#Sa" break="no" n="26"/>iuriam 
+          inferendo etc.
         </p>
         <p xml:id="cy8th8-d1e111-d1e508">
-           3a vero pars conclusionis scilicet quod nisi thesauros et alias res preciosas 
-          et queque bona ex sepulchris ablata propriis dominis vel 
-          heredibus restituant et de peccato penitentiam egerint non 
-          possint saluari et precedenti generali conclusione cum sua probatione 
-          est clara. Nihilominus tamen denuo uolumus eam 
-          probare. Et arguitur 1o sic. Nemo potest saluari sine penitentia 
-          post peccatum mortale. Sed detinens alienum et non restituens 
-          non agit penitentiam  sed simulat ut <ref xml:id="cy8th8-d1e111-Rd1e532">Augustinus 
-          dixit Ad Macedonium</ref> et habetur in <ref xml:id="cy8th8-d1e111-Rd1e537" target="http://scta.info/resource/gd-p2c14q6-d1e117">d. c. si res</ref>. ergo illi qui thesauros 
-          iam dictos abstulerunt uel ablaturi sunt ex sepulchris 
-          sine licentia dominorum nisi restituerint illos ad quos pertinent: 
-          inpenitentes morientur et per consequens impossibile erit saluari.
+          <pc type="pilcrow">¶</pc> 3a vero pars conclusionis 
+          <lb ed="#Sa" n="27"/>scilicet quod nisi thesauros et alias res preciosas 
+          <lb ed="#Sa" n="28"/>et queque bona ex sepulchris ablata propriis dominis 
+          <lb ed="#Sa" n="29"/>vel heredibus restituant et de peccato peniten<lb ed="#Sa" break="no" n="30"/>tiam 
+          egerint: non possint saluari. Iam ex 
+          <lb ed="#Sa" n="31"/>precedenti generali conclusione cum sua probatio<lb ed="#Sa" break="no" n="32"/>ne 
+          est clara. Nihilominus tamen denuo vo<pb ed="#Sa" n="14-r"/><lb ed="#Sa" n="1"/>lumus 
+          eam probare. Et arguitur 1o sic. Ne<lb ed="#Sa" break="no" n="2"/>mo 
+          potest saluari sine penitentia post peccatum 
+          <lb ed="#Sa" n="3"/>mortale. Sed detinens alienum et non restituens 
+          <lb ed="#Sa" n="4"/>non agit penitentiam, sed simulat vt <ref xml:id="cy8th8-d1e111-Rd1e532">Augustinus 
+          <lb ed="#Sa" n="5"/>dixit ad Macedonium</ref> et habetur in <ref xml:id="cy8th8-d1e111-Rd1e537">d. c. si res</ref> ergo 
+          <lb ed="#Sa" n="6"/>illi qui thesauros iam dictos abstulerunt vel ablatu<lb ed="#Sa" break="no" n="7"/>ri 
+          sunt ex sepulchris sine licentia dominorum: ni<lb ed="#Sa" break="no" n="8"/>si 
+          restituerint illos ad quos pertinent: inpeniten<lb ed="#Sa" break="no" n="9"/>tes 
+          morientur, et per consequens impossibile erit saluari.
         </p>
         <p xml:id="cy8th8-d1e111-d1e548">
-           2o arguitur sic sine obseruatione iustitie impossibile est quemquam
-          saluari: Sed auferentes thesauros et diuitias iam dictas 
-          ex alienis sepulchris faciunt contra iustitiam. ergo nisi eas res<pb ed="#B" n="10-v"/>tituant 
-          quod est actus iustitie impossibile est ut possint saluari.
+          <lb ed="#Sa" n="10"/><pc type="pilcrow">¶</pc> 2o arguitur sic sine obseruatione iustitiae 
+          <lb ed="#Sa" n="11"/>impossibile est quenquam saluari: sed auferentes thesau<lb ed="#Sa" break="no" n="12"/>ros 
+          et diuitias Iam dictas ex alienis sepulchris 
+          <lb ed="#Sa" n="13"/>faciunt contra iustitiam. ergo nisi eas restituant 
+          <lb ed="#Sa" n="14"/>quod est actus iustitiae impossibile est vt pos<lb ed="#Sa" break="no" n="15"/>sint 
+          saluari.
         </p>
         <p xml:id="cy8th8-d1e111-d1e565">
-           3o arguitur impossibile est quemquam saluari nisi 
-          ei dimittat peccatum mortale. Sed detinere alienum etiam per 
-          momentum inuito domino est peccatum mortale quemadmodum 
-          et furari uel rapere propter quod dicitur <ref xml:id="cy8th8-d1e111-Rd1e576">Ecclesiastici 21</ref>: <quote xml:id="cy8th8-d1e111-Qd1e579" source="http://scta.info/resource/sir21_2@1-6">quasi a facie colubri fuge peccatum</quote>. Qui tamen non restituendo 
-          predicta que ex sepulchris furantur vel rapiunt sunt 
-          semper in peccato mortali ergo impossibile est eos posse saluari
+          <pc type="pilcrow">¶</pc> 3o arguitur: impossibile est quem<lb ed="#Sa" break="no" n="16"/>quam 
+          saluari nisi dimittat peccatum mortale. Sed 
+          <lb ed="#Sa" n="17"/>detinere alienum etiam per momentum inuito 
+          <lb ed="#Sa" n="18"/>domino est peccatum mortale quemadmodum et 
+          <lb ed="#Sa" n="19"/>furari vel rapere. Propter quod dicitur <ref xml:id="cy8th8-d1e111-Rd1e576">Ecclesiastici 21</ref> 
+          <lb ed="#Sa" n="20"/><quote xml:id="cy8th8-d1e111-Qd1e579">quasi a facie colubri fuge peccatum</quote>. qui tamen 
+          <lb ed="#Sa" n="21"/>non restituendo predicta quae ex sepulchris fu<lb ed="#Sa" break="no" n="22"/>rantur 
+          vel rapiunt sunt semper in peccato 
+          <lb ed="#Sa" n="23"/>mortali. ergo impossibile est eos posse saluari
         </p>
         <p xml:id="cy8th8-d1e111-d1e589">
-           4o impossibile est quenquam saluari qui debitum pecuniarum
-          debet et non reddit uel soluit: sicut per <ref xml:id="cy8th8-d1e111-Rd1e596">apostolum ad
-          Romanos 13</ref>: <quote xml:id="cy8th8-d1e111-Qd1e601" source="http://scta.info/resource/rom13_7@1-15 http://scta.info/resource/rom13_8@1-7">omnibus reddite debitum cui tributum tributum cui
-          vectigal <sic>vectigal</sic>  cui honorem <sic>honorem</sic> et nemini quicquam <sic>debeati</sic>
-          nisi vt inuicem <sic>debeatis</sic></quote>.<!--edition has "diligatis" with indication of ms reading --> Unde premisso quod omnibus 
-          debita reddenda sint ne forte parum dixisse videretur cum hoc 
-          sonet affirmatiuum preceptum: negatiuum subiunxit: <quote xml:id="cy8th8-d1e111-Qd1e624" source="http://scta.info/resource/rom13_8@1-3">nemini 
-          quicquam debeatis</quote>: quasi dicat <mentioned>in deum committitis si quod cuiquam debetis
-          eo inuito detinueritis</mentioned>. Sed illi qui sepulchra spoliant et 
-          thesauros inde animo sibi retinendi tollunt inuitis dominis sunt 
-          debitores eorum et precepto diuino reddere obligantur ergo si non reddant
-          impossibile est eos saluari.
+          <pc type="pilcrow">¶</pc> 
+          <lb ed="#Sa" n="24"/>4o impossibile est quenquam saluari, qui debitum 
+          <lb ed="#Sa" n="25"/>pecuniarum debet et non reddit vel soluit: si<lb ed="#Sa" break="no" n="26"/>cut 
+          per <ref xml:id="cy8th8-d1e111-Rd1e596">apostolum ad Romanos 13</ref> <quote xml:id="cy8th8-d1e111-Qd1e601">omnibus reddite debi<lb ed="#Sa" break="no" n="27"/>tum 
+          cui tributum tributum <pc type="virgula">/</pc> cui vectigal <sic>vecti<lb ed="#Sa" break="no" n="28"/>gal</sic> 
+          cui honorem <sic>honorem</sic>: et nemini quicquam debea<lb ed="#Sa" break="no" n="29"/>tis 
+          nisi ut inuicem <sic>debeatis</sic></quote>. Unde premisso quod 
+          <lb ed="#Sa" n="30"/>omnibus debita reddenda sint, ne forte parum di<lb ed="#Sa" break="no" n="31"/>xisse 
+          videretur, cum hoc sonet affirmatiuum pre<lb ed="#Sa" break="no" n="32"/>ceptum: negatiuum subiunxit <quote xml:id="cy8th8-d1e111-Qd1e624">nemini quicquam
+          <pb ed="#Sa" n="14-v"/>
+          <lb ed="#Sa" n="1"/>debeatis</quote>: quasi dicat <mentioned>in deum committitis si quod 
+          <lb ed="#Sa" n="2"/>cuiquam debetis eo inuito detinueritis</mentioned>. Sed illi qui 
+          <lb ed="#Sa" n="3"/>sepulchra spoliant et thesauros inde animo sibi 
+          <lb ed="#Sa" n="4"/>detinendi tollunt inuitis dominis sunt debitores 
+          <lb ed="#Sa" n="5"/>eorum et precepto diuino reddere obligantur ergo si 
+          <lb ed="#Sa" n="6"/>non reddant impossibile est eos saluari.
         </p>
         <p xml:id="cy8th8-d1e111-d1e639">
-            § 5o arguitur Nemo eorum qui aliquod nocumentum 
-          notabile infert proximo nisi <sic>resartiat</sic> et tollat illud: 
-          potest saluari quoniam omne nocumentum alteri illatum ex se repugnat 
-          seu contrariatur charitati que est anime vita et mouet 
-          ad volendum et faciendum bonum alterius. Sed omnes illi qui 
-          tollunt predictos thesauros inuitis dominis inferunt nocumentum 
-          notabile scilicet impediendo ne suis bonis et diuitiis que 
-          ad honorem laudem et gloriam suam et maiorum suorum in sepulchris 
-          illis reposita sunt fruantur et gaudeant. Item inferunt 
-          eis aliud maius nocumentum quod <!--edition has "est" but that is not in ms--> ut pereat memoria suorum 
-          parentum et suam: similiter honor et laus et gloria et nomen 
-          et fama in quibus precipue totum suum interesse felicitatemque 
-          ponebant extinguatur: sunt in causa. Unde maxime illis iniuriantur 
-          ergo nisi per restitutionem tot thesaurorum ablatorum 
-          inuitis dominis eiusmondi nocumenta tollant et resartiant impossibile 
-          est eos saluari. Carent enim <!--edition has nempe, but i would read as "enim" for .n.--> charitate atque proinde mortuas 
-          habent animas 
+          <pc type="pilcrow">¶</pc> 5o ne<lb ed="#Sa" break="no" n="7"/>mo 
+          eorum qui aliquod nocumentum notabile in<lb ed="#Sa" break="no" n="8"/>fert 
+          proximo, nisi <sic>resartiat</sic> et tollat illud: potest 
+          <lb ed="#Sa" n="9"/>saluari. quoniam omne nocumentum alteri illatum 
+          <lb ed="#Sa" n="10"/>ex se repugnat seu contrariatur charitati quae 
+          <lb ed="#Sa" n="11"/>est animae vita, et mouet ad volendum et facien<lb ed="#Sa" break="no" n="12"/>dum 
+          bonum alterius. Sed omnes illi qui tollunt 
+          <lb ed="#Sa" n="13"/>predictos thesauros inuitis dominis: inferunt 
+          <lb ed="#Sa" n="14"/>nocumentum notabile scilicet impediendo ne suis 
+          <lb ed="#Sa" n="15"/>bonis et diuitiis quae ad honorem / laudem et 
+          <lb ed="#Sa" n="16"/>gloriam suam et maiorum suorum in sepulchris 
+          <lb ed="#Sa" n="17"/>illis reposita sunt fruantur et gaudeant. Item 
+          <lb ed="#Sa" n="18"/>inferunt eis aliud maius nocumentum: quod ut pereat me<lb ed="#Sa" break="no" n="19"/>moria 
+          suorum parentum et suam: similiter ho<lb ed="#Sa" break="no" n="20"/>nor 
+          et laus et gloria <pc type="virgula">/</pc> et nomen et fama in qui<lb ed="#Sa" break="no" n="21"/>bus 
+          precipue totum suum interesse feli<add place="above-line">ci</add>tatemque 
+          ponebant extinguatur: sunt in causa: vnde ma<lb ed="#Sa" break="no" n="22"/>xime 
+          illis iniuriantur ergo nisi per restitutionem 
+          <lb ed="#Sa" n="23"/>tot thesaurorum ablatorum inuitis dominis eius
+          <lb ed="#Sa" n="24"/>modi nocumenta tollant et resartiant: impossibile est 
+          <lb ed="#Sa" n="25"/>eos saluari. Carent enim charitate atque proinde 
+          <lb ed="#Sa" n="26"/>mortuas habent animas 
         </p>
         <p xml:id="cy8th8-d1e111-d1e689">
-           Pars autem 4a <seg type="correction">conclusion<subst><del>e</del><add place="in-line">i</add></subst>s</seg> etiam probatur scilicet quod de iniuria 
-          quam uiuis et mortuis inferunt teneantur penitere atque pro posse 
-          satisfacere. Quantum ad penitere clarum est: cum ex suo peccato 
-          mortali furti uel rapine sequatur in proximis illud iniurie 
-          malum et hoc etiam si non habuissent iniuriandi animum: sed fu<pb ed="#B" n="11-r"/>randi 
-          vel rapiendi thesauros duntaxat: quia qui occasionem 
-          damni: dat ipsum damnum dedisse uidetur <ref xml:id="cy8th8-d1e111-Rd1e717" target="http://scta.info/resource/cice-l5t36-d1e237">c. si culpa de iniuriis 
-          et damno dato</ref>. si autem intenderent iniuriam irrogare causa 
-          minuendi honoris uel opinionis ultra peccatum, quia est contra 
-          proximi charitatem quem diligere sicut et nos tenemur 
-          <ref xml:id="cy8th8-d1e111-Rd1e728" target="http://scta.info/resource/mt22_37 http://scta.info/resource/mt22_38 http://scta.info/resource/mt22_39 http://scta.info/resource/mt22_40">Mattheus 22</ref> et <ref xml:id="cy8th8-d1e111-Rd1e731" target="http://scta.info/resource/gd-p2c8q1-Dd1e192"><!-- target inprecise -->8, questione 1, c. in <sic>scripturis</sic></ref> et <ref xml:id="cy8th8-d1e111-Rd1e736">de penitentia, dist. 2, c. charitas 
-          <unclear>el. 2o<!-- unclear what this is a ref to--></unclear></ref> <ref xml:id="cy8th8-d1e111-Rd1e744" target="http://scta.info/resource/azsw2e-d1e6001-d1e130">Codex, de iniuriis, l. si non es nunciator</ref>.
+          <pc type="pilcrow">¶</pc> Pars autem 4a conclusionis etiam probatur scili<lb ed="#Sa" break="no" n="27"/>cet 
+          quod de iniuria quam viuis et mortuis infe<lb ed="#Sa" break="no" n="28"/>runt 
+          teneantur penitere atque pro posse satisfa<lb ed="#Sa" break="no" n="29"/>cere. 
+          Quantum ad penitere clarum est: cum ex 
+          <lb ed="#Sa" n="30"/>suo peccato mortali furti vel rapinae sequatur 
+          <pb ed="#Sa" n="15-r"/>
+          <lb ed="#Sa" n="1"/>in proximis illud iniuriae malum et hoc etiam si 
+          <lb ed="#Sa" n="2"/>non habuissent iniuriandi animum: sed furandi 
+          <lb ed="#Sa" n="3"/>vel rapiendi thesauros duntaxat: quia qui occasio<lb ed="#Sa" break="no" n="4"/>nem 
+          damni dat ipsum damnum dedisse videtur 
+          <lb ed="#Sa" n="5"/><ref xml:id="cy8th8-d1e111-Rd1e717">c. si culpa de iniuriis et damno dato</ref> si autem in<lb ed="#Sa" break="no" n="6"/>tenderent 
+          iniuriam irrogare causa minuendi 
+          <lb ed="#Sa" n="7"/>honoris vel opinionis vltra peccatum. quia 
+          <lb ed="#Sa" n="8"/>est contra proximi charitatem quem diligere 
+          <lb ed="#Sa" n="9"/>sicut et nos tenemur <ref xml:id="cy8th8-d1e111-Rd1e728">Mattheus 22</ref> et <ref xml:id="cy8th8-d1e111-Rd1e731">8, questione 1 
+          <lb ed="#Sa" n="10"/>c. in scripturis</ref> et <ref xml:id="cy8th8-d1e111-Rd1e736">de penitentia, dist. 2, c. charitas 
+            <lb ed="#Sa" n="11"/>el. 2o</ref> <ref xml:id="cy8th8-d1e111-Rd1e744">C. de iniuriis, l. si non es nunciator</ref>.
         </p>
         <p xml:id="cy8th8-d1e111-d1e749">
-           Quantum 
-          uero ad satisfacere pro posse, per <ref xml:id="cy8th8-d1e111-Rd1e756">d. c. si culpa</ref>, ubi sic dicitur  
-          <quote xml:id="cy8th8-d1e111-Qd1e762" source="http://scta.info/resource/cice-l5t36-d1e237@1-44">Si culpa tua datum est damnum vel iniuria irrogata: seu aliis
-          irrogantibus opem forte tulisti: aut hec imperitia tua siue 
-          negligentia euenerunt iure super his satisfacere oportet nec 
-          ignorantia te excusat si scire debuisti ex facto tuo iniuriam 
-          uerissimiliter posse contingere uel iacturam</quote>. hec ibi. cuius ratio 
-          est secundum <ref xml:id="cy8th8-d1e111-Rd1e776">S. Thomam</ref> ubi allegabitur infra: <quote xml:id="cy8th8-d1e111-Qd1e778">quia distincta 
-          sunt restitutio et satisfactio. Non enim restitutio est pars satisfactionis. 
-          Et ideo de offensa vel iniuria homo ledens proximum 
-          ei non reconciliatur per hoc quod sua ei restituit: sed per 
-          hoc quod supra hoc aliquid humilitatis ei exhibet</quote>.
+          <pc type="pilcrow">¶</pc> 
+          <lb ed="#Sa" n="12"/>Quantum vero ad satisfacere pro posse per <ref xml:id="cy8th8-d1e111-Rd1e756">d. c. 
+          <lb ed="#Sa" n="13"/>si culpa</ref> ubi sic dicitur <quote xml:id="cy8th8-d1e111-Qd1e762">Si culpa tua datum 
+          <lb ed="#Sa" n="14"/>est damnum vel iniuria irrogata: seu aliis irro<lb ed="#Sa" break="no" n="15"/>gantibus 
+          opem forte tulisti: aut haec imperitia 
+          <lb ed="#Sa" n="16"/>tua siue negligentia euenerunt: iure super his 
+          <lb ed="#Sa" n="17"/>satisfacere oportet <pc type="virgula">/</pc> nec ignorantia te excusat si 
+          <lb ed="#Sa" n="18"/>scire debuisti ex facto tuo iniuriam verissimili<lb ed="#Sa" break="no" n="19"/>ter 
+          posse contingere vel iacturam</quote>. hec ibi. Cu<lb ed="#Sa" break="no" n="20"/>ius 
+          ratio est secundum <ref xml:id="cy8th8-d1e111-Rd1e776">S. Thomam</ref> ubi allegabitur 
+          <lb ed="#Sa" n="21"/>infra: <quote xml:id="cy8th8-d1e111-Qd1e778">quia distincta sunt restitutio et satisfa<lb ed="#Sa" break="no" n="22"/>ctio. 
+          Non enim restitutio est pars satisfactionis. 
+          <lb ed="#Sa" n="23"/>et ideo de offensa vel iniuria homo ledens proxi<lb ed="#Sa" break="no" n="24"/>mum 
+          ei non reconciliatur per hoc quod sua ei res<lb ed="#Sa" break="no" n="25"/>tituit: 
+          sed per hoc quod supra hoc aliquid humilita<lb ed="#Sa" break="no" n="26"/>tis 
+          ei exhibet</quote>.
         </p>
         <p xml:id="cy8th8-d1e111-d1e790">
-            Quod 
-          autem iniuriam fecerint et iacturam eiusmodi fures vel 
-          potius predones seu raptores prefati: probatur. quia tollunt 
-          defunctis totum esse suum perpetuum scilicet uiuere in memoria 
-          et opinionibus hominum et per consequens uiuis auferunt 
-          totaliter honorem laudem et gloriam. Et hec est atrocissima 
-          utriusque iniuria. ut <ref xml:id="cy8th8-d1e111-Rd1e808">instit. de iniuriis, § atrox</ref>. Et hec tanto 
-          est grauior: quanto in plures redundat. Sicut grauior est 
-          que infertur principi quam alicui priuate persone: quia redundat 
-          in iniuriam totius multitudinis. 
-          
-           Cum igitur hec iniuria 
-          redundet in totam <sic>demum<!-- edition has "domum" but ms clearly has "demum"--></sic> progeniem seu cognationem regalem
-          ipsorum regum et regulorum: imo in uniuersas illas regnorum
-          suorum communitates ut ex dictis apparet: et <ref xml:id="cy8th8-d1e111-Rd1e830" target="http://scta.info/resource/bgy6gt-d1e2474-Dd1e458">argumentum de legatis 
-          3, l. nutu, in fine</ref>; et <ref xml:id="cy8th8-d1e111-Rd1e836" target="http://scta.info/resource/gd-p2c32q7-Dd1e272">argumentum 32, q. 7, capitulo offerebat</ref> et fit dedecus 
-          totius cognationis fulgori <ref xml:id="cy8th8-d1e111-Rd1e840" target="http://scta.info/resource/azsw2e-d1e226-Dd1e105">l. 1, Codex, de senatus consultis</ref> claudit tollendo. 
-          Ideo ceteris paribus ex hoc ipso iniuria huiusmodi maxime 
-          <del rend="strikethrough">agra</del> aggrauatur. de hoc <ref xml:id="cy8th8-d1e111-Rd1e849">S. Thomas 2 2e q. 65 a. 4</ref> et 
-          alibi. Unde pro hac illata iniuria non solum descendentes omnes 
-          et tota regalis cognatio: uerum etiam uniuerse regnorum 
-          illorum communitates possunt etiam nomine proprio agere 
-          <pb ed="#B" n="11-v"/>
-          iniuriatum contra eos <ref xml:id="cy8th8-d1e111-Rd1e862" target="http://scta.info/resource/bgy6gt-d1e4806-d1e173">ff. quando appellandum sit l. 2, § pen.</ref> et <ref xml:id="cy8th8-d1e111-Rd1e865" target="http://scta.info/resource/bgy6gt-d1e4806-d1e176">§ 
-            fine</ref> et <ref xml:id="cy8th8-d1e111-Rd1e870" target="http://scta.info/resource/bgy6gt-d1e4773-d1e214">De appellationibus, l. non tantum</ref> et <ref xml:id="cy8th8-d1e111-Rd1e873" target="http://scta.info/resource/bgy6gt-d1e4335-d1e823">de iniuriis, l. cum possit</ref> fit 
-          nempe iniuria domui et sunt tres leges 1 et 2 et 3 optime ad 
-          propositum <ref xml:id="cy8th8-d1e111-Rd1e881"><sic>ff<!--edition has Codex but ms clearly has "ff" --></sic> de liberali causa</ref> et <ref xml:id="cy8th8-d1e111-Rd1e887"><sic>ff<!--edition has Codex but ms clearly has "ff" --></sic> Qui et aduersus quos, l. 
-          in fine</ref>.
+          <pc type="pilcrow">¶</pc> Quod autem iniuriam fecerint 
+          <lb ed="#Sa" n="27"/>et iacturam eiusmodi fures vel potius predones seu 
+          <lb ed="#Sa" n="28"/>raptores prefati: probatur. quia tollunt defunctis to<lb ed="#Sa" break="no" n="29"/>tum 
+          esse suum perpetuum scilicet viuere in me<lb ed="#Sa" break="no" n="30"/>moria 
+          et opinionibus hominum: et per consequens viuis 
+          <pb ed="#Sa" n="15-v"/>
+          <lb ed="#Sa" n="1"/>auferunt totaliter honorem laudem et gloriam. 
+          <lb ed="#Sa" n="2"/>et hec est attrocissima vtriusque iniuria. vt <ref xml:id="cy8th8-d1e111-Rd1e808">instit. de 
+          <lb ed="#Sa" n="3"/>iniuriis, § attrox</ref>. Et haec tanto est grauior: quanto 
+          <lb ed="#Sa" n="4"/>in plures redundat. Sicut grauior est quae infer<lb ed="#Sa" break="no" n="5"/>tur 
+          principi quam alicui priuate personae: quia redundat 
+          <lb ed="#Sa" n="6"/>in iniuriam totius multitudinis. 
+          <!-- para break point ? -->
+          <pc type="pilcrow">¶</pc> Cum igitur 
+          <lb ed="#Sa" n="7"/>hec iniuria redundet in totam domum progeni<lb ed="#Sa" break="no" n="8"/>em 
+          seu cognationem regalem ipsorum regum et 
+          <lb ed="#Sa" n="9"/>regulorum: immo in uniuersas illas regnorum
+          <lb ed="#Sa" n="10"/>suorum communitates ut ex dictis apparet: et <ref xml:id="cy8th8-d1e111-Rd1e830">argumentum 
+          <lb ed="#Sa" n="11"/>de legatis 3, l. nutu, in fine</ref>; et <ref xml:id="cy8th8-d1e111-Rd1e836">argumentum 32, q. 7, 
+          <lb ed="#Sa" n="12"/>capitulo offerebat</ref> et fit dedecus totius cognationis 
+          <lb ed="#Sa" n="13"/>fulgori <ref xml:id="cy8th8-d1e111-Rd1e840">l. 1, Codex, de senatus consultis</ref> claudit tol<lb ed="#Sa" break="no" n="14"/>lendo. 
+          Ideo ceteris paribus ex hoc ipso iniuria huiusmodi 
+          <lb ed="#Sa" n="15"/>maxime aggrauatur. de hoc <ref xml:id="cy8th8-d1e111-Rd1e849">S. Thomas 2a 2e 
+          <lb ed="#Sa" n="16"/>q. 65 articulo 4</ref> et alibi vnde pro hac illata in<lb ed="#Sa" break="no" n="17"/>iuria 
+          non solum descendentes omnes et tota re<lb ed="#Sa" break="no" n="18"/>galis 
+          cognatio: verum etiam uniuerse regnorum 
+          <lb ed="#Sa" n="19"/>illorum communitates possunt etiam nomine proprio 
+          <lb ed="#Sa" n="20"/>agere iniuriatum contra eos <ref xml:id="cy8th8-d1e111-Rd1e862">ff. quando appellandum sit 
+          <lb ed="#Sa" n="21"/>l. 2, § pen.</ref> et <ref xml:id="cy8th8-d1e111-Rd1e865">§ fine</ref> et <ref xml:id="cy8th8-d1e111-Rd1e870">De appellationibus, l. non 
+          <lb ed="#Sa" n="22"/>tantum</ref> et <ref xml:id="cy8th8-d1e111-Rd1e873">de iniuriis, l. cum possit</ref> fit enim in<lb ed="#Sa" break="no" n="23"/>iuria 
+          domui et sunt tres leges 1 et 2 et 3 
+          <lb ed="#Sa" n="24"/>optime ad propositum <ref xml:id="cy8th8-d1e111-Rd1e881"><sic>ff</sic> de liberali causa</ref> et <ref xml:id="cy8th8-d1e111-Rd1e887"><sic>ff</sic> Qui 
+          <lb ed="#Sa" n="25"/>et aduersus quos l. fine</ref>.
         </p>
         <p xml:id="cy8th8-d1e111-d1e896">
-           Nonne iniuriosum esset apud nos tollere uexilla scuta 
-          insignia nobilium magnatumque hyspanie et longe magis regum 
-          que in capellis ecclesiarum recondere consueuerunt: et insuper 
-          tumulos vel tymbos presertim quando sunt auro textis uel sericis 
-          cooperti uel suppellectilibus aliis preciosis: aut vasis aureis siue 
-          argenteis adornati. Certe nemo nobilium hyspaniarum saltem 
-          (quicquid sit apud alias nationes) non egerrime sustineret: ac 
-          pro <sic>pose</sic> non iniuriam hanc vindicare acerrime conaretur: 
-          existimans proprium honorem et predecessorum suorum gloriam 
-          et laudem et famam sumopere ledi. Pertinet nanque 
-          illa (sicut sepe dictum est) ad diminutionem vel potius <sic>dilectionem<!--edition has "deletionem"--></sic>
-          honoris et glorie siue fame viuorum et mortuorum. Et 
-          hoc est magnum interesse utrorumque ergo oportet taliter ledentes 
-          pro iniuria satisfacere ultra necessariam restitutionem.
+          <pc type="pilcrow">¶</pc> Nonne iniuriosum 
+          <lb ed="#Sa" n="26"/>esset apud nos tollere vexilla <pc type="virgula">/</pc> scuta <pc type="virgula">/</pc> insignia <pc type="virgula">/</pc> no<lb ed="#Sa" break="no" n="27"/>bilium 
+          magnatumque hyspaniae, et longe magis re<lb ed="#Sa" break="no" n="28"/>gum 
+          quae in capellis ecclesiarum recondere con<lb ed="#Sa" break="no" n="29"/>sueuerunt: 
+          et insuper tumulos vel tymbos pre<lb ed="#Sa" break="no" n="30"/>sertim 
+          quando sunt auro textis vel sericis coo<lb ed="#Sa" break="no" n="31"/>perti 
+          vel suppellectilibus aliis preciosis: aut va<pb ed="#Sa" n="16-r"/><lb ed="#Sa" break="no" n="1"/>sis 
+          aureis siue argenteis adornati? Certe nemo 
+          <lb ed="#Sa" n="2"/>nobilium hyspaniarum saltem (quicquid sit apud 
+          <lb ed="#Sa" n="3"/>alias nationes) non egerrime sustineret: ac pro posse 
+          <lb ed="#Sa" n="4"/>non iniuriam hanc vindicare accerrime conaretur: 
+          <lb ed="#Sa" n="5"/>existimans proprium honorem et predecessorum suo<lb ed="#Sa" break="no" n="6"/>rum 
+          gloriam et laudem et famam sumopere ledi. 
+          <lb ed="#Sa" n="7"/>Pertinet nanque illa (sicut sepe dictum est) ad di<lb ed="#Sa" break="no" n="8"/>minutionem 
+          vel potius <sic>dilectionem<!--edition has "deletionem"--></sic> honoris et glo<lb ed="#Sa" break="no" n="9"/>riae 
+          siue fame viuorum et mortuorum. Et hoc est 
+          <lb ed="#Sa" n="10"/>magnum interesse utrorumque ergo oportet taliter le<lb ed="#Sa" break="no" n="11"/>dentes 
+          pro iniuria satisfacere vltra necessariam 
+          <lb ed="#Sa" n="12"/>restitutionem.
         </p>
         <p xml:id="cy8th8-d1e111-d1e936">
-           Et si iuridice etiam ciuiliter agatur <sic>istabitur</sic> iuramento uiuorum
-          quantum ad <sic>stimationem</sic> tanquam legitime probationi. Ut patet 
-          in <ref xml:id="cy8th8-d1e111-Rd1e951" target="http://scta.info/resource/cice-l5t36-d1e207">c. olim de iniuriis et damno dato</ref> et <ref xml:id="cy8th8-d1e111-Rd1e954" target="http://scta.info/resource/azsw2e-d1e5001-Dd1e190">C. Unde vi, l. si quando</ref> et 
-          <ref xml:id="cy8th8-d1e111-Rd1e957">2, q. 1, c. in primis</ref>; et de his que <ref xml:id="cy8th8-d1e111-Rd1e959">ui met. cau. fi, c. ultimo</ref>. 
-          et iuramentum debet talis forme esse: <quote xml:id="cy8th8-d1e111-Qd1e964">Nos talis iuramus quod 
-          prius vellemus tot millia de nostro amittere: quam talem iniuriam
-          nos passos fuisse</quote>. Crescit autem <!--edition has "autem aut" --> minuitur iniurie estimatio
-          secundum gradum dignitatis persone passe iniuriam. ut 
-          <ref xml:id="cy8th8-d1e111-Rd1e975">d. § attrox et § pena insti. de iniuriis</ref>. Est namque manifestum 
-          in casu nostro quod rationabiliter atque probabiliter quisquis 
-          sit iudicabit quod cum illis quibus iniuria est illata Reges et magni 
-          ac potentissimi et locupletissimi domini existerent: et tanti 
-          fecerint sepulchra sua propter honorem laudem et gloriam 
-          utpote cunctis opibus preeminentia et mortui preferenda 
-          vt ex dictis clarum est: estimatio quam facerent iniuriarum 
-          quas in huiusmodi a nostris sunt passi non esset qualiscumque:
-          sed millia millium et centies centena millium. Quoniam reuera 
-          eiusmodi <sic>estimatio<!--edition has "estimationis"--></sic> apud ipsos et etiam apud Philosophos et 
-          sapientes quoslibet huius mundi nulla est comparatio ergo grandis
-          restat eiusmodi predonibus ultra restitutionem tot thesau<pb ed="#B" n="12-r"/>rorum 
-          raptorum <sic>satisfactio<!-- edition has "satisfacto" --></sic> et sic saluandi uia.
+          <pc type="pilcrow">¶</pc> Et si iuridice etiam ciuiliter agatur: 
+          <lb ed="#Sa" n="13"/>stabitur iuramento viuorum quantum ad <sic>stimatio<lb ed="#Sa" break="no" n="14"/>nem</sic> 
+          tanquam legitimae probationi. Ut patet in <ref xml:id="cy8th8-d1e111-Rd1e951">c. 
+          <lb ed="#Sa" n="15"/>olim de iniuriis et damno dato</ref> et <ref xml:id="cy8th8-d1e111-Rd1e954">C. Unde vi, l. si 
+          <lb ed="#Sa" n="16"/>quando</ref> et <ref xml:id="cy8th8-d1e111-Rd1e957">2, q. 1, c. in primis</ref>. et de his quae 
+          <lb ed="#Sa" n="17"/><ref xml:id="cy8th8-d1e111-Rd1e959">ui met. cau. fi, c. ultimo</ref>. Et iuramentum 
+          <lb ed="#Sa" n="18"/>debet talis forme esse. <quote xml:id="cy8th8-d1e111-Qd1e964">Nos talis iuramus quod prius 
+          <lb ed="#Sa" n="19"/>vellemus tot millia de nostro amittere: quam talem iniu<lb ed="#Sa" break="no" n="20"/>riam
+          nos passos fuisse</quote>. Crescit autem aut minuitur 
+          <lb ed="#Sa" n="21"/>iniurie aestimatio secundum gradum dignitatis personae passae 
+          <lb ed="#Sa" n="22"/>iniuriam vt <ref xml:id="cy8th8-d1e111-Rd1e975">d. § attrox. et § pena insti. de 
+          <lb ed="#Sa" n="23"/>iniuriis</ref>. Est nanque manifestum in casu nostro quod ratio<lb ed="#Sa" break="no" n="24"/>nabiliter 
+          atque probabiliter quisquis sit iudicabit, 
+          <lb ed="#Sa" n="25"/>quod cum <sic>illi</sic> quibus iniuria est illata Reges et magni 
+          <lb ed="#Sa" n="26"/>ac potentissimi et locupletissimi domini existerent: 
+          <lb ed="#Sa" n="27"/>et tanti fecerint sepulchra sua propter honorem <pc type="virgula">/</pc> laudem 
+          <lb ed="#Sa" n="28"/>et gloriam utpote cunctis opibus preeminentia et mor<lb ed="#Sa" break="no" n="29"/>ti 
+          preferenda vt ex dictis clarum est: estimatio quam 
+          <lb ed="#Sa" n="30"/>facerent iniuriarum quas in huiusmodi a nostris sunt passi 
+          <lb ed="#Sa" n="31"/>non esset qualiscumque: sed millia millium et centies 
+          <lb ed="#Sa" n="32"/>centena millium. Quoniam reuera eiusmodi estimationis 
+          <lb ed="#Sa" n="33"/>apud ipsos et etiam apud philosophos et sapientes quosli<pb ed="#Sa" n="16-v"/><lb ed="#Sa" break="no" n="1"/>bet 
+          huius mundi: nulla est comparatio ergo grandis
+          <lb ed="#Sa" n="2"/>restat eiusmodi predonibus ultra restitutionem tot 
+          <lb ed="#Sa" n="3"/>thesaurorum raptorum <sic>satisfactio</sic> et sic saluandi via.
         </p>
         <p xml:id="cy8th8-d1e111-d1e1014">
-           Si autem <sic>cogatur<!-- edition has "agatur"--></sic> 
-          in foro conscientie de iniuriis huiusmodi cum precio non sint 
-          <sic>stimabiles</sic> tenentur placare sic lesos quantum sibi possibile foret  
-          cum ipsis se componendo de iniuriis per se illis factis et humiliter 
-          veniam postulando. Et hoc modo satisfaciendi vti debemus maxime 
-          quotiens damnum vel iniuria illata proximis non potest ad plenum 
-          recompensari. Hec probantur per <ref xml:id="cy8th8-d1e111-Rd1e1040">d. C. olim de iniuriis</ref> et 
-          <ref xml:id="cy8th8-d1e111-Rd1e1044" target="http://scta.info/resource/TAca84-d1e1592-d1e1435"><!-- edition suggests a. 6, so target currently points to a. 6, ad 1m"-->S. Thomam 2 2e q. 62 articulo 2 ad 1m</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1048" target="http://scta.info/resource/TAca84-d1e1592-d1e1477">ad 3m</ref> et in <ref xml:id="cy8th8-d1e111-Rd1e1051" target="http://scta.info/resource/ta-l4d15q1-d1e842">4 sententiarum dist. 18 q. 1 
-            articulo 5 quaesticula 1a in corpore</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1056" target="http://scta.info/resource/ta-l4d15q1-d1e845">ad 1m</ref>. Et <ref xml:id="cy8th8-d1e111-Rd1e1059" target="http://scta.info/resource/nbht7y-d1e2082-d1e693">hostiensis in summa titulo de iniuriis 
-              § contra quos detur</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1064" target="http://scta.info/resource/nbht7y-d1e2082-d1e908">§ inquantum detur</ref>. <ref xml:id="cy8th8-d1e111-Rd1e1068">Raymundus <seg type="correction">e<add place="above-line">t</add></seg> glosa 
-          sua</ref>, et <ref xml:id="cy8th8-d1e111-Rd1e1078">Ulricus in summa confessorum, lib. 2 titul. 5 q. 65</ref> <ref xml:id="cy8th8-d1e111-Rd1e1080">Sanctus 
-          quoque archiepiscopus florentinus in 2a parte titulo 2, c. 2, § 3</ref>. <ref xml:id="cy8th8-d1e111-Rd1e1085">Astesanus
-          similiter prima parte sue summe libro 2o titulo 14</ref>. <ref xml:id="cy8th8-d1e111-Rd1e1090">Adrianus demum 
-          in 4o loquens de restitutione fame</ref>. Et sic patet conclusionis pars 4a et 
-          quoniam tota conclusio responsiua ad questionem satis claret .
+          <lb ed="#Sa" n="4"/><pc type="pilcrow">¶</pc>  Si autem agatur in foro conscientiae de iniuriis huiusmodi 
+          <lb ed="#Sa" n="5"/>cum precio non sint aestimabiles: tenentur placare 
+          <lb ed="#Sa" n="6"/>sic lesos quantum sibi possibile foret cum ipsis se 
+          <lb ed="#Sa" n="7"/>componendo de iniuriis per se illis factis: et humi<lb ed="#Sa" break="no" n="8"/>liter 
+          veniam postulando. Et hoc modo satisfaci<lb ed="#Sa" break="no" n="9"/>endi 
+          vti debemus maxime quotiens damnum vel 
+          <lb ed="#Sa" n="10"/>iniuria illata proximis non potest ad plenum recom<lb ed="#Sa" break="no" n="11"/>pensari. 
+          hec probantur per <ref xml:id="cy8th8-d1e111-Rd1e1040">d. C. olim de in<lb ed="#Sa" break="no" n="12"/>iuriis</ref> 
+          et <ref xml:id="cy8th8-d1e111-Rd1e1044">S. Thomam 2a 2e q. 62 articulo 2 ad 1m</ref> et 
+          <lb ed="#Sa" n="13"/><ref xml:id="cy8th8-d1e111-Rd1e1048">ad 3m</ref> et in <ref xml:id="cy8th8-d1e111-Rd1e1051">4 sententiarum dist. <sic>15</sic> q. 1 articulo 5 quaesticula 1 
+          <lb ed="#Sa" n="14"/>in corpore</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1056">ad 1m</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1059">Hostiensis in summa titulo 
+          <lb ed="#Sa" n="15"/>de iniuriis § contra quos detur</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1064">§ inquantum 
+          <lb ed="#Sa" n="16"/>detur</ref>. <ref xml:id="cy8th8-d1e111-Rd1e1068">Raymundus et glosa sua</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1078">Ulricus in su<lb ed="#Sa" break="no" n="17"/>ma 
+          confessorum, lib. 2 titul. 5 q. 65</ref> <ref xml:id="cy8th8-d1e111-Rd1e1080">Sanctus 
+          <lb ed="#Sa" n="18"/>quoque archiepiscopus florentinus in 2a parte titulo 2, c. 2. 
+          <lb ed="#Sa" n="19"/>§ 3</ref>. <ref xml:id="cy8th8-d1e111-Rd1e1085">Astesanus similiter prima parte suae summae 
+          libro 2o titulo 14</ref>. <ref xml:id="cy8th8-d1e111-Rd1e1090">Adrianus demum in 4o lo<lb ed="#Sa" break="no" n="20"/>quens 
+          de restitutione famae</ref>. Et sic patet conclu<lb ed="#Sa" break="no" n="21"/>sionis 
+          pars 4a et quoniam tota conclusio responsiua ad 
+          <lb ed="#Sa" n="22"/>questionem satis claret.
         </p>
         <p xml:id="cy8th8-d1e111-d1e1102">
-           Item 
-          ius per omnia est de thesauris et preciosis rebus si que inuenientur 
-          in templis Idolorum quibus deos suos in sua infidelitate vel idolatria <!-- more text here in edition but not in ms--> 
-          venerebantur: quod de illis que in sepulchris maiorum suorum 
-          reponebantur. Videlicet quod nec pro derelictis habuerunt 
-          nec dominio eorum renunciarunt: nec modo post conuersionem 
-          suam sunt illa uacantia: sed dominos habent: scilicet aut 
-          illi qui Idolis obtulerunt in persona si extant: vel heredes eorum 
-          ad quos secundum eorum iura vel consuetudines pertinet succedere 
-          hereditario iure.
+          <lb ed="#Sa" n="23"/><pc type="pilcrow">¶</pc> Idem ius per omnia est de thesauris et preciosis 
+          <lb ed="#Sa" n="24"/>rebus si quae inuenientur in templis idolorum qui<lb ed="#Sa" break="no" n="25"/>bus 
+          deos suos in sua infidelitate vel idolatria  
+          <lb ed="#Sa" n="26"/>venerebantur: quod de illis quae in sepulchris ma<lb ed="#Sa" break="no" n="27"/>iorum 
+          suorum reponebantur. Videlicet quod nec 
+          <lb ed="#Sa" n="28"/>pro derelictis habuerunt nec dominio eorum renu<lb ed="#Sa" break="no" n="29"/>nciarunt: 
+          nec modo post conuersionem suam sunt 
+          <lb ed="#Sa" n="30"/>illa vacantia: sed dominos habent: scilicet aut 
+          <lb ed="#Sa" n="31"/>illi qui Idolis obtulerunt in persona si extant: 
+          <pb ed="#Sa" n="17-r"/>
+          <lb ed="#Sa" n="1"/>vel heredes eorum ad quos secundum eorum iura vel con<lb ed="#Sa" break="no" n="2"/>suetudines 
+          pertinet succedere hereditario iure.
         </p>
         <p xml:id="cy8th8-d1e111-d1e1130">
-          Probatur hoc. quoniam si ea obtulerunt 
-          diis eorum falsis: hoc procul dubio sub tacita conditione <sic>offere</sic> 
-          intelligebatur scilicet si deus verus esset ille uel illi quibus talia 
-          immolabant et sic uerum illum deum existimantes cum intentio 
-          maxime gentilium tendat principaliter et finaliter ad verum 
-          deum colendum que cognoscunt licet confuse naturaliter. Sic 
-          dicit hieronimus super psalmum 95. <quote xml:id="cy8th8-d1e111-Qd1e1145">sic igitur et nos et
-          omne humanum genus naturaliter intelligit deum. Nulle 
-          enim gentes sunt que naturaliter non intelligant creatorem suum.
-          licet enim lapides et ligna venerentur. tamen intelligunt aliquid
-          maius esse quam ipsi sunt et in errore suo indicant se habere 
-          sapientiam. hoc est nulla gens est que <del rend="strikethrough">habere</del> naturaliter non 
-          intelligat deum. Denique gentiles idola colunt: hoc est lapides 
-          <pb ed="#B" n="12-v"/>
-          et ligna uenerantur et si forte rixam fecerint et si iuramentum 
-          aliquod inter illos uenerit  non dicunt <mentioned>lapides isti uident</mentioned>, <mentioned>ligna uident</mentioned>, sed <mentioned>Deus uidet et
-          Deus audit</mentioned>.</quote> haec hieronimus in forma.
+          Pro<lb ed="#Sa" break="no" n="3"/>batur 
+          hoc. quoniam si ea obtulerunt diis eorum falsis: hoc 
+          <lb ed="#Sa" n="4"/>procul dubio sub tacita conditione offerre intelligeba<lb ed="#Sa" break="no" n="5"/>tur 
+          scilicet si deus verus esset ille vel illi quibus 
+          <lb ed="#Sa" n="6"/>talia immolabant, et sic uerum illum deum exis<lb ed="#Sa" break="no" n="7"/>timantes: 
+          cum intentio maxime gentilium tendat 
+          <lb ed="#Sa" n="8"/>principaliter et finaliter ad verum deum colendum 
+          <lb ed="#Sa" n="9"/>que cognoscunt licet confuse naturaliter. Sic dicit 
+          <lb ed="#Sa" n="10"/>Hieronimus super psalmum 95. <quote xml:id="cy8th8-d1e111-Qd1e1145">sic igitur et nos et
+          <lb ed="#Sa" n="11"/>omne humanum genus naturaliter intelligit deum. 
+          <lb ed="#Sa" n="12"/>Nulla enim gentes sunt quae naturaliter non intel<lb ed="#Sa" break="no" n="13"/>ligant 
+          creatorem suum. Licet enim lapides et lig<lb ed="#Sa" break="no" n="14"/>na 
+          venerentur: tamen intelligunt aliquid maius 
+          <lb ed="#Sa" n="15"/>esse quam ipsi sunt et in errore suo indicant se habe<lb ed="#Sa" break="no" n="16"/>re 
+          sapientiam: hoc est nulla gens est quae natu<lb ed="#Sa" break="no" n="17"/>raliter 
+          non intelligat Deum. Denique gentiles idola 
+          <lb ed="#Sa" n="18"/>colunt: hoc est: lapides et ligna venerantur, et si 
+          <lb ed="#Sa" n="19"/>forte rixam fecerint, et si iuramentum aliquod 
+          <lb ed="#Sa" n="20"/>inter illos venerit <pc type="virgula">/</pc> non dicunt <mentioned>lapides isti vident</mentioned>: 
+          <lb ed="#Sa" n="21"/><mentioned>ligna uident</mentioned>: sed <mentioned>deus videt et deus audit</mentioned></quote>. haec 
+          <lb ed="#Sa" n="22"/>Hieronimus in forma.
         </p>
         <p xml:id="cy8th8-d1e111-d1e1181">
-           Hoc ipsum etiam quidam idolatra 
-          Romanus <sic>gramaticus</sic> maximus nomine scribens ad Augustinum 
-          monstrare contendebat <quote xml:id="cy8th8-d1e111-Qd1e1192">Equidem (ait) unum 
-          esse deum sine initio sine prole nature: seu patrem magnum atque 
-          magnificum quis tam demens tam mente captus neget esse certissimum 
-          huius nos virtutes per mundanum opus diffusas: 
-          multis vocabulis inuocamus: quoniam nomen eius cuncti proprium 
-          uidelicet ignoramus. Nam Deus omnibus religionibus 
-          commune nomen est. Ita fit ut dum eius quasi quedam 
-          membra carptim uariis supplicationibus prosequimur totum colere 
-          profecto Augustinus videamur</quote> etc. hec ille in epistola que inter 
-          <ref xml:id="cy8th8-d1e111-Rd1e1216">Augustini epistolas 43 Numeratur</ref> Cum igitur illa offerrent 
-          aliis qui non erant dii existimantes offerre deo uero ut illum 
-          colerent et venerarentur postquam iam per dei gratiam fidem 
-          receperunt et cognoscunt se fecisse deceptos manifestum est 
-          quod possunt recuperare illa et repetere cum non ea mente 
-          ponerent ibi: putantes per errorem eos esse deos tacita uel implicita
-          conditione quod si non essent veri dii vel deus nullo modo
-          alias oblaturi et per consequens non perdiderunt earum rerum
-          dominium. Patet hoc in illo qui dat indebitum omni iure 
-          uni per ignorantiam uel errorem putans alteri dare cum error 
-          excludat eius liberam voluntatem. Nam omnis error inducit 
-          repetitionem et ita indistincte intelligitur: <ref xml:id="cy8th8-d1e111-Rd1e1242" target="http://scta.info/resource/bgy6gt-d1e5159-d1e658">l. cuius per 
-            errorem, ff, de regulis iuris</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1247" target="http://scta.info/resource/azsw2e-d1e1896-Dd1e106">Codex, De conditione indebiti, l. 1</ref>, et <ref xml:id="cy8th8-d1e111-Rd1e1250" target="http://scta.info/resource/azsw2e-d1e1896-d1e133">l. 
-          cum et soluta</ref>, et <ref xml:id="cy8th8-d1e111-Rd1e1255">per totum <del rend="strikethrough">et C de Iura</del> illum titulum</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1261">ff.</ref> 
-          et per totum et <ref xml:id="cy8th8-d1e111-Rd1e1266">Codex de iure et facti ignorantia, L. cum quis</ref> ubi <ref xml:id="cy8th8-d1e111-Rd1e1268">glossa 
-          magna notatur in cap. finali de solutione</ref>. cum igitur Tacita conditione 
-          quamuis non excusante omnis <sic>idolatra</sic> videatur idola 
-          colere putans per errorem deum verum venerari et <sic>eidem</sic> 
-          offere suas immolationes sue sacrificia ad que sacrificia 
-          in communi naturali ratione vident se esse obligatos: Quod 
-          si errare se cognoscerent ipsa ratio naturalis eos ab idolatria 
-          retraheret sequitur manifeste per errorem illa preciosa 
-          indebita in templis ad honorem falsorum deorum reposuisse 
-          certe non posituri si errorem cognoscerent et ideo 
-          <pb ed="#B" n="13-r"/>
-          non dubium quin vt diximus repetere possint. Quoniam 
-          sicut errore cognito illa non offerrent: ita procul dubio dominium 
-          eorum a se non obiicerent ergo adhuc eorum sunt domini: 
-          et tanquam res suas possunt repetere. Quod etiam confirmari 
-          poterit per huiusmodi exemplum. Detur casus intra <sic>nostra</sic> 
-          christianam religionem quod christianorum aliquis esset in tali 
-          errore quod putasset ea que in ecclesia ad honorem Dei et cultum 
-          diuinum celebrandum obtulisset calices et alia vasa vel aurea vel 
-          argentea seu auro intexta siue bombicina non placere deo et 
-          nil ei profutura esse post hanc vitam manifestum esse videtur 
-          vtique intentionis sui minime fore abrecisse dominium earum 
-          rerum ab se aut habuisse illas pro derelictis. Quoniam etsi eas
-          in ecclesia obtulit vt honorifice cultus diuinus celebraretur hoc 
-          tamen supposita tacita et inplicita conditione si deo placerent 
-          ac vt in alia vita premium acciperet alias certe non frustra 
-          oblaturus intelligendum esse ratio ipsa compellit. Quod si per 
-          impossibile error ille ab aliquo cuius auctoritati et fidei merito 
-          esset deferendum confirmaretur nemo esset gentilium 
-          philosophorum Iudicium habens prudentie si iudex huius controuersie 
-          constitueretur qui bona oblata illa iuste iudicando 
-          illi tanquam propria et earum dominium habenti restituere 
-          non decerneret. 
-          
-          <!-- additional content in edition [...] Nec obstat quod audio quosdam asserere, scilicet quod illa pretiosa,
-          que in templis idolorum reperiuntur, saltem deberi dicari nostris
-          ecclesiis et in eis ad cultum divinum et in honorem Dei, perpetuo
-          remanere. Quorum ratio dicitur talis esse: Ex quo, inquiunt, intentio
-          idolatrarum erat offerre illa vero Deo, quern ignorantes querebant, et
-          sic visi sunt earum rerum dominium a se abdicasse et transtulisse in
-          Deum. lustum et rationabile videtur esse, ad catholicas ecclesias, in
-          quibus vere colitur ipse Deus, queque pretiosa que reperiri contingat
-          in suis sacrilegis templis, pertinere et debere transferri, uel potius
-          restitui, vero Deo.
-          Sed ad hoc dicimus rationem non procedere, quoniam idolatre
-          sicut tacita et implicita intentione suis sacrificiis uerum Deum in idolis
-          colebant, et nisi uerus deus esset, non culturi; ita pari ratione tacite ac
-          
-          implicite illas offerebant putantes Deo placere et per ea mereri dona
-          sua. Quod si contrarium arbitrarentur procul dubio minime oblaturi.
-          Ac proinde nee ab se abiecisse dominium earum rerum, nee in Deum
-          transtulisse, rationabiliter iudicanti uidebuntur. Uncle quamquam patrabant
-          illa sacrificia maxime displicebant Deo uero, et ipsi offerentes
-          plurimum demerebant, immo, aeterna suplicia sibi patrabant et incurrebant,
-          manifestum est quod si hodie, postquam conversi sunt et predicta
-          norunt per fidem, asserant sue intentionis non fuisse, aut patrum
-          suorum, tales oblationes facere absolute, nulla debita et rationabili
-          conditione implicita, rationabiliter audiendi sunt, prout patet in
-          exemplo paulo ante posito. Et ideo consultius meo judicio in hac re
-          agetur si, uel heredibus eorum qui ea obtulerunt in templis, si discerni
-          poterunt, restituantur, uel, de eorum consensu, ecclesiis et cultui divino
-          deputentur. Quod si heredes non extant aut discerni nequeunt,
-          totum id quod in antiquis idolorum templis reperietur, deputandum
-          erit ecclesiis, uel potius pauperibus illius provincie largiendum. Potissime
-          quia universi incole seruitute acerrima iniuste premuntur, et omnium
-          hominum de mundo sunt pauperrimi.]-->
+          <pc type="pilcrow">¶</pc> Hoc ipsum etiam quidam 
+          <lb ed="#Sa" n="23"/>idolatra Romanus <sic>gramaticus</sic> Maximus nomine 
+          <lb ed="#Sa" n="24"/>scribens ad Augustinum monstrare contendebat 
+          <lb ed="#Sa" n="25"/><quote xml:id="cy8th8-d1e111-Qd1e1192">Equidem (ait) unum esse Deum sine initio sine 
+          <lb ed="#Sa" n="26"/>prole naturae: seu patrem magnum atque magni<lb ed="#Sa" break="no" n="27"/>ficum: 
+          quis tam demens tam mente captus ne<lb ed="#Sa" break="no" n="28"/>get 
+          esse certissimum? huius nos virtutes per mun<lb ed="#Sa" break="no" n="29"/>danum 
+          opus diffusas: multis vocabulis inuocamus: 
+          <lb ed="#Sa" n="30"/>quoniam nomen eius cuncti proprium uidelicet ignoramus. 
+          <lb ed="#Sa" n="31"/>Nam deus omnibus religionibus commune nomen 
+          <pb ed="#Sa" n="17-v"/>
+          <lb ed="#Sa" n="1"/>est. Ita fit: vt dum eius quasi quaedam membra car<lb ed="#Sa" break="no" n="2"/>ptim 
+          variis supplicationibus prosequimur: totum 
+          <lb ed="#Sa" n="3"/>colere profecto videamur</quote> etc. hec ille in epistola 
+          <lb ed="#Sa" n="4"/>quae inter <ref xml:id="cy8th8-d1e111-Rd1e1216">Augustini epistolas 43 numeratur</ref>. Cum 
+          <lb ed="#Sa" n="5"/>igitur illa offerrent aliis qui non erant dii existiman<lb ed="#Sa" break="no" n="6"/>tes 
+          offerre deo vero ut illum colerent et venerarentur: 
+          <lb ed="#Sa" n="7"/>postquam iam per dei gratiam fidem receperunt et co<lb ed="#Sa" break="no" n="8"/>gnoscunt 
+          se fecisse deceptos manifestum est quod 
+          <lb ed="#Sa" n="9"/>possunt recuperare illa et repetere: cum non ea men<lb ed="#Sa" break="no" n="10"/>te 
+          ponerent in templis vt haberent pro derelictis: sed 
+          <lb ed="#Sa" n="11"/>vt semper in honorem dei vel deoum manerent 
+          <lb ed="#Sa" n="12"/>ibi: putantes per errorem eos esse deos tacita vel 
+          <lb ed="#Sa" n="13"/>implicita conditione <pc type="virgula">/</pc> quod si non essent veri dii vel 
+          <lb ed="#Sa" n="14"/>deus nullo modo alias oblaturi: et per consequens 
+          <lb ed="#Sa" n="15"/>non perdiderunt earum rerum dominium. Patet hoc 
+          <lb ed="#Sa" n="16"/>in illo qui dat indebitum omni iure uni per ignoran<lb ed="#Sa" break="no" n="17"/>tiam 
+          vel errorem putans alteri dare cum errore 
+          <lb ed="#Sa" n="18"/>excludat eius liberam voluntatem. Nam omnis 
+          <lb ed="#Sa" n="19"/>error inducit repetitionem: et ita indistincte in<lb ed="#Sa" break="no" n="20"/>telligitur 
+          <ref xml:id="cy8th8-d1e111-Rd1e1242">l. cuius per errorem, ff, de regulis iuris</ref> 
+          <lb ed="#Sa" n="21"/>et <ref xml:id="cy8th8-d1e111-Rd1e1247">C. de conditione indebiti. l. 1</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1250">l. cum et solu<lb ed="#Sa" break="no" n="22"/>ta</ref> 
+          et <ref xml:id="cy8th8-d1e111-Rd1e1255">per totum illum titulum</ref> et <ref xml:id="cy8th8-d1e111-Rd1e1261">ff.</ref> et per totum 
+          <lb ed="#Sa" n="23"/>et <ref xml:id="cy8th8-d1e111-Rd1e1266">C. de iure et facti ignorantia. l. cum quis</ref> vbi <ref xml:id="cy8th8-d1e111-Rd1e1268">glossa 
+          <lb ed="#Sa" n="24"/>magna notatur in c. finali de solutione</ref>. Cum igitur 
+          <lb ed="#Sa" n="25"/>tacita conditione quamuis non excusante omnis 
+          <lb ed="#Sa" n="26"/>Idolatra videatur idola colere putans per errorem 
+          <lb ed="#Sa" n="27"/>deum verum venerari, et eidem offere suas im<lb ed="#Sa" break="no" n="28"/>molationes 
+          siue sacrificia ad quae sacrificia 
+          <lb ed="#Sa" n="29"/>in communi naturali ratione vident se esse obli<lb ed="#Sa" break="no" n="30"/>gatos: 
+          quod si errare se cognoscerent ipsa ratio na<lb ed="#Sa" break="no" n="31"/>turalis 
+          eos ab idolatria retraheret, sequitur ma<pb ed="#Sa" n="18-r"/><lb ed="#Sa" n="1"/>nifeste 
+          per errorem illa preciosa <unclear>alias</unclear> indebi<lb ed="#Sa" break="no" n="2"/>ta 
+          in templis ad honorem falsorum deorum re<lb ed="#Sa" break="no" n="3"/>posuisse, 
+          certe non posituri, si errorem cognos<lb ed="#Sa" break="no" n="4"/>cerent, 
+          ac subinde non dubium quin, ut di<lb ed="#Sa" break="no" n="5"/>ximus, 
+          repetere possint. Quoniam sicut errore cogni<lb ed="#Sa" break="no" n="6"/>to 
+          illa<del rend="strikethrough">m</del> non offerrent: ita procul dubio domi<lb ed="#Sa" break="no" n="7"/>nium 
+          eorum non abiicerent ergo adhuc eorum 
+          <lb ed="#Sa" n="8"/>sunt domini: et tanquam res suas possunt repe<lb ed="#Sa" break="no" n="9"/>tere. 
+          Quod etiam confirmari poterit per huiusmodi 
+          <lb ed="#Sa" n="10"/>exemplum. detur casus intra nostram christia<lb ed="#Sa" break="no" n="11"/>nam 
+          religionem, quod christianorum aliquis 
+          <lb ed="#Sa" n="12"/>esset in tali errore quod putasset ea quae in ecclesia 
+          <lb ed="#Sa" n="13"/>ad honorem dei, et cultum diuinum celebran<lb ed="#Sa" break="no" n="14"/>dum 
+          obtulisset calices et alia vasa vel aurea 
+          <lb ed="#Sa" n="15"/>vel argentea seu auro intexta siue bombicina 
+          <lb ed="#Sa" n="16"/>non placere deo, et nihil ei profutura esse post 
+          <lb ed="#Sa" n="17"/>hanc vitam: manifestum esse videtur vtique 
+          <lb ed="#Sa" n="18"/>intentionis <unclear>suae</unclear> minime fore abrecisse domi<lb ed="#Sa" break="no" n="19"/>nium 
+          earum rerum ab se aut habuisse illas 
+          <lb ed="#Sa" n="20"/>pro derelictis. Quoniam etsi eas in ecclesia obtulit 
+          <lb ed="#Sa" n="21"/>vt honorifice cultus diuinus celebraretur: hoc 
+          <lb ed="#Sa" n="22"/>tamen supposita tacita et implicita condi<lb ed="#Sa" break="no" n="23"/>tione 
+          si deo placerent ac vt in alia vita premi<lb ed="#Sa" break="no" n="24"/>um 
+          acciperet, alias certe non frustra oblatu<lb ed="#Sa" break="no" n="25"/>rus 
+          intelligendum esse ratio ipsa compellit. 
+          <lb ed="#Sa" n="26"/>Quod si per impossibile error ille ab aliquo cuius 
+          <lb ed="#Sa" n="27"/>auctoritati et fidei merito esset deferendum 
+          <lb ed="#Sa" n="28"/>confirmaretur: nemo esset gentilium philosophorum 
+          <lb ed="#Sa" n="29"/>Iudicium habens prudentiae: si iudex huius 
+          <lb ed="#Sa" n="30"/>controuersiae constitueretur: qui bona oblata 
+          <lb ed="#Sa" n="31"/>illa iuste iudicando illi tanquam propria et earum 
+          <lb ed="#Sa" n="32"/>dominium habenti restituere non decerneret. 
+        </p>
+        <p xml:id="cy8th8-d1e111-d1e1284"><!-- todo add omitted para in other witness and english translatio -->
+          <lb ed="#Sa" n="33"/><pc type="pilcrow">¶</pc> Nec obstat quod audio quosdam asserere 
+          <pb ed="#Sa" n="18-v"/>
+          <lb ed="#Sa" n="1"/>(scilicet) quod illa preciosa quae in templis idolorum 
+          <lb ed="#Sa" n="2"/>reperiuntur saltem deberi dicari nostris ecclesiis et 
+          <lb ed="#Sa" n="3"/>in eis ad cultum divinum et in honorem dei 
+          <lb ed="#Sa" n="4"/>perpetuo remanere. Quorum ratio dicitur talis 
+          <lb ed="#Sa" n="5"/>esse. Ex quo (inquiunt) intentio idolatrarum 
+          <lb ed="#Sa" n="6"/>erat offerre illa vero deo quem ignorantes quaere<lb ed="#Sa" break="no" n="7"/>bant, 
+          et sic visi sunt earum rerum dominium 
+          <lb ed="#Sa" n="8"/>a se abdicasse et transtulisse in deum: Iustum 
+          <lb ed="#Sa" n="9"/>&amp; rationabile videtur esse ad catholicas ecclesias, 
+          <lb ed="#Sa" n="10"/>in quibus vere colitur ipse Deus, quaequae 
+          <lb ed="#Sa" n="11"/>preciosa quae reperiri contingat in suis sacri<lb ed="#Sa" break="no" n="12"/>legis 
+          templis pertinere, et debere transferri, 
+          <lb ed="#Sa" n="13"/>vel potius restitui, vero deo. Sed ad hoc dicimus 
+          <lb ed="#Sa" n="14"/>rationem non procedere quoniam idolatrae sicut 
+          <lb ed="#Sa" n="15"/>tacita et implicita intentione suis sacrificiis 
+          <lb ed="#Sa" n="16"/>verum deum in idolis colebant, et nisi verus 
+          <lb ed="#Sa" n="17"/>deus esset non culturi: ita pari ratione taci<lb ed="#Sa" break="no" n="18"/>te 
+          ac implicite illas offerebant putantes deo pla<lb ed="#Sa" break="no" n="19"/>cere 
+          et per ea mereri dona sua: quod si contra<lb ed="#Sa" break="no" n="20"/>rium 
+          arbitrarentur procul dubio minime obla<lb ed="#Sa" break="no" n="21"/>turi.
+          Ac proinde nec ab se abiecisse dominium 
+          <lb ed="#Sa" n="22"/>earum rerum: nec in deum transtulisse ratio<lb ed="#Sa" break="no" n="23"/>nabiliter 
+          <sic>indicanti</sic> videbuntur. Unde quia 
+          <lb ed="#Sa" n="24"/>illa sacrificia maxime displicebant deo vero, 
+          <lb ed="#Sa" n="25"/>et ipsi offerentes plurimum demerebant: im<lb ed="#Sa" break="no" n="26"/>mo 
+          aeterna suplicia sibi patrabant et incur<lb ed="#Sa" break="no" n="27"/>rebant:
+          manifestum est, quod si hodie postquam 
+          <lb ed="#Sa" n="28"/>conversi sunt, et praedicta norunt per fidem: 
+          asserant suae intentionis non fuisse aut patrum 
+          <lb ed="#Sa" n="29"/>suorum tales oblationes facere absolute nulla 
+          <lb ed="#Sa" n="30"/>debita et rationabili conditione implicita: 
+          <lb ed="#Sa" n="31"/>rationabiliter audiendi sunt prout patet 
+          <lb ed="#Sa" n="32"/>in exemplo paulo ante posito, et ideo consultius 
+          <pb ed="#Sa" n="19-r"/>
+          <lb ed="#Sa" n="1"/>meo iudicio in hac re agetur: si vel he<lb ed="#Sa" break="no" n="2"/>redibus 
+          eorum qui ea obtulerunt in tem<lb ed="#Sa" break="no" n="3"/>plis 
+          (si discerni poterunt) restituantur: vel 
+          <lb ed="#Sa" n="4"/>de eorum consensu ecclesiis et cultui divino
+          <lb ed="#Sa" n="5"/>deputentur. quod si heredes non extant aut 
+          <lb ed="#Sa" n="6"/>discerni nequeunt: totum id quod in anti<lb ed="#Sa" break="no" n="7"/>quis 
+          idolorum templis reperietur deputan<lb ed="#Sa" break="no" n="8"/>dum 
+          erit ecclesiis vel potius pauperibus il<lb ed="#Sa" break="no" n="9"/>lius 
+          provinciae largiendum. Potissime quia 
+          <lb ed="#Sa" n="10"/>universi incolae seruitute acerrima iniuste 
+          <lb ed="#Sa" n="11"/>premuntur, et omnium hominum de mundo 
+          <lb ed="#Sa" n="12"/>sunt pauperrimi etc
         </p>
         <p xml:id="cy8th8-d1e111-d1e1350">
-           <sic>Aparet</sic> igitur non minus <unclear>seu?e</unclear> pari 
-          et fortiori forsan ratione thesauri alie quoque diuitie ac preciosa 
-          suppellectilia: que inueniuntur et inuenta fuerunt uel deinceps 
-          futuro tempore inuenientur in templis quondam 
-          idolorum et oblata sunt in honorem deorum tempore sue 
-          infidelitatis pertinent ad eos qui ea obtulerunt vel eorum 
-          heredes: quemadmodum illa que in sepulchris sunt vel erunt 
-          inuenta siue  reperta 
+           <pc type="pilcrow">¶</pc> Apparet igitur 
+          <lb ed="#Sa" n="13"/>non minus sed pari et fortiori <sic>forsam</sic> ra<lb ed="#Sa" break="no" n="14"/>tione: 
+          thesauri aliae quoque diuitiae ac pre<lb ed="#Sa" break="no" n="15"/>ciosa 
+          suppellectilia: quae inueniuntur et 
+          <lb ed="#Sa" n="16"/>inuenta fuerunt: vel deinceps futuro 
+          <lb ed="#Sa" n="17"/>tempore inuen<add place="above-line">iun</add>tur in templis quondam ido<lb ed="#Sa" break="no" n="18"/>lorum: 
+          et oblata sunt in honorem deorum 
+          <lb ed="#Sa" n="19"/>tempore suae infidelitatis: pertinent ad 
+          <lb ed="#Sa" n="20"/>eos qui ea obtulerunt vel eorum heredes: 
+          <lb ed="#Sa" n="21"/>quem inuenta siue reperta 
         </p>
       </div>
     </body>
